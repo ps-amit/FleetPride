@@ -1,0 +1,100 @@
+2017-08-17 14:18:48,214 INFO  [Log] Test Scenario Configuration started 
+2017-08-17 14:18:48,235 INFO  [Log] Initialing HTML reporting 
+2017-08-17 14:18:48,409 INFO  [Log] Starting Test Suit Execution 
+2017-08-17 14:18:48,409 WARN  [Log] No Browser instance is active 
+2017-08-17 14:18:49,037 INFO  [Log] Object repository is created successfully 
+2017-08-17 14:18:49,120 INFO  [Log] Rg_TC_42.xlsx_Rg_TC_42.xlsx 
+2017-08-17 14:18:49,192 INFO  [Log] Rg_TC_43.xlsx_Rg_TC_43.xlsx 
+2017-08-17 14:18:49,266 INFO  [Log] Rg_TC_53.xlsx_Rg_TC_53.xlsx 
+2017-08-17 14:18:49,325 INFO  [Log] Rg_TC_55.xlsx_Rg_TC_55.xlsx 
+2017-08-17 14:18:49,447 INFO  [Log] Rg_TC_57.xlsx_Rg_TC_57.xlsx 
+2017-08-17 14:18:49,525 INFO  [Log] Rg_TC_59.xlsx_Rg_TC_59.xlsx 
+2017-08-17 14:18:49,564 INFO  [Log] Rg_TC_60.xlsx_Rg_TC_60.xlsx 
+2017-08-17 14:18:49,662 INFO  [Log] Rg_TC_62.xlsx_Rg_TC_62.xlsx 
+2017-08-17 14:18:49,747 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-17 14:18:49,821 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-17 14:18:49,875 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-17 14:18:49,949 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-17 14:18:49,994 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-17 14:18:50,027 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-17 14:18:50,058 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-17 14:18:50,088 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-17 14:18:50,132 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-17 14:18:50,185 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-17 14:18:50,238 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-17 14:18:50,266 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-17 14:18:50,293 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-17 14:18:50,335 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-17 14:18:50,363 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-17 14:18:50,390 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-17 14:18:50,417 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-17 14:18:50,471 INFO  [Log] **************************************************************************************** 
+2017-08-17 14:18:50,471 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_176.xlsx; Description: Rg_TC_176.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-17 14:18:50,471 INFO  [Log] **************************************************************************************** 
+2017-08-17 14:18:58,108 INFO  [Log] #### Executing Test case: Rg_TC_176.xlsx; Description: Rg_TC_176.xlsx In firefox Browser for TestData:1 
+2017-08-17 14:19:06,184 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-17 14:19:06,585 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-17 14:19:06,996 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-17 14:19:07,108 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-17 14:19:07,108 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-08-17 14:19:19,260 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-17 14:19:19,379 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-17 14:19:19,481 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-17 14:19:20,640 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-17 14:19:20,640 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-08-17 14:19:28,802 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-17 14:19:28,802 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-17 14:19:36,924 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-17 14:19:36,924 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-17 14:19:45,041 INFO  [Log] TS_15: generalsetting: Action click 
+2017-08-17 14:19:45,042 INFO  [Log] TS_16; Waited 4000 Milli seconds for Element 
+2017-08-17 14:19:49,156 INFO  [Log] TS_17: click on Competitor: Action click 
+2017-08-17 14:19:49,156 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-08-17 14:19:53,261 INFO  [Log] My Apartments High Street Kensington; Value has been stored in index: 0 
+2017-08-17 14:19:53,262 INFO  [Log] TS_20; Waited 8000 Milli seconds for Element 
+2017-08-17 14:20:01,441 INFO  [Log] TS_21: submit captured value; Action: Submited stored value 
+2017-08-17 14:20:01,441 INFO  [Log] TS_22; Waited 5000 Milli seconds for Element 
+2017-08-17 14:20:31,915 INFO  [Log] TS_23; Passed; verify propert is not shown for this selected property; Element is not present/dispayed on the page 
+2017-08-17 14:20:31,915 INFO  [Log] TS_24; Waited 5000 Milli seconds for Element 
+2017-08-17 14:20:37,017 INFO  [Log] TS_25: click on delete: Action click 
+2017-08-17 14:20:37,017 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-17 14:20:41,133 INFO  [Log] TS_27: Delete: Action click 
+2017-08-17 14:20:41,133 INFO  [Log] TS_28; Waited 5000 Milli seconds for Element 
+2017-08-17 14:20:46,287 INFO  [Log] TS_29: submit captured value; Action: Submited stored value 
+2017-08-17 14:20:46,287 INFO  [Log] TS_30; Waited 8000 Milli seconds for Element 
+2017-08-17 14:20:54,350 INFO  [Log] TS_31: verify propert is not shown for this selected property; Passed; ; Element is present on the active page 
+2017-08-17 14:20:54,350 INFO  [Log] TS_32; Waited 2000 Milli seconds for Element 
+2017-08-17 14:20:56,449 INFO  [Log] TS_34; Waited 3500 Milli seconds for Element 
+2017-08-17 14:20:59,999 INFO  [Log] New Element Location is : My Apartments High Street KensingtonStored in ObjRep using element name: path: Type: Xpath 
+2017-08-17 14:20:59,999 INFO  [Log] TS_36; Waited 4000 Milli seconds for Element 
+2017-08-17 14:21:04,061 INFO  [Log] TS_37: click on mapping; Passed; ; Element is present on the active page 
+2017-08-17 14:21:04,169 INFO  [Log] TS_38: click on home: Action click 
+2017-08-17 14:21:04,170 INFO  [Log] TS_39; Waited 8000 Milli seconds for Element 
+2017-08-17 14:21:12,281 INFO  [Log] TS_40: clcik on download report: Action click 
+2017-08-17 14:21:12,282 INFO  [Log] TS_41; Waited 15000 Milli seconds for Element 
+2017-08-17 14:21:27,518 INFO  [Log] TS_42: click on field: Action click 
+2017-08-17 14:21:28,015 INFO  [Log] TS_43: SubmitCapture; Action: Submited stored value 
+2017-08-17 14:21:28,075 INFO  [Log] TS_44: VerifyElement present; Passed; ; Element is present on the active page 
+2017-08-17 14:21:28,211 INFO  [Log] TS_45: click on home: Action click 
+2017-08-17 14:21:28,212 INFO  [Log] TS_46; Waited 8000 Milli seconds for Element 
+2017-08-17 14:21:36,324 INFO  [Log] TS_47: click on rates: Action click 
+2017-08-17 14:21:36,325 INFO  [Log] TS_48; Waited 8000 Milli seconds for Element 
+2017-08-17 14:21:44,572 INFO  [Log] TS_49: click on grid view: Action click 
+2017-08-17 14:21:44,574 INFO  [Log] TS_50; Waited 8000 Milli seconds for Element 
+2017-08-17 14:21:52,691 INFO  [Log] User specified value has been replaced at index0New Value is: My Apartments High Street Ke 
+2017-08-17 14:21:52,747 INFO  [Log] New Element Location is : My Apartments High Street KeStored in ObjRep using element name: path: Type: Xpath 
+2017-08-17 14:22:18,339 INFO  [Log] TS_53; Failed; Sepcified Element is not present on the page; verify property on grid 
+2017-08-17 14:22:23,829 INFO  [Log] closing test case  
+2017-08-17 14:22:24,184 INFO  [Log] Closing instance of Browser: firefox 
+2017-08-17 14:22:24,202 INFO  [Log] ### Test case: Rg_TC_176.xlsx; Description: Rg_TC_176.xlsx; status Executed 
+2017-08-17 14:22:24,203 WARN  [Log] No Browser instance is active 
+2017-08-17 14:22:24,203 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 14:22:24,203 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 14:22:24,351 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-17 14:22:24,405 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-17 14:22:24,501 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-17 14:22:24,557 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-17 14:22:24,583 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-17 14:22:24,610 INFO  [Log] ####Closing Test Suite #### 
+2017-08-17 14:22:24,610 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 14:22:24,610 INFO  [Log] Creating Logs backup and storing for further reference 

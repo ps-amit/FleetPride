@@ -1,0 +1,1442 @@
+2017-07-29 19:33:16,747 INFO  [Log] Test Scenario Configuration started 
+2017-07-29 19:33:16,768 INFO  [Log] Initialing HTML reporting 
+2017-07-29 19:33:17,056 INFO  [Log] Starting Test Suit Execution 
+2017-07-29 19:33:17,056 WARN  [Log] No Browser instance is active 
+2017-07-29 19:33:17,741 INFO  [Log] Object repository is created successfully 
+2017-07-29 19:33:17,829 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-29 19:33:17,935 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-29 19:33:17,989 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-29 19:33:18,047 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-29 19:33:18,094 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-29 19:33:18,172 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-29 19:33:18,217 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-29 19:33:18,269 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-29 19:33:18,329 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:33:18,329 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0024.xlsx; Description: Rg_TC0024.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:33:18,329 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:33:32,714 INFO  [Log] #### Executing Test case: Rg_TC0024.xlsx; Description: Rg_TC0024.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:33:41,504 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:33:42,142 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:33:42,402 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:33:42,576 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:33:42,579 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:33:56,240 INFO  [Log] TS_06: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/rates; User Defined URL:http://rg.hospi.qa.rategain.com/optima/rates 
+2017-07-29 19:33:56,297 INFO  [Log] TS_07: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:33:56,298 INFO  [Log] closing test case  
+2017-07-29 19:33:58,272 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-29 19:33:58,298 INFO  [Log] ### Test case: Rg_TC0024.xlsx; Description: Rg_TC0024.xlsx; status Executed 
+2017-07-29 19:33:58,298 WARN  [Log] No Browser instance is active 
+2017-07-29 19:33:58,298 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:34:10,285 INFO  [Log] #### Executing Test case: Rg_TC0024.xlsx; Description: Rg_TC0024.xlsx In firefox Browser for TestData:1 
+2017-07-29 19:34:17,361 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:34:18,501 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:34:18,812 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:34:18,911 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:34:18,911 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:34:29,716 INFO  [Log] TS_06: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/rates; User Defined URL:http://rg.hospi.qa.rategain.com/optima/rates 
+2017-07-29 19:34:29,796 INFO  [Log] TS_07: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:34:29,797 INFO  [Log] closing test case  
+2017-07-29 19:34:30,011 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-29 19:34:30,030 INFO  [Log] ### Test case: Rg_TC0024.xlsx; Description: Rg_TC0024.xlsx; status Executed 
+2017-07-29 19:34:30,031 WARN  [Log] No Browser instance is active 
+2017-07-29 19:34:30,031 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:34:30,031 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:34:30,553 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:34:30,554 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0026.xlsx; Description: Rg_TC0026.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:34:30,554 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:34:36,389 INFO  [Log] #### Executing Test case: Rg_TC0026.xlsx; Description: Rg_TC0026.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:34:50,922 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:34:51,830 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:34:51,969 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:34:52,060 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:34:52,061 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:35:05,422 INFO  [Log] TS_09: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:35:05,524 INFO  [Log] TS_10: click on help section: Action click 
+2017-07-29 19:35:05,670 INFO  [Log] TS_11; Passed; verify help button is present; Value: help; Present in Page values: Help,  
+2017-07-29 19:35:05,752 INFO  [Log] TS_12: verify  settings is present; Passed; ; Element is present on the active page 
+2017-07-29 19:35:05,853 INFO  [Log] TS_13: click on user box: Action click 
+2017-07-29 19:35:05,964 INFO  [Log] TS_14; Passed; verify logout button is present; Value: logout; Present in Page values: Logout,  
+2017-07-29 19:35:05,964 INFO  [Log] closing test case  
+2017-07-29 19:35:06,114 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-29 19:35:06,139 INFO  [Log] ### Test case: Rg_TC0026.xlsx; Description: Rg_TC0026.xlsx; status Executed 
+2017-07-29 19:35:06,140 WARN  [Log] No Browser instance is active 
+2017-07-29 19:35:06,141 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:35:11,902 INFO  [Log] #### Executing Test case: Rg_TC0026.xlsx; Description: Rg_TC0026.xlsx In firefox Browser for TestData:1 
+2017-07-29 19:35:19,530 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:35:19,779 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:35:20,025 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:35:20,142 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:35:20,143 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:35:30,327 INFO  [Log] TS_09: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:35:30,523 INFO  [Log] TS_10: click on help section: Action click 
+2017-07-29 19:35:30,635 INFO  [Log] TS_11; Passed; verify help button is present; Value: help; Present in Page values: Help,  
+2017-07-29 19:35:30,682 INFO  [Log] TS_12: verify  settings is present; Passed; ; Element is present on the active page 
+2017-07-29 19:35:30,768 INFO  [Log] TS_13: click on user box: Action click 
+2017-07-29 19:35:30,838 INFO  [Log] TS_14; Passed; verify logout button is present; Value: logout; Present in Page values: Logout,  
+2017-07-29 19:35:30,839 INFO  [Log] closing test case  
+2017-07-29 19:35:31,015 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-29 19:35:31,035 INFO  [Log] ### Test case: Rg_TC0026.xlsx; Description: Rg_TC0026.xlsx; status Executed 
+2017-07-29 19:35:31,035 WARN  [Log] No Browser instance is active 
+2017-07-29 19:35:31,035 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:35:31,036 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:35:31,154 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:35:31,154 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0028.xlsx; Description: Rg_TC0028.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:35:31,154 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:35:36,660 INFO  [Log] #### Executing Test case: Rg_TC0028.xlsx; Description: Rg_TC0028.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:35:43,457 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:35:43,951 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:35:44,082 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:35:44,171 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:35:44,174 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-29 19:35:50,376 INFO  [Log] TS_06: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:35:50,447 INFO  [Log] TS_07: verify dropdown is not present before click on help button present; Passed; ; Element is present on the active page 
+2017-07-29 19:35:50,530 INFO  [Log] TS_08: click on help section: Action click 
+2017-07-29 19:35:50,607 INFO  [Log] TS_09: verify dropdown is present; Passed; ; Element is present on the active page 
+2017-07-29 19:35:50,607 INFO  [Log] TS_05; Waited 2000 Milli seconds for Element 
+2017-07-29 19:35:58,085 INFO  [Log] TS_10; Passed; verify help button is present; Value: help; Present in Page values: Help,  
+2017-07-29 19:35:58,178 INFO  [Log] TS_11; Passed; verify  settings is present; Value: support; Present in Page values: Support,  
+2017-07-29 19:35:58,297 INFO  [Log] TS_12; Passed; click on user box; Value: training calendar; Present in Page values: Training Calendar,  
+2017-07-29 19:35:58,298 INFO  [Log] closing test case  
+2017-07-29 19:36:00,665 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-29 19:36:00,728 INFO  [Log] ### Test case: Rg_TC0028.xlsx; Description: Rg_TC0028.xlsx; status Executed 
+2017-07-29 19:36:00,728 WARN  [Log] No Browser instance is active 
+2017-07-29 19:36:00,728 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:36:06,763 INFO  [Log] #### Executing Test case: Rg_TC0028.xlsx; Description: Rg_TC0028.xlsx In firefox Browser for TestData:1 
+2017-07-29 19:36:14,440 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:36:14,749 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:36:14,988 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:36:15,079 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:36:15,080 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-29 19:36:20,119 INFO  [Log] TS_06: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:36:20,159 INFO  [Log] TS_07: verify dropdown is not present before click on help button present; Passed; ; Element is present on the active page 
+2017-07-29 19:36:20,221 INFO  [Log] TS_08: click on help section: Action click 
+2017-07-29 19:36:20,262 INFO  [Log] TS_09: verify dropdown is present; Passed; ; Element is present on the active page 
+2017-07-29 19:36:20,262 INFO  [Log] TS_05; Waited 2000 Milli seconds for Element 
+2017-07-29 19:36:22,579 INFO  [Log] Failed: TS_10: verify help button is present; Value: help; is Not Present in Page values: ,  
+2017-07-29 19:36:22,872 INFO  [Log] Failed: TS_11: verify  settings is present; Value: support; is Not Present in Page values: ,  
+2017-07-29 19:36:23,187 INFO  [Log] Failed: TS_12: click on user box; Value: training calendar; is Not Present in Page values: ,  
+2017-07-29 19:36:23,267 INFO  [Log] closing test case  
+2017-07-29 19:36:23,483 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-29 19:36:23,496 INFO  [Log] ### Test case: Rg_TC0028.xlsx; Description: Rg_TC0028.xlsx; status Executed 
+2017-07-29 19:36:23,496 WARN  [Log] No Browser instance is active 
+2017-07-29 19:36:23,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:36:23,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:36:23,614 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:36:23,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0030.xlsx; Description: Rg_TC0030.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:36:23,614 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:36:29,010 INFO  [Log] #### Executing Test case: Rg_TC0030.xlsx; Description: Rg_TC0030.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:36:35,261 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:36:35,785 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:36:35,915 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:36:35,996 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:36:35,996 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-29 19:36:42,343 INFO  [Log] TS_06: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:36:42,415 INFO  [Log] TS_07: verify dropdown is not present before click on help button present; Passed; ; Element is present on the active page 
+2017-07-29 19:36:42,493 INFO  [Log] TS_08: click on help section: Action click 
+2017-07-29 19:36:42,565 INFO  [Log] TS_09: verify dropdown is present; Passed; ; Element is present on the active page 
+2017-07-29 19:36:42,565 INFO  [Log] TS_10; Waited 2000 Milli seconds for Element 
+2017-07-29 19:36:49,863 INFO  [Log] TS_11: click on support: Action click 
+2017-07-29 19:36:49,864 INFO  [Log] TS_12; Waited 2000 Milli seconds for Element 
+2017-07-29 19:36:52,016 INFO  [Log] TS_13: FrameSwitchFrame Switched 
+2017-07-29 19:36:52,180 INFO  [Log] TS_14: enter phone number; Action: Submited Value 
+2017-07-29 19:36:52,431 INFO  [Log] TS_15: enter description; Action: Submited Value 
+2017-07-29 19:36:55,555 INFO  [Log] TS_16: submit form: Action click 
+2017-07-29 19:36:55,556 INFO  [Log] TS_17; Waited 2000 Milli seconds for Element 
+2017-07-29 19:36:57,713 INFO  [Log] TS_18; Passed; verify submit message; Value: thanks for submitting your query; Present in Page values: Thanks for submitting your query. The ticket details would be sent to
+the specified email address shortly.,  
+2017-07-29 19:36:57,714 INFO  [Log] closing test case  
+2017-07-29 19:36:57,868 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-29 19:36:57,892 INFO  [Log] ### Test case: Rg_TC0030.xlsx; Description: Rg_TC0030.xlsx; status Executed 
+2017-07-29 19:36:57,892 WARN  [Log] No Browser instance is active 
+2017-07-29 19:36:57,892 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:37:03,636 INFO  [Log] #### Executing Test case: Rg_TC0030.xlsx; Description: Rg_TC0030.xlsx In firefox Browser for TestData:1 
+2017-07-29 19:37:11,144 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:37:11,913 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:37:12,179 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:37:12,298 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:37:12,299 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-29 19:37:17,412 INFO  [Log] TS_06: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:37:17,464 INFO  [Log] TS_07: verify dropdown is not present before click on help button present; Passed; ; Element is present on the active page 
+2017-07-29 19:37:17,530 INFO  [Log] TS_08: click on help section: Action click 
+2017-07-29 19:37:17,612 INFO  [Log] TS_09: verify dropdown is present; Passed; ; Element is present on the active page 
+2017-07-29 19:37:17,612 INFO  [Log] TS_10; Waited 2000 Milli seconds for Element 
+2017-07-29 19:37:19,801 INFO  [Log] TS_11: click on support: Action click 
+2017-07-29 19:37:19,801 INFO  [Log] TS_12; Waited 2000 Milli seconds for Element 
+2017-07-29 19:37:22,539 INFO  [Log] TS_13: FrameSwitchFrame Switched 
+2017-07-29 19:37:24,757 INFO  [Log] TS_14: enter phone number; Action: Submited Value 
+2017-07-29 19:37:24,993 INFO  [Log] TS_15: enter description; Action: Submited Value 
+2017-07-29 19:37:25,083 INFO  [Log] TS_16: submit form: Action click 
+2017-07-29 19:37:25,084 INFO  [Log] TS_17; Waited 2000 Milli seconds for Element 
+2017-07-29 19:37:27,280 INFO  [Log] TS_18; Passed; verify submit message; Value: thanks for submitting your query; Present in Page values: Thanks for submitting your query. The ticket details would be sent to
+the specified email address shortly.,  
+2017-07-29 19:37:27,280 INFO  [Log] closing test case  
+2017-07-29 19:37:27,457 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-29 19:37:27,467 INFO  [Log] ### Test case: Rg_TC0030.xlsx; Description: Rg_TC0030.xlsx; status Executed 
+2017-07-29 19:37:27,467 WARN  [Log] No Browser instance is active 
+2017-07-29 19:37:27,467 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:37:27,467 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:37:27,541 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:37:27,541 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0032.xlsx; Description: Rg_TC0032.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:37:27,541 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:37:32,959 INFO  [Log] #### Executing Test case: Rg_TC0032.xlsx; Description: Rg_TC0032.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:37:44,395 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:37:45,299 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:37:45,430 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:37:45,508 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:37:45,509 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-29 19:37:51,207 INFO  [Log] TS_06: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:37:51,270 INFO  [Log] TS_07: verify dropdown is not present before click on help button present; Passed; ; Element is present on the active page 
+2017-07-29 19:37:51,357 INFO  [Log] TS_08: click on help section: Action click 
+2017-07-29 19:37:51,424 INFO  [Log] TS_09: verify dropdown is present; Passed; ; Element is present on the active page 
+2017-07-29 19:37:51,424 INFO  [Log] TS_10; Waited 2000 Milli seconds for Element 
+2017-07-29 19:38:00,357 INFO  [Log] TS_11: click on Training Calendar: Action click 
+2017-07-29 19:38:00,358 INFO  [Log] TS_12; Waited 2000 Milli seconds for Element 
+2017-07-29 19:38:05,817 INFO  [Log] TS_13: WindowSwitch; Action: Window Switch is performed to the Desired window, Window Handle is stored at index no: 2 
+2017-07-29 19:38:05,817 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-29 19:38:09,914 INFO  [Log] TS_15: verify calander is present; Passed; ; Element is present on the active page 
+2017-07-29 19:38:09,914 INFO  [Log] closing test case  
+2017-07-29 19:38:09,933 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-29 19:38:09,946 INFO  [Log] ### Test case: Rg_TC0032.xlsx; Description: Rg_TC0032.xlsx; status Executed 
+2017-07-29 19:38:09,946 WARN  [Log] No Browser instance is active 
+2017-07-29 19:38:09,946 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:38:16,637 INFO  [Log] #### Executing Test case: Rg_TC0032.xlsx; Description: Rg_TC0032.xlsx In firefox Browser for TestData:1 
+2017-07-29 19:38:23,527 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:38:24,374 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:38:24,570 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:38:24,681 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:38:24,681 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-29 19:38:29,745 INFO  [Log] TS_06: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-29 19:38:29,786 INFO  [Log] TS_07: verify dropdown is not present before click on help button present; Passed; ; Element is present on the active page 
+2017-07-29 19:38:29,844 INFO  [Log] TS_08: click on help section: Action click 
+2017-07-29 19:38:29,882 INFO  [Log] TS_09: verify dropdown is present; Passed; ; Element is present on the active page 
+2017-07-29 19:38:29,882 INFO  [Log] TS_10; Waited 2000 Milli seconds for Element 
+2017-07-29 19:38:33,288 INFO  [Log] TS_11: click on Training Calendar: Action click 
+2017-07-29 19:38:33,288 INFO  [Log] TS_12; Waited 2000 Milli seconds for Element 
+2017-07-29 19:38:36,549 ERROR [Log] Error#: optima-32TS_13TitleWindowSwitch  org.openqa.selenium.WebDriverException: Failed to find width field
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.cQWic5WX4lOx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=9352.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: ea8e0720-4384-4ab9-9d19-9427ba452de9null:Exception is not handled 
+2017-07-29 19:38:38,066 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-29 19:38:38,209 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-29 19:38:38,340 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-29 19:38:38,340 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:38:38,340 FATAL [Log] optima-32TS_13TitleWindowSwitch  org.openqa.selenium.WebDriverException: Failed to find width field
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.cQWic5WX4lOx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=9352.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: ea8e0720-4384-4ab9-9d19-9427ba452de9null:Exception is not handled 
+2017-07-29 19:38:38,340 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:38:38,401 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:38:38,401 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0034.xlsx; Description: Rg_TC0034.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:38:38,401 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:38:43,942 INFO  [Log] #### Executing Test case: Rg_TC0034.xlsx; Description: Rg_TC0034.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:39:08,031 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:39:33,577 ERROR [Log] Error#: optima-34TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-29 19:54:53,061 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-29 19:54:53,190 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-29 19:54:53,338 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-29 19:54:53,338 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:54:53,338 FATAL [Log] optima-34TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-29 19:54:59,627 INFO  [Log] #### Executing Test case: Rg_TC0034.xlsx; Description: Rg_TC0034.xlsx In firefox Browser for TestData:1 
+2017-07-29 19:55:08,354 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:55:08,577 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:55:08,765 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:55:08,925 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:55:08,926 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:55:20,182 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-29 19:55:20,255 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-29 19:55:24,575 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-29 19:55:24,575 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-29 19:55:28,753 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-29 19:55:28,755 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-29 19:55:33,317 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-29 19:55:33,317 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-29 19:55:37,551 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-29 19:55:38,011 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-29 19:55:38,096 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-29 19:55:38,156 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-29 19:55:38,216 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-29 19:55:38,319 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-29 19:55:38,413 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-29 19:55:38,528 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-29 19:55:38,713 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-29 19:55:39,092 INFO  [Log] TS_24: verify calander is present; Passed; ; Element is present on the active page 
+2017-07-29 19:55:40,587 INFO  [Log] TS_25; Passed; verify calander is present; Element count from page: 13; User Defined Value: 1 
+2017-07-29 19:55:40,969 INFO  [Log] TS_26: click on grid view: Action click 
+2017-07-29 19:55:44,570 INFO  [Log] TS_27: verify events are present in grid view; Passed; ; Element is present on the active page 
+2017-07-29 19:55:44,571 INFO  [Log] closing test case  
+2017-07-29 19:55:45,027 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-29 19:55:45,041 INFO  [Log] ### Test case: Rg_TC0034.xlsx; Description: Rg_TC0034.xlsx; status Executed 
+2017-07-29 19:55:45,041 WARN  [Log] No Browser instance is active 
+2017-07-29 19:55:45,041 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:55:45,041 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:55:45,841 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:55:45,841 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0036.xlsx; Description: Rg_TC0036.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:55:45,841 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:55:54,473 INFO  [Log] #### Executing Test case: Rg_TC0036.xlsx; Description: Rg_TC0036.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:56:02,438 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:56:02,792 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:56:02,945 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:56:03,038 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:56:03,039 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:56:13,383 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-29 19:56:13,473 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-29 19:56:24,523 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-29 19:56:24,523 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-29 19:56:28,700 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-29 19:56:28,700 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-29 19:56:32,797 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-29 19:56:32,797 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-29 19:56:36,964 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-29 19:56:37,487 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-29 19:56:37,603 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-29 19:56:37,722 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-29 19:56:37,818 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-29 19:56:37,916 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-29 19:56:38,013 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-29 19:56:38,122 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-29 19:56:38,210 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-29 19:56:38,562 INFO  [Log] TS_24: verify Compset Avg. Supply is present; Passed; ; Element is present on the active page 
+2017-07-29 19:56:39,678 INFO  [Log] TS_25; Passed; verify Compset Avg. Supply count; Element count from page: 31; User Defined Value: 1 
+2017-07-29 19:56:39,678 INFO  [Log] closing test case  
+2017-07-29 19:56:41,741 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-29 19:56:41,784 INFO  [Log] ### Test case: Rg_TC0036.xlsx; Description: Rg_TC0036.xlsx; status Executed 
+2017-07-29 19:56:41,785 WARN  [Log] No Browser instance is active 
+2017-07-29 19:56:41,785 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:56:47,543 INFO  [Log] #### Executing Test case: Rg_TC0036.xlsx; Description: Rg_TC0036.xlsx In firefox Browser for TestData:1 
+2017-07-29 19:57:10,988 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:57:11,202 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:57:11,355 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:57:11,463 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:57:11,463 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:57:21,636 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-29 19:57:21,706 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-29 19:57:23,904 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-29 19:57:23,904 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-29 19:57:28,141 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-29 19:57:28,141 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-29 19:57:32,221 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-29 19:57:32,222 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-29 19:57:36,369 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-29 19:57:36,855 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-29 19:57:36,917 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-29 19:57:36,972 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-29 19:57:37,027 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-29 19:57:37,080 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-29 19:57:37,163 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-29 19:57:37,268 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-29 19:57:37,364 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-29 19:57:37,634 INFO  [Log] TS_24: verify Compset Avg. Supply is present; Passed; ; Element is present on the active page 
+2017-07-29 19:57:39,024 INFO  [Log] TS_25; Passed; verify Compset Avg. Supply count; Element count from page: 31; User Defined Value: 1 
+2017-07-29 19:57:39,024 INFO  [Log] closing test case  
+2017-07-29 19:57:39,237 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-29 19:57:39,245 INFO  [Log] ### Test case: Rg_TC0036.xlsx; Description: Rg_TC0036.xlsx; status Executed 
+2017-07-29 19:57:39,245 WARN  [Log] No Browser instance is active 
+2017-07-29 19:57:39,245 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:57:39,245 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:57:39,311 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:57:39,311 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0038.xlsx; Description: Rg_TC0038.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:57:39,311 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:57:44,694 INFO  [Log] #### Executing Test case: Rg_TC0038.xlsx; Description: Rg_TC0038.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:58:00,549 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:58:01,381 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:58:01,498 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:58:01,578 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:58:01,578 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:58:14,350 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-29 19:58:14,438 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-29 19:58:15,738 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-29 19:58:15,738 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-29 19:58:19,925 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-29 19:58:19,925 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-29 19:58:24,052 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-29 19:58:24,052 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-29 19:58:28,182 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-29 19:58:28,700 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-29 19:58:28,843 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-29 19:58:28,951 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-29 19:58:29,062 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-29 19:58:29,176 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-29 19:58:29,288 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-29 19:58:29,392 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-29 19:58:29,472 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-29 19:58:29,869 INFO  [Log] TS_24: verify rate difference  is present; Passed; ; Element is present on the active page 
+2017-07-29 19:58:31,185 INFO  [Log] TS_25; Passed; verify rate difference count; Element count from page: 31; User Defined Value: 1 
+2017-07-29 19:58:31,185 INFO  [Log] closing test case  
+2017-07-29 19:58:33,282 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-29 19:58:33,290 INFO  [Log] ### Test case: Rg_TC0038.xlsx; Description: Rg_TC0038.xlsx; status Executed 
+2017-07-29 19:58:33,290 WARN  [Log] No Browser instance is active 
+2017-07-29 19:58:33,290 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:58:40,174 INFO  [Log] #### Executing Test case: Rg_TC0038.xlsx; Description: Rg_TC0038.xlsx In firefox Browser for TestData:1 
+2017-07-29 19:58:48,286 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:58:48,505 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:58:48,661 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:58:48,758 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:58:48,758 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:58:58,946 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-29 19:58:59,039 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-29 19:59:07,795 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-29 19:59:07,795 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-29 19:59:12,055 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-29 19:59:12,056 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-29 19:59:16,700 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-29 19:59:16,700 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-29 19:59:20,881 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-29 19:59:21,345 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-29 19:59:21,413 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-29 19:59:21,469 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-29 19:59:21,533 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-29 19:59:21,618 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-29 19:59:21,753 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-29 19:59:21,838 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-29 19:59:21,950 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-29 19:59:22,388 INFO  [Log] TS_24: verify rate difference  is present; Passed; ; Element is present on the active page 
+2017-07-29 19:59:23,739 INFO  [Log] TS_25; Passed; verify rate difference count; Element count from page: 31; User Defined Value: 1 
+2017-07-29 19:59:23,739 INFO  [Log] closing test case  
+2017-07-29 19:59:23,956 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-29 19:59:23,969 INFO  [Log] ### Test case: Rg_TC0038.xlsx; Description: Rg_TC0038.xlsx; status Executed 
+2017-07-29 19:59:23,969 WARN  [Log] No Browser instance is active 
+2017-07-29 19:59:23,969 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:59:23,969 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 19:59:24,059 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:59:24,059 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0040.xlsx; Description: Rg_TC0040.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 19:59:24,059 INFO  [Log] **************************************************************************************** 
+2017-07-29 19:59:29,480 INFO  [Log] #### Executing Test case: Rg_TC0040.xlsx; Description: Rg_TC0040.xlsx In chrome Browser for TestData:1 
+2017-07-29 19:59:37,139 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 19:59:37,550 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 19:59:37,739 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 19:59:37,815 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 19:59:37,815 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 19:59:50,655 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-29 19:59:50,737 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-29 19:59:51,973 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-29 19:59:51,973 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-29 19:59:56,126 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-29 19:59:56,126 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-29 20:00:00,214 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-29 20:00:00,214 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-29 20:00:04,351 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-29 20:00:04,737 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-29 20:00:04,863 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-29 20:00:04,987 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-29 20:00:05,094 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-29 20:00:05,186 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-29 20:00:05,280 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-29 20:00:05,383 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-29 20:00:05,477 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-29 20:00:05,785 INFO  [Log] TS_24: verify RateDifference   is present; Passed; ; Element is present on the active page 
+2017-07-29 20:00:06,934 INFO  [Log] TS_25; Passed; verify RateDifference count; Element count from page: 31; User Defined Value: 1 
+2017-07-29 20:00:06,934 INFO  [Log] closing test case  
+2017-07-29 20:00:07,104 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-29 20:00:07,120 INFO  [Log] ### Test case: Rg_TC0040.xlsx; Description: Rg_TC0040.xlsx; status Executed 
+2017-07-29 20:00:07,120 WARN  [Log] No Browser instance is active 
+2017-07-29 20:00:07,120 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 20:00:12,880 INFO  [Log] #### Executing Test case: Rg_TC0040.xlsx; Description: Rg_TC0040.xlsx In firefox Browser for TestData:1 
+2017-07-29 20:00:21,116 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 20:00:21,343 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-29 20:00:21,495 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-29 20:00:21,597 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-29 20:00:21,597 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-29 20:00:31,797 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-29 20:00:31,883 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-29 20:00:33,153 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-29 20:00:33,153 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-29 20:00:37,422 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-29 20:00:37,423 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-29 20:00:41,529 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-29 20:00:41,529 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-29 20:00:45,744 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-29 20:00:46,225 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-29 20:00:46,292 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-29 20:00:46,347 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-29 20:00:46,403 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-29 20:00:46,465 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-29 20:00:46,570 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-29 20:00:46,641 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-29 20:00:46,761 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-29 20:00:47,165 INFO  [Log] TS_24: verify RateDifference   is present; Passed; ; Element is present on the active page 
+2017-07-29 20:00:48,374 INFO  [Log] TS_25; Passed; verify RateDifference count; Element count from page: 31; User Defined Value: 1 
+2017-07-29 20:00:48,374 INFO  [Log] closing test case  
+2017-07-29 20:00:48,595 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-29 20:00:48,602 INFO  [Log] ### Test case: Rg_TC0040.xlsx; Description: Rg_TC0040.xlsx; status Executed 
+2017-07-29 20:00:48,602 WARN  [Log] No Browser instance is active 
+2017-07-29 20:00:48,602 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 20:00:48,602 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-29 20:00:48,665 INFO  [Log] **************************************************************************************** 
+2017-07-29 20:00:48,665 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0042.xlsx; Description: Rg_TC0042.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-29 20:00:48,665 INFO  [Log] **************************************************************************************** 
+2017-07-29 20:00:54,086 INFO  [Log] #### Executing Test case: Rg_TC0042.xlsx; Description: Rg_TC0042.xlsx In chrome Browser for TestData:1 
+2017-07-29 20:01:18,220 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-29 20:01:43,774 ERROR [Log] Error#: optima-42TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-30 00:01:14,949 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-30 00:01:15,114 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-30 00:01:15,247 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-30 00:01:15,247 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:01:15,247 FATAL [Log] optima-42TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-30 00:01:23,102 INFO  [Log] #### Executing Test case: Rg_TC0042.xlsx; Description: Rg_TC0042.xlsx In firefox Browser for TestData:1 
+2017-07-30 00:01:39,488 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:01:40,353 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:01:40,506 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:01:40,639 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:01:40,639 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:46:09,675 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:46:09,750 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:46:28,511 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:46:28,574 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:46:41,416 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:46:41,417 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:46:45,525 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:46:45,526 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-30 00:46:50,195 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 00:46:50,715 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 00:46:50,804 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 00:46:50,991 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 00:46:51,084 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 00:46:51,171 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 00:46:51,257 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 00:46:51,855 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 00:46:52,062 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 00:46:52,465 INFO  [Log] TS_24: verifyLowest/Highest rates vs. Compset in Green/Red cell color is present; Passed; ; Element is present on the active page 
+2017-07-30 00:46:52,493 INFO  [Log] closing test case  
+2017-07-30 00:46:56,164 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 00:46:56,321 INFO  [Log] ### Test case: Rg_TC0042.xlsx; Description: Rg_TC0042.xlsx; status Executed 
+2017-07-30 00:46:56,412 WARN  [Log] No Browser instance is active 
+2017-07-30 00:46:56,412 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:46:56,412 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:47:01,093 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:47:01,093 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0044.xlsx; Description: Rg_TC0044.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 00:47:01,093 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:47:50,044 INFO  [Log] #### Executing Test case: Rg_TC0044.xlsx; Description: Rg_TC0044.xlsx In chrome Browser for TestData:1 
+2017-07-30 00:48:03,164 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:48:04,865 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:48:05,110 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:48:05,236 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:48:05,237 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:48:20,716 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:48:20,950 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:48:22,788 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:48:22,788 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:48:26,934 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:48:26,935 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:48:31,029 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:48:31,030 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-30 00:48:35,211 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 00:48:35,752 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 00:48:35,937 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 00:48:36,073 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 00:48:36,243 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 00:48:36,392 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 00:48:36,549 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 00:48:36,685 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 00:48:36,802 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 00:48:37,358 INFO  [Log] TS_24: verify price thrashold is visible with either both yellow or blue thrasholds on the calender view.; Passed; ; Element is present on the active page 
+2017-07-30 00:48:38,259 INFO  [Log] TS_25; Passed; verify price thrashold count is more then one; Element count from page: 15; User Defined Value: 2 
+2017-07-30 00:48:38,260 INFO  [Log] closing test case  
+2017-07-30 00:48:40,416 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 00:48:40,496 INFO  [Log] ### Test case: Rg_TC0044.xlsx; Description: Rg_TC0044.xlsx; status Executed 
+2017-07-30 00:48:40,496 WARN  [Log] No Browser instance is active 
+2017-07-30 00:48:40,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:48:55,807 INFO  [Log] #### Executing Test case: Rg_TC0044.xlsx; Description: Rg_TC0044.xlsx In firefox Browser for TestData:1 
+2017-07-30 00:49:04,581 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:49:04,993 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:49:05,815 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:49:06,439 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:49:06,440 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:49:17,208 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:49:17,313 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:49:19,180 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:49:19,180 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:49:23,729 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:49:23,730 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:49:27,918 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:49:27,919 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-30 00:49:32,171 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 00:49:32,789 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 00:49:32,936 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 00:49:33,084 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 00:49:33,171 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 00:49:33,233 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 00:49:33,292 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 00:49:33,363 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 00:49:33,540 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 00:49:33,925 INFO  [Log] TS_24: verify price thrashold is visible with either both yellow or blue thrasholds on the calender view.; Passed; ; Element is present on the active page 
+2017-07-30 00:49:35,651 INFO  [Log] TS_25; Passed; verify price thrashold count is more then one; Element count from page: 15; User Defined Value: 2 
+2017-07-30 00:49:35,651 INFO  [Log] closing test case  
+2017-07-30 00:49:35,982 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 00:49:36,086 INFO  [Log] ### Test case: Rg_TC0044.xlsx; Description: Rg_TC0044.xlsx; status Executed 
+2017-07-30 00:49:36,086 WARN  [Log] No Browser instance is active 
+2017-07-30 00:49:36,086 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:49:36,086 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:49:36,399 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:49:36,399 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0046.xlsx; Description: Rg_TC0046.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 00:49:36,399 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:49:48,310 INFO  [Log] #### Executing Test case: Rg_TC0046.xlsx; Description: Rg_TC0046.xlsx In chrome Browser for TestData:1 
+2017-07-30 00:49:57,536 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:50:03,540 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:50:03,753 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:50:03,847 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:50:03,847 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:50:18,442 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:50:18,529 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:50:19,786 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:50:19,786 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:50:23,936 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:50:23,937 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:50:28,243 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:50:28,243 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:50:30,514 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-30 00:50:30,632 INFO  [Log] TS_16; Passed; check by default pace is active; Value: active; Present in Page values: active,  
+2017-07-30 00:50:35,147 INFO  [Log] TS_17: verify pace graph is visible; Passed; ; Element is present on the active page 
+2017-07-30 00:50:35,233 INFO  [Log] TS_18: verify by default competation is inactive; Passed; ; Element is present on the active page 
+2017-07-30 00:50:35,319 INFO  [Log] TS_19: click on competation: Action click 
+2017-07-30 00:50:35,419 INFO  [Log] TS_20; Passed; verify competition is active; Value: active; Present in Page values: active,  
+2017-07-30 00:50:35,501 INFO  [Log] TS_21: verify competition graph is present; Passed; ; Element is present on the active page 
+2017-07-30 00:50:35,501 INFO  [Log] closing test case  
+2017-07-30 00:50:35,825 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 00:50:35,839 INFO  [Log] ### Test case: Rg_TC0046.xlsx; Description: Rg_TC0046.xlsx; status Executed 
+2017-07-30 00:50:35,839 WARN  [Log] No Browser instance is active 
+2017-07-30 00:50:35,839 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:50:50,234 INFO  [Log] #### Executing Test case: Rg_TC0046.xlsx; Description: Rg_TC0046.xlsx In firefox Browser for TestData:1 
+2017-07-30 00:50:58,343 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:50:59,664 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:50:59,757 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:50:59,864 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:50:59,864 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:51:10,072 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:51:10,206 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:51:11,811 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:51:11,811 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:51:16,231 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:51:16,232 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:51:20,346 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:51:20,348 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:51:22,601 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-30 00:51:22,754 INFO  [Log] TS_16; Passed; check by default pace is active; Value: active; Present in Page values: active,  
+2017-07-30 00:51:27,505 INFO  [Log] TS_17: verify pace graph is visible; Passed; ; Element is present on the active page 
+2017-07-30 00:51:27,888 INFO  [Log] TS_18: verify by default competation is inactive; Passed; ; Element is present on the active page 
+2017-07-30 00:51:28,001 INFO  [Log] TS_19: click on competation: Action click 
+2017-07-30 00:51:28,360 INFO  [Log] TS_20; Passed; verify competition is active; Value: active; Present in Page values: active,  
+2017-07-30 00:51:28,617 INFO  [Log] TS_21: verify competition graph is present; Passed; ; Element is present on the active page 
+2017-07-30 00:51:28,617 INFO  [Log] closing test case  
+2017-07-30 00:51:28,869 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 00:51:28,889 INFO  [Log] ### Test case: Rg_TC0046.xlsx; Description: Rg_TC0046.xlsx; status Executed 
+2017-07-30 00:51:28,890 WARN  [Log] No Browser instance is active 
+2017-07-30 00:51:28,890 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:51:28,890 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:51:28,981 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:51:28,981 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 00:51:28,981 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:51:35,473 INFO  [Log] #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx In chrome Browser for TestData:1 
+2017-07-30 00:51:41,949 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:51:42,740 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:51:42,880 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:51:42,974 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:51:42,975 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:51:57,662 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:51:57,781 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:51:59,118 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:51:59,118 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:52:03,242 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:52:03,247 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:52:07,375 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:52:07,375 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:52:09,623 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-30 00:52:09,784 INFO  [Log] TS_16: click on competation: Action click 
+2017-07-30 00:52:10,139 INFO  [Log] TS_17; Passed; verify competition is active; Value: active; Present in Page values: active,  
+2017-07-30 00:52:12,929 INFO  [Log] TS_18: verify competition graph is present; Passed; ; Element is present on the active page 
+2017-07-30 00:52:13,209 INFO  [Log] TS_19: hover on bar chart: ToolTipNavigation 
+2017-07-30 00:52:23,336 INFO  [Log] Compset Avg. Supply : 100; Value has been stored in index: 0 
+2017-07-30 00:52:23,402 INFO  [Log] User specified value has been replaced at index0New Value is: 100 
+2017-07-30 00:52:23,544 INFO  [Log] Compset Avg. OTA Rank : NA; Value has been stored in index: 1 
+2017-07-30 00:52:23,595 INFO  [Log] User specified value has been replaced at index1New Value is: NA 
+2017-07-30 00:52:23,649 INFO  [Log] TS_24; Passed; verify captured value is a number or NA; verification value is either  number,NA 
+2017-07-30 00:52:23,781 INFO  [Log] TS_25; Passed; verify captured value is a number or NA; verification value is either  number,NA 
+2017-07-30 00:52:23,782 INFO  [Log] closing test case  
+2017-07-30 00:52:24,140 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 00:52:24,177 INFO  [Log] ### Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx; status Executed 
+2017-07-30 00:52:24,177 WARN  [Log] No Browser instance is active 
+2017-07-30 00:52:24,177 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:52:34,731 INFO  [Log] #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx In firefox Browser for TestData:1 
+2017-07-30 00:52:42,821 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:52:43,196 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:52:43,408 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:52:43,601 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:52:43,601 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:52:53,811 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:52:53,943 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:52:55,070 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:52:55,070 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:52:59,304 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:52:59,304 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:53:15,825 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:53:15,826 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:53:19,199 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-30 00:53:19,315 INFO  [Log] TS_16: click on competation: Action click 
+2017-07-30 00:53:19,398 INFO  [Log] TS_17; Passed; verify competition is active; Value: active; Present in Page values: active,  
+2017-07-30 00:53:22,659 INFO  [Log] TS_18: verify competition graph is present; Passed; ; Element is present on the active page 
+2017-07-30 00:53:23,357 INFO  [Log] TS_19: hover on bar chart: ToolTipNavigation 
+2017-07-30 00:53:49,231 ERROR [Log] Error#: optima-48TS_20XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-30 00:53:50,796 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-30 00:53:50,949 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-30 00:53:51,102 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-30 00:53:51,103 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:53:51,103 FATAL [Log] optima-48TS_20XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-30 00:53:51,103 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:53:51,205 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:53:51,205 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0050.xlsx; Description: Rg_TC0050.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 00:53:51,205 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:53:57,432 INFO  [Log] #### Executing Test case: Rg_TC0050.xlsx; Description: Rg_TC0050.xlsx In chrome Browser for TestData:1 
+2017-07-30 00:54:07,702 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:54:07,992 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:54:08,134 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:54:08,213 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:54:08,213 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:54:25,326 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:54:25,432 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:54:26,650 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:54:26,650 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:54:30,914 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:54:30,915 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:54:35,235 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:54:35,236 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:54:37,459 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-30 00:54:37,459 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-07-30 00:54:40,225 INFO  [Log] TS_17: verify Price changes (Y) from last reporting period is present; Passed; ; Element is present on the active page 
+2017-07-30 00:54:41,043 INFO  [Log] TS_18; Passed; verify Price changes (Y) from last reporting period count is greater then  1; Element count from page: 6; User Defined Value: 2 
+2017-07-30 00:54:41,116 INFO  [Log] TS_19: verify Price changes (Y) from last reporting period is not present for some dates present; Passed; ; Element is present on the active page 
+2017-07-30 00:54:41,117 INFO  [Log] closing test case  
+2017-07-30 00:54:43,305 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 00:54:43,327 INFO  [Log] ### Test case: Rg_TC0050.xlsx; Description: Rg_TC0050.xlsx; status Executed 
+2017-07-30 00:54:43,327 WARN  [Log] No Browser instance is active 
+2017-07-30 00:54:43,327 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:54:51,389 INFO  [Log] #### Executing Test case: Rg_TC0050.xlsx; Description: Rg_TC0050.xlsx In firefox Browser for TestData:1 
+2017-07-30 00:54:59,802 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:55:00,232 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:55:00,500 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:55:00,679 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:55:00,680 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:55:10,911 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:55:11,349 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:55:13,280 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:55:13,280 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:55:17,783 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:55:17,784 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:55:22,002 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:55:22,003 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:55:24,411 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-30 00:55:24,411 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-07-30 00:55:28,367 INFO  [Log] TS_17: verify Price changes (Y) from last reporting period is present; Passed; ; Element is present on the active page 
+2017-07-30 00:55:28,913 INFO  [Log] TS_18; Passed; verify Price changes (Y) from last reporting period count is greater then  1; Element count from page: 6; User Defined Value: 2 
+2017-07-30 00:55:28,963 INFO  [Log] TS_19: verify Price changes (Y) from last reporting period is not present for some dates present; Passed; ; Element is present on the active page 
+2017-07-30 00:55:28,963 INFO  [Log] closing test case  
+2017-07-30 00:55:29,159 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 00:55:29,182 INFO  [Log] ### Test case: Rg_TC0050.xlsx; Description: Rg_TC0050.xlsx; status Executed 
+2017-07-30 00:55:29,182 WARN  [Log] No Browser instance is active 
+2017-07-30 00:55:29,182 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:55:29,182 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:55:29,274 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:55:29,274 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0052.xlsx; Description: Rg_TC0052.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 00:55:29,274 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:55:35,548 INFO  [Log] #### Executing Test case: Rg_TC0052.xlsx; Description: Rg_TC0052.xlsx In chrome Browser for TestData:1 
+2017-07-30 00:55:42,218 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:55:42,837 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:55:42,957 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:55:43,035 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:55:43,035 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:56:00,526 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:56:00,689 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:56:02,067 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:56:02,067 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:56:06,304 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:56:06,304 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:56:10,420 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:56:10,420 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:56:12,610 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 00:56:13,127 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 00:56:13,278 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 00:56:13,398 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 00:56:13,493 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 00:56:13,587 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 00:56:13,683 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 00:56:13,781 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 00:56:13,867 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 00:56:13,867 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-07-30 00:56:18,106 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 00:56:18,107 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-07-30 00:56:22,306 INFO  [Log] TS_27: Lowest Rate; Passed; ; Element is present on the active page 
+2017-07-30 00:56:22,488 INFO  [Log] TS_28; Passed; verify that in each column there is only one value of low; Element count from page: 1; User Defined Value: 1 
+2017-07-30 00:56:22,488 INFO  [Log] closing test case  
+2017-07-30 00:56:22,757 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 00:56:22,768 INFO  [Log] ### Test case: Rg_TC0052.xlsx; Description: Rg_TC0052.xlsx; status Executed 
+2017-07-30 00:56:22,768 WARN  [Log] No Browser instance is active 
+2017-07-30 00:56:22,768 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:56:29,074 INFO  [Log] #### Executing Test case: Rg_TC0052.xlsx; Description: Rg_TC0052.xlsx In firefox Browser for TestData:1 
+2017-07-30 00:56:47,047 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:56:47,413 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:56:47,664 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:56:47,774 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:56:47,774 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:56:58,019 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:56:58,117 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:57:00,308 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:57:00,308 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:57:04,736 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:57:04,736 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:57:08,931 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:57:08,931 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:57:11,202 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 00:57:11,675 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 00:57:11,772 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 00:57:11,835 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 00:57:11,925 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 00:57:11,984 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 00:57:12,047 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 00:57:12,112 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 00:57:12,278 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 00:57:12,278 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-07-30 00:57:16,595 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 00:57:16,596 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-07-30 00:57:20,737 INFO  [Log] TS_27: Lowest Rate; Passed; ; Element is present on the active page 
+2017-07-30 00:57:20,875 INFO  [Log] TS_28; Passed; verify that in each column there is only one value of low; Element count from page: 1; User Defined Value: 1 
+2017-07-30 00:57:20,875 INFO  [Log] closing test case  
+2017-07-30 00:57:21,072 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 00:57:21,079 INFO  [Log] ### Test case: Rg_TC0052.xlsx; Description: Rg_TC0052.xlsx; status Executed 
+2017-07-30 00:57:21,079 WARN  [Log] No Browser instance is active 
+2017-07-30 00:57:21,079 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:57:21,079 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:57:21,172 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:57:21,172 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0054.xlsx; Description: Rg_TC0054.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 00:57:21,172 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:57:45,584 INFO  [Log] #### Executing Test case: Rg_TC0054.xlsx; Description: Rg_TC0054.xlsx In chrome Browser for TestData:1 
+2017-07-30 00:57:53,842 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:57:54,309 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:57:54,544 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:57:54,619 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:57:54,620 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:58:10,470 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:58:10,575 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:58:11,767 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:58:11,767 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:58:15,914 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:58:15,914 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:58:20,102 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:58:20,102 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:58:22,291 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 00:58:22,659 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 00:58:22,795 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 00:58:22,917 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 00:58:23,025 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 00:58:23,120 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 00:58:23,221 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 00:58:23,320 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 00:58:23,392 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 00:58:23,392 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-07-30 00:58:25,639 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 00:58:25,640 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-07-30 00:58:27,811 INFO  [Log] TS_27: highest Rate; Passed; ; Element is present on the active page 
+2017-07-30 00:58:28,007 INFO  [Log] TS_28; Passed; verify that in each column there is only one value of high; Element count from page: 1; User Defined Value: 1 
+2017-07-30 00:58:28,007 INFO  [Log] closing test case  
+2017-07-30 00:58:28,259 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 00:58:28,271 INFO  [Log] ### Test case: Rg_TC0054.xlsx; Description: Rg_TC0054.xlsx; status Executed 
+2017-07-30 00:58:28,271 WARN  [Log] No Browser instance is active 
+2017-07-30 00:58:28,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:58:36,195 INFO  [Log] #### Executing Test case: Rg_TC0054.xlsx; Description: Rg_TC0054.xlsx In firefox Browser for TestData:1 
+2017-07-30 00:58:44,258 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:58:44,563 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:58:44,643 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:58:44,723 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:58:44,723 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:58:55,587 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:58:55,711 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:58:58,028 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:58:58,028 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:59:02,254 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:59:02,254 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:59:06,402 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:59:06,402 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:59:08,729 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 00:59:09,133 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 00:59:09,255 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 00:59:09,351 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 00:59:09,464 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 00:59:09,523 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 00:59:09,580 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 00:59:09,797 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 00:59:10,019 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 00:59:10,020 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-07-30 00:59:12,464 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 00:59:12,464 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-07-30 00:59:14,548 INFO  [Log] TS_27: highest Rate; Passed; ; Element is present on the active page 
+2017-07-30 00:59:15,125 INFO  [Log] TS_28; Passed; verify that in each column there is only one value of high; Element count from page: 1; User Defined Value: 1 
+2017-07-30 00:59:15,137 INFO  [Log] closing test case  
+2017-07-30 00:59:15,444 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 00:59:16,374 INFO  [Log] ### Test case: Rg_TC0054.xlsx; Description: Rg_TC0054.xlsx; status Executed 
+2017-07-30 00:59:16,374 WARN  [Log] No Browser instance is active 
+2017-07-30 00:59:16,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:59:16,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 00:59:18,057 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:59:18,057 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0056.xlsx; Description: Rg_TC0056.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 00:59:18,057 INFO  [Log] **************************************************************************************** 
+2017-07-30 00:59:23,527 INFO  [Log] #### Executing Test case: Rg_TC0056.xlsx; Description: Rg_TC0056.xlsx In chrome Browser for TestData:1 
+2017-07-30 00:59:30,150 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 00:59:31,228 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 00:59:31,394 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 00:59:31,496 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 00:59:31,497 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 00:59:48,169 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 00:59:48,269 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 00:59:49,508 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 00:59:49,508 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 00:59:53,703 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 00:59:53,703 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 00:59:57,851 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 00:59:57,852 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 00:59:59,969 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 01:00:00,390 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 01:00:00,511 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 01:00:00,644 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 01:00:00,745 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 01:00:00,838 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 01:00:00,985 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 01:00:01,128 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 01:00:01,193 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 01:00:01,193 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-07-30 01:00:05,337 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 01:00:05,337 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-07-30 01:00:11,207 INFO  [Log] TS_27:  Competitors Price is lower than defined threshold limit is present; Passed; ; Element is present on the active page 
+2017-07-30 01:00:13,433 INFO  [Log] TS_28; Passed; verify  Competitors Price is lower than defined threshold limit is greater then 1; Element count from page: 9; User Defined Value: 1 
+2017-07-30 01:00:13,433 INFO  [Log] closing test case  
+2017-07-30 01:00:13,706 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 01:00:13,718 INFO  [Log] ### Test case: Rg_TC0056.xlsx; Description: Rg_TC0056.xlsx; status Executed 
+2017-07-30 01:00:13,718 WARN  [Log] No Browser instance is active 
+2017-07-30 01:00:13,718 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:00:21,609 INFO  [Log] #### Executing Test case: Rg_TC0056.xlsx; Description: Rg_TC0056.xlsx In firefox Browser for TestData:1 
+2017-07-30 01:00:30,046 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:00:30,287 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:00:30,519 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:00:30,943 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:00:30,944 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:00:41,417 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:00:41,666 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:00:46,754 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:00:46,754 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:00:51,210 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:00:51,211 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:00:55,406 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 01:00:55,406 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:00:57,664 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 01:00:58,111 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 01:00:58,192 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 01:00:58,251 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 01:00:58,310 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 01:00:58,402 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 01:00:58,460 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 01:00:58,516 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 01:00:58,669 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 01:00:58,669 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-07-30 01:01:03,008 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 01:01:03,008 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-07-30 01:01:08,862 INFO  [Log] TS_27:  Competitors Price is lower than defined threshold limit is present; Passed; ; Element is present on the active page 
+2017-07-30 01:01:11,576 INFO  [Log] TS_28; Passed; verify  Competitors Price is lower than defined threshold limit is greater then 1; Element count from page: 9; User Defined Value: 1 
+2017-07-30 01:01:11,576 INFO  [Log] closing test case  
+2017-07-30 01:01:11,774 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 01:01:11,789 INFO  [Log] ### Test case: Rg_TC0056.xlsx; Description: Rg_TC0056.xlsx; status Executed 
+2017-07-30 01:01:11,789 WARN  [Log] No Browser instance is active 
+2017-07-30 01:01:11,789 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:01:11,789 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:01:11,952 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:01:11,952 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0058.xlsx; Description: Rg_TC0058.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 01:01:11,952 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:01:17,735 INFO  [Log] #### Executing Test case: Rg_TC0058.xlsx; Description: Rg_TC0058.xlsx In chrome Browser for TestData:1 
+2017-07-30 01:01:25,905 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:01:26,274 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:01:26,417 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:01:26,506 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:01:26,507 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:01:42,066 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:01:42,174 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:01:43,310 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:01:43,310 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:01:47,549 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:01:47,549 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:01:51,765 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 01:01:51,766 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:01:53,995 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 01:01:54,311 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 01:01:54,480 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 01:01:54,587 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 01:01:54,677 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 01:01:54,776 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 01:01:54,931 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 01:01:55,088 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 01:01:55,193 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 01:01:55,194 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-07-30 01:01:59,437 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 01:01:59,437 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-07-30 01:02:04,804 INFO  [Log] TS_27:  Competitors Price is higher than defined threshold limit is present; Passed; ; Element is present on the active page 
+2017-07-30 01:02:06,834 INFO  [Log] TS_28; Passed; verify  Competitors Price is higher than defined threshold limit is greater then 1; Element count from page: 12; User Defined Value: 1 
+2017-07-30 01:02:06,834 INFO  [Log] closing test case  
+2017-07-30 01:02:07,213 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 01:02:07,236 INFO  [Log] ### Test case: Rg_TC0058.xlsx; Description: Rg_TC0058.xlsx; status Executed 
+2017-07-30 01:02:07,236 WARN  [Log] No Browser instance is active 
+2017-07-30 01:02:07,236 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:02:14,039 INFO  [Log] #### Executing Test case: Rg_TC0058.xlsx; Description: Rg_TC0058.xlsx In firefox Browser for TestData:1 
+2017-07-30 01:02:22,730 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:02:23,090 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:02:23,283 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:02:23,430 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:02:23,431 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:02:34,068 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:02:34,518 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:02:36,844 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:02:36,844 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:02:41,153 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:02:41,154 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:02:45,298 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 01:02:45,298 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:02:47,503 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 01:02:48,006 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 01:02:48,074 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 01:02:48,154 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 01:02:48,222 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 01:02:48,323 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 01:02:48,397 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 01:02:48,483 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 01:02:48,638 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 01:02:48,638 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-07-30 01:02:53,025 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 01:02:53,025 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-07-30 01:02:58,842 INFO  [Log] TS_27:  Competitors Price is higher than defined threshold limit is present; Passed; ; Element is present on the active page 
+2017-07-30 01:03:01,368 INFO  [Log] TS_28; Passed; verify  Competitors Price is higher than defined threshold limit is greater then 1; Element count from page: 12; User Defined Value: 1 
+2017-07-30 01:03:01,368 INFO  [Log] closing test case  
+2017-07-30 01:03:01,569 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 01:03:01,599 INFO  [Log] ### Test case: Rg_TC0058.xlsx; Description: Rg_TC0058.xlsx; status Executed 
+2017-07-30 01:03:01,599 WARN  [Log] No Browser instance is active 
+2017-07-30 01:03:01,599 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:03:01,599 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:03:01,690 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:03:01,690 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0060.xlsx; Description: Rg_TC0060.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 01:03:01,690 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:03:07,257 INFO  [Log] #### Executing Test case: Rg_TC0060.xlsx; Description: Rg_TC0060.xlsx In chrome Browser for TestData:1 
+2017-07-30 01:03:14,369 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:03:14,847 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:03:15,040 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:03:15,160 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:03:15,161 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:03:32,074 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:03:32,158 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:03:33,297 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:03:33,297 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:03:37,432 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:03:37,432 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:03:41,522 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 01:03:41,522 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:03:43,711 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 01:03:43,941 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 01:03:44,124 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 01:03:44,221 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 01:03:44,324 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 01:03:44,436 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 01:03:44,527 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 01:03:44,625 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 01:03:44,694 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 01:03:44,694 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-07-30 01:03:46,967 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 01:03:46,968 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-07-30 01:03:51,451 INFO  [Log] TS_27; Passed;  Competitors Price is higher than defined threshold limit is present;Any Value among: number,NA,NF,RF,NP,ND,NR,TNA; Are Present in Page values: ND, ND, ND, ND, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, ND, ND, ND, ND, ND, ND, ND, ND, ND, ND, ND, ND, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NP, NP, NP, NP, NA, NA, NA, NA, 100, 100, 100, 100,  
+2017-07-30 01:03:51,451 INFO  [Log] closing test case  
+2017-07-30 01:03:51,742 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 01:03:51,772 INFO  [Log] ### Test case: Rg_TC0060.xlsx; Description: Rg_TC0060.xlsx; status Executed 
+2017-07-30 01:03:51,772 WARN  [Log] No Browser instance is active 
+2017-07-30 01:03:51,772 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:03:58,534 INFO  [Log] #### Executing Test case: Rg_TC0060.xlsx; Description: Rg_TC0060.xlsx In firefox Browser for TestData:1 
+2017-07-30 01:04:06,810 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:04:07,138 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:04:07,313 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:04:07,375 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:04:07,375 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:04:17,547 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:04:17,632 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:04:23,890 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:04:23,890 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:04:28,368 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:04:28,369 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:04:32,520 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 01:04:32,520 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:04:34,760 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 01:04:35,251 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 01:04:35,382 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 01:04:35,476 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 01:04:35,585 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 01:04:35,667 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 01:04:35,728 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 01:04:35,814 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 01:04:35,966 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 01:04:35,966 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-07-30 01:04:38,355 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-30 01:04:38,355 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-07-30 01:04:41,673 INFO  [Log] TS_27; Passed;  Competitors Price is higher than defined threshold limit is present;Any Value among: number,NA,NF,RF,NP,ND,NR,TNA; Are Present in Page values: ND, ND, ND, ND, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, ND, ND, ND, ND, ND, ND, ND, ND, ND, ND, ND, ND, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NP, NP, NP, NP, NA, NA, NA, NA, 100, 100, 100, 100,  
+2017-07-30 01:04:41,674 INFO  [Log] closing test case  
+2017-07-30 01:04:41,860 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 01:04:41,874 INFO  [Log] ### Test case: Rg_TC0060.xlsx; Description: Rg_TC0060.xlsx; status Executed 
+2017-07-30 01:04:41,874 WARN  [Log] No Browser instance is active 
+2017-07-30 01:04:41,874 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:04:41,874 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:04:41,932 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:04:41,932 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0062.xlsx; Description: Rg_TC0062.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 01:04:41,932 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:04:47,940 INFO  [Log] #### Executing Test case: Rg_TC0062.xlsx; Description: Rg_TC0062.xlsx In chrome Browser for TestData:1 
+2017-07-30 01:04:56,060 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:04:56,355 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:04:56,535 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:04:56,646 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:04:56,647 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:05:13,016 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:05:13,097 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:05:14,323 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:05:14,323 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:05:18,441 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:05:18,441 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:05:22,669 INFO  [Log] Holiday Inn New Delhi IntL Airport; Value has been stored in index: 0 
+2017-07-30 01:05:22,802 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 01:05:22,803 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:05:25,044 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 01:05:25,375 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 01:05:25,509 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 01:05:25,629 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 01:05:25,736 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 01:05:25,836 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 01:05:25,952 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 01:05:26,063 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 01:05:26,135 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 01:05:26,135 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-07-30 01:05:28,298 INFO  [Log] TS_25: click on chart view: Action click 
+2017-07-30 01:05:28,298 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-07-30 01:05:34,012 INFO  [Log] TS_27: verify chart is present: ToolTipNavigation 
+2017-07-30 01:05:34,328 INFO  [Log] TS_28; Passed; verify first property is our property; Captured text: holiday inn new delhi intl airport; Value form page: Holiday Inn New Delhi IntL Airport,  
+2017-07-30 01:05:34,659 INFO  [Log] TS_29; Passed; verify other properties has name  not  Same as our property name; Captured text: holiday inn new delhi intl airport; Value form page: Hyatt Regency Delhi,  
+2017-07-30 01:05:34,812 INFO  [Log] TS_30; Passed; verify other properties has name  not  Same as our property name; Captured text: holiday inn new delhi intl airport; Value form page: Radisson Blu Hotel New Delhi Dwarka,  
+2017-07-30 01:05:34,955 INFO  [Log] INR 5205 [ 0 ]; Value has been stored in index: 1 
+2017-07-30 01:05:35,045 INFO  [Log] User specified value has been replaced at index1New Value is: 5205 
+2017-07-30 01:05:35,881 INFO  [Log] INR 9000 [ 0 ]; Value has been stored in index: 2 
+2017-07-30 01:05:35,969 INFO  [Log] User specified value has been replaced at index2New Value is: 9000 
+2017-07-30 01:05:35,969 INFO  [Log] TS_35; Passed; Verify both the rates are not same; Captured text1: 5205; Captured text2: 9000 
+2017-07-30 01:05:35,969 INFO  [Log] closing test case  
+2017-07-30 01:05:37,224 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 01:05:37,254 INFO  [Log] ### Test case: Rg_TC0062.xlsx; Description: Rg_TC0062.xlsx; status Executed 
+2017-07-30 01:05:37,254 WARN  [Log] No Browser instance is active 
+2017-07-30 01:05:37,254 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:05:45,581 INFO  [Log] #### Executing Test case: Rg_TC0062.xlsx; Description: Rg_TC0062.xlsx In firefox Browser for TestData:1 
+2017-07-30 01:05:53,063 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:05:53,875 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:05:54,104 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:05:54,186 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:05:54,186 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:06:05,000 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:06:05,105 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:06:06,218 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:06:06,218 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:06:10,688 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:06:10,688 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:06:14,842 INFO  [Log] Holiday Inn New Delhi IntL Airport; Value has been stored in index: 0 
+2017-07-30 01:06:14,950 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-30 01:06:14,950 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:06:17,178 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-30 01:06:17,678 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-30 01:06:17,753 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-30 01:06:17,814 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-30 01:06:17,936 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-30 01:06:18,017 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-30 01:06:18,083 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-30 01:06:18,146 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-30 01:06:18,277 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-30 01:06:18,277 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-07-30 01:06:20,492 INFO  [Log] TS_25: click on chart view: Action click 
+2017-07-30 01:06:20,493 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-07-30 01:06:27,040 INFO  [Log] TS_27: verify chart is present: ToolTipNavigation 
+2017-07-30 01:06:52,659 ERROR [Log] Error#: optima-62TS_28XpathVerifyCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-30 01:06:54,228 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-30 01:06:54,473 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-30 01:06:54,646 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-30 01:06:54,646 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:06:54,646 FATAL [Log] optima-62TS_28XpathVerifyCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-30 01:06:54,646 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:06:54,698 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:06:54,698 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 01:06:54,698 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:07:00,220 INFO  [Log] #### Executing Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx In chrome Browser for TestData:1 
+2017-07-30 01:07:06,744 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:07:07,247 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:07:07,374 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:07:07,447 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:07:07,447 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:07:22,284 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:07:22,451 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:07:23,759 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:07:23,759 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:07:27,906 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:07:27,906 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:07:31,993 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-07-30 01:07:32,064 INFO  [Log] TS_14: click on rates: Action click 
+2017-07-30 01:07:32,064 INFO  [Log] TS_15; Waited 2000 Milli seconds for Element 
+2017-07-30 01:07:35,406 INFO  [Log] TS_17: click on download report: Action click 
+2017-07-30 01:07:35,407 INFO  [Log] TS_18; Waited 25000 Milli seconds for Element 
+2017-07-30 01:08:00,703 INFO  [Log] TS_20; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170729_193823.xlsm 
+2017-07-30 01:08:00,704 INFO  [Log] closing test case  
+2017-07-30 01:08:00,764 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 01:08:00,774 INFO  [Log] ### Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx; status Executed 
+2017-07-30 01:08:00,775 WARN  [Log] No Browser instance is active 
+2017-07-30 01:08:00,775 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:08:07,065 INFO  [Log] #### Executing Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx In firefox Browser for TestData:1 
+2017-07-30 01:08:15,480 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:08:15,777 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:08:16,059 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:08:16,284 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:08:16,284 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:08:26,626 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:08:27,448 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:08:28,845 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:08:28,845 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:08:33,215 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:08:33,215 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:08:37,430 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-07-30 01:08:37,510 INFO  [Log] TS_14: click on rates: Action click 
+2017-07-30 01:08:37,510 INFO  [Log] TS_15; Waited 2000 Milli seconds for Element 
+2017-07-30 01:08:39,923 INFO  [Log] TS_17: click on download report: Action click 
+2017-07-30 01:08:39,923 INFO  [Log] TS_18; Waited 25000 Milli seconds for Element 
+2017-07-30 01:09:04,991 INFO  [Log] TS_20; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16551_20170727_100448.xlsm 
+2017-07-30 01:09:04,991 INFO  [Log] closing test case  
+2017-07-30 01:09:05,153 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 01:09:05,164 INFO  [Log] ### Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx; status Executed 
+2017-07-30 01:09:05,164 WARN  [Log] No Browser instance is active 
+2017-07-30 01:09:05,164 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:09:05,164 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:09:05,258 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:09:05,259 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 01:09:05,259 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:09:10,669 INFO  [Log] #### Executing Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx In chrome Browser for TestData:1 
+2017-07-30 01:09:34,774 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:10:00,398 ERROR [Log] Error#: optima-65TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-30 01:18:57,123 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-30 01:18:57,286 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-30 01:18:57,458 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-30 01:18:57,458 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:18:57,458 FATAL [Log] optima-65TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-30 01:18:57,458 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:18:57,575 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:18:57,575 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 01:18:57,575 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:19:03,530 INFO  [Log] #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx In chrome Browser for TestData:1 
+2017-07-30 01:19:12,821 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:19:13,333 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:19:13,554 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:19:13,686 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:19:13,686 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:19:26,716 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:19:27,033 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:19:28,483 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:19:28,483 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:19:32,677 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:19:32,677 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:19:36,941 INFO  [Log] Sun Safari Club Hotel; Value has been stored in index: 0 
+2017-07-30 01:19:37,124 INFO  [Log] TS_14: click on rates: Action click 
+2017-07-30 01:19:37,124 INFO  [Log] TS_15; Waited 2000 Milli seconds for Element 
+2017-07-30 01:19:39,407 INFO  [Log] TS_16: GridView: Action click 
+2017-07-30 01:19:39,408 INFO  [Log] TS_17; Waited 2000 Milli seconds for Element 
+2017-07-30 01:19:41,580 INFO  [Log] TS_18: click on brand: Action click 
+2017-07-30 01:19:41,580 INFO  [Log] TS_19; Waited 2000 Milli seconds for Element 
+2017-07-30 01:19:43,997 INFO  [Log] List of following Values has been storedTS_20: capture all the values of brand ; Action: Capture and stored value, NP, NP, NP, NP, NP, NP, NP, NP, NP, NP, NP 
+2017-07-30 01:19:44,192 INFO  [Log] TS_22: click on download report: Action click 
+2017-07-30 01:19:44,192 INFO  [Log] TS_23; Waited 35000 Milli seconds for Element 
+2017-07-30 01:20:19,287 INFO  [Log] TS_25; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16530_20170729_195025.xlsm 
+2017-07-30 01:20:20,964 INFO  [Log] TS_26; Passed; verify excel value against UI valuesvalues  [NP, NP, NP, NP, NP, NP, NP, NP, NP, NP, NP] and values[NP, NP, NP, NP, NP, NP, NP, NP, NP, NP, NP]are same 
+2017-07-30 01:20:20,964 INFO  [Log] closing test case  
+2017-07-30 01:20:21,323 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 01:20:21,336 INFO  [Log] ### Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx; status Executed 
+2017-07-30 01:20:21,336 WARN  [Log] No Browser instance is active 
+2017-07-30 01:20:21,336 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:20:29,567 INFO  [Log] #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx In firefox Browser for TestData:1 
+2017-07-30 01:20:37,274 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:20:38,202 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:20:38,558 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:20:38,634 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:20:38,634 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:20:49,484 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:20:49,785 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:20:51,079 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:20:51,079 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:20:55,413 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:20:55,414 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:20:59,599 INFO  [Log] Sun Safari Club Hotel; Value has been stored in index: 0 
+2017-07-30 01:20:59,722 INFO  [Log] TS_14: click on rates: Action click 
+2017-07-30 01:20:59,722 INFO  [Log] TS_15; Waited 2000 Milli seconds for Element 
+2017-07-30 01:21:02,088 INFO  [Log] TS_16: GridView: Action click 
+2017-07-30 01:21:02,088 INFO  [Log] TS_17; Waited 2000 Milli seconds for Element 
+2017-07-30 01:21:04,214 INFO  [Log] TS_18: click on brand: Action click 
+2017-07-30 01:21:04,215 INFO  [Log] TS_19; Waited 2000 Milli seconds for Element 
+2017-07-30 01:21:06,717 INFO  [Log] List of following Values has been storedTS_20: capture all the values of brand ; Action: Capture and stored value, NP, NP, NP, NP, NP, NP, NP, NP, NP, NP, NP 
+2017-07-30 01:21:06,942 INFO  [Log] TS_22: click on download report: Action click 
+2017-07-30 01:21:06,951 INFO  [Log] TS_23; Waited 35000 Milli seconds for Element 
+2017-07-30 01:21:42,040 INFO  [Log] TS_25; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170727_092949.xlsm 
+2017-07-30 01:21:42,831 INFO  [Log] Fail; TS_26: verify excel value against UI valuesvalues  [ND, ND, --, --, RF, --, --, --, --, --, --] and values[NP, NP, NP, NP, NP, NP, NP, NP, NP, NP, NP]are not same 
+2017-07-30 01:21:43,301 INFO  [Log] closing test case  
+2017-07-30 01:21:43,659 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 01:21:43,682 INFO  [Log] ### Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx; status Executed 
+2017-07-30 01:21:43,682 WARN  [Log] No Browser instance is active 
+2017-07-30 01:21:43,682 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:21:43,682 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:21:43,741 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:21:43,741 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0067.xlsx; Description: Rg_TC0067.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 01:21:43,741 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:21:49,187 INFO  [Log] #### Executing Test case: Rg_TC0067.xlsx; Description: Rg_TC0067.xlsx In chrome Browser for TestData:1 
+2017-07-30 01:21:57,248 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:21:57,644 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:21:57,775 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:21:57,858 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:21:57,859 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:22:12,102 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:22:12,248 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:22:13,568 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:22:13,568 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:22:17,804 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:22:17,804 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:22:22,030 INFO  [Log] TS_13: clci on settings: Action click 
+2017-07-30 01:22:22,030 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:22:24,220 INFO  [Log] TS_15: select toggle off: Action click 
+2017-07-30 01:22:24,220 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-07-30 01:22:26,413 INFO  [Log] TS_17: click on save: Action click 
+2017-07-30 01:22:26,414 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-07-30 01:22:28,643 INFO  [Log] TS_19: click on optima logo: Action click 
+2017-07-30 01:22:28,643 INFO  [Log] TS_20; Waited 5000 Milli seconds for Element 
+2017-07-30 01:22:33,862 INFO  [Log] TS_21: clcik on download report: Action click 
+2017-07-30 01:22:33,862 INFO  [Log] TS_22; Waited 5000 Milli seconds for Element 
+2017-07-30 01:22:39,029 INFO  [Log] 1 Aug 2017 - 4 Aug 2017; Value has been stored in index: 0 
+2017-07-30 01:22:39,179 INFO  [Log] 1; Value has been stored in index: 1 
+2017-07-30 01:22:39,322 INFO  [Log] 1; Value has been stored in index: 2 
+2017-07-30 01:22:39,322 INFO  [Log] TS_26; Waited 5000 Milli seconds for Element 
+2017-07-30 01:22:44,545 INFO  [Log] TS_27: click on rates: Action click 
+2017-07-30 01:22:44,546 INFO  [Log] TS_28; Waited 5000 Milli seconds for Element 
+2017-07-30 01:22:49,836 INFO  [Log] TS_29: click on grid view: Action click 
+2017-07-30 01:22:49,837 INFO  [Log] TS_30; Waited 5000 Milli seconds for Element 
+2017-07-30 01:22:55,110 INFO  [Log] Tue
+01 Aug; Value has been stored in index: 3 
+2017-07-30 01:22:55,181 INFO  [Log] User specified value has been replaced at index3New Value is: 1 Aug 
+2017-07-30 01:23:20,533 INFO  [Log] TS_34; Waited 4000 Milli seconds for Element 
+2017-07-30 01:23:24,765 INFO  [Log] Fri
+04 Aug; Value has been stored in index: 4 
+2017-07-30 01:23:24,840 INFO  [Log] User specified value has been replaced at index4New Value is: 4 Aug 
+2017-07-30 01:23:24,995 INFO  [Log] TS_37; Passed; verify no of guest; Captured text: 1; Value form page: 1,  
+2017-07-30 01:23:25,147 INFO  [Log] TS_38; Passed; verify length of stay; Captured text: 1; Value form page: 1,  
+2017-07-30 01:23:25,148 INFO  [Log] TS_39; Passed; VerifyCapturewithCapture; Captured text1: 1 aug 2017 - 4 aug 2017; Captured text2: 1 aug 
+2017-07-30 01:23:25,149 INFO  [Log] TS_40; Passed; VerifyCapturewithCapture; Captured text1: 1 aug 2017 - 4 aug 2017; Captured text2: 4 aug 
+2017-07-30 01:23:25,149 INFO  [Log] closing test case  
+2017-07-30 01:23:27,266 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 01:23:27,284 INFO  [Log] ### Test case: Rg_TC0067.xlsx; Description: Rg_TC0067.xlsx; status Executed 
+2017-07-30 01:23:27,284 WARN  [Log] No Browser instance is active 
+2017-07-30 01:23:27,285 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:23:36,256 INFO  [Log] #### Executing Test case: Rg_TC0067.xlsx; Description: Rg_TC0067.xlsx In firefox Browser for TestData:1 
+2017-07-30 01:23:44,593 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:23:44,826 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:23:45,146 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:23:45,401 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:23:45,401 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:23:56,188 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-30 01:23:56,394 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-30 01:23:57,635 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-30 01:23:57,636 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-30 01:24:02,056 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-30 01:24:02,056 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-30 01:24:06,215 INFO  [Log] TS_13: clci on settings: Action click 
+2017-07-30 01:24:06,216 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:24:08,373 INFO  [Log] TS_15: select toggle off: Action click 
+2017-07-30 01:24:08,374 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-07-30 01:24:10,527 INFO  [Log] TS_17: click on save: Action click 
+2017-07-30 01:24:10,529 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-07-30 01:24:12,822 INFO  [Log] TS_19: click on optima logo: Action click 
+2017-07-30 01:24:12,822 INFO  [Log] TS_20; Waited 5000 Milli seconds for Element 
+2017-07-30 01:24:18,117 INFO  [Log] TS_21: clcik on download report: Action click 
+2017-07-30 01:24:18,117 INFO  [Log] TS_22; Waited 5000 Milli seconds for Element 
+2017-07-30 01:24:23,299 INFO  [Log] 1 Aug 2017 - 4 Aug 2017; Value has been stored in index: 0 
+2017-07-30 01:24:23,366 INFO  [Log] 1; Value has been stored in index: 1 
+2017-07-30 01:24:23,418 INFO  [Log] 1; Value has been stored in index: 2 
+2017-07-30 01:24:23,418 INFO  [Log] TS_26; Waited 5000 Milli seconds for Element 
+2017-07-30 01:24:28,617 INFO  [Log] TS_27: click on rates: Action click 
+2017-07-30 01:24:28,620 INFO  [Log] TS_28; Waited 5000 Milli seconds for Element 
+2017-07-30 01:24:33,919 INFO  [Log] TS_29: click on grid view: Action click 
+2017-07-30 01:24:33,919 INFO  [Log] TS_30; Waited 5000 Milli seconds for Element 
+2017-07-30 01:24:39,135 INFO  [Log] Tue
+01 Aug; Value has been stored in index: 3 
+2017-07-30 01:24:39,222 INFO  [Log] User specified value has been replaced at index3New Value is: 1 Aug 
+2017-07-30 01:25:04,661 INFO  [Log] TS_34; Waited 4000 Milli seconds for Element 
+2017-07-30 01:25:08,752 INFO  [Log] Fri
+04 Aug; Value has been stored in index: 4 
+2017-07-30 01:25:08,796 INFO  [Log] User specified value has been replaced at index4New Value is: 4 Aug 
+2017-07-30 01:25:08,868 INFO  [Log] TS_37; Passed; verify no of guest; Captured text: 1; Value form page: 1,  
+2017-07-30 01:25:08,926 INFO  [Log] TS_38; Passed; verify length of stay; Captured text: 1; Value form page: 1,  
+2017-07-30 01:25:08,927 INFO  [Log] TS_39; Passed; VerifyCapturewithCapture; Captured text1: 1 aug 2017 - 4 aug 2017; Captured text2: 1 aug 
+2017-07-30 01:25:08,927 INFO  [Log] TS_40; Passed; VerifyCapturewithCapture; Captured text1: 1 aug 2017 - 4 aug 2017; Captured text2: 4 aug 
+2017-07-30 01:25:08,927 INFO  [Log] closing test case  
+2017-07-30 01:25:09,165 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 01:25:09,171 INFO  [Log] ### Test case: Rg_TC0067.xlsx; Description: Rg_TC0067.xlsx; status Executed 
+2017-07-30 01:25:09,172 WARN  [Log] No Browser instance is active 
+2017-07-30 01:25:09,172 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:25:09,172 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:25:09,346 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:25:09,346 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0068.xlsx; Description: Rg_TC0068.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-30 01:25:09,346 INFO  [Log] **************************************************************************************** 
+2017-07-30 01:25:14,800 INFO  [Log] #### Executing Test case: Rg_TC0068.xlsx; Description: Rg_TC0068.xlsx In chrome Browser for TestData:1 
+2017-07-30 01:25:22,580 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:25:23,026 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:25:23,161 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:25:23,241 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:25:23,241 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:25:33,446 INFO  [Log] TS_13: click on settings: Action click 
+2017-07-30 01:25:33,446 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:25:35,695 INFO  [Log] TS_15: select toggle on: Action click 
+2017-07-30 01:25:35,695 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-07-30 01:25:41,723 INFO  [Log] TS_17: click on save: Action click 
+2017-07-30 01:25:41,862 INFO  [Log] 30; Value has been stored in index: 0 
+2017-07-30 01:25:41,968 INFO  [Log] TS_20: click on optima logo: Action click 
+2017-07-30 01:25:41,968 INFO  [Log] TS_22; Waited 5000 Milli seconds for Element 
+2017-07-30 01:25:47,098 INFO  [Log] TS_23: click on rates: Action click 
+2017-07-30 01:25:47,098 INFO  [Log] TS_24; Waited 5000 Milli seconds for Element 
+2017-07-30 01:25:52,413 INFO  [Log] TS_25: click on grid view: Action click 
+2017-07-30 01:25:52,413 INFO  [Log] TS_26; Waited 5000 Milli seconds for Element 
+2017-07-30 01:25:57,498 INFO  [Log] TS_27: capture start value; Passed; Value: 30; and value 30are same 
+2017-07-30 01:25:57,498 INFO  [Log] closing test case  
+2017-07-30 01:25:57,907 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-30 01:25:57,919 INFO  [Log] ### Test case: Rg_TC0068.xlsx; Description: Rg_TC0068.xlsx; status Executed 
+2017-07-30 01:25:57,919 WARN  [Log] No Browser instance is active 
+2017-07-30 01:25:57,919 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:26:05,854 INFO  [Log] #### Executing Test case: Rg_TC0068.xlsx; Description: Rg_TC0068.xlsx In firefox Browser for TestData:1 
+2017-07-30 01:26:13,252 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-30 01:26:14,198 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-30 01:26:14,449 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-30 01:26:14,651 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-30 01:26:14,652 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-30 01:26:24,931 INFO  [Log] TS_13: click on settings: Action click 
+2017-07-30 01:26:24,931 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-30 01:26:27,076 INFO  [Log] TS_15: select toggle on: Action click 
+2017-07-30 01:26:27,077 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-07-30 01:26:29,232 INFO  [Log] TS_17: click on save: Action click 
+2017-07-30 01:26:29,334 INFO  [Log] 30; Value has been stored in index: 0 
+2017-07-30 01:26:29,407 INFO  [Log] TS_20: click on optima logo: Action click 
+2017-07-30 01:26:29,407 INFO  [Log] TS_22; Waited 5000 Milli seconds for Element 
+2017-07-30 01:26:34,611 INFO  [Log] TS_23: click on rates: Action click 
+2017-07-30 01:26:34,611 INFO  [Log] TS_24; Waited 5000 Milli seconds for Element 
+2017-07-30 01:26:40,279 INFO  [Log] TS_25: click on grid view: Action click 
+2017-07-30 01:26:40,280 INFO  [Log] TS_26; Waited 5000 Milli seconds for Element 
+2017-07-30 01:26:45,479 INFO  [Log] TS_27: capture start value; Passed; Value: 30; and value 30are same 
+2017-07-30 01:26:45,479 INFO  [Log] closing test case  
+2017-07-30 01:26:45,752 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-30 01:26:45,758 INFO  [Log] ### Test case: Rg_TC0068.xlsx; Description: Rg_TC0068.xlsx; status Executed 
+2017-07-30 01:26:45,758 WARN  [Log] No Browser instance is active 
+2017-07-30 01:26:45,758 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:26:45,758 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:26:45,823 INFO  [Log] Rg_TC0103_Rg_TC0103 
+2017-07-30 01:26:45,839 INFO  [Log] ####Closing Test Suite #### 
+2017-07-30 01:26:45,839 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-30 01:26:45,839 INFO  [Log] Creating Logs backup and storing for further reference 

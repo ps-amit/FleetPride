@@ -1,0 +1,45 @@
+2017-11-04 11:32:36,749 INFO  [Log] Test Scenario Configuration started 
+2017-11-04 11:32:36,778 INFO  [Log] Initialing HTML reporting 
+2017-11-04 11:32:36,992 INFO  [Log] Starting Test Suit Execution 
+2017-11-04 11:32:37,197 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-04 11:32:37,230 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-04 11:32:37,264 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-04 11:32:37,778 INFO  [Log] Object repository is created successfully 
+2017-11-04 11:32:37,866 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-04 11:32:37,925 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-04 11:32:37,969 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-04 11:32:38,012 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-04 11:32:38,055 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-04 11:32:38,096 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-04 11:32:38,131 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-04 11:32:38,178 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-04 11:32:38,208 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-04 11:32:38,239 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-04 11:32:38,268 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-04 11:32:38,297 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-04 11:32:38,327 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-04 11:32:38,357 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-04 11:32:38,404 INFO  [Log] Testing_Purpose_Blank 
+2017-11-04 11:32:38,428 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-04 11:32:38,452 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-04 11:32:38,473 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-04 11:32:38,502 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2017-11-04 11:32:38,526 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2017-11-04 11:32:38,560 INFO  [Log] **************************************************************************************** 
+2017-11-04 11:32:38,561 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_38; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-04 11:32:38,561 INFO  [Log] **************************************************************************************** 
+2017-11-04 11:32:38,593 ERROR [Log] Error#: FP_My_Cart_TC_38; Error in communicating with Browserorg.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.43.198', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: SafariDriver 
+2017-11-04 11:32:38,593 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_38; Description: Blank In Safari Browser for TestData:1 
+2017-11-04 11:32:48,617 INFO  [Log] FP_My_Cart_TC_38TS_02ObjectRepClick  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-11-04 11:32:49,445 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-04 11:32:49,480 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-04 11:32:49,521 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-04 11:32:49,521 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-04 11:32:49,521 FATAL [Log] FP_My_Cart_TC_38TS_02ObjectRepClick  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-11-04 11:32:49,521 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-04 11:32:49,622 INFO  [Log] ####Closing Test Suite #### 
+2017-11-04 11:32:49,623 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-04 11:32:49,623 INFO  [Log] Creating Logs backup and storing for further reference 

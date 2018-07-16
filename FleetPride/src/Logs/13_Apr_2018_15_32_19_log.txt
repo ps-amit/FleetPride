@@ -1,0 +1,133 @@
+2018-04-13 15:30:56,581 INFO  [Log] Test Scenario Configuration started 
+2018-04-13 15:30:56,600 INFO  [Log] Initialing HTML reporting 
+2018-04-13 15:30:56,852 INFO  [Log] Starting Test Suit Execution 
+2018-04-13 15:30:57,193 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-13 15:30:57,257 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-13 15:30:57,322 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-13 15:30:57,915 INFO  [Log] Object repository is created successfully 
+2018-04-13 15:30:57,986 INFO  [Log] **************************************************************************************** 
+2018-04-13 15:30:57,986 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-733 Interchange Products Pricing Issue PDP PLP Page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-13 15:30:57,986 INFO  [Log] **************************************************************************************** 
+2018-04-13 15:31:04,156 INFO  [Log] #### Executing Test case: PE-733 Interchange Products Pricing Issue PDP PLP Page; Description: Blank In Chrome Browser for TestData:1 
+2018-04-13 15:31:38,448 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-13 15:31:38,848 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-13 15:31:38,987 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-13 15:31:38,988 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-13 15:31:41,823 INFO  [Log] TS_05: Click on login button 
+2018-04-13 15:31:41,823 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-13 15:31:52,155 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-04-13 15:32:02,300 INFO  [Log] PE-733TS_08ObjectRepClick  org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=64.0.3282.140)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.09 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir14780_14687}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.140, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 207aee65adfd31927284bb9f01630fa6null:Exception is not handled 
+2018-04-13 15:32:13,405 WARN  [Log]  Browser instance is active 
+2018-04-13 15:32:16,416 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-13 15:32:16,537 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-13 15:32:16,663 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-13 15:32:16,663 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-13 15:32:16,664 FATAL [Log] PE-733TS_08ObjectRepClick  org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=64.0.3282.140)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.09 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir14780_14687}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.140, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 207aee65adfd31927284bb9f01630fa6null:Exception is not handled 
+2018-04-13 15:32:16,664 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-13 15:32:16,792 INFO  [Log] PE-717 Check Positive Negative Icon on PLP Page_Blank 
+2018-04-13 15:32:16,846 INFO  [Log] PE-403 My address Book Blank Scree Issue_Blank 
+2018-04-13 15:32:16,891 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:32:16,946 INFO  [Log] Pre-requisite Fetch Sales Pack DSP No_Blank 
+2018-04-13 15:32:16,981 INFO  [Log] PE-734 Sales Pack Qty issue from Quick Order_Blank 
+2018-04-13 15:32:17,025 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:32:17,054 INFO  [Log] PE-383 Price Mismatch_Blank 
+2018-04-13 15:32:17,090 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:32:17,126 INFO  [Log] PE-411 Free Parcel Shipping Text_Blank 
+2018-04-13 15:32:17,159 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:32:17,193 INFO  [Log] PE-482 Payment Credit Card_Blank 
+2018-04-13 15:32:17,240 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:32:17,284 INFO  [Log] PE-475 Incorrect Product Qty Order on Review Page_Blank 
+2018-04-13 15:32:17,330 INFO  [Log] OrderID.xlsx_Blank 
+2018-04-13 15:32:17,361 INFO  [Log] Database-script.xlsx_Blank 
+2018-04-13 15:32:17,399 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-04-13 15:32:17,450 INFO  [Log] E2E_normal_shipping -CC_Blank 
+2018-04-13 15:32:17,466 INFO  [Log] Links_Home_Page.xlsx_Blank 
+2018-04-13 15:32:17,512 INFO  [Log] Sales_Force_Login.xlsx_Blank 
+2018-04-13 15:32:17,546 INFO  [Log] E2E_Core_charges-CC_Blank 
+2018-04-13 15:32:17,577 INFO  [Log] Jira_P1_Sales_Pack_qty_validation_Quick_Order_Home_Page.xlsx_Blank 
+2018-04-13 15:32:17,617 INFO  [Log] E2E_Multiple_DC_Products_Quick_Order_Blank 
+2018-04-13 15:32:17,722 INFO  [Log] E2E_Multiple_products_Quick_Order_Blank 
+2018-04-13 15:32:17,796 INFO  [Log] E2E_back_order -stored_CC_Blank 
+2018-04-13 15:32:17,848 INFO  [Log] E2E_back_order_invoice_Blank 
+2018-04-13 15:32:17,897 INFO  [Log] E2E_normal_shipping -stored_CC_Blank 
+2018-04-13 15:32:17,925 INFO  [Log] E2E_normal_shipping_invoice_Blank 
+2018-04-13 15:32:17,946 INFO  [Log] E2E_Will_Call - stored_CC_Blank 
+2018-04-13 15:32:17,968 INFO  [Log] E2E_Will_Call -Ship_Remainder - stored_CC_Blank 
+2018-04-13 15:32:17,999 INFO  [Log] E2E_Will_Call -Ship_Remainder_invoice_Blank 
+2018-04-13 15:32:18,026 INFO  [Log] E2E_Will_Call_invoice_Blank 
+2018-04-13 15:32:18,048 INFO  [Log] fetch_SP_qty_Blank 
+2018-04-13 15:32:18,073 INFO  [Log] Sales_Pack_E2E_normal_shipping -stored_CC_Blank 
+2018-04-13 15:32:18,108 INFO  [Log] Sales_Pack_E2E_normal_shipping -invoice_Blank 
+2018-04-13 15:32:18,124 INFO  [Log] PLP_Sales_Pack_E2E_normal_shipping -CC_Blank 
+2018-04-13 15:32:18,164 INFO  [Log] E2E_Will_Call -Ship_Remainder -CC_Blank 
+2018-04-13 15:32:18,186 INFO  [Log] E2E_Quick_Order_Home_Page_Blank 
+2018-04-13 15:32:18,208 INFO  [Log] E2E_Duplicate_Line_Item_Blank 
+2018-04-13 15:32:18,225 INFO  [Log] E2E_Quick_Order_Home_Page_Free_Shipping_Blank 
+2018-04-13 15:32:18,256 INFO  [Log] E2E_X_category_product_Blank 
+2018-04-13 15:32:18,276 INFO  [Log] E2E_CSV_Order_Upload_invoice_Blank 
+2018-04-13 15:32:18,312 INFO  [Log] Product_Restriction_mycart_page.xlsx_Blank 
+2018-04-13 15:32:18,348 INFO  [Log] FP_home_page_search_productName_Blank 
+2018-04-13 15:32:18,359 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2018-04-13 15:32:18,381 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2018-04-13 15:32:18,418 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2018-04-13 15:32:18,442 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2018-04-13 15:32:18,472 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2018-04-13 15:32:18,487 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2018-04-13 15:32:18,519 INFO  [Log] FP_Order_Upload_Blank 
+2018-04-13 15:32:18,548 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2018-04-13 15:32:18,567 INFO  [Log] FP_My_Account_TC_2_Blank 
+2018-04-13 15:32:18,583 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2018-04-13 15:32:18,609 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2018-04-13 15:32:18,625 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2018-04-13 15:32:18,655 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2018-04-13 15:32:18,672 INFO  [Log] FP_My_Cart_TC_09_Blank 
+2018-04-13 15:32:18,701 INFO  [Log] FP_My_Cart_TC_44_Blank 
+2018-04-13 15:32:18,716 INFO  [Log] FP_My_Cart_TC_47_Blank 
+2018-04-13 15:32:18,753 INFO  [Log] FP_My_Cart_TC_46_Blank 
+2018-04-13 15:32:18,783 INFO  [Log] FP_Payment_TC_02_Blank 
+2018-04-13 15:32:18,817 INFO  [Log] FP_Payment_TC_15_Blank 
+2018-04-13 15:32:18,836 INFO  [Log] Sales_Force_Blank 
+2018-04-13 15:32:18,857 INFO  [Log] Search_01_Blank 
+2018-04-13 15:32:18,880 INFO  [Log] Search_02_Blank 
+2018-04-13 15:32:18,888 INFO  [Log] Search_SO_Blank 
+2018-04-13 15:32:18,923 INFO  [Log] Filter_SO_Blank 
+2018-04-13 15:32:18,934 INFO  [Log] MA_Admin_Blank 
+2018-04-13 15:32:18,950 INFO  [Log] QO_Home_Blank 
+2018-04-13 15:32:18,982 INFO  [Log] Wishlist_PDP_Blank 
+2018-04-13 15:32:19,010 INFO  [Log] Wishlist_PLP_Blank 
+2018-04-13 15:32:19,040 INFO  [Log] QO_ShopOnline_Blank 
+2018-04-13 15:32:19,050 INFO  [Log] Upload_Blank 
+2018-04-13 15:32:19,083 INFO  [Log] Invalid_Quantity_Blank 
+2018-04-13 15:32:19,107 INFO  [Log] Invalid_Product_Blank 
+2018-04-13 15:32:19,131 INFO  [Log] Edit_Will_Call_Blank 
+2018-04-13 15:32:19,159 INFO  [Log] File_Verification_Blank 
+2018-04-13 15:32:19,173 INFO  [Log] Order_List_Account_Blank 
+2018-04-13 15:32:19,193 INFO  [Log] Saved_CC_Blank 
+2018-04-13 15:32:19,223 INFO  [Log] Backorder_Blank 
+2018-04-13 15:32:19,258 INFO  [Log] Backorder_Will_Call_Blank 
+2018-04-13 15:32:19,276 INFO  [Log] Blank_File_Blank 
+2018-04-13 15:32:19,296 INFO  [Log] UO_Del_Mor_Blank 
+2018-04-13 15:32:19,304 INFO  [Log] Search_Orders_Blank 
+2018-04-13 15:32:19,337 INFO  [Log] Shipping_Address_Blank 
+2018-04-13 15:32:19,359 INFO  [Log] PDP_Details_Blank 
+2018-04-13 15:32:19,382 INFO  [Log] Sales_Pack_QO_Home_Blank 
+2018-04-13 15:32:19,385 INFO  [Log] Sales_Pack_PDP_Blank 
+2018-04-13 15:32:19,422 INFO  [Log] ####Closing Test Suite #### 
+2018-04-13 15:32:19,422 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-13 15:32:19,422 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,78 @@
+2017-08-28 11:58:52,651 INFO  [Log] Test Scenario Configuration started 
+2017-08-28 11:58:52,691 INFO  [Log] Initialing HTML reporting 
+2017-08-28 11:58:52,916 INFO  [Log] Starting Test Suit Execution 
+2017-08-28 11:58:52,916 WARN  [Log] No Browser instance is active 
+2017-08-28 11:58:53,579 INFO  [Log] Object repository is created successfully 
+2017-08-28 11:58:53,671 INFO  [Log] Rg_TC_42.xlsx_Rg_TC_42.xlsx 
+2017-08-28 11:58:53,756 INFO  [Log] Rg_TC_43.xlsx_Rg_TC_43.xlsx 
+2017-08-28 11:58:53,814 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter  
+2017-08-28 11:58:53,891 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter  
+2017-08-28 11:58:53,947 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filter 
+2017-08-28 11:58:53,997 INFO  [Log] Rg_TC_59.xlsx_Rg_TC_59.xlsx 
+2017-08-28 11:58:54,046 INFO  [Log] Rg_TC_60.xlsx_Rg_TC_60.xlsx 
+2017-08-28 11:58:54,098 INFO  [Log] Rg_TC_62.xlsx_Rg_TC_62.xlsx 
+2017-08-28 11:58:54,146 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-28 11:58:54,188 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-28 11:58:54,231 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-28 11:58:54,275 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-28 11:58:54,321 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-28 11:58:54,369 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-28 11:58:54,409 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-28 11:58:54,445 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-28 11:58:54,483 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-28 11:58:54,521 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-28 11:58:54,558 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-28 11:58:54,621 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-28 11:58:54,671 INFO  [Log] **************************************************************************************** 
+2017-08-28 11:58:54,671 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_97.xlsx; Description: Rg_TC_97.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-28 11:58:54,671 INFO  [Log] **************************************************************************************** 
+2017-08-28 11:59:08,364 INFO  [Log] #### Executing Test case: Rg_TC_97.xlsx; Description: Rg_TC_97.xlsx In firefox Browser for TestData:1 
+2017-08-28 11:59:21,054 ERROR [Log] Error#: optima-compsetpercent_filterTS_01ObjectRepOpenGivenURL  org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.rgAWzd47gK4n, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=9616.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1585f4cd-9d07-4d73-8a50-859dc1336dc2null:Exception is not handled 
+2017-08-28 11:59:21,593 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.rgAWzd47gK4n, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=9616.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1585f4cd-9d07-4d73-8a50-859dc1336dc2 
+2017-08-28 11:59:21,593 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-28 11:59:21,593 FATAL [Log] optima-compsetpercent_filterTS_01ObjectRepOpenGivenURL  org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.rgAWzd47gK4n, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=9616.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1585f4cd-9d07-4d73-8a50-859dc1336dc2null:Exception is not handled 
+2017-08-28 11:59:21,593 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-28 11:59:22,137 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-28 11:59:22,196 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-28 11:59:22,242 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-28 11:59:22,274 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-28 11:59:22,308 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-28 11:59:22,341 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-28 11:59:22,375 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-28 11:59:22,407 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-28 11:59:22,434 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-28 11:59:22,464 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-28 11:59:22,492 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-28 11:59:22,523 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-28 11:59:22,554 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-28 11:59:22,591 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-28 11:59:22,626 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-28 11:59:22,674 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-28 11:59:22,709 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-28 11:59:22,736 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-28 11:59:22,762 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-28 11:59:22,793 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-28 11:59:22,820 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-28 11:59:22,850 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-28 11:59:22,900 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-28 11:59:22,938 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-28 11:59:23,023 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-28 11:59:23,056 INFO  [Log] Rg_TC_107_parity_Rg_TC_107_parity 
+2017-08-28 11:59:23,124 INFO  [Log] ####Closing Test Suite #### 
+2017-08-28 11:59:23,124 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-28 11:59:23,127 INFO  [Log] Creating Logs backup and storing for further reference 

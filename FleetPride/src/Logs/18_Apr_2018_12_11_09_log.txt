@@ -1,0 +1,123 @@
+2018-04-18 12:10:37,126 INFO  [Log] Test Scenario Configuration started 
+2018-04-18 12:10:37,141 INFO  [Log] Initialing HTML reporting 
+2018-04-18 12:10:37,376 INFO  [Log] Starting Test Suit Execution 
+2018-04-18 12:10:37,766 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-18 12:10:37,840 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-18 12:10:37,902 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-18 12:10:38,511 INFO  [Log] Object repository is created successfully 
+2018-04-18 12:10:38,589 INFO  [Log] PE-704 Mini My Cart Link Update Issue_Blank 
+2018-04-18 12:10:38,652 INFO  [Log] PE-733 Interchange Products Pricing Issue PDP PLP Page_Blank 
+2018-04-18 12:10:38,699 INFO  [Log] **************************************************************************************** 
+2018-04-18 12:10:38,699 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-717 Check Positive Negative Icon on PLP Page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-18 12:10:38,699 INFO  [Log] **************************************************************************************** 
+2018-04-18 12:10:49,564 ERROR [Log] Error#: PE-717 Check Positive Negative Icon on PLP Page; Error in communicating with Browserorg.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-04-18 12:10:49,565 INFO  [Log] #### Executing Test case: PE-717 Check Positive Negative Icon on PLP Page; Description: Blank In IE Browser for TestData:1 
+2018-04-18 12:11:01,706 INFO  [Log] PE-717TS_01ObjectRepOpenGivenURL  org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:7218 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-04-18 12:11:04,339 WARN  [Log]  Browser instance is active 
+2018-04-18 12:11:06,379 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:7218 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-04-18 12:11:06,382 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-18 12:11:06,382 FATAL [Log] PE-717TS_01ObjectRepOpenGivenURL  org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:7218 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-04-18 12:11:06,382 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-18 12:11:06,539 INFO  [Log] PE-403 My address Book Blank Scree Issue_Blank 
+2018-04-18 12:11:06,601 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-18 12:11:06,664 INFO  [Log] Pre-requisite Fetch Sales Pack DSP No_Blank 
+2018-04-18 12:11:06,726 INFO  [Log] PE-734 Sales Pack Qty issue from Quick Order_Blank 
+2018-04-18 12:11:06,758 INFO  [Log] PE-707_Sales_Pack_Qty_Issue_PLP_Page_Blank 
+2018-04-18 12:11:06,805 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-18 12:11:06,836 INFO  [Log] PE-383 Price Mismatch_Blank 
+2018-04-18 12:11:06,867 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-18 12:11:06,898 INFO  [Log] PE-411 Free Parcel Shipping Text_Blank 
+2018-04-18 12:11:06,945 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-18 12:11:06,992 INFO  [Log] PE-482 Payment Credit Card_Blank 
+2018-04-18 12:11:07,039 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-18 12:11:07,070 INFO  [Log] PE-475 Incorrect Product Qty Order on Review Page_Blank 
+2018-04-18 12:11:07,101 INFO  [Log] OrderID.xlsx_Blank 
+2018-04-18 12:11:07,133 INFO  [Log] Database-script.xlsx_Blank 
+2018-04-18 12:11:07,164 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-04-18 12:11:07,195 INFO  [Log] E2E_normal_shipping -CC_Blank 
+2018-04-18 12:11:07,226 INFO  [Log] Links_Home_Page.xlsx_Blank 
+2018-04-18 12:11:07,258 INFO  [Log] Sales_Force_Login.xlsx_Blank 
+2018-04-18 12:11:07,289 INFO  [Log] E2E_Core_charges-CC_Blank 
+2018-04-18 12:11:07,320 INFO  [Log] Jira_P1_Sales_Pack_qty_validation_Quick_Order_Home_Page.xlsx_Blank 
+2018-04-18 12:11:07,352 INFO  [Log] E2E_Multiple_DC_Products_Quick_Order_Blank 
+2018-04-18 12:11:07,383 INFO  [Log] E2E_Multiple_products_Quick_Order_Blank 
+2018-04-18 12:11:07,424 INFO  [Log] E2E_back_order -stored_CC_Blank 
+2018-04-18 12:11:07,471 INFO  [Log] E2E_back_order_invoice_Blank 
+2018-04-18 12:11:07,518 INFO  [Log] E2E_normal_shipping -stored_CC_Blank 
+2018-04-18 12:11:07,557 INFO  [Log] E2E_normal_shipping_invoice_Blank 
+2018-04-18 12:11:07,587 INFO  [Log] E2E_Will_Call - stored_CC_Blank 
+2018-04-18 12:11:07,619 INFO  [Log] E2E_Will_Call -Ship_Remainder - stored_CC_Blank 
+2018-04-18 12:11:07,650 INFO  [Log] E2E_Will_Call -Ship_Remainder_invoice_Blank 
+2018-04-18 12:11:07,681 INFO  [Log] E2E_Will_Call_invoice_Blank 
+2018-04-18 12:11:07,697 INFO  [Log] fetch_SP_qty_Blank 
+2018-04-18 12:11:07,728 INFO  [Log] Sales_Pack_E2E_normal_shipping -stored_CC_Blank 
+2018-04-18 12:11:07,775 INFO  [Log] Sales_Pack_E2E_normal_shipping -invoice_Blank 
+2018-04-18 12:11:07,791 INFO  [Log] PLP_Sales_Pack_E2E_normal_shipping -CC_Blank 
+2018-04-18 12:11:07,822 INFO  [Log] E2E_Will_Call -Ship_Remainder -CC_Blank 
+2018-04-18 12:11:07,853 INFO  [Log] E2E_Quick_Order_Home_Page_Blank 
+2018-04-18 12:11:07,884 INFO  [Log] E2E_Duplicate_Line_Item_Blank 
+2018-04-18 12:11:07,916 INFO  [Log] E2E_Quick_Order_Home_Page_Free_Shipping_Blank 
+2018-04-18 12:11:07,955 INFO  [Log] E2E_X_category_product_Blank 
+2018-04-18 12:11:07,984 INFO  [Log] E2E_CSV_Order_Upload_invoice_Blank 
+2018-04-18 12:11:08,000 INFO  [Log] Product_Restriction_mycart_page.xlsx_Blank 
+2018-04-18 12:11:08,031 INFO  [Log] FP_home_page_search_productName_Blank 
+2018-04-18 12:11:08,062 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2018-04-18 12:11:08,078 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2018-04-18 12:11:08,109 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2018-04-18 12:11:08,140 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2018-04-18 12:11:08,172 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2018-04-18 12:11:08,187 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2018-04-18 12:11:08,218 INFO  [Log] FP_Order_Upload_Blank 
+2018-04-18 12:11:08,234 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2018-04-18 12:11:08,265 INFO  [Log] FP_My_Account_TC_2_Blank 
+2018-04-18 12:11:08,281 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2018-04-18 12:11:08,312 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2018-04-18 12:11:08,328 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2018-04-18 12:11:08,343 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2018-04-18 12:11:08,375 INFO  [Log] FP_My_Cart_TC_09_Blank 
+2018-04-18 12:11:08,402 INFO  [Log] FP_My_Cart_TC_44_Blank 
+2018-04-18 12:11:08,434 INFO  [Log] FP_My_Cart_TC_47_Blank 
+2018-04-18 12:11:08,465 INFO  [Log] FP_My_Cart_TC_46_Blank 
+2018-04-18 12:11:08,481 INFO  [Log] FP_Payment_TC_02_Blank 
+2018-04-18 12:11:08,497 INFO  [Log] FP_Payment_TC_15_Blank 
+2018-04-18 12:11:08,528 INFO  [Log] Sales_Force_Blank 
+2018-04-18 12:11:08,544 INFO  [Log] Search_01_Blank 
+2018-04-18 12:11:08,575 INFO  [Log] Search_02_Blank 
+2018-04-18 12:11:08,606 INFO  [Log] Search_SO_Blank 
+2018-04-18 12:11:08,637 INFO  [Log] Filter_SO_Blank 
+2018-04-18 12:11:08,653 INFO  [Log] MA_Admin_Blank 
+2018-04-18 12:11:08,684 INFO  [Log] QO_Home_Blank 
+2018-04-18 12:11:08,715 INFO  [Log] Wishlist_PDP_Blank 
+2018-04-18 12:11:08,731 INFO  [Log] Wishlist_PLP_Blank 
+2018-04-18 12:11:08,778 INFO  [Log] QO_ShopOnline_Blank 
+2018-04-18 12:11:08,809 INFO  [Log] Upload_Blank 
+2018-04-18 12:11:08,856 INFO  [Log] Invalid_Quantity_Blank 
+2018-04-18 12:11:08,872 INFO  [Log] Invalid_Product_Blank 
+2018-04-18 12:11:08,887 INFO  [Log] Edit_Will_Call_Blank 
+2018-04-18 12:11:08,919 INFO  [Log] File_Verification_Blank 
+2018-04-18 12:11:08,934 INFO  [Log] Order_List_Account_Blank 
+2018-04-18 12:11:08,952 INFO  [Log] Saved_CC_Blank 
+2018-04-18 12:11:08,967 INFO  [Log] Backorder_Blank 
+2018-04-18 12:11:08,998 INFO  [Log] Backorder_Will_Call_Blank 
+2018-04-18 12:11:09,014 INFO  [Log] Blank_File_Blank 
+2018-04-18 12:11:09,030 INFO  [Log] UO_Del_Mor_Blank 
+2018-04-18 12:11:09,045 INFO  [Log] Search_Orders_Blank 
+2018-04-18 12:11:09,061 INFO  [Log] Shipping_Address_Blank 
+2018-04-18 12:11:09,077 INFO  [Log] PDP_Details_Blank 
+2018-04-18 12:11:09,108 INFO  [Log] Sales_Pack_QO_Home_Blank 
+2018-04-18 12:11:09,123 INFO  [Log] Sales_Pack_PDP_Blank 
+2018-04-18 12:11:09,155 INFO  [Log] ####Closing Test Suite #### 
+2018-04-18 12:11:09,155 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-18 12:11:09,155 INFO  [Log] Creating Logs backup and storing for further reference 

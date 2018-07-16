@@ -1,0 +1,37 @@
+2018-05-21 13:05:13,936 INFO  [Log] Test Scenario Configuration started 
+2018-05-21 13:05:13,949 INFO  [Log] Initialing HTML reporting 
+2018-05-21 13:05:14,196 INFO  [Log] Starting Test Suit Execution 
+2018-05-21 13:05:14,812 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-21 13:05:14,897 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-21 13:05:14,997 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-21 13:05:15,613 INFO  [Log] Object repository is created successfully 
+2018-05-21 13:05:15,688 INFO  [Log] **************************************************************************************** 
+2018-05-21 13:05:15,688 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-685; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-21 13:05:15,688 INFO  [Log] **************************************************************************************** 
+2018-05-21 13:05:22,353 ERROR [Log] Error#: PE-685; Error in communicating with Browserorg.openqa.selenium.InvalidArgumentException: Invalid timeout type specified: page load
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.12.153', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:30897/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 988d9c3d-605d-4fcf-aa71-fc60c9c80435 
+2018-05-21 13:05:22,353 INFO  [Log] #### Executing Test case: PE-685; Description: Blank In IE Browser for TestData:1 
+2018-05-21 13:05:26,985 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-21 13:05:27,518 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-21 13:05:27,519 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-21 13:05:30,684 INFO  [Log] TS_05: Click on login button 
+2018-05-21 13:05:30,686 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-21 13:05:43,618 INFO  [Log] TS_07: Click on the "Upload Order" link from main menu 
+2018-05-21 13:05:43,618 INFO  [Log] TS_08; Waited 5000 Milli seconds for Element 
+2018-05-21 13:05:48,811 INFO  [Log] TS_10; Waited 5000 Milli seconds for Element 
+2018-05-21 13:05:53,855 INFO  [Log] Failed: TS_11: verify file is downloaded in excel fromat file extension is not same C:\Users\amit.singh\Downloads\~$High and highest.sheet (1).xlsx  as defined csv 
+2018-05-21 13:05:59,248 INFO  [Log] closing test case  
+2018-05-21 13:05:59,900 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-21 13:05:59,999 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-21 13:06:00,100 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-21 13:06:00,132 INFO  [Log] ### Test case: PE-685; Description: Blank; status Executed 
+2018-05-21 13:06:00,602 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-21 13:06:00,702 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-21 13:06:00,799 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-21 13:06:00,799 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-21 13:06:00,799 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-21 13:06:00,865 INFO  [Log] Creating Logs backup and storing for further reference 

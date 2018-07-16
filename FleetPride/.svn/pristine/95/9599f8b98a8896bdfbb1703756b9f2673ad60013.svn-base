@@ -1,0 +1,55 @@
+2017-11-02 17:43:04,168 INFO  [Log] Test Scenario Configuration started 
+2017-11-02 17:43:04,188 INFO  [Log] Initialing HTML reporting 
+2017-11-02 17:43:04,358 INFO  [Log] Starting Test Suit Execution 
+2017-11-02 17:43:04,548 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 17:43:04,578 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 17:43:04,608 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 17:43:05,074 INFO  [Log] Object repository is created successfully 
+2017-11-02 17:43:05,135 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-02 17:43:05,195 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-02 17:43:05,236 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-02 17:43:05,287 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-02 17:43:05,327 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-02 17:43:05,357 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-02 17:43:05,397 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-02 17:43:05,447 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-02 17:43:05,477 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-02 17:43:05,507 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-02 17:43:05,537 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-02 17:43:05,567 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-02 17:43:05,587 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-02 17:43:05,617 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-02 17:43:05,647 INFO  [Log] Testing_Purpose_Blank 
+2017-11-02 17:43:05,677 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-02 17:43:05,697 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-02 17:43:05,727 INFO  [Log] **************************************************************************************** 
+2017-11-02 17:43:05,727 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_01; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-02 17:43:05,727 INFO  [Log] **************************************************************************************** 
+2017-11-02 17:43:11,518 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_01; Description: Blank In Chrome Browser for TestData:1 
+2017-11-02 17:43:22,220 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 17:44:00,809 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 17:44:36,356 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 17:45:11,937 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 17:45:52,773 INFO  [Log] TS_05: Click on login button 
+2017-11-02 17:46:28,238 INFO  [Log] TS_06: Capture value at my cart link intiallyMy Cart: 0 item(s), $0.00; Value has been stored in index: 0 
+2017-11-02 17:47:03,653 INFO  [Log] User specified value has been replaced at index0New Value is: My Cart: 0 
+2017-11-02 17:47:39,067 INFO  [Log] User specified value has been replaced at index0New Value is: 0 
+2017-11-02 17:48:14,456 INFO  [Log] TS_09: Capture value at my cart linkMy Cart: 0 item(s), $0.00; Value has been stored in index: 1 
+2017-11-02 17:48:49,857 INFO  [Log] User specified value has been replaced at index1New Value is:  $0.00 
+2017-11-02 17:49:25,697 INFO  [Log] TS_11: Capture the product part number90350; Value has been stored in index: 2 
+2017-11-02 17:50:01,121 INFO  [Log] TS_12: Capture the product price$50.00; Value has been stored in index: 3 
+2017-11-02 17:50:46,450 INFO  [Log] TS_13: Click on the product link 
+2017-11-02 17:51:21,850 INFO  [Log] TS_14: Capture the product initial quantity1; Value has been stored in index: 4 
+2017-11-02 17:51:57,659 INFO  [Log] TS_15: Click on the '+' icon to change product quantity 
+2017-11-02 17:52:33,482 ERROR [Log] Error#: BlankElement Location type is not defined 
+2017-11-02 17:52:33,482 INFO  [Log] FP_My_Cart_TC_01BlankBlankValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-02 17:52:34,437 WARN  [Log]  Browser instance is active 
+2017-11-02 17:52:36,978 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 17:52:37,009 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 17:52:37,049 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 17:52:37,049 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 17:52:37,049 FATAL [Log] FP_My_Cart_TC_01BlankBlankValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-02 17:52:37,049 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 17:52:37,099 INFO  [Log] ####Closing Test Suite #### 
+2017-11-02 17:52:37,099 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 17:52:37,099 INFO  [Log] Creating Logs backup and storing for further reference 

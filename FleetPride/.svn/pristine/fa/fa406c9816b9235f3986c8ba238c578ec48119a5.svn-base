@@ -1,0 +1,46 @@
+2017-07-14 12:03:32,400 INFO  [Log] Test Scenario Configuration started 
+2017-07-14 12:03:32,423 INFO  [Log] Initialing HTML reporting 
+2017-07-14 12:03:32,647 INFO  [Log] Starting Test Suit Execution 
+2017-07-14 12:03:32,647 WARN  [Log] Browser instance value is null 
+2017-07-14 12:03:33,211 INFO  [Log] Object repository is created successfully 
+2017-07-14 12:03:33,317 INFO  [Log] **************************************************************************************** 
+2017-07-14 12:03:33,317 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain123.xlsx; Description: RateGain123.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-14 12:03:33,317 INFO  [Log] **************************************************************************************** 
+2017-07-14 12:03:44,255 INFO  [Log] #### Executing Test case: RateGain123.xlsx; Description: RateGain123.xlsx In Chrome Browser for TestData:1 
+2017-07-14 12:03:54,445 INFO  [Log] RG_4-01: Open URL; Action: open URL 
+2017-07-14 12:03:54,472 INFO  [Log] RG_4-02; Waited 5000 Milli seconds for Element 
+2017-07-14 12:03:59,814 INFO  [Log] RG_4-03: Enter User ID: Action Submit If 
+2017-07-14 12:03:59,967 INFO  [Log] RG_4-04: Enter Password: Action Submit If 
+2017-07-14 12:04:04,600 INFO  [Log] RG_4-05: Click on Login: Action click 
+2017-07-14 12:04:04,601 INFO  [Log] RG_4-06; Waited 2000 Milli seconds for Element 
+2017-07-14 12:04:06,730 INFO  [Log] RG_4-07: EnterPriceClick: Action click 
+2017-07-14 12:04:06,731 INFO  [Log] RG_4-08; Waited 2000 Milli seconds for Element 
+2017-07-14 12:04:15,846 INFO  [Log] RG_4-09: ToolTipNavigation: ToolTipNavigation 
+2017-07-14 12:04:15,847 INFO  [Log] RG_4-10; Waited 2000 Milli seconds for Element 
+2017-07-14 12:04:17,961 INFO  [Log] Cleanliness: 8.24 | Individual Coverage: 15.06% | Cumulative Coverage: 15.06%; Value has been stored in index: 0 
+2017-07-14 12:04:17,962 INFO  [Log] RG_4-12; Waited 2000 Milli seconds for Element 
+2017-07-14 12:04:19,963 INFO  [Log] closing test case  
+2017-07-14 12:04:20,591 INFO  [Log] Closing instance of Browser: Chrome 
+2017-07-14 12:04:20,615 INFO  [Log] ### Test case: RateGain123.xlsx; Description: RateGain123.xlsx; status Executed 
+2017-07-14 12:04:22,711 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-14 12:04:22,862 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-14 12:04:23,593 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-14 12:04:23,593 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-14 12:04:23,593 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-14 12:04:24,374 INFO  [Log] AlertRateKart_1_AlertRateKart_1 
+2017-07-14 12:04:24,424 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-14 12:04:24,528 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-14 12:04:24,605 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-14 12:04:24,666 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-14 12:04:24,712 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-14 12:04:24,771 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-14 12:04:24,817 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-14 12:04:24,845 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-14 12:04:24,876 INFO  [Log] RateGain-4_Testing  
+2017-07-14 12:04:24,960 INFO  [Log] RateGain-5_RateGain -5 
+2017-07-14 12:04:25,008 INFO  [Log] RateGain-6_RateGain -6 
+2017-07-14 12:04:25,039 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-14 12:04:25,066 INFO  [Log] PostRequest_PostRequest 
+2017-07-14 12:04:25,093 INFO  [Log] ####Closing Test Suite #### 
+2017-07-14 12:04:25,093 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-14 12:04:25,093 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,26 @@
+2018-06-20 16:37:44,035 INFO  [Log] Test Scenario Configuration started 
+2018-06-20 16:37:44,054 INFO  [Log] Initialing HTML reporting 
+2018-06-20 16:37:44,322 INFO  [Log] Starting Test Suit Execution 
+2018-06-20 16:37:44,730 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-20 16:37:44,809 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-20 16:37:44,888 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-20 16:37:45,539 INFO  [Log] Object repository is created successfully 
+2018-06-20 16:37:45,631 INFO  [Log] **************************************************************************************** 
+2018-06-20 16:37:45,632 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-20 16:37:45,632 INFO  [Log] **************************************************************************************** 
+2018-06-20 16:37:51,627 INFO  [Log] #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2018-06-20 16:37:54,059 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-06-20 16:37:56,330 INFO  [Log] TS_02; Waited 5000 Milli seconds for Element 
+2018-06-20 16:38:18,941 INFO  [Log] CostUpdateTaskCreationTS_03XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-06-20 16:38:19,517 WARN  [Log]  Browser instance is active 
+2018-06-20 16:38:20,114 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-20 16:38:20,191 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-20 16:38:20,271 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-20 16:38:20,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 16:38:20,271 FATAL [Log] CostUpdateTaskCreationTS_03XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-06-20 16:38:20,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 16:38:20,388 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-20 16:38:20,449 INFO  [Log] Simple_Login_Blank 
+2018-06-20 16:38:20,527 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-20 16:38:20,578 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-20 16:38:20,602 INFO  [Log] Creating Logs backup and storing for further reference 

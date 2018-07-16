@@ -1,0 +1,34 @@
+2017-10-12 18:20:45,202 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 18:20:45,222 INFO  [Log] Initialing HTML reporting 
+2017-10-12 18:20:45,382 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 18:20:45,562 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 18:20:45,602 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 18:20:45,632 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 18:20:46,069 INFO  [Log] Object repository is created successfully 
+2017-10-12 18:20:46,160 INFO  [Log] **************************************************************************************** 
+2017-10-12 18:20:46,160 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 18:20:46,160 INFO  [Log] **************************************************************************************** 
+2017-10-12 18:20:52,148 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 18:20:57,461 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 18:21:33,285 INFO  [Log] TS_02: Input value in the Searc box; Action: Submited ValueValue: Additives 
+2017-10-12 18:22:12,685 INFO  [Log] TS_03: Click on the search icon 
+2017-10-12 18:22:12,690 INFO  [Log] TS_04; Waited 3000 Milli seconds for Element 
+2017-10-12 18:22:51,229 INFO  [Log] TS_05; Passed; Verify the screen having text 'Search Results' in breadcrumb; Value: search results; Present in Page values: Search Results,  
+2017-10-12 18:23:26,761 INFO  [Log] TS_06: Capture the price of the product that appears at first in the list.$20.00; Value has been stored in index: 0 
+2017-10-12 18:24:02,255 INFO  [Log] TS_07: Click on Add to card button 
+2017-10-12 18:24:37,809 INFO  [Log] TS_08: Capture the price of the product that appears at the top after clicking on the Add to cart button.My Cart: 1 item, $20.00; Value has been stored in index: 1 
+2017-10-12 18:25:13,204 INFO  [Log] User specified value has been replaced at index1New Value is: $20.00 
+2017-10-12 18:25:13,207 INFO  [Log] TS_10; Passed; Verify the product rates as per the quantity selected.; Captured text1: $20.00; Captured text2: $20.00 
+2017-10-12 18:25:18,208 INFO  [Log] closing test case  
+2017-10-12 18:25:20,892 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 18:25:20,937 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 18:25:20,986 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 18:25:21,002 INFO  [Log] ### Test case: quick_order; Description: Blank; status Executed 
+2017-10-12 18:25:21,189 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 18:25:21,224 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 18:25:21,260 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 18:25:21,261 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 18:25:21,261 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 18:25:21,535 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 18:25:21,535 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 18:25:21,535 INFO  [Log] Creating Logs backup and storing for further reference 

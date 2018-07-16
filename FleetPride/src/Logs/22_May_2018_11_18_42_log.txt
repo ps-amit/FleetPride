@@ -1,0 +1,26 @@
+2018-05-22 11:18:41,755 INFO  [Log] Test Scenario Configuration started 
+2018-05-22 11:18:41,782 INFO  [Log] Initialing HTML reporting 
+2018-05-22 11:18:42,040 INFO  [Log] Starting Test Suit Execution 
+2018-05-22 11:18:42,453 INFO  [Log] closing test case  
+2018-05-22 11:18:42,469 ERROR [Log] Error#: Blank; Browser Window is Closedorg.openqa.selenium.NoSuchWindowException: Unable to get browser
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.3.51', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:36739/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: a77512d4-472d-4b86-8b3a-1a578299bfbb 
+2018-05-22 11:18:42,748 WARN  [Log]  Browser instance is active 
+2018-05-22 11:18:42,754 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.NoSuchWindowException: Unable to get browser
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.3.51', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:36739/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: a77512d4-472d-4b86-8b3a-1a578299bfbb 
+2018-05-22 11:18:42,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 11:18:42,754 FATAL [Log] Blank; Browser Window is Closedorg.openqa.selenium.NoSuchWindowException: Unable to get browser
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.3.51', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:36739/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: a77512d4-472d-4b86-8b3a-1a578299bfbb 
+2018-05-22 11:18:42,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 11:18:42,855 INFO  [Log] Creating Logs backup and storing for further reference 

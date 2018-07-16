@@ -1,0 +1,246 @@
+2017-09-04 11:27:30,681 INFO  [Log] Test Scenario Configuration started 
+2017-09-04 11:27:30,713 INFO  [Log] Initialing HTML reporting 
+2017-09-04 11:27:31,186 INFO  [Log] Starting Test Suit Execution 
+2017-09-04 11:27:31,186 WARN  [Log] No Browser instance is active 
+2017-09-04 11:27:32,245 INFO  [Log] Object repository is created successfully 
+2017-09-04 11:27:32,695 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-04 11:27:32,977 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-04 11:27:33,116 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-04 11:27:33,169 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-04 11:27:33,288 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-04 11:27:33,376 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-04 11:27:33,490 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-04 11:27:33,561 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-04 11:27:33,648 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-04 11:27:33,767 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-04 11:27:33,937 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-04 11:27:33,989 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-04 11:27:34,145 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-04 11:27:34,319 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-04 11:27:34,395 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-04 11:27:34,461 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-04 11:27:34,538 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-04 11:27:34,619 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-04 11:27:34,695 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-04 11:27:34,760 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-04 11:27:34,843 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-04 11:27:34,899 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-04 11:27:35,021 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-04 11:27:35,140 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-04 11:27:35,308 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-04 11:27:35,461 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-04 11:27:35,540 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-04 11:27:35,619 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-04 11:27:35,697 INFO  [Log] **************************************************************************************** 
+2017-09-04 11:27:35,697 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_69.xlsx; Description: To verify  Rate Difference from Compset Avg. Rate (Default Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-04 11:27:35,697 INFO  [Log] **************************************************************************************** 
+2017-09-04 11:27:36,154 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-04 11:27:37,193 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-04 11:27:37,193 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-04 11:27:37,193 FATAL [Log] optima_compsetAvgDiff_filterTS_08XpathEditElementlocation  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-09-04 11:27:37,193 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-04 11:27:37,342 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-04 11:27:37,381 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-04 11:27:37,481 INFO  [Log] RG_TC_001_To verify 'Optima Login Problem? 
+2017-09-04 11:27:37,621 INFO  [Log] RG_TC_002_To verify 'Forgot Password' 
+2017-09-04 11:27:37,847 INFO  [Log] RG_TC_003_To verify login of existing user 
+2017-09-04 11:27:38,217 INFO  [Log] RG_TC_007_To verify "May Be Later" functionality 
+2017-09-04 11:27:38,279 INFO  [Log] RG_TC_008_To verify 'Cancel' Notification Funcitonality 
+2017-09-04 11:27:38,387 INFO  [Log] RG_TC_009_To verify 'Show me How'notification functionality and instructions 
+2017-09-04 11:27:38,462 INFO  [Log] RG_TC_065_To verify Events on all rates views 
+2017-09-04 11:27:38,530 INFO  [Log] RG_TC_111_To verify the download Excel (Parity) 
+2017-09-04 11:27:38,581 INFO  [Log] RG_TC_118_To verify the Trends Excel download  
+2017-09-04 11:27:38,617 INFO  [Log] RG_TC_140_To verify Rank Excel is Downloading  
+2017-09-04 11:27:38,657 INFO  [Log] RG_TC_163_To verify information on manage scheduled report page 
+2017-09-04 11:27:38,697 INFO  [Log] RG_TC_167_To Verify the general settings section 
+2017-09-04 11:27:38,747 INFO  [Log] RG_TC_168_Verify the Market section 
+2017-09-04 11:27:38,838 INFO  [Log] RG_TC_176_To verify the Parity grid view(OTA/TRIPADVISOR/TRIVAGO 
+2017-09-04 11:27:38,894 INFO  [Log] RG_TC_177_To verify user should be able to selected from basic and advance mapping options 
+2017-09-04 11:27:38,968 INFO  [Log] RG_TC_184_To verify user is able to search compititor 
+2017-09-04 11:27:39,018 INFO  [Log] RG_TC_185_To verify User is able to see all competitors on the screen with competitive pressure, threshold value 
+2017-09-04 11:27:39,097 INFO  [Log] RG_TC_186_To verify User should be able to delete any competitor from the bucket 
+2017-09-04 11:27:39,210 INFO  [Log] RG_TC_187_to verify User should be able to edit competitive pressure and threshold value for each competitor 
+2017-09-04 11:27:39,346 INFO  [Log] RG_TC_188_To verify User should be able to change the order of any competitor 
+2017-09-04 11:27:39,385 INFO  [Log] RG_TC_189_To verify User should be able to send a request to add competitor in the bucket which is not find in the search 
+2017-09-04 11:27:39,444 INFO  [Log] PGNG1030_TC_005_To verify that user is allowed to modify search keyword on every additional char typed after 2 char 
+2017-09-04 11:27:39,481 INFO  [Log] PGNG1030_TC_006_To verify the search logic when search keyword is more than one 
+2017-09-04 11:27:39,518 INFO  [Log] PGNG1030_TC_012_To verify the functionality of First property selection from the result set 
+2017-09-04 11:27:39,552 INFO  [Log] PGNG1030_TC_013_To verify the search functionality when user do not found any property in the search result 
+2017-09-04 11:27:39,640 INFO  [Log] PGNG1030_TC_015_To verify the functionality of "Can't find hotel" link 
+2017-09-04 11:27:39,679 INFO  [Log] PGNG1030_TC_017_To verify the validation if mandatory information is missing and click on "Send Request button " in "Can't find your Competitor " pop up 
+2017-09-04 11:27:39,727 INFO  [Log] PGNG1030_TC_019_To verify the functionality of Cancel button in "Can't find your Competitor " pop up 
+2017-09-04 11:27:39,764 INFO  [Log] PGNG1030_TC_022_To verify the email id and resolution time in Acknowledgement pop up 
+2017-09-04 11:27:39,804 INFO  [Log] PGNG1030_TC_038_To verify the Wightage for newly added competitor when property select from the search result 
+2017-09-04 11:27:39,838 INFO  [Log] PGNG1030_TC_039_To verify the Threshold Value for newly added competitor(Absolute) 
+2017-09-04 11:27:39,872 INFO  [Log] PGNG1030_TC_040_To verify the Threshold Value for newly added competitor(Percentage) 
+2017-09-04 11:27:39,906 INFO  [Log] PGNG1030_TC_045_To verify that on adding a newly competitor in the bucket should add in all relevant screens 
+2017-09-04 11:27:39,940 INFO  [Log] PGNG1030_TC_048_To verify Newly added property should available on the Rates Graphical View hover 
+2017-09-04 11:27:39,973 INFO  [Log] PGNG1030_TC_075_To verify competitor property in Channel Info under Tax page when property select from the search result in Competitor page 
+2017-09-04 11:27:40,005 INFO  [Log] PGNG1030_TC_078_To verify order of the properties in Properties list box in Tax Value popup 
+2017-09-04 11:27:40,038 INFO  [Log] PGNG1030_TC_079_To verify order of the properties in Channel Info section in Tax Value popup 
+2017-09-04 11:27:40,075 INFO  [Log] PGNG1030_TC_105_To verify that user is able to edit competitors in compset bucket 
+2017-09-04 11:27:40,112 INFO  [Log] PGNG1030_TC_106_To verify that updated value of "Weightage" and "Threshold" for a competitor should reflect in compset bucket when click on Save icon 
+2017-09-04 11:27:40,155 INFO  [Log] PGNG1030_TC_107_To verify that updated value of "Weightage" and "Threshold" for a competitor should NOTreflect in compset bucket if click on Cancel icon 
+2017-09-04 11:27:40,202 INFO  [Log] PGNG1030_TC_111_To verify Comepetitors on Rate >> Competitiveness Graph 
+2017-09-04 11:27:40,244 INFO  [Log] PGNG1030_TC_120_to verify order of the property in Download Report page if same property is available 
+2017-09-04 11:27:40,291 INFO  [Log] ####Closing Test Suite #### 
+2017-09-04 11:27:40,291 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-04 11:27:40,291 INFO  [Log] Creating Logs backup and storing for further reference 
+2017-09-04 11:27:46,675 INFO  [Log] #### Executing Test case: Rg_TC_69.xlsx; Description: To verify  Rate Difference from Compset Avg. Rate (Default Filter) In firefox Browser for TestData:1 
+2017-09-04 11:28:03,097 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-04 11:28:03,512 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-04 11:28:03,625 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-04 11:28:03,720 INFO  [Log] TS_04: Click on login button 
+2017-09-04 11:28:03,721 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-09-04 11:28:14,568 INFO  [Log] TS_06: click on user name  
+2017-09-04 11:28:14,906 INFO  [Log] TS_07: click on choose property 
+2017-09-04 11:28:15,480 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-04 11:28:16,612 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-04 11:28:16,612 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-09-04 11:28:26,929 INFO  [Log] TS_11: Click on property 
+2017-09-04 11:28:26,930 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-09-04 11:28:37,064 INFO  [Log] TS_13: click on rates 
+2017-09-04 11:28:37,065 INFO  [Log] TS_14; Waited 12000 Milli seconds for Element 
+2017-09-04 11:28:49,468 INFO  [Log] TS_15: click on grid view 
+2017-09-04 11:28:49,470 INFO  [Log] TS_16; Waited 12000 Milli seconds for Element 
+2017-09-04 11:29:01,989 INFO  [Log] TS_17: clcik on rangefilter 
+2017-09-04 11:29:01,990 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-09-04 11:29:07,025 INFO  [Log] TS_19: select start dateDate selected: 1 November 
+2017-09-04 11:29:07,026 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-04 11:29:09,380 INFO  [Log] TS_21: select end dateDate selected: 5 November 
+2017-09-04 11:29:09,380 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-04 11:29:12,291 INFO  [Log] TS_23: click on apply 
+2017-09-04 11:29:12,291 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-09-04 11:29:16,410 INFO  [Log] TS_25: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Sun Nov 05 00:00:00 IST 2017] 
+2017-09-04 11:29:16,411 INFO  [Log] TS_26; Waited 10000 Milli seconds for Element 
+2017-09-04 11:29:26,492 INFO  [Log] TS_27: capture our property rate361
++360; Value has been stored in index: 0 
+2017-09-04 11:29:26,535 INFO  [Log] User specified value has been replaced at index0New Value is: 361 
+2017-09-04 11:29:26,608 INFO  [Log] TS_29: capture average rate96; Value has been stored in index: 1 
+2017-09-04 11:29:26,608 INFO  [Log] 265; Value has been stored in index: 2 
+2017-09-04 11:29:26,609 INFO  [Log] TS_31; Waited 8000 Milli seconds for Element 
+2017-09-04 11:29:34,715 INFO  [Log] TS_32: click on calander view 
+2017-09-04 11:29:34,716 INFO  [Log] TS_33; Waited 8000 Milli seconds for Element 
+2017-09-04 11:29:42,838 INFO  [Log] TS_34: click on legends 
+2017-09-04 11:29:42,838 INFO  [Log] TS_35; Waited 2000 Milli seconds for Element 
+2017-09-04 11:29:52,992 INFO  [Log] TS_36: click on Rate Difference from Compset Avg. Rate if not clicked: Action Element is not present moving to next step 
+2017-09-04 11:29:52,992 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-04 11:29:55,076 INFO  [Log] TS_38: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-04 11:29:55,159 INFO  [Log] TS_39: capture Rate Difference from Compset Avg. Rate on calander+188; Value has been stored in index: 3 
+2017-09-04 11:29:55,159 INFO  [Log] Fail; TS_40: verify Compset Avg Supply with graphverify Compset Avg Supply with graph; Captured text1: 265; Captured text2: +188 
+2017-09-04 11:30:00,622 INFO  [Log] closing test case  
+2017-09-04 11:30:00,999 INFO  [Log] ### Test case: Rg_TC_69.xlsx; Description: To verify  Rate Difference from Compset Avg. Rate (Default Filter); status Executed 
+2017-09-04 11:30:01,000 WARN  [Log] No Browser instance is active 
+2017-09-04 11:30:01,000 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-04 11:30:01,000 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-04 11:30:01,184 INFO  [Log] **************************************************************************************** 
+2017-09-04 11:30:01,184 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_70.xlsx; Description: To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-04 11:30:01,184 INFO  [Log] **************************************************************************************** 
+2017-09-04 11:30:08,015 INFO  [Log] #### Executing Test case: Rg_TC_70.xlsx; Description: To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) In firefox Browser for TestData:1 
+2017-09-04 11:30:24,864 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-04 11:30:25,194 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-04 11:30:25,557 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-04 11:30:25,792 INFO  [Log] TS_04: Click on login button 
+2017-09-04 11:30:25,793 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-09-04 11:30:36,434 INFO  [Log] TS_06: click on user name  
+2017-09-04 11:30:36,674 INFO  [Log] TS_07: click on choose property 
+2017-09-04 11:30:36,721 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-04 11:30:37,947 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-04 11:30:37,947 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-09-04 11:30:48,216 INFO  [Log] TS_11: Click on property 
+2017-09-04 11:30:48,217 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-09-04 11:30:58,356 INFO  [Log] TS_13: click on rates 
+2017-09-04 11:30:58,356 INFO  [Log] TS_14; Waited 12000 Milli seconds for Element 
+2017-09-04 11:31:10,908 INFO  [Log] TS_15: click on grid view 
+2017-09-04 11:31:10,908 INFO  [Log] TS_16; Waited 12000 Milli seconds for Element 
+2017-09-04 11:31:23,227 INFO  [Log] TS_17: clcik on rangefilter 
+2017-09-04 11:31:23,228 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-09-04 11:31:28,258 INFO  [Log] TS_19: select start dateDate selected: 1 November 
+2017-09-04 11:31:28,258 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-04 11:31:30,632 INFO  [Log] TS_21: select end dateDate selected: 5 November 
+2017-09-04 11:31:30,632 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-04 11:31:33,771 INFO  [Log] TS_23: click on apply 
+2017-09-04 11:31:33,772 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-09-04 11:31:37,968 INFO  [Log] TS_25: RateFilter 
+2017-09-04 11:31:37,968 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-09-04 11:31:42,130 INFO  [Log] TS_27: Qualification    All; Action: Drop Down Select 
+2017-09-04 11:31:42,299 INFO  [Log] TS_28: Restriction    Restricted; Action: Drop Down Select 
+2017-09-04 11:31:42,464 INFO  [Log] TS_29: Promotion    Promotional; Action: Drop Down Select 
+2017-09-04 11:31:42,599 INFO  [Log] TS_30: LOS    2; Action: Drop Down Select 
+2017-09-04 11:31:42,724 INFO  [Log] TS_31: GuestCount    3; Action: Drop Down Select 
+2017-09-04 11:31:43,101 INFO  [Log] TS_32: RoomType    All; Action: Drop Down Select 
+2017-09-04 11:31:43,101 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-04 11:31:57,317 INFO  [Log] TS_34: Channel; Action:  filter values 
+2017-09-04 11:31:57,318 INFO  [Log] TS_35; Waited 2000 Milli seconds for Element 
+2017-09-04 11:32:04,698 INFO  [Log] TS_36: Inclusion; Action:  filter values 
+2017-09-04 11:32:04,698 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-04 11:32:07,024 INFO  [Log] TS_38: click on apply 
+2017-09-04 11:32:07,025 INFO  [Log] TS_39; Waited 4000 Milli seconds for Element 
+2017-09-04 11:32:11,087 INFO  [Log] TS_40: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Sun Nov 05 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Sun Nov 05 00:00:00 IST 2017] 
+2017-09-04 11:32:11,088 INFO  [Log] TS_41; Waited 10000 Milli seconds for Element 
+2017-09-04 11:32:21,172 INFO  [Log] TS_42: capture our property rateNA; Value has been stored in index: 0 
+2017-09-04 11:32:21,214 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-09-04 11:32:21,276 INFO  [Log] TS_44: capture average rateNA; Value has been stored in index: 1 
+2017-09-04 11:32:21,277 INFO  [Log] 0; Value has been stored in index: 2 
+2017-09-04 11:32:21,277 INFO  [Log] TS_46; Waited 8000 Milli seconds for Element 
+2017-09-04 11:32:29,465 INFO  [Log] TS_47: click on calander view 
+2017-09-04 11:32:29,466 INFO  [Log] TS_48; Waited 8000 Milli seconds for Element 
+2017-09-04 11:32:37,627 INFO  [Log] TS_49: click on legends 
+2017-09-04 11:32:37,627 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2017-09-04 11:32:47,805 INFO  [Log] TS_51: click on Rate Difference from Compset Avg. Rate if not clicked: Action Element is not present moving to next step 
+2017-09-04 11:32:47,805 INFO  [Log] TS_52; Waited 2000 Milli seconds for Element 
+2017-09-04 11:32:49,864 INFO  [Log] TS_53: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-04 11:33:15,242 INFO  [Log] optima_compsetAvgDiff_filterTS_54ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-04 11:33:16,615 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-04 11:33:16,802 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-04 11:33:16,979 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-04 11:33:16,979 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-04 11:33:16,979 FATAL [Log] optima_compsetAvgDiff_filterTS_54ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-04 11:33:16,979 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-04 11:33:17,058 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-04 11:33:17,104 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-04 11:33:17,143 INFO  [Log] RG_TC_001_To verify 'Optima Login Problem? 
+2017-09-04 11:33:17,177 INFO  [Log] RG_TC_002_To verify 'Forgot Password' 
+2017-09-04 11:33:17,230 INFO  [Log] RG_TC_003_To verify login of existing user 
+2017-09-04 11:33:17,285 INFO  [Log] RG_TC_007_To verify "May Be Later" functionality 
+2017-09-04 11:33:17,334 INFO  [Log] RG_TC_008_To verify 'Cancel' Notification Funcitonality 
+2017-09-04 11:33:17,396 INFO  [Log] RG_TC_009_To verify 'Show me How'notification functionality and instructions 
+2017-09-04 11:33:17,438 INFO  [Log] RG_TC_065_To verify Events on all rates views 
+2017-09-04 11:33:17,479 INFO  [Log] RG_TC_111_To verify the download Excel (Parity) 
+2017-09-04 11:33:17,516 INFO  [Log] RG_TC_118_To verify the Trends Excel download  
+2017-09-04 11:33:17,557 INFO  [Log] RG_TC_140_To verify Rank Excel is Downloading  
+2017-09-04 11:33:17,598 INFO  [Log] RG_TC_163_To verify information on manage scheduled report page 
+2017-09-04 11:33:17,634 INFO  [Log] RG_TC_167_To Verify the general settings section 
+2017-09-04 11:33:17,678 INFO  [Log] RG_TC_168_Verify the Market section 
+2017-09-04 11:33:17,717 INFO  [Log] RG_TC_176_To verify the Parity grid view(OTA/TRIPADVISOR/TRIVAGO 
+2017-09-04 11:33:17,749 INFO  [Log] RG_TC_177_To verify user should be able to selected from basic and advance mapping options 
+2017-09-04 11:33:17,782 INFO  [Log] RG_TC_184_To verify user is able to search compititor 
+2017-09-04 11:33:17,817 INFO  [Log] RG_TC_185_To verify User is able to see all competitors on the screen with competitive pressure, threshold value 
+2017-09-04 11:33:17,875 INFO  [Log] RG_TC_186_To verify User should be able to delete any competitor from the bucket 
+2017-09-04 11:33:17,916 INFO  [Log] RG_TC_187_to verify User should be able to edit competitive pressure and threshold value for each competitor 
+2017-09-04 11:33:17,960 INFO  [Log] RG_TC_188_To verify User should be able to change the order of any competitor 
+2017-09-04 11:33:18,001 INFO  [Log] RG_TC_189_To verify User should be able to send a request to add competitor in the bucket which is not find in the search 
+2017-09-04 11:33:18,042 INFO  [Log] PGNG1030_TC_005_To verify that user is allowed to modify search keyword on every additional char typed after 2 char 
+2017-09-04 11:33:18,076 INFO  [Log] PGNG1030_TC_006_To verify the search logic when search keyword is more than one 
+2017-09-04 11:33:18,110 INFO  [Log] PGNG1030_TC_012_To verify the functionality of First property selection from the result set 
+2017-09-04 11:33:18,147 INFO  [Log] PGNG1030_TC_013_To verify the search functionality when user do not found any property in the search result 
+2017-09-04 11:33:18,182 INFO  [Log] PGNG1030_TC_015_To verify the functionality of "Can't find hotel" link 
+2017-09-04 11:33:18,225 INFO  [Log] PGNG1030_TC_017_To verify the validation if mandatory information is missing and click on "Send Request button " in "Can't find your Competitor " pop up 
+2017-09-04 11:33:18,276 INFO  [Log] PGNG1030_TC_019_To verify the functionality of Cancel button in "Can't find your Competitor " pop up 
+2017-09-04 11:33:18,333 INFO  [Log] PGNG1030_TC_022_To verify the email id and resolution time in Acknowledgement pop up 
+2017-09-04 11:33:18,411 INFO  [Log] PGNG1030_TC_038_To verify the Wightage for newly added competitor when property select from the search result 
+2017-09-04 11:33:18,450 INFO  [Log] PGNG1030_TC_039_To verify the Threshold Value for newly added competitor(Absolute) 
+2017-09-04 11:33:18,487 INFO  [Log] PGNG1030_TC_040_To verify the Threshold Value for newly added competitor(Percentage) 
+2017-09-04 11:33:18,532 INFO  [Log] PGNG1030_TC_045_To verify that on adding a newly competitor in the bucket should add in all relevant screens 
+2017-09-04 11:33:18,587 INFO  [Log] PGNG1030_TC_048_To verify Newly added property should available on the Rates Graphical View hover 
+2017-09-04 11:33:18,609 INFO  [Log] PGNG1030_TC_075_To verify competitor property in Channel Info under Tax page when property select from the search result in Competitor page 
+2017-09-04 11:33:18,633 INFO  [Log] PGNG1030_TC_078_To verify order of the properties in Properties list box in Tax Value popup 
+2017-09-04 11:33:18,657 INFO  [Log] PGNG1030_TC_079_To verify order of the properties in Channel Info section in Tax Value popup 
+2017-09-04 11:33:18,692 INFO  [Log] PGNG1030_TC_105_To verify that user is able to edit competitors in compset bucket 
+2017-09-04 11:33:18,714 INFO  [Log] PGNG1030_TC_106_To verify that updated value of "Weightage" and "Threshold" for a competitor should reflect in compset bucket when click on Save icon 
+2017-09-04 11:33:18,738 INFO  [Log] PGNG1030_TC_107_To verify that updated value of "Weightage" and "Threshold" for a competitor should NOTreflect in compset bucket if click on Cancel icon 
+2017-09-04 11:33:18,765 INFO  [Log] PGNG1030_TC_111_To verify Comepetitors on Rate >> Competitiveness Graph 
+2017-09-04 11:33:18,788 INFO  [Log] PGNG1030_TC_120_to verify order of the property in Download Report page if same property is available 
+2017-09-04 11:33:18,819 INFO  [Log] ####Closing Test Suite #### 
+2017-09-04 11:33:18,820 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-04 11:33:18,820 INFO  [Log] Creating Logs backup and storing for further reference 

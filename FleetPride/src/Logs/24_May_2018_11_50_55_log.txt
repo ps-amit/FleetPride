@@ -1,0 +1,40 @@
+2018-05-24 11:49:50,975 INFO  [Log] Test Scenario Configuration started 
+2018-05-24 11:49:50,993 INFO  [Log] Initialing HTML reporting 
+2018-05-24 11:49:51,261 INFO  [Log] Starting Test Suit Execution 
+2018-05-24 11:49:51,718 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-24 11:49:51,792 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-24 11:49:51,871 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-24 11:49:52,538 INFO  [Log] Object repository is created successfully 
+2018-05-24 11:49:52,635 INFO  [Log] **************************************************************************************** 
+2018-05-24 11:49:52,635 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Fetch DSP from Sales Force; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-24 11:49:52,635 INFO  [Log] **************************************************************************************** 
+2018-05-24 11:49:54,713 INFO  [Log] #### Executing Test case: Fetch DSP from Sales Force; Description: Blank In No Browser Browser for TestData:1 
+2018-05-24 11:50:08,455 INFO  [Log] TS_01: fetch value form SF;Column Name is not provided, Please provide column name in ActionSupportValue 
+2018-05-24 11:50:13,480 INFO  [Log] closing test case  
+2018-05-24 11:50:14,520 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-24 11:50:14,695 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-24 11:50:14,909 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-24 11:50:14,968 INFO  [Log] ### Test case: Fetch DSP from Sales Force; Description: Blank; status Executed 
+2018-05-24 11:50:15,401 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-24 11:50:15,577 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-24 11:50:15,755 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-24 11:50:15,755 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-24 11:50:15,755 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-24 11:50:16,172 INFO  [Log] **************************************************************************************** 
+2018-05-24 11:50:16,172 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_normal_shipping -CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-24 11:50:16,172 INFO  [Log] **************************************************************************************** 
+2018-05-24 11:50:25,250 INFO  [Log] #### Executing Test case: E2E_normal_shipping -CC; Description: Blank In Firefox Browser for TestData:1 
+2018-05-24 11:50:39,170 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-24 11:50:54,636 INFO  [Log] E2ETS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-24 11:50:55,141 WARN  [Log]  Browser instance is active 
+2018-05-24 11:50:55,164 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.65', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: cc11bf6e-e26f-44aa-8cce-61a3bacf44e0 
+2018-05-24 11:50:55,164 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-24 11:50:55,164 FATAL [Log] E2ETS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-24 11:50:55,165 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-24 11:50:55,324 INFO  [Log] PE-685_Blank 
+2018-05-24 11:50:55,385 INFO  [Log] Creating Logs backup and storing for further reference 

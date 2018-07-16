@@ -1,0 +1,55 @@
+2017-11-03 14:49:30,144 INFO  [Log] Test Scenario Configuration started 
+2017-11-03 14:49:30,164 INFO  [Log] Initialing HTML reporting 
+2017-11-03 14:49:30,339 INFO  [Log] Starting Test Suit Execution 
+2017-11-03 14:49:30,626 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 14:49:30,678 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 14:49:30,709 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 14:49:31,127 INFO  [Log] Object repository is created successfully 
+2017-11-03 14:49:31,200 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-03 14:49:31,252 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-03 14:49:31,301 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-03 14:49:31,343 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-03 14:49:31,387 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-03 14:49:31,422 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-03 14:49:31,454 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-03 14:49:31,496 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-03 14:49:31,537 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-03 14:49:31,568 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-03 14:49:31,593 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-03 14:49:31,623 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-03 14:49:31,658 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-03 14:49:31,699 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-03 14:49:31,750 INFO  [Log] Testing_Purpose_Blank 
+2017-11-03 14:49:31,825 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-03 14:49:31,851 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-03 14:49:31,874 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-03 14:49:31,907 INFO  [Log] **************************************************************************************** 
+2017-11-03 14:49:31,907 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_07; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-03 14:49:31,907 INFO  [Log] **************************************************************************************** 
+2017-11-03 14:49:37,744 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_07; Description: Blank In Chrome Browser for TestData:1 
+2017-11-03 14:49:51,841 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-03 14:50:30,551 INFO  [Log] TS_02: Click on the login link 
+2017-11-03 14:51:06,203 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-03 14:51:41,733 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-03 14:52:24,431 INFO  [Log] TS_05: Click on login button 
+2017-11-03 14:53:10,330 INFO  [Log] TS_06: Click on the product link 
+2017-11-03 14:53:45,948 INFO  [Log] TS_07: Click on "Add to cart" button. 
+2017-11-03 14:54:25,507 INFO  [Log] TS_08: Click on global my cart link from the header section 
+2017-11-03 14:55:00,922 INFO  [Log] TS_09: Capture the original field quantity value.1; Value has been stored in index: 0 
+2017-11-03 14:55:36,320 INFO  [Log] TS_10: Clear the quantity field; Action Clear 
+2017-11-03 14:56:11,824 INFO  [Log] TS_11: Input '0' in the quantity field; Action: Submited ValueValue: null 
+2017-11-03 14:56:47,210 INFO  [Log] TS_12: Click on the screen 
+2017-11-03 14:57:22,626 INFO  [Log] TS_13; Passed; Capture the error validation message.; Value: an invalid quantity was entered.; Present in Page values: An invalid quantity was entered.,  
+2017-11-03 14:57:58,043 INFO  [Log] TS_14: Again capture the field quantity value.10; Value has been stored in index: 1 
+2017-11-03 14:57:58,046 INFO  [Log] TS_15; Passed; Verify the quantity; Captured text1: 1; Captured text2: 10 
+2017-11-03 14:57:58,046 FATAL [Log] FP_My_Cart_TC_07Blank:Action Keyword is not defined. Please defined Action Keyword 
+2017-11-03 14:57:58,047 WARN  [Log]  Browser instance is active 
+2017-11-03 14:58:00,638 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 14:58:00,670 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 14:58:00,703 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 14:58:00,703 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 14:58:00,703 FATAL [Log]  
+2017-11-03 14:58:00,703 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 14:58:00,964 INFO  [Log] ####Closing Test Suite #### 
+2017-11-03 14:58:00,964 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 14:58:00,964 INFO  [Log] Creating Logs backup and storing for further reference 

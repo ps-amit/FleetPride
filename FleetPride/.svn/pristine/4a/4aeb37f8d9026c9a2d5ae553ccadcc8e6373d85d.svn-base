@@ -1,0 +1,28 @@
+2017-10-12 18:16:56,320 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 18:16:56,340 INFO  [Log] Initialing HTML reporting 
+2017-10-12 18:16:56,520 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 18:16:56,730 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 18:16:56,770 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 18:16:56,801 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 18:16:57,261 INFO  [Log] Object repository is created successfully 
+2017-10-12 18:16:57,342 INFO  [Log] **************************************************************************************** 
+2017-10-12 18:16:57,342 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 18:16:57,342 INFO  [Log] **************************************************************************************** 
+2017-10-12 18:17:03,349 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 18:17:10,774 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 18:17:46,550 INFO  [Log] TS_02: Input value in the Searc box; Action: Submited ValueValue: Additives 
+2017-10-12 18:18:26,516 INFO  [Log] TS_03: Click on the search icon 
+2017-10-12 18:18:26,526 INFO  [Log] TS_04; Waited 5000 Milli seconds for Element 
+2017-10-12 18:19:07,236 INFO  [Log] TS_05; Passed; Verify the screen having text 'Search Results' in breadcrumb; Value: search results; Present in Page values: Search Results,  
+2017-10-12 18:19:42,657 INFO  [Log] TS_06: Capture the price of the product that appears at first in the list.$20.00; Value has been stored in index: 0 
+2017-10-12 18:19:42,657 FATAL [Log] BlankBlank:Action Keyword is not defined. Please defined Action Keyword 
+2017-10-12 18:19:42,667 WARN  [Log]  Browser instance is active 
+2017-10-12 18:19:45,441 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 18:19:45,512 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 18:19:45,582 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 18:19:45,582 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 18:19:45,582 FATAL [Log]  
+2017-10-12 18:19:45,582 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 18:19:45,882 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 18:19:45,882 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 18:19:45,882 INFO  [Log] Creating Logs backup and storing for further reference 

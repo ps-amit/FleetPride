@@ -1,0 +1,77 @@
+2017-07-26 11:46:29,356 INFO  [Log] Test Scenario Configuration started 
+2017-07-26 11:46:29,374 INFO  [Log] Initialing HTML reporting 
+2017-07-26 11:46:29,703 INFO  [Log] Starting Test Suit Execution 
+2017-07-26 11:46:29,703 WARN  [Log] No Browser instance is active 
+2017-07-26 11:46:30,380 INFO  [Log] Object repository is created successfully 
+2017-07-26 11:46:30,440 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-26 11:46:30,511 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-26 11:46:30,565 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-26 11:46:30,622 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-26 11:46:30,680 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-26 11:46:30,742 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-26 11:46:30,785 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-26 11:46:30,831 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-26 11:46:30,873 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-26 11:46:30,912 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-26 11:46:30,950 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-26 11:46:30,978 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-26 11:46:31,010 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-26 11:46:31,037 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-26 11:46:31,070 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-26 11:46:31,097 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-26 11:46:31,143 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-26 11:46:31,172 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-26 11:46:31,203 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-26 11:46:31,233 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-26 11:46:31,264 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-26 11:46:31,293 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-26 11:46:31,317 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-26 11:46:31,346 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-26 11:46:31,379 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-26 11:46:31,413 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-26 11:46:31,440 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-26 11:46:31,480 INFO  [Log] **************************************************************************************** 
+2017-07-26 11:46:31,480 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0060.xlsx; Description: Rg_TC0060.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-26 11:46:31,481 INFO  [Log] **************************************************************************************** 
+2017-07-26 11:46:43,636 INFO  [Log] #### Executing Test case: Rg_TC0060.xlsx; Description: Rg_TC0060.xlsx In firefox Browser for TestData:1 
+2017-07-26 11:47:00,165 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-26 11:47:00,633 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-26 11:47:00,999 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-26 11:47:01,437 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-26 11:47:01,439 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-26 11:47:12,482 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-26 11:47:12,681 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-26 11:47:14,082 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-26 11:47:14,083 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-26 11:47:18,473 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-26 11:47:18,473 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-26 11:47:22,671 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-26 11:47:22,671 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-26 11:47:25,010 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-26 11:47:25,524 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-26 11:47:25,628 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-26 11:47:25,704 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-26 11:47:25,806 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-26 11:47:25,870 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-26 11:47:25,934 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-26 11:47:25,998 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-26 11:47:26,139 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-26 11:47:26,140 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-07-26 11:47:28,564 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-26 11:47:28,565 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-07-26 11:47:32,048 INFO  [Log] TS_27; Passed;  Competitors Price is higher than defined threshold limit is present;Any Value among: number,NA,NF,RF,NP,ND,NR,TNA; Are Present in Page values: 88, 109, 66, 71, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 100, 120, 67, 90, 92, 120, 81, 97, 93, 174, 75, 113, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NP, NP, NP, NP, 95, 138, 74, 100, 100, 100, 100, 100,  
+2017-07-26 11:47:32,048 INFO  [Log] closing test case  
+2017-07-26 11:47:32,292 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-26 11:47:32,303 INFO  [Log] ### Test case: Rg_TC0060.xlsx; Description: Rg_TC0060.xlsx; status Executed 
+2017-07-26 11:47:32,303 WARN  [Log] No Browser instance is active 
+2017-07-26 11:47:32,303 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-26 11:47:32,303 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-26 11:47:32,625 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-26 11:47:32,653 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-26 11:47:32,680 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-26 11:47:32,702 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-26 11:47:32,726 INFO  [Log] Rg_TC0070.xlsx_Rg_TC0070.xlsx 
+2017-07-26 11:47:32,751 INFO  [Log] Rg_TC0072.xlsx_Rg_TC0072.xlsx 
+2017-07-26 11:47:32,776 INFO  [Log] ####Closing Test Suite #### 
+2017-07-26 11:47:32,776 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-26 11:47:32,776 INFO  [Log] Creating Logs backup and storing for further reference 

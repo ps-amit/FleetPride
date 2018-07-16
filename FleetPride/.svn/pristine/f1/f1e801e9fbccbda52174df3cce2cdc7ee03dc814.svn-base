@@ -1,0 +1,53 @@
+2017-07-25 14:41:56,222 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 14:41:56,239 INFO  [Log] Initialing HTML reporting 
+2017-07-25 14:41:56,416 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 14:41:56,417 WARN  [Log] Browser instance value is null 
+2017-07-25 14:41:57,112 INFO  [Log] Object repository is created successfully 
+2017-07-25 14:41:57,180 INFO  [Log] Rg_TC002_Rg_TC002.xlsx 
+2017-07-25 14:41:57,250 INFO  [Log] Rg_TC004_Rg_TC004.xlsx 
+2017-07-25 14:41:57,303 INFO  [Log] Rg_TC006_Rg_TC006.xlsx 
+2017-07-25 14:41:57,349 INFO  [Log] Rg_TC008_Rg_TC008.xlsx 
+2017-07-25 14:41:57,410 INFO  [Log] Rg_TC0010_Rg_TC0010.xlsx 
+2017-07-25 14:41:57,455 INFO  [Log] Rg_TC0012_Rg_TC0012.xlsx 
+2017-07-25 14:41:57,495 INFO  [Log] Rg_TC0014_Rg_TC0014.xlsx 
+2017-07-25 14:41:57,548 INFO  [Log] Rg_TC0016_Rg_TC0016.xlsx 
+2017-07-25 14:41:57,584 INFO  [Log] Rg_TC018_Rg_TC0018.xlsx 
+2017-07-25 14:41:57,622 INFO  [Log] Rg_TC024_Rg_TC0024.xlsx 
+2017-07-25 14:41:57,662 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 14:41:57,694 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 14:41:57,726 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 14:41:57,757 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 14:41:57,790 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 14:41:57,826 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0036.xlsx 
+2017-07-25 14:41:57,851 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0038.xlsx 
+2017-07-25 14:41:57,877 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0040.xlsx 
+2017-07-25 14:41:57,906 INFO  [Log] AlertRateKart_13_Rg_TC0042.xlsx 
+2017-07-25 14:41:57,935 INFO  [Log] AlertRateKart_14_Rg_TC0044.xlsx 
+2017-07-25 14:41:57,979 INFO  [Log] **************************************************************************************** 
+2017-07-25 14:41:57,979 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_23; Description: Rg_TC0046.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 14:41:57,979 INFO  [Log] **************************************************************************************** 
+2017-07-25 14:42:15,088 INFO  [Log] #### Executing Test case: AlertRateKart_23; Description: Rg_TC0046.xlsx In chrome Browser for TestData:1 
+2017-07-25 14:42:26,988 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 14:42:28,223 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 14:42:28,381 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 14:42:28,518 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 14:42:28,519 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 14:42:38,640 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-25 14:42:38,726 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-25 14:42:38,784 ERROR [Log] Error#: optima-46TS_08XpathEditElementlocation  java.lang.NumberFormatException: For input string: "config.property"null:Exception is not handled 
+2017-07-25 14:42:41,396 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 14:42:41,536 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 14:42:41,676 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 14:42:41,676 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 14:42:41,676 FATAL [Log] optima-46TS_08XpathEditElementlocation  java.lang.NumberFormatException: For input string: "config.property"null:Exception is not handled 
+2017-07-25 14:42:41,676 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 14:42:42,295 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 14:42:42,329 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 14:42:42,357 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-25 14:42:42,379 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-25 14:42:42,402 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-25 14:42:42,428 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-25 14:42:42,457 INFO  [Log] PostRequest_PostRequest 
+2017-07-25 14:42:42,496 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 14:42:42,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 14:42:42,496 INFO  [Log] Creating Logs backup and storing for further reference 

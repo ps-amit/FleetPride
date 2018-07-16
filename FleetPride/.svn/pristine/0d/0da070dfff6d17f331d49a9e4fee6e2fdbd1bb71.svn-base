@@ -1,0 +1,30 @@
+2017-07-17 15:35:03,052 INFO  [Log] Test Scenario Configuration started 
+2017-07-17 15:35:03,070 INFO  [Log] Initialing HTML reporting 
+2017-07-17 15:35:03,327 INFO  [Log] Starting Test Suit Execution 
+2017-07-17 15:35:03,327 WARN  [Log] Browser instance value is null 
+2017-07-17 15:35:03,848 INFO  [Log] Object repository is created successfully 
+2017-07-17 15:35:03,963 INFO  [Log] **************************************************************************************** 
+2017-07-17 15:35:03,963 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_1; Description: AlertRateKart_1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 15:35:03,963 INFO  [Log] **************************************************************************************** 
+2017-07-17 15:35:11,429 INFO  [Log] #### Executing Test case: AlertRateKart_1; Description: AlertRateKart_1 In firefox Browser for TestData:1 
+2017-07-17 15:35:17,219 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 15:35:43,118 ERROR [Log] Error#: optimaTS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-17 15:35:45,891 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 15:35:46,022 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 15:35:46,137 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 15:35:46,137 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 15:35:46,138 FATAL [Log] optimaTS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-17 15:35:46,138 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 15:35:46,745 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-17 15:35:46,794 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-17 15:35:46,845 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-17 15:35:46,882 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-17 15:35:46,918 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-17 15:35:46,951 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-17 15:35:46,980 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-17 15:35:47,014 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-17 15:35:47,044 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-17 15:35:47,079 INFO  [Log] PostRequest_PostRequest 
+2017-07-17 15:35:47,115 INFO  [Log] ####Closing Test Suite #### 
+2017-07-17 15:35:47,116 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 15:35:47,116 INFO  [Log] Creating Logs backup and storing for further reference 

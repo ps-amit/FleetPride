@@ -1,0 +1,40 @@
+2018-05-29 11:34:21,483 INFO  [Log] Test Scenario Configuration started 
+2018-05-29 11:34:21,503 INFO  [Log] Initialing HTML reporting 
+2018-05-29 11:34:21,770 INFO  [Log] Starting Test Suit Execution 
+2018-05-29 11:34:22,239 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-29 11:34:22,319 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-29 11:34:22,398 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-29 11:34:23,019 INFO  [Log] Object repository is created successfully 
+2018-05-29 11:34:23,106 INFO  [Log] **************************************************************************************** 
+2018-05-29 11:34:23,106 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-658_PO_Field_Incorrect_Validation_Character_Limit; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-29 11:34:23,106 INFO  [Log] **************************************************************************************** 
+2018-05-29 11:34:29,981 INFO  [Log] #### Executing Test case: PE-658_PO_Field_Incorrect_Validation_Character_Limit; Description: Blank In Chrome Browser for TestData:1 
+2018-05-29 11:34:36,982 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-29 11:34:37,408 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-29 11:34:37,524 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1234 
+2018-05-29 11:34:37,524 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-29 11:34:40,279 INFO  [Log] TS_05: Click on login button 
+2018-05-29 11:34:40,280 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-29 11:34:50,784 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: XK5204707QP 
+2018-05-29 11:34:54,355 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-29 11:34:54,359 INFO  [Log] TS_09; Waited 20000 Milli seconds for Element 
+2018-05-29 11:35:14,577 INFO  [Log] TS_10: Click on Add to cart button  
+2018-05-29 11:35:14,578 INFO  [Log] TS_11; Waited 10000 Milli seconds for Element 
+2018-05-29 11:35:28,247 INFO  [Log] TS_12: Click on the mini my cart link 
+2018-05-29 11:35:28,251 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-05-29 11:35:38,576 INFO  [Log] TS_14: Click on the Proceed to Order Review  button 
+2018-05-29 11:35:38,577 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2018-05-29 11:35:49,374 INFO  [Log] TS_16: Click on the Proceed to Payment information  button 
+2018-05-29 11:35:49,375 INFO  [Log] TS_17; Waited 8000 Milli seconds for Element 
+2018-05-29 11:35:57,654 INFO  [Log] TS_18; Passed; Verify the help text for the PO field; Text is present for the given emement element :  
+2018-05-29 11:36:02,675 INFO  [Log] closing test case  
+2018-05-29 11:36:03,876 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-29 11:36:04,002 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-29 11:36:04,183 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-29 11:36:04,239 INFO  [Log] ### Test case: PE-658_PO_Field_Incorrect_Validation_Character_Limit; Description: Blank; status Executed 
+2018-05-29 11:36:04,668 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-29 11:36:04,754 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-29 11:36:04,839 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-29 11:36:04,839 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-29 11:36:04,839 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-29 11:36:05,103 INFO  [Log] Creating Logs backup and storing for further reference 

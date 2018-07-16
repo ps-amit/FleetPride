@@ -1,0 +1,1112 @@
+2017-09-13 16:23:18,860 INFO  [Log] Test Scenario Configuration started 
+2017-09-13 16:23:18,884 INFO  [Log] Initialing HTML reporting 
+2017-09-13 16:23:19,126 INFO  [Log] Starting Test Suit Execution 
+2017-09-13 16:23:19,582 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:23:19,617 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:23:19,653 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:23:20,208 INFO  [Log] Object repository is created successfully 
+2017-09-13 16:23:20,308 INFO  [Log] TC_101_To verify compset average value 
+2017-09-13 16:23:20,401 INFO  [Log] TC_93_Blank 
+2017-09-13 16:23:20,551 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-13 16:23:20,687 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-13 16:23:20,782 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-13 16:23:20,845 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-13 16:23:20,909 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-13 16:23:20,991 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-13 16:23:21,071 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-13 16:23:21,132 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-13 16:23:21,188 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-13 16:23:21,245 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-13 16:23:21,300 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-13 16:23:21,359 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-13 16:23:21,407 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-13 16:23:21,454 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-13 16:23:21,494 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-13 16:23:21,563 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-13 16:23:21,593 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-13 16:23:21,624 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-13 16:23:21,654 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-13 16:23:21,682 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-13 16:23:21,709 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-13 16:23:21,737 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-13 16:23:21,767 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-13 16:23:21,798 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-13 16:23:21,878 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-13 16:23:21,917 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-13 16:23:21,952 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-13 16:23:21,985 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-13 16:23:22,019 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-13 16:23:22,063 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-13 16:23:22,089 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-13 16:23:22,118 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-13 16:23:22,144 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-13 16:23:22,171 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-13 16:23:22,202 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-13 16:23:22,312 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-13 16:23:22,345 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-13 16:23:22,377 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-13 16:23:22,408 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-13 16:23:22,451 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-13 16:23:22,488 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-13 16:23:22,528 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-13 16:23:22,563 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:23:22,563 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_88.xlsx; Description: To verify  Higher/lowest Threshold Breach (Default Filter)  For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 16:23:22,563 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:23:32,126 INFO  [Log] #### Executing Test case: Rg_TC_88.xlsx; Description: To verify  Higher/lowest Threshold Breach (Default Filter)  In IE Browser for TestData:1 
+2017-09-13 16:23:55,214 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:23:56,670 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:23:58,309 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:24:09,524 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:24:11,274 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:24:13,157 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:24:15,676 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:24:17,334 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:24:22,048 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:24:28,450 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:24:32,825 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:24:38,077 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:24:42,734 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:24:44,552 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:24:48,733 INFO  [Log] TS_16: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-13 16:24:50,178 INFO  [Log] TS_17: capture rate of subscriber proprty361+360; Value has been stored in index: 0 
+2017-09-13 16:24:51,527 INFO  [Log] User specified value has been replaced at index0New Value is: 361+360 
+2017-09-13 16:24:53,610 INFO  [Log] List of following Values has been storedTS_19: value for compset rate; Action: Capture and stored value, NP, 1270, NA, NA, NA, NP, 268+267, 1640, 204+32, NA, 2150, NA, 2750, NP, 960 
+2017-09-13 16:24:54,878 INFO  [Log] User specified value has been replaced at index 
+2017-09-13 16:24:56,331 INFO  [Log] TS_21: click on settings 
+2017-09-13 16:25:00,327 INFO  [Log] TS_22: click on competators 
+2017-09-13 16:25:04,540 INFO  [Log] List of following Values has been storedTS_23: low rate; Action: Capture and stored value, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10 
+2017-09-13 16:25:07,263 INFO  [Log] List of following Values has been storedTS_24: high rate; Action: Capture and stored value, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10 
+2017-09-13 16:25:08,853 INFO  [Log] TS_25: click on home 
+2017-09-13 16:25:14,458 INFO  [Log] TS_26: click on rates 
+2017-09-13 16:25:16,201 INFO  [Log] TS_27: click on grid view 
+2017-09-13 16:25:20,628 INFO  [Log] TS_28: clcik on rangefilter 
+2017-09-13 16:25:26,220 INFO  [Log] TS_29: select start dateDate selected: 1 November 2017 
+2017-09-13 16:25:31,214 INFO  [Log] TS_30: select end dateDate selected: 3 November 2017 
+2017-09-13 16:25:32,939 INFO  [Log] TS_31: click on apply 
+2017-09-13 16:25:33,002 INFO  [Log] optima-thrasholdGridTS_32XpathThresholdBreachGrid  java.lang.NumberFormatException: For input string: "361+360"null:Exception is not handled 
+2017-09-13 16:25:47,831 WARN  [Log]  Browser instance is active 
+2017-09-13 16:25:48,066 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:25:48,097 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:25:48,144 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:25:48,144 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:25:48,144 FATAL [Log] optima-thrasholdGridTS_32XpathThresholdBreachGrid  java.lang.NumberFormatException: For input string: "361+360"null:Exception is not handled 
+2017-09-13 16:25:53,267 INFO  [Log] #### Executing Test case: Rg_TC_88.xlsx; Description: To verify  Higher/lowest Threshold Breach (Default Filter)  In Chrome Browser for TestData:1 
+2017-09-13 16:26:10,566 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:26:11,882 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:26:12,008 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:26:12,088 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:26:37,426 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:26:37,551 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:26:37,599 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:26:38,684 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:26:38,872 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:26:42,052 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:26:44,842 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:27:13,258 INFO  [Log] optima-thrasholdGridTS_12XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 16:27:13,987 WARN  [Log]  Browser instance is active 
+2017-09-13 16:27:14,252 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:27:14,284 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:27:14,316 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:27:14,316 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:27:14,316 FATAL [Log] optima-thrasholdGridTS_12XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 16:27:20,696 INFO  [Log] #### Executing Test case: Rg_TC_88.xlsx; Description: To verify  Higher/lowest Threshold Breach (Default Filter)  In Firefox Browser for TestData:1 
+2017-09-13 16:27:48,604 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:27:48,792 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:27:48,870 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:27:48,917 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:27:58,221 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:27:58,300 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:27:58,331 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:27:59,397 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:28:04,697 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:28:08,842 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:28:11,550 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:28:40,348 INFO  [Log] optima-thrasholdGridTS_12XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 16:28:40,506 WARN  [Log]  Browser instance is active 
+2017-09-13 16:28:40,693 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:28:40,729 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:28:40,760 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:28:40,760 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:28:40,760 FATAL [Log] optima-thrasholdGridTS_12XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 16:28:40,760 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:28:40,807 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:28:40,807 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_89.xlsx; Description: To verify Higher/lowest  Threshold Breach (Applying  Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 16:28:40,807 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:28:49,895 INFO  [Log] #### Executing Test case: Rg_TC_89.xlsx; Description: To verify Higher/lowest  Threshold Breach (Applying  Filter) In IE Browser for TestData:1 
+2017-09-13 16:29:07,405 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:29:09,019 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:29:10,601 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:29:26,251 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:29:27,849 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:29:29,543 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:29:32,125 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:29:33,863 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:29:38,424 INFO  [Log] TS_10: click on settings 
+2017-09-13 16:29:42,771 INFO  [Log] TS_11: click on competators 
+2017-09-13 16:29:47,080 INFO  [Log] List of following Values has been storedTS_12: low rate; Action: Capture and stored value, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20 
+2017-09-13 16:29:49,788 INFO  [Log] List of following Values has been storedTS_13: high rate; Action: Capture and stored value, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20 
+2017-09-13 16:29:51,352 INFO  [Log] TS_14: click on home 
+2017-09-13 16:29:57,258 INFO  [Log] TS_15: click on rates 
+2017-09-13 16:29:59,038 INFO  [Log] TS_16: click on grid view 
+2017-09-13 16:30:03,392 INFO  [Log] TS_17: clcik on rangefilter 
+2017-09-13 16:30:08,480 INFO  [Log] TS_18: select start dateDate selected: 1 November 2017 
+2017-09-13 16:30:13,262 INFO  [Log] TS_19: select end dateDate selected: 3 November 2017 
+2017-09-13 16:30:15,015 INFO  [Log] TS_20: click on apply 
+2017-09-13 16:30:19,329 INFO  [Log] TS_21: clcik on rate filter 
+2017-09-13 16:30:21,393 INFO  [Log] TS_22: Qualification    Un-Qualified; Action: Drop Down Select 
+2017-09-13 16:30:23,272 INFO  [Log] TS_23: Restriction    Restricted; Action: Drop Down Select 
+2017-09-13 16:30:25,181 INFO  [Log] TS_24: Promotion    Promotional; Action: Drop Down Select 
+2017-09-13 16:30:27,061 INFO  [Log] TS_25: LOS    1; Action: Drop Down Select 
+2017-09-13 16:30:28,883 INFO  [Log] TS_26: GuestCount    2; Action: Drop Down Select 
+2017-09-13 16:30:30,741 INFO  [Log] TS_27: RoomType    All; Action: Drop Down Select 
+2017-09-13 16:30:44,111 INFO  [Log] TS_28: Channel; Action:  filter values 
+2017-09-13 16:30:49,809 INFO  [Log] TS_29: Inclusion; Action:  filter values 
+2017-09-13 16:31:00,076 INFO  [Log] TS_30: Compset; Action:  filter values 
+2017-09-13 16:31:02,031 INFO  [Log] TS_31: click on apply 
+2017-09-13 16:31:06,352 INFO  [Log] TS_32: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-13 16:31:07,904 INFO  [Log] TS_33: capture rate of subscriber proprty4340; Value has been stored in index: 0 
+2017-09-13 16:31:09,434 INFO  [Log] User specified value has been replaced at index0New Value is: 4340 
+2017-09-13 16:31:11,027 INFO  [Log] List of following Values has been storedTS_35: value for compset rate; Action: Capture and stored value, NA 
+2017-09-13 16:31:12,448 INFO  [Log] User specified value has been replaced at index 
+2017-09-13 16:31:12,574 INFO  [Log] Failed: TS_37: verify price thrashold breach(blue and yellow both)Price Thrashold is as expected 
+2017-09-13 16:31:17,676 INFO  [Log] closing test case  
+2017-09-13 16:31:18,114 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:31:18,145 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:31:18,192 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:31:18,207 INFO  [Log] ### Test case: Rg_TC_89.xlsx; Description: To verify Higher/lowest  Threshold Breach (Applying  Filter); status Executed 
+2017-09-13 16:31:18,381 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:31:18,412 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:31:18,459 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:31:18,459 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:31:23,573 INFO  [Log] #### Executing Test case: Rg_TC_89.xlsx; Description: To verify Higher/lowest  Threshold Breach (Applying  Filter) In Chrome Browser for TestData:1 
+2017-09-13 16:31:37,739 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:31:39,190 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:31:39,305 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:31:39,373 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:31:56,001 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:31:56,092 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:31:56,176 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:31:57,392 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:31:57,546 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:32:02,748 INFO  [Log] TS_10: click on settings 
+2017-09-13 16:32:04,925 INFO  [Log] TS_11: click on competators 
+2017-09-13 16:32:08,543 INFO  [Log] List of following Values has been storedTS_12: low rate; Action: Capture and stored value, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10 
+2017-09-13 16:32:09,002 INFO  [Log] List of following Values has been storedTS_13: high rate; Action: Capture and stored value, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10 
+2017-09-13 16:32:09,098 INFO  [Log] TS_14: click on home 
+2017-09-13 16:32:14,351 INFO  [Log] TS_15: click on rates 
+2017-09-13 16:32:14,493 INFO  [Log] TS_16: click on grid view 
+2017-09-13 16:32:16,762 INFO  [Log] TS_17: clcik on rangefilter 
+2017-09-13 16:32:17,154 INFO  [Log] TS_18: select start dateDate selected: 1 November 2017 
+2017-09-13 16:32:17,426 INFO  [Log] TS_19: select end dateDate selected: 3 November 2017 
+2017-09-13 16:32:17,593 INFO  [Log] TS_20: click on apply 
+2017-09-13 16:32:20,841 INFO  [Log] TS_21: clcik on rate filter 
+2017-09-13 16:32:21,145 INFO  [Log] TS_22: Qualification    Un-Qualified; Action: Drop Down Select 
+2017-09-13 16:32:21,392 INFO  [Log] TS_23: Restriction    Restricted; Action: Drop Down Select 
+2017-09-13 16:32:21,579 INFO  [Log] TS_24: Promotion    Promotional; Action: Drop Down Select 
+2017-09-13 16:32:21,774 INFO  [Log] TS_25: LOS    1; Action: Drop Down Select 
+2017-09-13 16:32:21,982 INFO  [Log] TS_26: GuestCount    2; Action: Drop Down Select 
+2017-09-13 16:32:22,146 INFO  [Log] TS_27: RoomType    All; Action: Drop Down Select 
+2017-09-13 16:32:33,757 INFO  [Log] TS_28: Channel; Action:  filter values 
+2017-09-13 16:32:39,070 INFO  [Log] TS_29: Inclusion; Action:  filter values 
+2017-09-13 16:32:46,619 INFO  [Log] TS_30: Compset; Action:  filter values 
+2017-09-13 16:32:46,874 INFO  [Log] TS_31: click on apply 
+2017-09-13 16:32:50,039 INFO  [Log] TS_32: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-13 16:32:50,126 INFO  [Log] TS_33: capture rate of subscriber proprtyNA; Value has been stored in index: 0 
+2017-09-13 16:32:50,189 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-09-13 16:32:50,553 INFO  [Log] List of following Values has been storedTS_35: value for compset rate; Action: Capture and stored value, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA 
+2017-09-13 16:32:50,629 INFO  [Log] User specified value has been replaced at index 
+2017-09-13 16:32:50,648 INFO  [Log] optima-thrasholdGrid_filterTS_37XpathThresholdBreachGrid  java.lang.NumberFormatException: For input string: "NA"null:Exception is not handled 
+2017-09-13 16:32:51,022 WARN  [Log]  Browser instance is active 
+2017-09-13 16:32:53,324 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:32:53,357 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:32:53,388 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:32:53,388 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:32:53,388 FATAL [Log] optima-thrasholdGrid_filterTS_37XpathThresholdBreachGrid  java.lang.NumberFormatException: For input string: "NA"null:Exception is not handled 
+2017-09-13 16:32:58,132 INFO  [Log] #### Executing Test case: Rg_TC_89.xlsx; Description: To verify Higher/lowest  Threshold Breach (Applying  Filter) In Firefox Browser for TestData:1 
+2017-09-13 16:33:21,416 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:33:23,753 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:33:23,832 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:33:23,894 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:33:36,716 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:33:42,880 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:33:42,928 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:33:43,991 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:33:44,117 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:33:47,279 INFO  [Log] TS_10: click on settings 
+2017-09-13 16:33:49,463 INFO  [Log] TS_11: click on competators 
+2017-09-13 16:33:51,243 INFO  [Log] List of following Values has been storedTS_12: low rate; Action: Capture and stored value, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10 
+2017-09-13 16:33:51,543 INFO  [Log] List of following Values has been storedTS_13: high rate; Action: Capture and stored value, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10, 20, 10, 10, 10, 20, 10, 10, 10, 20, 10, 10, 10, 10, 20, 10 
+2017-09-13 16:33:51,627 INFO  [Log] TS_14: click on home 
+2017-09-13 16:33:55,777 INFO  [Log] TS_15: click on rates 
+2017-09-13 16:33:55,903 INFO  [Log] TS_16: click on grid view 
+2017-09-13 16:33:58,228 INFO  [Log] TS_17: clcik on rangefilter 
+2017-09-13 16:33:58,631 INFO  [Log] TS_18: select start dateDate selected: 1 November 2017 
+2017-09-13 16:33:58,841 INFO  [Log] TS_19: select end dateDate selected: 3 November 2017 
+2017-09-13 16:33:58,935 INFO  [Log] TS_20: click on apply 
+2017-09-13 16:34:01,369 INFO  [Log] TS_21: clcik on rate filter 
+2017-09-13 16:34:02,104 INFO  [Log] TS_22: Qualification    Un-Qualified; Action: Drop Down Select 
+2017-09-13 16:34:02,229 INFO  [Log] TS_23: Restriction    Restricted; Action: Drop Down Select 
+2017-09-13 16:34:02,432 INFO  [Log] TS_24: Promotion    Promotional; Action: Drop Down Select 
+2017-09-13 16:34:02,793 INFO  [Log] TS_25: LOS    1; Action: Drop Down Select 
+2017-09-13 16:34:02,934 INFO  [Log] TS_26: GuestCount    2; Action: Drop Down Select 
+2017-09-13 16:34:03,059 INFO  [Log] TS_27: RoomType    All; Action: Drop Down Select 
+2017-09-13 16:34:15,490 INFO  [Log] TS_28: Channel; Action:  filter values 
+2017-09-13 16:34:20,958 INFO  [Log] TS_29: Inclusion; Action:  filter values 
+2017-09-13 16:34:28,752 INFO  [Log] TS_30: Compset; Action:  filter values 
+2017-09-13 16:34:28,940 INFO  [Log] TS_31: click on apply 
+2017-09-13 16:34:31,332 INFO  [Log] TS_32: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-13 16:34:31,380 INFO  [Log] TS_33: capture rate of subscriber proprtyNA; Value has been stored in index: 0 
+2017-09-13 16:34:31,427 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-09-13 16:34:31,614 INFO  [Log] List of following Values has been storedTS_35: value for compset rate; Action: Capture and stored value, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA 
+2017-09-13 16:34:31,693 INFO  [Log] User specified value has been replaced at index 
+2017-09-13 16:34:31,709 INFO  [Log] optima-thrasholdGrid_filterTS_37XpathThresholdBreachGrid  java.lang.NumberFormatException: For input string: "NA"null:Exception is not handled 
+2017-09-13 16:34:31,820 WARN  [Log]  Browser instance is active 
+2017-09-13 16:34:32,101 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:34:32,132 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:34:32,163 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:34:32,163 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:34:32,163 FATAL [Log] optima-thrasholdGrid_filterTS_37XpathThresholdBreachGrid  java.lang.NumberFormatException: For input string: "NA"null:Exception is not handled 
+2017-09-13 16:34:32,163 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:34:32,212 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-13 16:34:32,243 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:34:32,243 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_81.xlsx; Description: To verify  Pace
+graph legends For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 16:34:32,243 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:34:41,082 INFO  [Log] #### Executing Test case: Rg_TC_81.xlsx; Description: To verify  Pace
+graph legends In IE Browser for TestData:1 
+2017-09-13 16:35:14,044 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:35:15,579 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:35:17,119 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:35:43,827 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:35:45,443 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:35:47,467 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:35:50,079 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:35:51,788 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:35:56,420 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:36:03,546 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:36:07,968 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:36:13,419 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:36:18,231 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:36:20,172 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:36:24,618 INFO  [Log] TS_16: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017] 
+2017-09-13 16:36:26,165 INFO  [Log] TS_17: click on calander view 
+2017-09-13 16:36:30,263 INFO  [Log] TS_18: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-13 16:36:31,934 INFO  [Log] TS_19: click on date captured 
+2017-09-13 16:36:31,934 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-13 16:36:36,007 INFO  [Log] TS_21: click on competition 
+2017-09-13 16:36:36,007 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-13 16:36:39,612 INFO  [Log] optima_legendTS_23XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:24272/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 27804015-c149-4fbf-a001-bc9e208a6b72null:Exception is not handled 
+2017-09-13 16:36:39,692 WARN  [Log]  Browser instance is active 
+2017-09-13 16:36:39,972 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:36:40,019 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:36:40,066 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:36:40,066 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:36:40,066 FATAL [Log] optima_legendTS_23XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:24272/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 27804015-c149-4fbf-a001-bc9e208a6b72null:Exception is not handled 
+2017-09-13 16:36:45,223 INFO  [Log] #### Executing Test case: Rg_TC_81.xlsx; Description: To verify  Pace
+graph legends In Chrome Browser for TestData:1 
+2017-09-13 16:37:02,227 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:37:02,505 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:37:02,617 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:37:02,687 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:37:14,597 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:37:14,712 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:37:14,779 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:37:15,987 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:37:16,115 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:37:19,294 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:37:23,511 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:37:25,770 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:37:26,224 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:37:26,497 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:37:26,635 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:37:29,834 INFO  [Log] TS_16: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017] 
+2017-09-13 16:37:29,917 INFO  [Log] TS_17: click on calander view 
+2017-09-13 16:37:33,085 INFO  [Log] TS_18: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-13 16:37:33,176 INFO  [Log] TS_19: click on date captured 
+2017-09-13 16:37:33,176 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-13 16:37:36,318 INFO  [Log] TS_21: click on competition 
+2017-09-13 16:37:36,318 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-13 16:37:39,468 INFO  [Log] TS_23: Scroll to compset supply: Action Scroll Down 
+2017-09-13 16:37:39,468 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-09-13 16:37:41,817 INFO  [Log] TS_25: click on compset avg supply; Action: Mouse Hover and Clicked 
+2017-09-13 16:37:41,817 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-13 16:37:43,974 INFO  [Log] TS_27: click on chart view: ToolTipNavigation 
+2017-09-13 16:37:43,974 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-13 16:37:46,088 INFO  [Log] TS_29: capture compset avg rate100; Value has been stored in index: 0 
+2017-09-13 16:37:46,088 INFO  [Log] TS_30; Waited 2000 Milli seconds for Element 
+2017-09-13 16:37:48,159 INFO  [Log] TS_31: edit compitator nameNew Element Location is : Hilton London MetropoleStored in ObjRep using element name: propertyname: Type: Xpath 
+2017-09-13 16:38:13,292 INFO  [Log] optima_legendTS_32ObjectRepScrollToElement  org.openqa.selenium.WebDriverException: unknown error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir4548_6143}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 45393b536f8a64a007b443b0fe1dadcbnull:Exception is not handled 
+2017-09-13 16:38:13,717 WARN  [Log]  Browser instance is active 
+2017-09-13 16:38:13,996 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:38:14,027 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:38:14,058 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:38:14,058 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:38:14,058 FATAL [Log] optima_legendTS_32ObjectRepScrollToElement  org.openqa.selenium.WebDriverException: unknown error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir4548_6143}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 45393b536f8a64a007b443b0fe1dadcbnull:Exception is not handled 
+2017-09-13 16:38:18,750 INFO  [Log] #### Executing Test case: Rg_TC_81.xlsx; Description: To verify  Pace
+graph legends In Firefox Browser for TestData:1 
+2017-09-13 16:38:43,102 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:38:44,394 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:38:44,457 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:38:44,519 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:39:01,142 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:39:07,666 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:39:07,713 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:39:08,776 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:39:08,902 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:39:12,087 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:39:16,424 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:39:19,654 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:39:19,985 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:39:20,235 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:39:20,406 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:39:22,919 INFO  [Log] TS_16: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017] 
+2017-09-13 16:39:22,982 INFO  [Log] TS_17: click on calander view 
+2017-09-13 16:39:26,110 INFO  [Log] TS_18: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-13 16:39:26,189 INFO  [Log] TS_19: click on date captured 
+2017-09-13 16:39:26,189 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-13 16:39:29,441 INFO  [Log] TS_21: click on competition 
+2017-09-13 16:39:29,441 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-13 16:39:32,559 INFO  [Log] TS_23: Scroll to compset supply: Action Scroll Down 
+2017-09-13 16:39:32,559 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-09-13 16:39:35,145 INFO  [Log] TS_25: click on compset avg supply; Action: Mouse Hover and Clicked 
+2017-09-13 16:39:35,145 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-13 16:39:37,274 INFO  [Log] optima_legendTS_27XpathToolTipCaptureIf  org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: (1131, -71.39999389648438) is out of bounds of viewport width (1280) and height (614)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.50ID5zHJiWDZ, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=4668.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 963647b9-7470-4f7e-b322-f0e8cc9dd430null:Exception is not handled 
+2017-09-13 16:39:37,384 WARN  [Log]  Browser instance is active 
+2017-09-13 16:39:37,635 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:39:37,666 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:39:37,697 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:39:37,697 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:39:37,697 FATAL [Log] optima_legendTS_27XpathToolTipCaptureIf  org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: (1131, -71.39999389648438) is out of bounds of viewport width (1280) and height (614)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.50ID5zHJiWDZ, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=4668.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 963647b9-7470-4f7e-b322-f0e8cc9dd430null:Exception is not handled 
+2017-09-13 16:39:37,697 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:39:37,744 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:39:37,744 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_98.xlsx; Description: To verify Graphical view For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 16:39:37,744 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:39:46,526 INFO  [Log] #### Executing Test case: Rg_TC_98.xlsx; Description: To verify Graphical view In IE Browser for TestData:1 
+2017-09-13 16:40:09,402 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:40:11,013 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:40:12,553 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:40:24,809 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:40:26,423 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:40:28,495 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:40:31,063 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:40:32,870 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:40:37,493 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:40:43,576 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:40:48,004 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:40:53,469 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:40:58,280 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:41:00,173 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:41:04,538 INFO  [Log] TS_16: name of subscriber propertyMilestone Hotel Kens...; Value has been stored in index: 0 
+2017-09-13 16:41:05,975 INFO  [Log] User specified value has been replaced at index0New Value is: Milestone Hotel Ke 
+2017-09-13 16:41:07,639 INFO  [Log] TS_18: rate of subscriber property361+360; Value has been stored in index: 1 
+2017-09-13 16:41:09,138 INFO  [Log] User specified value has been replaced at index1New Value is: 361+360 
+2017-09-13 16:41:10,747 INFO  [Log] TS_20: change in property rate+360; Value has been stored in index: 2 
+2017-09-13 16:41:12,364 INFO  [Log] TS_21: capture Compset Avg. Supply (%)100; Value has been stored in index: 3 
+2017-09-13 16:41:13,956 INFO  [Log] TS_22: capture Compset Avg. Rate100; Value has been stored in index: 4 
+2017-09-13 16:41:15,503 INFO  [Log] TS_23: click on calander view 
+2017-09-13 16:41:19,647 INFO  [Log] TS_24: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-13 16:41:21,364 INFO  [Log] TS_25: click on selected date 
+2017-09-13 16:41:21,364 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-13 16:41:26,436 INFO  [Log] TS_27: hover on last property: ToolTipNavigation 
+2017-09-13 16:41:26,436 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-13 16:41:30,184 INFO  [Log] TS_29: capture dataGBP 255 [ 0 ]; Value has been stored in index: 5 
+2017-09-13 16:41:31,709 INFO  [Log] User specified value has been replaced at index5New Value is: 255 
+2017-09-13 16:41:31,709 INFO  [Log] TS_31; Waited 2000 Milli seconds for Element 
+2017-09-13 16:41:35,492 INFO  [Log] TS_32: hover second last property: ToolTipNavigation 
+2017-09-13 16:41:35,492 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-13 16:41:50,990 INFO  [Log] TS_34: capture dataGBP 255 [ 0 ]; Value has been stored in index: 6 
+2017-09-13 16:41:52,524 INFO  [Log] User specified value has been replaced at index6New Value is: 255 
+2017-09-13 16:41:52,524 INFO  [Log] Passed: TS_36: formula with subtractType of formula is -  value1 255  value2  255  and calculated value  0 
+2017-09-13 16:41:52,524 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-13 16:41:56,253 INFO  [Log] optima_graphicalTS_38XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:3193/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 75f36616-7137-479f-8c2e-c1b050f4aa95null:Exception is not handled 
+2017-09-13 16:41:56,379 WARN  [Log]  Browser instance is active 
+2017-09-13 16:41:56,831 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:41:56,878 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:41:56,925 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:41:56,925 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:41:56,925 FATAL [Log] optima_graphicalTS_38XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:3193/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 75f36616-7137-479f-8c2e-c1b050f4aa95null:Exception is not handled 
+2017-09-13 16:42:02,043 INFO  [Log] #### Executing Test case: Rg_TC_98.xlsx; Description: To verify Graphical view In Chrome Browser for TestData:1 
+2017-09-13 16:42:16,103 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:42:17,443 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:42:17,548 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:42:17,633 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:42:30,667 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:42:30,782 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:42:30,848 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:42:31,970 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:42:32,122 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:42:35,291 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:42:39,543 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:42:41,781 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:42:42,193 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:42:42,461 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:42:42,609 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:42:45,798 INFO  [Log] TS_16: name of subscriber propertyMilestone Hotel Kens...; Value has been stored in index: 0 
+2017-09-13 16:42:45,847 INFO  [Log] User specified value has been replaced at index0New Value is: Milestone Hotel Ke 
+2017-09-13 16:42:45,942 INFO  [Log] TS_18: rate of subscriber property361
++360; Value has been stored in index: 1 
+2017-09-13 16:42:46,007 INFO  [Log] User specified value has been replaced at index1New Value is: 361 
+2017-09-13 16:42:46,095 INFO  [Log] TS_20: change in property rate+360; Value has been stored in index: 2 
+2017-09-13 16:42:46,180 INFO  [Log] TS_21: capture Compset Avg. Supply (%)100; Value has been stored in index: 3 
+2017-09-13 16:42:46,279 INFO  [Log] TS_22: capture Compset Avg. Rate100; Value has been stored in index: 4 
+2017-09-13 16:42:46,422 INFO  [Log] TS_23: click on calander view 
+2017-09-13 16:42:49,645 INFO  [Log] TS_24: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-13 16:42:49,742 INFO  [Log] TS_25: click on selected date 
+2017-09-13 16:42:49,742 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-13 16:42:52,938 INFO  [Log] TS_27: hover on last property: ToolTipNavigation 
+2017-09-13 16:42:52,938 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-13 16:42:55,068 INFO  [Log] TS_29: capture dataGBP 361 [ 106 ]; Value has been stored in index: 5 
+2017-09-13 16:42:55,131 INFO  [Log] User specified value has been replaced at index5New Value is: 361 
+2017-09-13 16:42:55,131 INFO  [Log] TS_31; Waited 2000 Milli seconds for Element 
+2017-09-13 16:42:57,288 INFO  [Log] TS_32: hover second last property: ToolTipNavigation 
+2017-09-13 16:42:57,288 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-13 16:42:59,410 INFO  [Log] TS_34: capture dataGBP 255 [ 0 ]; Value has been stored in index: 6 
+2017-09-13 16:42:59,481 INFO  [Log] User specified value has been replaced at index6New Value is: 255 
+2017-09-13 16:42:59,481 INFO  [Log] Passed: TS_36: formula with subtractType of formula is -  value1 361  value2  255  and calculated value  106 
+2017-09-13 16:42:59,481 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-13 16:43:02,591 INFO  [Log] TS_38: Scroll to compset supply: Action Scroll Down 
+2017-09-13 16:43:02,591 INFO  [Log] TS_39; Waited 2000 Milli seconds for Element 
+2017-09-13 16:43:04,824 INFO  [Log] TS_40: click on compset avg supply; Action: Mouse Hover and Clicked 
+2017-09-13 16:43:04,824 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-09-13 16:43:07,013 INFO  [Log] TS_42: click on chart view: ToolTipNavigation 
+2017-09-13 16:43:07,014 INFO  [Log] TS_43; Waited 2000 Milli seconds for Element 
+2017-09-13 16:43:09,140 INFO  [Log] TS_44: capture compset avg rate100; Value has been stored in index: 8 
+2017-09-13 16:43:09,140 INFO  [Log] TS_45; Waited 2000 Milli seconds for Element 
+2017-09-13 16:43:11,234 INFO  [Log] TS_46: edit compitator nameNew Element Location is : Hilton London MetropoleStored in ObjRep using element name: propertyname: Type: Xpath 
+2017-09-13 16:43:36,759 INFO  [Log] optima_graphicalTS_47ObjectRepScrollToElement  org.openqa.selenium.WebDriverException: unknown error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir3832_8202}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 5a249af1525b2cb1f9d7b4bda5539371null:Exception is not handled 
+2017-09-13 16:43:37,176 WARN  [Log]  Browser instance is active 
+2017-09-13 16:43:39,748 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:43:39,780 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:43:39,811 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:43:39,811 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:43:39,811 FATAL [Log] optima_graphicalTS_47ObjectRepScrollToElement  org.openqa.selenium.WebDriverException: unknown error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir3832_8202}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 5a249af1525b2cb1f9d7b4bda5539371null:Exception is not handled 
+2017-09-13 16:43:44,550 INFO  [Log] #### Executing Test case: Rg_TC_98.xlsx; Description: To verify Graphical view In Firefox Browser for TestData:1 
+2017-09-13 16:44:18,414 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:44:19,679 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:44:19,760 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:44:19,822 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:44:30,340 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:44:30,478 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:44:30,543 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:44:31,783 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:44:31,878 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:44:36,248 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:44:40,450 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:44:42,830 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:44:43,174 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:44:43,393 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:44:43,486 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:44:46,750 INFO  [Log] TS_16: name of subscriber propertyMilestone Hotel Kens...; Value has been stored in index: 0 
+2017-09-13 16:44:46,782 INFO  [Log] User specified value has been replaced at index0New Value is: Milestone Hotel Ke 
+2017-09-13 16:44:46,844 INFO  [Log] TS_18: rate of subscriber property361
++360; Value has been stored in index: 1 
+2017-09-13 16:44:46,876 INFO  [Log] User specified value has been replaced at index1New Value is: 361 
+2017-09-13 16:44:46,938 INFO  [Log] TS_20: change in property rate+360; Value has been stored in index: 2 
+2017-09-13 16:44:46,985 INFO  [Log] TS_21: capture Compset Avg. Supply (%)100; Value has been stored in index: 3 
+2017-09-13 16:44:47,032 INFO  [Log] TS_22: capture Compset Avg. Rate100; Value has been stored in index: 4 
+2017-09-13 16:44:47,094 INFO  [Log] TS_23: click on calander view 
+2017-09-13 16:44:50,225 INFO  [Log] TS_24: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-13 16:44:50,305 INFO  [Log] TS_25: click on selected date 
+2017-09-13 16:44:50,305 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-13 16:44:53,728 INFO  [Log] TS_27: hover on last property: ToolTipNavigation 
+2017-09-13 16:44:53,728 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-13 16:44:55,851 INFO  [Log] TS_29: capture dataGBP 361 [ 106 ]; Value has been stored in index: 5 
+2017-09-13 16:44:55,915 INFO  [Log] User specified value has been replaced at index5New Value is: 361 
+2017-09-13 16:44:55,915 INFO  [Log] TS_31; Waited 2000 Milli seconds for Element 
+2017-09-13 16:44:58,115 INFO  [Log] TS_32: hover second last property: ToolTipNavigation 
+2017-09-13 16:44:58,115 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-13 16:45:00,229 INFO  [Log] TS_34: capture dataGBP 255 [ 0 ]; Value has been stored in index: 6 
+2017-09-13 16:45:00,313 INFO  [Log] User specified value has been replaced at index6New Value is: 255 
+2017-09-13 16:45:00,313 INFO  [Log] Passed: TS_36: formula with subtractType of formula is -  value1 361  value2  255  and calculated value  106 
+2017-09-13 16:45:00,313 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-13 16:45:03,437 INFO  [Log] TS_38: Scroll to compset supply: Action Scroll Down 
+2017-09-13 16:45:03,437 INFO  [Log] TS_39; Waited 2000 Milli seconds for Element 
+2017-09-13 16:45:05,975 INFO  [Log] TS_40: click on compset avg supply; Action: Mouse Hover and Clicked 
+2017-09-13 16:45:05,975 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-09-13 16:45:08,099 INFO  [Log] optima_graphicalTS_42XpathToolTipCaptureIf  org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: (1131, -72) is out of bounds of viewport width (1280) and height (614)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.vwmFDwp38Yd9, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=5824.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: cb7b1cc1-3a9a-46f2-9694-a434c2a55943null:Exception is not handled 
+2017-09-13 16:45:08,209 WARN  [Log]  Browser instance is active 
+2017-09-13 16:45:08,478 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:45:08,509 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:45:08,540 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:45:08,540 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:45:08,540 FATAL [Log] optima_graphicalTS_42XpathToolTipCaptureIf  org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: (1131, -72) is out of bounds of viewport width (1280) and height (614)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.vwmFDwp38Yd9, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=5824.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: cb7b1cc1-3a9a-46f2-9694-a434c2a55943null:Exception is not handled 
+2017-09-13 16:45:08,540 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:45:08,587 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:45:08,587 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_99.xlsx; Description: To verify  Graphical view
+graph legends For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 16:45:08,587 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:45:17,249 INFO  [Log] #### Executing Test case: Rg_TC_99.xlsx; Description: To verify  Graphical view
+graph legends In IE Browser for TestData:1 
+2017-09-13 16:45:35,057 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:45:36,655 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:45:38,203 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:45:58,533 INFO  [Log] TS_06: click on user name  
+2017-09-13 16:46:00,130 INFO  [Log] TS_07: click on choose property 
+2017-09-13 16:46:02,211 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:46:04,880 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-13 16:46:06,636 INFO  [Log] TS_11: Click on property 
+2017-09-13 16:46:11,141 INFO  [Log] TS_13: click on rates 
+2017-09-13 16:46:17,014 INFO  [Log] TS_15: click on chart view 
+2017-09-13 16:46:46,653 INFO  [Log] TS_17; Passed; composite rate range not; Element is not present/dispayed on the page 
+2017-09-13 16:47:13,649 INFO  [Log] TS_18; Passed; composet average rate not; Element is not present/dispayed on the page 
+2017-09-13 16:47:40,778 INFO  [Log] TS_19; Passed; compset avg supply not; Element is not present/dispayed on the page 
+2017-09-13 16:47:43,927 INFO  [Log] Action: jMouse Hover performed on Element  (//*[@id='chartViewGraph']/div/div//*[local-name() = 'svg']//*[local-name() = 'g']//*[local-name() = 'g']//*[local-name() = 'g'][2]//*[local-name() = 'text' and not( @fill='#000000' )])[1] 
+2017-09-13 16:47:43,927 INFO  [Log] TS_21; Waited 4000 Milli seconds for Element 
+2017-09-13 16:47:50,959 INFO  [Log] Action: jMouse Hover performed on Element  (//*[@id='chartViewGraph']/div/div//*[local-name() = 'svg']//*[local-name() = 'g']//*[local-name() = 'g']//*[local-name() = 'g'][3]//*[local-name() = 'text' and not(@fill='#000000' )])[1] 
+2017-09-13 16:47:50,959 INFO  [Log] TS_23; Waited 4000 Milli seconds for Element 
+2017-09-13 16:47:58,153 INFO  [Log] Action: jMouse Hover performed on Element  (//*[@id='chartViewGraph']/div/div//*[local-name() = 'svg']//*[local-name() = 'g']//*[local-name() = 'g']//*[local-name() = 'g'][4]//*[local-name() = 'text' and not(@fill='#000000') ])[1] 
+2017-09-13 16:47:58,153 INFO  [Log] TS_25; Waited 4000 Milli seconds for Element 
+2017-09-13 16:48:29,324 INFO  [Log] TS_26; Failed; Sepcified Element is not present on the page; composite rate range 
+2017-09-13 16:48:29,419 INFO  [Log] TS_27; Waited 4000 Milli seconds for Element 
+2017-09-13 16:49:00,523 INFO  [Log] TS_28; Failed; Sepcified Element is not present on the page; composet average rate 
+2017-09-13 16:49:00,602 INFO  [Log] TS_29; Waited 4000 Milli seconds for Element 
+2017-09-13 16:49:31,978 INFO  [Log] TS_30; Failed; Sepcified Element is not present on the page; compset avg supply 
+2017-09-13 16:49:37,069 INFO  [Log] closing test case  
+2017-09-13 16:49:37,382 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:49:37,429 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:49:37,460 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:49:37,476 INFO  [Log] ### Test case: Rg_TC_99.xlsx; Description: To verify  Graphical view
+graph legends; status Executed 
+2017-09-13 16:49:37,663 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:49:37,694 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:49:37,726 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:49:37,726 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:49:42,856 INFO  [Log] #### Executing Test case: Rg_TC_99.xlsx; Description: To verify  Graphical view
+graph legends In Chrome Browser for TestData:1 
+2017-09-13 16:49:59,173 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:50:00,491 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:50:00,610 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:50:00,694 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:50:14,718 INFO  [Log] TS_06: click on user name  
+2017-09-13 16:50:14,974 INFO  [Log] TS_07: click on choose property 
+2017-09-13 16:50:15,050 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:50:16,305 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-13 16:50:16,423 INFO  [Log] TS_11: Click on property 
+2017-09-13 16:50:19,575 INFO  [Log] TS_13: click on rates 
+2017-09-13 16:50:23,723 INFO  [Log] TS_15: click on chart view 
+2017-09-13 16:50:51,120 INFO  [Log] TS_17; Passed; composite rate range not; Element is not present/dispayed on the page 
+2017-09-13 16:51:16,416 INFO  [Log] TS_18; Passed; composet average rate not; Element is not present/dispayed on the page 
+2017-09-13 16:51:41,805 INFO  [Log] TS_19; Passed; compset avg supply not; Element is not present/dispayed on the page 
+2017-09-13 16:51:42,099 INFO  [Log] TS_20: click on compset avg rate; Action: Mouse Hover and Clicked 
+2017-09-13 16:51:42,099 INFO  [Log] TS_21; Waited 4000 Milli seconds for Element 
+2017-09-13 16:51:46,349 INFO  [Log] TS_22: clcik on compset date range; Action: Mouse Hover and Clicked 
+2017-09-13 16:51:46,349 INFO  [Log] TS_23; Waited 4000 Milli seconds for Element 
+2017-09-13 16:51:50,554 INFO  [Log] TS_24: compset date rate; Action: Mouse Hover and Clicked 
+2017-09-13 16:51:50,554 INFO  [Log] TS_25; Waited 4000 Milli seconds for Element 
+2017-09-13 16:51:54,652 INFO  [Log] TS_26: composite rate range; Passed; ; Element is present on the active page 
+2017-09-13 16:51:54,652 INFO  [Log] TS_27; Waited 4000 Milli seconds for Element 
+2017-09-13 16:51:58,810 INFO  [Log] TS_28: composet average rate; Passed; ; Element is present on the active page 
+2017-09-13 16:51:58,810 INFO  [Log] TS_29; Waited 4000 Milli seconds for Element 
+2017-09-13 16:52:02,925 INFO  [Log] TS_30: compset avg supply; Passed; ; Element is present on the active page 
+2017-09-13 16:52:07,926 INFO  [Log] closing test case  
+2017-09-13 16:52:10,510 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:52:10,543 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:52:10,574 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:52:10,589 INFO  [Log] ### Test case: Rg_TC_99.xlsx; Description: To verify  Graphical view
+graph legends; status Executed 
+2017-09-13 16:52:10,745 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:52:10,777 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:52:10,808 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:52:10,808 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:52:15,552 INFO  [Log] #### Executing Test case: Rg_TC_99.xlsx; Description: To verify  Graphical view
+graph legends In Firefox Browser for TestData:1 
+2017-09-13 16:53:00,128 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:53:00,306 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:53:00,386 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:53:00,448 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:53:14,337 INFO  [Log] TS_06: click on user name  
+2017-09-13 16:53:14,385 INFO  [Log] TS_07: click on choose property 
+2017-09-13 16:53:14,463 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:53:15,510 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-13 16:53:20,792 INFO  [Log] TS_11: Click on property 
+2017-09-13 16:53:23,995 INFO  [Log] TS_13: click on rates 
+2017-09-13 16:53:28,230 INFO  [Log] TS_15: click on chart view 
+2017-09-13 16:53:55,921 INFO  [Log] TS_17; Passed; composite rate range not; Element is not present/dispayed on the page 
+2017-09-13 16:54:21,060 INFO  [Log] TS_18; Passed; composet average rate not; Element is not present/dispayed on the page 
+2017-09-13 16:54:46,301 INFO  [Log] TS_19; Passed; compset avg supply not; Element is not present/dispayed on the page 
+2017-09-13 16:54:46,754 INFO  [Log] TS_20: click on compset avg rate; Action: Mouse Hover and Clicked 
+2017-09-13 16:54:46,754 INFO  [Log] TS_21; Waited 4000 Milli seconds for Element 
+2017-09-13 16:54:51,264 INFO  [Log] TS_22: clcik on compset date range; Action: Mouse Hover and Clicked 
+2017-09-13 16:54:51,264 INFO  [Log] TS_23; Waited 4000 Milli seconds for Element 
+2017-09-13 16:54:55,350 INFO  [Log] optima_chartTS_24XpathMouseHoverClick  org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: (369.3833312988281, 640.6083374023438) is out of bounds of viewport width (1280) and height (614)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.8HG8s454Q440, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=5340.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 6e835b5f-ecbf-428e-9b4c-a86306242116null:Exception is not handled 
+2017-09-13 16:54:55,460 WARN  [Log]  Browser instance is active 
+2017-09-13 16:54:55,725 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:54:55,772 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:54:55,803 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:54:55,803 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:54:55,803 FATAL [Log] optima_chartTS_24XpathMouseHoverClick  org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: (369.3833312988281, 640.6083374023438) is out of bounds of viewport width (1280) and height (614)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.8HG8s454Q440, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=5340.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 6e835b5f-ecbf-428e-9b4c-a86306242116null:Exception is not handled 
+2017-09-13 16:54:55,803 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:54:55,850 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-13 16:54:55,865 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:54:55,865 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_78.xlsx; Description: To verify  Competitiveness
+graph For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 16:54:55,865 INFO  [Log] **************************************************************************************** 
+2017-09-13 16:55:04,488 INFO  [Log] #### Executing Test case: Rg_TC_78.xlsx; Description: To verify  Competitiveness
+graph In IE Browser for TestData:1 
+2017-09-13 16:55:34,426 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:55:36,093 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:55:37,633 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:56:02,202 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:56:03,858 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:56:05,873 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:56:08,478 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:56:10,252 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:56:14,769 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:56:20,739 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:56:25,106 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:56:30,769 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:56:35,546 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:56:37,328 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:56:41,929 INFO  [Log] TS_16: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017] 
+2017-09-13 16:56:43,552 INFO  [Log] TS_17: click on calander view 
+2017-09-13 16:56:49,194 INFO  [Log] TS_18: click on show legends 
+2017-09-13 16:56:59,069 INFO  [Log] TS_19: click on legend Event if not clicked: Action Element is not present moving to next step 
+2017-09-13 16:57:08,896 INFO  [Log] TS_20: click on legend  Compset Avg. Supply if not clicked: Action Element is not present moving to next step 
+2017-09-13 16:57:10,367 INFO  [Log] TS_21: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: eventgraph: Type: Xpath 
+2017-09-13 16:57:36,899 INFO  [Log] TS_22: capture event from calander: No value present   moving to next step 
+2017-09-13 16:57:38,400 INFO  [Log] TS_23: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: date: Type: Xpath 
+2017-09-13 16:57:40,118 INFO  [Log] TS_24: click on date to view graph  
+2017-09-13 16:57:45,006 INFO  [Log] TS_25: click on Competition 
+2017-09-13 16:58:12,249 INFO  [Log] optima_78TS_26XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 16:58:12,375 WARN  [Log]  Browser instance is active 
+2017-09-13 16:58:12,624 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 16:58:12,671 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 16:58:12,718 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 16:58:12,718 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 16:58:12,718 FATAL [Log] optima_78TS_26XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 16:58:17,839 INFO  [Log] #### Executing Test case: Rg_TC_78.xlsx; Description: To verify  Competitiveness
+graph In Chrome Browser for TestData:1 
+2017-09-13 16:58:41,925 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 16:58:42,253 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 16:58:42,359 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 16:58:42,443 INFO  [Log] TS_04: Click on login button 
+2017-09-13 16:59:13,710 INFO  [Log] TS_05: click on user name  
+2017-09-13 16:59:13,891 INFO  [Log] TS_06: click on choose property 
+2017-09-13 16:59:13,945 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 16:59:15,158 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 16:59:15,303 INFO  [Log] TS_09: Click on property 
+2017-09-13 16:59:19,506 INFO  [Log] TS_10: click on rates 
+2017-09-13 16:59:23,773 INFO  [Log] TS_11: click on grid view 
+2017-09-13 16:59:26,046 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 16:59:26,460 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 16:59:26,737 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 16:59:26,872 INFO  [Log] TS_15: click on apply 
+2017-09-13 16:59:30,045 INFO  [Log] TS_16: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017] 
+2017-09-13 16:59:30,129 INFO  [Log] TS_17: click on calander view 
+2017-09-13 16:59:33,330 INFO  [Log] TS_18: click on show legends 
+2017-09-13 16:59:41,698 INFO  [Log] TS_19: click on legend Event if not clicked: Action Element is not present moving to next step 
+2017-09-13 16:59:50,042 INFO  [Log] TS_20: click on legend  Compset Avg. Supply if not clicked: Action Element is not present moving to next step 
+2017-09-13 16:59:50,127 INFO  [Log] TS_21: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: eventgraph: Type: Xpath 
+2017-09-13 17:00:15,376 INFO  [Log] TS_22: capture event from calander: No value present   moving to next step 
+2017-09-13 17:00:15,437 INFO  [Log] TS_23: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: date: Type: Xpath 
+2017-09-13 17:00:15,555 INFO  [Log] TS_24: click on date to view graph  
+2017-09-13 17:00:19,772 INFO  [Log] TS_25: click on Competition 
+2017-09-13 17:00:45,139 INFO  [Log] optima_78TS_26XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 17:00:45,542 WARN  [Log]  Browser instance is active 
+2017-09-13 17:00:48,153 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:00:48,186 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:00:48,217 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:00:48,217 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:00:48,217 FATAL [Log] optima_78TS_26XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 17:00:52,948 INFO  [Log] #### Executing Test case: Rg_TC_78.xlsx; Description: To verify  Competitiveness
+graph In Firefox Browser for TestData:1 
+2017-09-13 17:01:17,969 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 17:01:19,211 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 17:01:19,415 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 17:01:19,462 INFO  [Log] TS_04: Click on login button 
+2017-09-13 17:01:29,801 INFO  [Log] TS_05: click on user name  
+2017-09-13 17:01:29,866 INFO  [Log] TS_06: click on choose property 
+2017-09-13 17:01:29,913 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 17:01:30,960 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 17:01:39,553 INFO  [Log] TS_09: Click on property 
+2017-09-13 17:01:43,732 INFO  [Log] TS_10: click on rates 
+2017-09-13 17:01:48,180 INFO  [Log] TS_11: click on grid view 
+2017-09-13 17:01:51,727 INFO  [Log] TS_12: clcik on rangefilter 
+2017-09-13 17:01:52,103 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 17:01:52,321 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 17:01:52,415 INFO  [Log] TS_15: click on apply 
+2017-09-13 17:01:55,712 INFO  [Log] TS_16: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017] 
+2017-09-13 17:01:55,776 INFO  [Log] TS_17: click on calander view 
+2017-09-13 17:01:58,920 INFO  [Log] TS_18: click on show legends 
+2017-09-13 17:02:07,218 INFO  [Log] TS_19: click on legend Event if not clicked: Action Element is not present moving to next step 
+2017-09-13 17:02:15,473 INFO  [Log] TS_20: click on legend  Compset Avg. Supply if not clicked: Action Element is not present moving to next step 
+2017-09-13 17:02:15,568 INFO  [Log] TS_21: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: eventgraph: Type: Xpath 
+2017-09-13 17:02:40,872 INFO  [Log] TS_22: capture event from calander: No value present   moving to next step 
+2017-09-13 17:02:40,920 INFO  [Log] TS_23: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: date: Type: Xpath 
+2017-09-13 17:02:41,045 INFO  [Log] TS_24: click on date to view graph  
+2017-09-13 17:02:45,496 INFO  [Log] TS_25: click on Competition 
+2017-09-13 17:03:10,818 INFO  [Log] optima_78TS_26XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 17:03:10,944 WARN  [Log]  Browser instance is active 
+2017-09-13 17:03:11,218 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:03:11,250 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:03:11,281 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:03:11,281 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:03:11,281 FATAL [Log] optima_78TS_26XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 17:03:11,281 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:03:11,328 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-13 17:03:11,343 INFO  [Log] Rg_TC_174.xlsx_To verify the rates grid view 
+2017-09-13 17:03:11,359 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-13 17:03:11,374 INFO  [Log] **************************************************************************************** 
+2017-09-13 17:03:11,374 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_115.xlsx; Description: To verify No of Guests filter For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 17:03:11,374 INFO  [Log] **************************************************************************************** 
+2017-09-13 17:03:19,817 INFO  [Log] #### Executing Test case: Rg_TC_115.xlsx; Description: To verify No of Guests filter In IE Browser for TestData:1 
+2017-09-13 17:03:39,757 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 17:03:41,304 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 17:03:42,686 INFO  [Log] TS_04: Click on login button 
+2017-09-13 17:04:02,673 INFO  [Log] TS_05: click on user name  
+2017-09-13 17:04:04,260 INFO  [Log] TS_06: click on choose property 
+2017-09-13 17:04:06,241 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 17:04:08,748 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 17:04:10,542 INFO  [Log] TS_09: Click on property 
+2017-09-13 17:04:16,259 INFO  [Log] TS_10: click on trends 
+2017-09-13 17:04:22,126 INFO  [Log] TS_11: RateFilter 
+2017-09-13 17:04:24,202 INFO  [Log] TS_12: filter GuestCount    2; Action: Drop Down Select 
+2017-09-13 17:04:25,780 INFO  [Log] TS_13: click on apply 
+2017-09-13 17:04:30,379 INFO  [Log] TS_14: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017] 
+2017-09-13 17:04:32,049 INFO  [Log] TS_15: clcik on rangefilter 
+2017-09-13 17:04:37,806 INFO  [Log] TS_16: select start dateDate selected: 1 November 2017 
+2017-09-13 17:04:42,713 INFO  [Log] TS_17: select end dateDate selected: 3 November 2017 
+2017-09-13 17:04:44,419 INFO  [Log] TS_18: click on apply 
+2017-09-13 17:04:48,938 INFO  [Log] TS_19: capture no of guest selected2; Value has been stored in index: 0 
+2017-09-13 17:04:50,468 INFO  [Log] TS_20: hover on graph: ToolTipNavigation 
+2017-09-13 17:05:17,475 INFO  [Log] optima_115TS_21XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 17:05:17,600 WARN  [Log]  Browser instance is active 
+2017-09-13 17:05:17,850 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:05:17,897 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:05:17,959 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:05:17,959 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:05:17,959 FATAL [Log] optima_115TS_21XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 17:05:23,096 INFO  [Log] #### Executing Test case: Rg_TC_115.xlsx; Description: To verify No of Guests filter In Chrome Browser for TestData:1 
+2017-09-13 17:05:47,179 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 17:06:42,501 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 17:06:42,697 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 17:06:42,786 INFO  [Log] TS_04: Click on login button 
+2017-09-13 17:07:15,060 INFO  [Log] TS_05: click on user name  
+2017-09-13 17:07:15,217 INFO  [Log] TS_06: click on choose property 
+2017-09-13 17:07:15,271 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 17:07:16,412 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 17:07:16,557 INFO  [Log] TS_09: Click on property 
+2017-09-13 17:07:19,832 INFO  [Log] TS_10: click on trends 
+2017-09-13 17:07:24,038 INFO  [Log] TS_11: RateFilter 
+2017-09-13 17:07:24,280 INFO  [Log] TS_12: filter GuestCount    2; Action: Drop Down Select 
+2017-09-13 17:07:24,388 INFO  [Log] TS_13: click on apply 
+2017-09-13 17:07:26,542 INFO  [Log] TS_14: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017] 
+2017-09-13 17:07:26,648 INFO  [Log] TS_15: clcik on rangefilter 
+2017-09-13 17:07:27,122 INFO  [Log] TS_16: select start dateDate selected: 1 November 2017 
+2017-09-13 17:07:27,374 INFO  [Log] TS_17: select end dateDate selected: 3 November 2017 
+2017-09-13 17:07:27,457 INFO  [Log] TS_18: click on apply 
+2017-09-13 17:07:30,664 INFO  [Log] TS_19: capture no of guest selected2; Value has been stored in index: 0 
+2017-09-13 17:07:30,748 INFO  [Log] TS_20: hover on graph: ToolTipNavigation 
+2017-09-13 17:07:30,869 INFO  [Log] TS_21: capture value of GuestCountNo. of Guest : 2; Value has been stored in index: 1 
+2017-09-13 17:07:30,869 INFO  [Log] TS_22; Passed; verify my supply; Captured text1: 2; Captured text2: no. of guest : 2 
+2017-09-13 17:07:30,958 INFO  [Log] TS_23: GridView 
+2017-09-13 17:07:31,037 INFO  [Log] TS_24: capture value of GuestCount2; Value has been stored in index: 2 
+2017-09-13 17:07:31,037 INFO  [Log] TS_25; Passed; verify my supply; Captured text1: no. of guest : 2; Captured text2: 2 
+2017-09-13 17:07:31,038 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-13 17:07:33,193 INFO  [Log] TS_27: ToolTipCapture: ToolTipNavigation 
+2017-09-13 17:07:33,193 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-13 17:07:35,318 INFO  [Log] TS_29: RateCaptureIfLength of Stay : 1 | No. of Guests : 2; Value has been stored in index: 3 
+2017-09-13 17:07:35,357 INFO  [Log] User specified value has been replaced at index3New Value is: 2 
+2017-09-13 17:07:35,357 INFO  [Log] TS_31; Waited 2000 Milli seconds for Element 
+2017-09-13 17:07:37,487 INFO  [Log] TS_32: hover away: ToolTipNavigation 
+2017-09-13 17:07:37,487 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-13 17:07:39,612 INFO  [Log] TS_34: ToolTipCapture: ToolTipNavigation 
+2017-09-13 17:07:39,612 INFO  [Log] TS_35; Waited 2000 Milli seconds for Element 
+2017-09-13 17:07:41,726 INFO  [Log] TS_36: RateCaptureIfLength of Stay : 1 | No. of Guests : 2; Value has been stored in index: 4 
+2017-09-13 17:07:41,760 INFO  [Log] User specified value has been replaced at index4New Value is: 2 
+2017-09-13 17:07:41,760 INFO  [Log] TS_38; Passed; verify number of guest; Captured text1: no. of guest : 2; Captured text2: 2 
+2017-09-13 17:07:41,760 INFO  [Log] TS_39; Passed; verify number of guest; Captured text1: no. of guest : 2; Captured text2: 2 
+2017-09-13 17:07:46,761 INFO  [Log] closing test case  
+2017-09-13 17:07:49,335 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:07:49,367 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:07:49,398 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:07:49,414 INFO  [Log] ### Test case: Rg_TC_115.xlsx; Description: To verify No of Guests filter; status Executed 
+2017-09-13 17:07:49,585 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:07:49,616 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:07:49,648 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:07:49,648 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:07:54,392 INFO  [Log] #### Executing Test case: Rg_TC_115.xlsx; Description: To verify No of Guests filter In Firefox Browser for TestData:1 
+2017-09-13 17:08:22,153 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 17:08:23,386 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 17:08:23,450 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 17:08:23,512 INFO  [Log] TS_04: Click on login button 
+2017-09-13 17:08:28,684 INFO  [Log] TS_05: click on user name  
+2017-09-13 17:08:28,763 INFO  [Log] TS_06: click on choose property 
+2017-09-13 17:08:28,841 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 17:08:29,903 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 17:08:34,478 INFO  [Log] TS_09: Click on property 
+2017-09-13 17:08:37,603 INFO  [Log] TS_10: click on trends 
+2017-09-13 17:08:41,710 INFO  [Log] TS_11: RateFilter 
+2017-09-13 17:08:42,304 INFO  [Log] TS_12: filter GuestCount    2; Action: Drop Down Select 
+2017-09-13 17:08:42,367 INFO  [Log] TS_13: click on apply 
+2017-09-13 17:08:45,605 INFO  [Log] TS_14: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017] 
+2017-09-13 17:08:45,715 INFO  [Log] TS_15: clcik on rangefilter 
+2017-09-13 17:08:46,089 INFO  [Log] TS_16: select start dateDate selected: 1 November 2017 
+2017-09-13 17:08:46,308 INFO  [Log] TS_17: select end dateDate selected: 3 November 2017 
+2017-09-13 17:08:46,386 INFO  [Log] TS_18: click on apply 
+2017-09-13 17:08:49,544 INFO  [Log] TS_19: capture no of guest selected2; Value has been stored in index: 0 
+2017-09-13 17:08:49,748 INFO  [Log] TS_20: hover on graph: ToolTipNavigation 
+2017-09-13 17:08:49,810 INFO  [Log] TS_21: capture value of GuestCountNo. of Guest : 2; Value has been stored in index: 1 
+2017-09-13 17:08:49,810 INFO  [Log] TS_22; Passed; verify my supply; Captured text1: 2; Captured text2: no. of guest : 2 
+2017-09-13 17:08:49,873 INFO  [Log] TS_23: GridView 
+2017-09-13 17:08:50,153 INFO  [Log] TS_24: capture value of GuestCount2; Value has been stored in index: 2 
+2017-09-13 17:08:50,153 INFO  [Log] TS_25; Passed; verify my supply; Captured text1: no. of guest : 2; Captured text2: 2 
+2017-09-13 17:08:50,153 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-13 17:08:52,415 INFO  [Log] TS_27: ToolTipCapture: ToolTipNavigation 
+2017-09-13 17:08:52,415 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-13 17:08:54,522 INFO  [Log] TS_29: RateCaptureIfLength of Stay : 1 | No. of Guests : 2; Value has been stored in index: 3 
+2017-09-13 17:08:54,555 INFO  [Log] User specified value has been replaced at index3New Value is: 2 
+2017-09-13 17:08:54,555 INFO  [Log] TS_31; Waited 2000 Milli seconds for Element 
+2017-09-13 17:08:56,770 INFO  [Log] TS_32: hover away: ToolTipNavigation 
+2017-09-13 17:08:56,770 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-13 17:08:59,003 INFO  [Log] TS_34: ToolTipCapture: ToolTipNavigation 
+2017-09-13 17:08:59,003 INFO  [Log] TS_35; Waited 2000 Milli seconds for Element 
+2017-09-13 17:09:01,094 INFO  [Log] TS_36: RateCaptureIfLength of Stay : 1 | No. of Guests : 2; Value has been stored in index: 4 
+2017-09-13 17:09:01,126 INFO  [Log] User specified value has been replaced at index4New Value is: 2 
+2017-09-13 17:09:01,126 INFO  [Log] TS_38; Passed; verify number of guest; Captured text1: no. of guest : 2; Captured text2: 2 
+2017-09-13 17:09:01,126 INFO  [Log] TS_39; Passed; verify number of guest; Captured text1: no. of guest : 2; Captured text2: 2 
+2017-09-13 17:09:06,134 INFO  [Log] closing test case  
+2017-09-13 17:09:06,416 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:09:06,447 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:09:06,478 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:09:06,478 INFO  [Log] ### Test case: Rg_TC_115.xlsx; Description: To verify No of Guests filter; status Executed 
+2017-09-13 17:09:06,650 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:09:06,696 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:09:06,719 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:09:06,719 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:09:06,719 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:09:06,750 INFO  [Log] **************************************************************************************** 
+2017-09-13 17:09:06,750 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_116.xlsx; Description: To verify Length of Stay filter For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 17:09:06,750 INFO  [Log] **************************************************************************************** 
+2017-09-13 17:09:15,463 INFO  [Log] #### Executing Test case: Rg_TC_116.xlsx; Description: To verify Length of Stay filter In IE Browser for TestData:1 
+2017-09-13 17:09:33,553 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 17:09:35,206 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 17:09:36,795 INFO  [Log] TS_04: Click on login button 
+2017-09-13 17:09:47,627 INFO  [Log] TS_05: click on user name  
+2017-09-13 17:09:49,344 INFO  [Log] TS_06: click on choose property 
+2017-09-13 17:09:51,359 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 17:09:53,966 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 17:09:55,897 INFO  [Log] TS_09: Click on property 
+2017-09-13 17:10:04,239 INFO  [Log] TS_10: click on trends 
+2017-09-13 17:10:10,015 INFO  [Log] TS_11: RateFilter 
+2017-09-13 17:10:12,249 INFO  [Log] TS_12: filter LOS    1; Action: Drop Down Select 
+2017-09-13 17:10:13,955 INFO  [Log] TS_13: click on apply 
+2017-09-13 17:10:18,530 INFO  [Log] TS_14: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017] 
+2017-09-13 17:10:20,216 INFO  [Log] TS_15: clcik on rangefilter 
+2017-09-13 17:10:25,885 INFO  [Log] TS_16: select start dateDate selected: 1 November 2017 
+2017-09-13 17:10:30,756 INFO  [Log] TS_17: select end dateDate selected: 3 November 2017 
+2017-09-13 17:10:32,514 INFO  [Log] TS_18: click on apply 
+2017-09-13 17:10:36,994 INFO  [Log] TS_19: capture no of guest selected1; Value has been stored in index: 0 
+2017-09-13 17:10:36,994 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-13 17:10:40,677 INFO  [Log] TS_21: hover on graph: ToolTipNavigation 
+2017-09-13 17:10:40,677 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-13 17:11:09,732 INFO  [Log] optima_115TS_23XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 17:11:09,951 WARN  [Log]  Browser instance is active 
+2017-09-13 17:11:10,248 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:11:10,309 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:11:10,359 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:11:10,359 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:11:10,359 FATAL [Log] optima_115TS_23XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 17:11:15,502 INFO  [Log] #### Executing Test case: Rg_TC_116.xlsx; Description: To verify Length of Stay filter In Chrome Browser for TestData:1 
+2017-09-13 17:11:27,389 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 17:11:28,720 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 17:11:28,847 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 17:11:28,915 INFO  [Log] TS_04: Click on login button 
+2017-09-13 17:11:47,590 INFO  [Log] TS_05: click on user name  
+2017-09-13 17:11:47,717 INFO  [Log] TS_06: click on choose property 
+2017-09-13 17:11:47,779 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 17:11:48,858 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 17:11:49,004 INFO  [Log] TS_09: Click on property 
+2017-09-13 17:11:52,173 INFO  [Log] TS_10: click on trends 
+2017-09-13 17:11:56,396 INFO  [Log] TS_11: RateFilter 
+2017-09-13 17:11:56,649 INFO  [Log] TS_12: filter LOS    1; Action: Drop Down Select 
+2017-09-13 17:11:56,775 INFO  [Log] TS_13: click on apply 
+2017-09-13 17:11:59,960 INFO  [Log] TS_14: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017] 
+2017-09-13 17:12:00,082 INFO  [Log] TS_15: clcik on rangefilter 
+2017-09-13 17:12:00,516 INFO  [Log] TS_16: select start dateDate selected: 1 November 2017 
+2017-09-13 17:12:00,763 INFO  [Log] TS_17: select end dateDate selected: 3 November 2017 
+2017-09-13 17:12:00,853 INFO  [Log] TS_18: click on apply 
+2017-09-13 17:12:04,052 INFO  [Log] TS_19: capture no of guest selected1; Value has been stored in index: 0 
+2017-09-13 17:12:04,052 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-13 17:12:06,245 INFO  [Log] TS_21: hover on graph: ToolTipNavigation 
+2017-09-13 17:12:06,245 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-13 17:12:08,338 INFO  [Log] TS_23: capture value of LOSLength of Stay : 1; Value has been stored in index: 1 
+2017-09-13 17:12:08,338 INFO  [Log] TS_24; Passed; verify my supply; Captured text1: 1; Captured text2: length of stay : 1 
+2017-09-13 17:12:08,430 INFO  [Log] TS_25: GridView 
+2017-09-13 17:12:08,512 INFO  [Log] TS_26: capture value of LOS1; Value has been stored in index: 2 
+2017-09-13 17:12:08,513 INFO  [Log] TS_27; Passed; verify my supply; Captured text1: length of stay : 1; Captured text2: 1 
+2017-09-13 17:12:08,513 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-13 17:12:10,672 INFO  [Log] TS_29: ToolTipCapture: ToolTipNavigation 
+2017-09-13 17:12:10,672 INFO  [Log] TS_30; Waited 2000 Milli seconds for Element 
+2017-09-13 17:12:12,815 INFO  [Log] TS_31: RateCaptureIfLength of Stay : 1 | No. of Guests : 1; Value has been stored in index: 3 
+2017-09-13 17:12:12,880 INFO  [Log] User specified value has been replaced at index3New Value is: 1 
+2017-09-13 17:12:12,880 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-13 17:12:15,002 INFO  [Log] TS_34: hover away: ToolTipNavigation 
+2017-09-13 17:12:15,002 INFO  [Log] TS_35; Waited 2000 Milli seconds for Element 
+2017-09-13 17:12:17,128 INFO  [Log] TS_36: ToolTipCapture: ToolTipNavigation 
+2017-09-13 17:12:17,128 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-13 17:12:19,249 INFO  [Log] TS_38: RateCaptureIfLength of Stay : 1 | No. of Guests : 1; Value has been stored in index: 4 
+2017-09-13 17:12:19,283 INFO  [Log] User specified value has been replaced at index4New Value is: 1 
+2017-09-13 17:12:19,283 INFO  [Log] TS_40; Passed; verify length of stay; Captured text1: length of stay : 1; Captured text2: 1 
+2017-09-13 17:12:19,283 INFO  [Log] TS_41; Passed; verify length of stay; Captured text1: length of stay : 1; Captured text2: 1 
+2017-09-13 17:12:24,284 INFO  [Log] closing test case  
+2017-09-13 17:12:26,613 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:12:26,645 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:12:26,677 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:12:26,708 INFO  [Log] ### Test case: Rg_TC_116.xlsx; Description: To verify Length of Stay filter; status Executed 
+2017-09-13 17:12:26,895 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:12:26,926 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:12:26,973 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:12:26,973 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:12:31,671 INFO  [Log] #### Executing Test case: Rg_TC_116.xlsx; Description: To verify Length of Stay filter In Firefox Browser for TestData:1 
+2017-09-13 17:12:53,168 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 17:12:54,402 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 17:12:54,481 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 17:12:54,528 INFO  [Log] TS_04: Click on login button 
+2017-09-13 17:13:07,085 INFO  [Log] TS_05: click on user name  
+2017-09-13 17:13:07,180 INFO  [Log] TS_06: click on choose property 
+2017-09-13 17:13:07,227 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 17:13:08,303 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 17:13:08,398 INFO  [Log] TS_09: Click on property 
+2017-09-13 17:13:12,660 INFO  [Log] TS_10: click on trends 
+2017-09-13 17:13:18,076 INFO  [Log] TS_11: RateFilter 
+2017-09-13 17:13:18,654 INFO  [Log] TS_12: filter LOS    1; Action: Drop Down Select 
+2017-09-13 17:13:18,717 INFO  [Log] TS_13: click on apply 
+2017-09-13 17:13:21,915 INFO  [Log] TS_14: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Nov 01 00:00:00 IST 2017, Fri Nov 03 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017, Wed Sep 13 00:00:00 IST 2017, Wed Sep 27 00:00:00 IST 2017] 
+2017-09-13 17:13:22,026 INFO  [Log] TS_15: clcik on rangefilter 
+2017-09-13 17:13:22,400 INFO  [Log] TS_16: select start dateDate selected: 1 November 2017 
+2017-09-13 17:13:22,603 INFO  [Log] TS_17: select end dateDate selected: 3 November 2017 
+2017-09-13 17:13:22,681 INFO  [Log] TS_18: click on apply 
+2017-09-13 17:13:25,879 INFO  [Log] TS_19: capture no of guest selected1; Value has been stored in index: 0 
+2017-09-13 17:13:25,879 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-13 17:13:28,168 INFO  [Log] TS_21: hover on graph: ToolTipNavigation 
+2017-09-13 17:13:28,168 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-13 17:13:30,230 INFO  [Log] TS_23: capture value of LOSLength of Stay : 1; Value has been stored in index: 1 
+2017-09-13 17:13:30,230 INFO  [Log] TS_24; Passed; verify my supply; Captured text1: 1; Captured text2: length of stay : 1 
+2017-09-13 17:13:30,309 INFO  [Log] TS_25: GridView 
+2017-09-13 17:13:30,621 INFO  [Log] TS_26: capture value of LOS1; Value has been stored in index: 2 
+2017-09-13 17:13:30,621 INFO  [Log] TS_27; Passed; verify my supply; Captured text1: length of stay : 1; Captured text2: 1 
+2017-09-13 17:13:30,621 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-13 17:13:32,805 INFO  [Log] TS_29: ToolTipCapture: ToolTipNavigation 
+2017-09-13 17:13:32,805 INFO  [Log] TS_30; Waited 2000 Milli seconds for Element 
+2017-09-13 17:13:34,890 INFO  [Log] TS_31: RateCaptureIfLength of Stay : 1 | No. of Guests : 1; Value has been stored in index: 3 
+2017-09-13 17:13:34,922 INFO  [Log] User specified value has been replaced at index3New Value is: 1 
+2017-09-13 17:13:34,922 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-13 17:13:37,122 INFO  [Log] TS_34: hover away: ToolTipNavigation 
+2017-09-13 17:13:37,122 INFO  [Log] TS_35; Waited 2000 Milli seconds for Element 
+2017-09-13 17:13:39,370 INFO  [Log] TS_36: ToolTipCapture: ToolTipNavigation 
+2017-09-13 17:13:39,370 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-13 17:13:41,446 INFO  [Log] TS_38: RateCaptureIfLength of Stay : 1 | No. of Guests : 1; Value has been stored in index: 4 
+2017-09-13 17:13:41,478 INFO  [Log] User specified value has been replaced at index4New Value is: 1 
+2017-09-13 17:13:41,478 INFO  [Log] TS_40; Passed; verify length of stay; Captured text1: length of stay : 1; Captured text2: 1 
+2017-09-13 17:13:41,478 INFO  [Log] TS_41; Passed; verify length of stay; Captured text1: length of stay : 1; Captured text2: 1 
+2017-09-13 17:13:46,481 INFO  [Log] closing test case  
+2017-09-13 17:13:46,747 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:13:46,778 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:13:46,825 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:13:46,825 INFO  [Log] ### Test case: Rg_TC_116.xlsx; Description: To verify Length of Stay filter; status Executed 
+2017-09-13 17:13:47,012 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 17:13:47,059 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 17:13:47,090 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 17:13:47,090 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:13:47,090 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:13:47,121 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-13 17:13:47,137 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-13 17:13:47,153 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-13 17:13:47,168 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-13 17:13:47,184 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-13 17:13:47,199 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-13 17:13:47,199 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-13 17:13:47,215 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-13 17:13:47,246 INFO  [Log] ####Closing Test Suite #### 
+2017-09-13 17:13:47,246 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 17:13:47,246 INFO  [Log] Creating Logs backup and storing for further reference 

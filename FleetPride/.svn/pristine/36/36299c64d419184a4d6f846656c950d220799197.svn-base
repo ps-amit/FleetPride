@@ -1,0 +1,56 @@
+2017-10-13 18:33:34,010 INFO  [Log] Test Scenario Configuration started 
+2017-10-13 18:33:34,034 INFO  [Log] Initialing HTML reporting 
+2017-10-13 18:33:34,207 INFO  [Log] Starting Test Suit Execution 
+2017-10-13 18:33:34,403 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 18:33:34,434 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 18:33:34,464 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 18:33:34,874 INFO  [Log] Object repository is created successfully 
+2017-10-13 18:33:34,924 INFO  [Log] product_search_script_Blank 
+2017-10-13 18:33:34,974 INFO  [Log] quick_order_Blank 
+2017-10-13 18:33:35,048 INFO  [Log] **************************************************************************************** 
+2017-10-13 18:33:35,049 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: cart; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-13 18:33:35,049 INFO  [Log] **************************************************************************************** 
+2017-10-13 18:33:40,817 INFO  [Log] #### Executing Test case: cart; Description: Blank In Chrome Browser for TestData:1 
+2017-10-13 18:33:56,274 INFO  [Log] TS_01: Open dev url; Action: open URL 
+2017-10-13 18:34:34,536 INFO  [Log] TS_02: Click on the login link 
+2017-10-13 18:35:10,267 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-13 18:35:45,824 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-13 18:36:28,599 INFO  [Log] TS_05: Click on login button 
+2017-10-13 18:36:28,600 INFO  [Log] Blank; Waited 3000 Milli seconds for Element 
+2017-10-13 18:37:07,148 INFO  [Log] TS_06; Passed; Verify that user lands on the Home Page; Value: logout user avionos; Present in Page values:  Logout User avionos,  
+2017-10-13 18:37:42,786 INFO  [Log] TS_07: Capture the product SKU number TMK-907257; Value has been stored in index: 0 
+2017-10-13 18:38:22,341 INFO  [Log] TS_08: Click on the product name link that comes at the top 
+2017-10-13 18:38:57,914 INFO  [Log] TS_09; Passed; Verify that screen navigates to the product description page with same SKU.; Captured text: tmk-907257; Value form page: TMK-907257,  
+2017-10-13 18:39:33,481 INFO  [Log] TS_10: Capture the price of the product from the product description page.$8.00; Value has been stored in index: 1 
+2017-10-13 18:40:09,065 INFO  [Log] TS_11: Clear the quantity field in the product description page.; Action Clear 
+2017-10-13 18:40:44,633 INFO  [Log] TS_12: Edit the quantity field; Action: Submited ValueValue: null 
+2017-10-13 18:41:20,124 INFO  [Log] TS_13: Again clear the quantity field in the product description page.; Action Clear 
+2017-10-13 18:41:55,677 INFO  [Log] TS_14: Edit the quantity field; Action: Submited ValueValue: null 
+2017-10-13 18:42:31,170 INFO  [Log] TS_15: Click on Add to Cart button. 
+2017-10-13 18:43:06,664 INFO  [Log] TS_16: Capture the price that appears at the cart section at the top.My Cart: 1 item, $8.00; Value has been stored in index: 2 
+2017-10-13 18:43:42,220 INFO  [Log] User specified value has been replaced at index2New Value is: $8.00 
+2017-10-13 18:43:42,222 INFO  [Log] TS_18; Passed; Verify the price of the product; Captured text1: $8.00; Captured text2: $8.00 
+2017-10-13 18:44:25,601 INFO  [Log] TS_19: Click on the My Cart link 
+2017-10-13 18:45:01,218 INFO  [Log] TS_20; Passed; Verify that screen navigates to the shopping cart page.; Value: shopping cart; Present in Page values: Shopping Cart,  
+2017-10-13 18:45:36,785 INFO  [Log] TS_21: Capture the product SKU number from the Shopping cart page.TMK-907257; Value has been stored in index: 3 
+2017-10-13 18:45:36,785 INFO  [Log] TS_22; Passed; Verify that same product gets displayed on the shopping cart page.; Captured text1: tmk-907257; Captured text2: tmk-907257 
+2017-10-13 18:46:12,201 INFO  [Log] TS_23: Edit the quantity field by clicking on the + icon 
+2017-10-13 18:46:47,655 INFO  [Log] TS_24: Click on the Update button. 
+2017-10-13 18:47:23,938 INFO  [Log] Failed: TS_25: Verify the quantity field is updated or not.; Value: 2; is Not Present in Page values: ,  
+2017-10-13 18:47:59,914 INFO  [Log] TS_26: Click on the '-' icon 
+2017-10-13 18:48:35,271 INFO  [Log] TS_27: Click on the Update button. 
+2017-10-13 18:49:10,977 INFO  [Log] Failed: TS_28: Verify the quantity field is updated or not.; Value: 1; is Not Present in Page values: ,  
+2017-10-13 18:49:46,729 INFO  [Log] TS_29: Click on proceed to order review button 
+2017-10-13 18:49:51,730 INFO  [Log] closing test case  
+2017-10-13 18:49:52,006 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 18:49:52,041 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 18:49:52,076 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 18:49:52,089 INFO  [Log] ### Test case: cart; Description: Blank; status Executed 
+2017-10-13 18:49:52,244 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 18:49:52,275 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 18:49:52,306 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 18:49:52,306 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 18:49:52,306 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 18:49:52,365 INFO  [Log] ####Closing Test Suite #### 
+2017-10-13 18:49:52,365 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 18:49:52,365 INFO  [Log] Creating Logs backup and storing for further reference 

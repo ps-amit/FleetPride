@@ -1,0 +1,42 @@
+2017-09-22 17:28:27,395 INFO  [Log] Test Scenario Configuration started 
+2017-09-22 17:28:27,411 INFO  [Log] Initialing HTML reporting 
+2017-09-22 17:28:27,615 INFO  [Log] Starting Test Suit Execution 
+2017-09-22 17:28:27,771 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 17:28:27,802 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 17:28:27,833 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 17:28:28,270 INFO  [Log] Object repository is created successfully 
+2017-09-22 17:28:28,333 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-22 17:28:28,380 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-22 17:28:28,427 INFO  [Log] RG_TC_012_Blank 
+2017-09-22 17:28:28,458 INFO  [Log] RG_TC_016_Blank 
+2017-09-22 17:28:28,524 INFO  [Log] **************************************************************************************** 
+2017-09-22 17:28:28,524 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_001; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-22 17:28:28,524 INFO  [Log] **************************************************************************************** 
+2017-09-22 17:28:34,391 INFO  [Log] #### Executing Test case: PGNG_1801_TC_001; Description: Blank In Chrome Browser for TestData:1 
+2017-09-22 17:28:49,103 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-22 17:28:49,420 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-22 17:28:49,552 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-22 17:28:49,639 INFO  [Log] TS_04: Click on login button 
+2017-09-22 17:29:01,785 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-22 17:29:01,944 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-22 17:29:02,031 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-22 17:29:03,276 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-22 17:29:03,426 INFO  [Log] TS_09: Click on property 
+2017-09-22 17:29:06,638 INFO  [Log] TS_10: Click on Settings 
+2017-09-22 17:29:09,810 INFO  [Log] TS_11: Click on Mapping 
+2017-09-22 17:29:13,049 INFO  [Log] TS_12: Click on Basic tab 
+2017-09-22 17:29:13,049 ERROR [Log] Error#: PGNG_TC_001Clickif:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.Clickif() 
+2017-09-22 17:29:13,422 WARN  [Log]  Browser instance is active 
+2017-09-22 17:29:15,966 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 17:29:15,998 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 17:29:16,014 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 17:29:16,014 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 17:29:16,014 FATAL [Log] PGNG_TC_001Clickif:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.Clickif() 
+2017-09-22 17:29:16,014 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 17:29:16,279 INFO  [Log] PGNG_1801_TC_002_Blank 
+2017-09-22 17:29:16,310 INFO  [Log] PGNG_1801_TC_028_Blank 
+2017-09-22 17:29:16,341 INFO  [Log] PGNG_1801_TC_003_Blank 
+2017-09-22 17:29:16,372 INFO  [Log] PGNG_1801_TC_006_Blank 
+2017-09-22 17:29:16,404 INFO  [Log] ####Closing Test Suite #### 
+2017-09-22 17:29:16,404 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 17:29:16,404 INFO  [Log] Creating Logs backup and storing for further reference 

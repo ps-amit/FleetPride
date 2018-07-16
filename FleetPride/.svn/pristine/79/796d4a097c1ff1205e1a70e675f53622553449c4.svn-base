@@ -1,0 +1,152 @@
+2017-09-02 14:46:01,728 INFO  [Log] Test Scenario Configuration started 
+2017-09-02 14:46:01,752 INFO  [Log] Initialing HTML reporting 
+2017-09-02 14:46:01,947 INFO  [Log] Starting Test Suit Execution 
+2017-09-02 14:46:01,947 WARN  [Log] No Browser instance is active 
+2017-09-02 14:46:02,574 INFO  [Log] Object repository is created successfully 
+2017-09-02 14:46:02,711 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-02 14:46:02,796 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:46:02,898 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-02 14:46:02,957 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:46:03,012 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-02 14:46:03,087 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:46:03,136 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-02 14:46:03,194 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:46:03,318 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-02 14:46:03,417 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:46:03,507 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-02 14:46:03,588 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:46:03,640 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-02 14:46:03,676 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-02 14:46:03,713 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-02 14:46:03,747 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-02 14:46:03,822 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-02 14:46:03,854 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-02 14:46:03,886 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-02 14:46:03,918 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-02 14:46:03,949 INFO  [Log] Rg_TC_100.xlsx_Rg_TC_100.xlsx 
+2017-09-02 14:46:03,980 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-09-02 14:46:04,034 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-09-02 14:46:04,072 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-02 14:46:04,121 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-09-02 14:46:04,149 INFO  [Log] Rg_TC_61.xlsx_Rg_TC_61.xlsx 
+2017-09-02 14:46:04,193 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-09-02 14:46:04,224 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-09-02 14:46:04,258 INFO  [Log] **************************************************************************************** 
+2017-09-02 14:46:04,258 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_94.xlsx; Description: To verify Compset Avg. Rate (Default Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-02 14:46:04,258 INFO  [Log] **************************************************************************************** 
+2017-09-02 14:46:09,745 INFO  [Log] optima_compsetTS_01ObjectRepOpenGivenURL  org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 340 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir17060_12520}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 24c04dad820f3f73bc38ebcb920027c8null:Exception is not handled 
+2017-09-02 14:46:10,824 INFO  [Log] #### Executing Test case: Rg_TC_94.xlsx; Description: To verify Compset Avg. Rate (Default Filter) In firefox Browser for TestData:1 
+2017-09-02 14:46:16,245 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.01 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir17060_12520}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 24c04dad820f3f73bc38ebcb920027c8 
+2017-09-02 14:46:16,245 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:46:16,245 FATAL [Log] optima_compsetTS_01ObjectRepOpenGivenURL  org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 340 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir17060_12520}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 24c04dad820f3f73bc38ebcb920027c8null:Exception is not handled 
+2017-09-02 14:46:16,245 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:46:16,395 INFO  [Log] ####Closing Test Suite #### 
+2017-09-02 14:46:16,395 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:46:16,395 INFO  [Log] Creating Logs backup and storing for further reference 
+2017-09-02 14:46:18,236 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-02 14:46:18,617 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-02 14:46:18,710 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-02 14:46:18,785 INFO  [Log] TS_04: Click on login button: Action click 
+2017-09-02 14:46:18,786 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-09-02 14:46:28,861 INFO  [Log] optima_compsetavgrate_defaultTS_06XpathClick  org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.K0m70vXsX7Cx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=15008.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: b6e0da31-763b-4e91-87e5-bc656382dac5null:Exception is not handled 
+2017-09-02 14:46:29,591 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.K0m70vXsX7Cx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=15008.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: b6e0da31-763b-4e91-87e5-bc656382dac5 
+2017-09-02 14:46:29,591 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:46:29,592 FATAL [Log] optima_compsetavgrate_defaultTS_06XpathClick  org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.K0m70vXsX7Cx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=15008.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: b6e0da31-763b-4e91-87e5-bc656382dac5null:Exception is not handled 
+2017-09-02 14:46:29,592 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:46:29,681 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-02 14:46:29,748 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-02 14:46:29,781 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-02 14:46:29,811 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-09-02 14:46:29,855 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-09-02 14:46:30,005 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-09-02 14:46:30,088 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:46:30,136 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-09-02 14:46:30,168 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-09-02 14:46:30,197 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:46:30,223 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-02 14:46:30,249 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-02 14:46:30,309 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:46:30,335 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-09-02 14:46:30,364 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-02 14:46:30,393 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:46:30,420 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-09-02 14:46:30,449 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-09-02 14:46:30,479 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-09-02 14:46:30,510 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-09-02 14:46:30,557 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-09-02 14:46:30,662 INFO  [Log] **************************************************************************************** 
+2017-09-02 14:46:30,662 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_53_allfilter.xlsx; Description: All filter multiple dates For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-02 14:46:30,662 INFO  [Log] **************************************************************************************** 
+2017-09-02 14:46:36,495 INFO  [Log] #### Executing Test case: Rg_TC_53_allfilter.xlsx; Description: All filter multiple dates In Chrome Browser for TestData:1 
+2017-09-02 14:46:50,880 INFO  [Log] optima_53TS_01ObjectRepOpenGivenURL  org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 300 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir17816_2612}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a0f3ed1c4a4055907996d9ec5b81b3dfnull:Exception is not handled 
+2017-09-02 14:46:57,307 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.01 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir17816_2612}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a0f3ed1c4a4055907996d9ec5b81b3df 
+2017-09-02 14:46:57,307 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:46:57,307 FATAL [Log] optima_53TS_01ObjectRepOpenGivenURL  org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 300 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir17816_2612}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a0f3ed1c4a4055907996d9ec5b81b3dfnull:Exception is not handled 
+2017-09-02 14:46:57,307 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:46:57,370 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-09-02 14:46:57,401 INFO  [Log] ####Closing Test Suite #### 
+2017-09-02 14:46:57,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:46:57,401 INFO  [Log] Creating Logs backup and storing for further reference 

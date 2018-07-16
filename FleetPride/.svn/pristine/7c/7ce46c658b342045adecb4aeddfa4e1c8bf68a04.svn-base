@@ -1,0 +1,46 @@
+2017-11-01 18:32:30,933 INFO  [Log] Test Scenario Configuration started 
+2017-11-01 18:32:30,953 INFO  [Log] Initialing HTML reporting 
+2017-11-01 18:32:31,257 INFO  [Log] Starting Test Suit Execution 
+2017-11-01 18:32:31,680 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 18:32:31,750 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 18:32:31,790 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 18:32:32,464 INFO  [Log] Object repository is created successfully 
+2017-11-01 18:32:32,545 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-01 18:32:32,596 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-01 18:32:32,687 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-01 18:32:32,799 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-01 18:32:32,863 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-01 18:32:32,895 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-01 18:32:32,941 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-01 18:32:32,971 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-01 18:32:33,011 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-01 18:32:33,041 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-01 18:32:33,061 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-01 18:32:33,091 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-01 18:32:33,121 INFO  [Log] FP_contact_us_page_Blank 
+2017-11-01 18:32:33,151 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-01 18:32:33,171 INFO  [Log] Testing_Purpose_Blank 
+2017-11-01 18:32:33,241 INFO  [Log] **************************************************************************************** 
+2017-11-01 18:32:33,241 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_contact_us_page_after_login; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-01 18:32:33,241 INFO  [Log] **************************************************************************************** 
+2017-11-01 18:32:39,302 INFO  [Log] #### Executing Test case: FP_contact_us_page_after_login; Description: Blank In Chrome Browser for TestData:1 
+2017-11-01 18:32:59,332 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-01 18:33:39,864 INFO  [Log] TS_02: Click on the login link 
+2017-11-01 18:34:15,646 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-01 18:34:51,495 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-01 18:35:39,384 INFO  [Log] TS_05: Click on login button 
+2017-11-01 18:36:20,198 INFO  [Log] TS_06: Navigate to Contact us page 
+2017-11-01 18:36:56,157 INFO  [Log] Failed: TS_07: Verify the data appearing in Company Name field; Value: avionos - west; is Not Present in Page values: ,  
+2017-11-01 18:37:01,749 INFO  [Log] closing test case  
+2017-11-01 18:37:04,313 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 18:37:04,384 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 18:37:04,464 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 18:37:04,484 INFO  [Log] ### Test case: FP_contact_us_page_after_login; Description: Blank; status Executed 
+2017-11-01 18:37:04,694 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 18:37:04,734 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 18:37:04,774 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 18:37:04,774 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 18:37:04,774 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 18:37:04,824 INFO  [Log] ####Closing Test Suite #### 
+2017-11-01 18:37:04,824 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 18:37:04,824 INFO  [Log] Creating Logs backup and storing for further reference 

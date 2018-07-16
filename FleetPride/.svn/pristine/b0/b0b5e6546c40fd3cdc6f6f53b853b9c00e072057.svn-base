@@ -1,0 +1,48 @@
+2017-08-17 13:31:33,622 INFO  [Log] Test Scenario Configuration started 
+2017-08-17 13:31:33,649 INFO  [Log] Initialing HTML reporting 
+2017-08-17 13:31:33,886 INFO  [Log] Starting Test Suit Execution 
+2017-08-17 13:31:33,886 WARN  [Log] No Browser instance is active 
+2017-08-17 13:31:34,565 INFO  [Log] Object repository is created successfully 
+2017-08-17 13:31:34,670 INFO  [Log] Rg_TC_42.xlsx_Rg_TC_42.xlsx 
+2017-08-17 13:31:34,733 INFO  [Log] Rg_TC_43.xlsx_Rg_TC_43.xlsx 
+2017-08-17 13:31:34,788 INFO  [Log] Rg_TC_53.xlsx_Rg_TC_53.xlsx 
+2017-08-17 13:31:34,871 INFO  [Log] Rg_TC_55.xlsx_Rg_TC_55.xlsx 
+2017-08-17 13:31:34,932 INFO  [Log] Rg_TC_57.xlsx_Rg_TC_57.xlsx 
+2017-08-17 13:31:35,010 INFO  [Log] Rg_TC_59.xlsx_Rg_TC_59.xlsx 
+2017-08-17 13:31:35,075 INFO  [Log] Rg_TC_60.xlsx_Rg_TC_60.xlsx 
+2017-08-17 13:31:35,145 INFO  [Log] Rg_TC_62.xlsx_Rg_TC_62.xlsx 
+2017-08-17 13:31:35,213 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-17 13:31:35,289 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-17 13:31:35,348 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-17 13:31:35,405 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-17 13:31:35,441 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-17 13:31:35,473 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-17 13:31:35,503 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-17 13:31:35,562 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-17 13:31:35,647 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-17 13:31:35,695 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-17 13:31:35,721 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-17 13:31:35,762 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-17 13:31:35,791 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-17 13:31:35,817 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-17 13:31:35,847 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-17 13:31:35,881 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-17 13:31:35,950 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-17 13:31:36,005 INFO  [Log] **************************************************************************************** 
+2017-08-17 13:31:36,005 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_176.xlsx; Description: Rg_TC_176.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-17 13:31:36,005 INFO  [Log] **************************************************************************************** 
+2017-08-17 13:31:36,207 ERROR [Log] Error#: Rg_TC_176.xlsx; Error in communicating with Browserjava.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-08-17 13:31:36,207 INFO  [Log] #### Executing Test case: Rg_TC_176.xlsx; Description: Rg_TC_176.xlsx In firefox Browser for TestData:1 
+2017-08-17 13:31:42,282 ERROR [Log] Error#: optima_176TS_01ObjectRepOpenGivenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-17 13:31:43,052 WARN  [Log] No Browser instance is active 
+2017-08-17 13:31:43,052 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 13:31:43,052 FATAL [Log] optima_176TS_01ObjectRepOpenGivenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-17 13:31:43,052 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 13:31:43,450 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-17 13:31:43,478 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-17 13:31:43,520 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-17 13:31:43,620 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-17 13:31:43,688 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-17 13:31:43,737 INFO  [Log] ####Closing Test Suite #### 
+2017-08-17 13:31:43,737 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 13:31:43,738 INFO  [Log] Creating Logs backup and storing for further reference 

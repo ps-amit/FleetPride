@@ -1,0 +1,74 @@
+2017-09-25 10:18:00,172 INFO  [Log] Test Scenario Configuration started 
+2017-09-25 10:18:00,201 INFO  [Log] Initialing HTML reporting 
+2017-09-25 10:18:00,407 INFO  [Log] Starting Test Suit Execution 
+2017-09-25 10:18:00,574 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 10:18:00,605 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 10:18:00,634 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 10:18:01,109 INFO  [Log] Object repository is created successfully 
+2017-09-25 10:18:01,168 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-25 10:18:01,213 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-25 10:18:01,257 INFO  [Log] RG_TC_012_Blank 
+2017-09-25 10:18:01,301 INFO  [Log] RG_TC_016_Blank 
+2017-09-25 10:18:01,389 INFO  [Log] **************************************************************************************** 
+2017-09-25 10:18:01,389 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_001; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-25 10:18:01,389 INFO  [Log] **************************************************************************************** 
+2017-09-25 10:18:07,104 INFO  [Log] #### Executing Test case: PGNG_1801_TC_001; Description: Blank In Chrome Browser for TestData:1 
+2017-09-25 10:18:15,582 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-25 10:18:16,043 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-25 10:18:16,224 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-25 10:18:16,372 INFO  [Log] TS_04: Click on login button 
+2017-09-25 10:18:44,990 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-25 10:18:45,161 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-25 10:18:45,239 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-25 10:18:46,439 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-25 10:18:46,728 INFO  [Log] TS_09: Click on property 
+2017-09-25 10:18:49,971 INFO  [Log] TS_10: Click on Settings 
+2017-09-25 10:18:52,121 INFO  [Log] TS_11: Click on Mapping 
+2017-09-25 10:18:55,234 INFO  [Log] TS_12: Click on Basic tab 
+2017-09-25 10:18:58,339 INFO  [Log] TS_13: Click on Yes button: Action click If 
+2017-09-25 10:18:58,339 INFO  [Log] TS_14; Waited 5000 Milli seconds for Element 
+2017-09-25 10:19:03,349 INFO  [Log] TS_15; Passed; Verify the appearance of text 'Room Mapping' in the page; Value: room mapping; Present in Page values: Room Mapping,  
+2017-09-25 10:19:03,465 INFO  [Log] TS_16; Passed; Verify the appearance of text 'Rate Category' in the page; Value: rate category; Present in Page values: Rate Category,  
+2017-09-25 10:19:03,576 INFO  [Log] TS_17; Passed; Verify the appearance of text 'Inclusions' in the page; Value: inclusions; Present in Page values: Inclusions,  
+2017-09-25 10:19:08,303 INFO  [Log] closing test case  
+2017-09-25 10:19:08,820 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 10:19:08,849 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 10:19:08,879 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 10:19:08,893 INFO  [Log] ### Test case: PGNG_1801_TC_001; Description: Blank; status Executed 
+2017-09-25 10:19:09,056 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 10:19:09,085 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 10:19:09,114 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 10:19:09,114 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 10:19:09,114 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 10:19:09,396 INFO  [Log] **************************************************************************************** 
+2017-09-25 10:19:09,396 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_002; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-25 10:19:09,396 INFO  [Log] **************************************************************************************** 
+2017-09-25 10:19:14,383 INFO  [Log] #### Executing Test case: PGNG_1801_TC_002; Description: Blank In Chrome Browser for TestData:1 
+2017-09-25 10:19:20,880 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-25 10:19:22,360 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-25 10:19:22,497 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-25 10:19:22,592 INFO  [Log] TS_04: Click on login button 
+2017-09-25 10:19:35,818 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-25 10:19:35,967 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-25 10:19:36,033 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-25 10:19:37,180 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-25 10:19:37,450 INFO  [Log] TS_09: Click on property 
+2017-09-25 10:19:40,447 INFO  [Log] TS_10: Click on Settings 
+2017-09-25 10:19:42,496 INFO  [Log] TS_11: Click on Mapping 
+2017-09-25 10:19:45,599 INFO  [Log] TS_13: Verify that the default selected tab is 'Basic'; Passed; ; Element is present on the active page 
+2017-09-25 10:19:50,328 INFO  [Log] closing test case  
+2017-09-25 10:19:52,680 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 10:19:52,740 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 10:19:52,784 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 10:19:52,799 INFO  [Log] ### Test case: PGNG_1801_TC_002; Description: Blank; status Executed 
+2017-09-25 10:19:52,991 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 10:19:53,021 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 10:19:53,065 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 10:19:53,065 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 10:19:53,065 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 10:19:53,153 INFO  [Log] PGNG_1801_TC_028_Blank 
+2017-09-25 10:19:53,168 INFO  [Log] PGNG_1801_TC_003_Blank 
+2017-09-25 10:19:53,183 INFO  [Log] PGNG_1801_TC_006_Blank 
+2017-09-25 10:19:53,198 INFO  [Log] ####Closing Test Suite #### 
+2017-09-25 10:19:53,198 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 10:19:53,198 INFO  [Log] Creating Logs backup and storing for further reference 

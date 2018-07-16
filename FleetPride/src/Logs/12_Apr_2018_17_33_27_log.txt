@@ -1,0 +1,134 @@
+2018-04-12 17:31:44,925 INFO  [Log] Test Scenario Configuration started 
+2018-04-12 17:31:44,940 INFO  [Log] Initialing HTML reporting 
+2018-04-12 17:31:45,180 INFO  [Log] Starting Test Suit Execution 
+2018-04-12 17:31:45,640 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:31:45,702 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:31:45,780 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:31:46,391 INFO  [Log] Object repository is created successfully 
+2018-04-12 17:31:46,455 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-12 17:31:46,533 INFO  [Log] Pre-requisite Fetch Sales Pack DSP No_Blank 
+2018-04-12 17:31:46,580 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:31:46,580 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-734 Sales Pack Qty issue from Quick Order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:31:46,580 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:31:54,355 INFO  [Log] #### Executing Test case: PE-734 Sales Pack Qty issue from Quick Order; Description: Blank In Firefox Browser for TestData:1 
+2018-04-12 17:32:08,029 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:32:08,126 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:32:08,173 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:32:08,173 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:32:15,177 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:32:15,181 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:32:25,233 INFO  [Log] TS_07: Input Sales Pack DSP number in the input box; Action: Submitted Value: Value: Z1641 
+2018-04-12 17:32:25,233 INFO  [Log] TS_08; Waited 4000 Milli seconds for Element 
+2018-04-12 17:32:29,563 INFO  [Log] TS_09: Click on Add to cart button  
+2018-04-12 17:32:29,567 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2018-04-12 17:32:33,667 INFO  [Log] TS_11; Passed; Verify the error message for incorrect qty provided for Sales pack product on the quick order section on home page; Text is present for the given emement element :  
+2018-04-12 17:32:33,687 INFO  [Log] TS_12: Verify the help message for incorrect qty provided for Sales pack product on the quick order section on home page; Passed; ; Element is present on the active page 
+2018-04-12 17:32:33,687 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-04-12 17:32:54,152 INFO  [Log] TS_14: Click on the Shop Online link 
+2018-04-12 17:32:54,152 INFO  [Log] TS_15; Waited 5000 Milli seconds for Element 
+2018-04-12 17:32:59,256 INFO  [Log] TS_16: Input Sales Pack DSP number in the input box; Action: Submitted Value: Value: Z1641 
+2018-04-12 17:32:59,256 INFO  [Log] TS_17; Waited 10000 Milli seconds for Element 
+2018-04-12 17:33:24,415 INFO  [Log] PE-734TS_18ObjectRepScrollToElement  org.openqa.selenium.JavascriptException: TypeError: arguments[0] is null
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.238', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\amit.singh\AppData\Local\Temp\rust_mozprofile.A5bEERrGwM8H, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, moz:accessibilityChecks=false, moz:useNonSpecCompliantPointerOrigin=false, acceptInsecureCerts=false, browserVersion=59.0.2, platformVersion=10.0, moz:processID=2380.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt, moz:webdriverClick=true}]
+Session ID: afb4d5ec-5641-4d77-8947-d64628f44a2anull:Exception is not handled 
+2018-04-12 17:33:24,791 WARN  [Log]  Browser instance is active 
+2018-04-12 17:33:25,385 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:33:25,448 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:33:25,520 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:33:25,520 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:33:25,520 FATAL [Log] PE-734TS_18ObjectRepScrollToElement  org.openqa.selenium.JavascriptException: TypeError: arguments[0] is null
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.238', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\amit.singh\AppData\Local\Temp\rust_mozprofile.A5bEERrGwM8H, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, moz:accessibilityChecks=false, moz:useNonSpecCompliantPointerOrigin=false, acceptInsecureCerts=false, browserVersion=59.0.2, platformVersion=10.0, moz:processID=2380.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt, moz:webdriverClick=true}]
+Session ID: afb4d5ec-5641-4d77-8947-d64628f44a2anull:Exception is not handled 
+2018-04-12 17:33:25,520 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:33:25,630 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-12 17:33:25,677 INFO  [Log] PE-383 Price Mismatch_Blank 
+2018-04-12 17:33:25,724 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-12 17:33:25,771 INFO  [Log] PE-411 Free Parcel Shipping Text_Blank 
+2018-04-12 17:33:25,802 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-12 17:33:25,849 INFO  [Log] PE-482 Payment Credit Card_Blank 
+2018-04-12 17:33:25,880 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-12 17:33:25,911 INFO  [Log] PE-475 Incorrect Product Qty Order on Review Page_Blank 
+2018-04-12 17:33:25,942 INFO  [Log] OrderID.xlsx_Blank 
+2018-04-12 17:33:25,989 INFO  [Log] Database-script.xlsx_Blank 
+2018-04-12 17:33:26,023 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-04-12 17:33:26,069 INFO  [Log] E2E_normal_shipping -CC_Blank 
+2018-04-12 17:33:26,116 INFO  [Log] Links_Home_Page.xlsx_Blank 
+2018-04-12 17:33:26,148 INFO  [Log] Sales_Force_Login.xlsx_Blank 
+2018-04-12 17:33:26,179 INFO  [Log] E2E_Core_charges-CC_Blank 
+2018-04-12 17:33:26,194 INFO  [Log] Jira_P1_Sales_Pack_qty_validation_Quick_Order_Home_Page.xlsx_Blank 
+2018-04-12 17:33:26,241 INFO  [Log] E2E_Multiple_DC_Products_Quick_Order_Blank 
+2018-04-12 17:33:26,273 INFO  [Log] E2E_Multiple_products_Quick_Order_Blank 
+2018-04-12 17:33:26,288 INFO  [Log] E2E_back_order -stored_CC_Blank 
+2018-04-12 17:33:26,320 INFO  [Log] E2E_back_order_invoice_Blank 
+2018-04-12 17:33:26,351 INFO  [Log] E2E_normal_shipping -stored_CC_Blank 
+2018-04-12 17:33:26,382 INFO  [Log] E2E_normal_shipping_invoice_Blank 
+2018-04-12 17:33:26,398 INFO  [Log] E2E_Will_Call - stored_CC_Blank 
+2018-04-12 17:33:26,429 INFO  [Log] E2E_Will_Call -Ship_Remainder - stored_CC_Blank 
+2018-04-12 17:33:26,460 INFO  [Log] E2E_Will_Call -Ship_Remainder_invoice_Blank 
+2018-04-12 17:33:26,485 INFO  [Log] E2E_Will_Call_invoice_Blank 
+2018-04-12 17:33:26,532 INFO  [Log] fetch_SP_qty_Blank 
+2018-04-12 17:33:26,563 INFO  [Log] Sales_Pack_E2E_normal_shipping -stored_CC_Blank 
+2018-04-12 17:33:26,579 INFO  [Log] Sales_Pack_E2E_normal_shipping -invoice_Blank 
+2018-04-12 17:33:26,610 INFO  [Log] PLP_Sales_Pack_E2E_normal_shipping -CC_Blank 
+2018-04-12 17:33:26,641 INFO  [Log] E2E_Will_Call -Ship_Remainder -CC_Blank 
+2018-04-12 17:33:26,672 INFO  [Log] E2E_Quick_Order_Home_Page_Blank 
+2018-04-12 17:33:26,688 INFO  [Log] E2E_Duplicate_Line_Item_Blank 
+2018-04-12 17:33:26,719 INFO  [Log] E2E_Quick_Order_Home_Page_Free_Shipping_Blank 
+2018-04-12 17:33:26,751 INFO  [Log] E2E_X_category_product_Blank 
+2018-04-12 17:33:26,766 INFO  [Log] E2E_CSV_Order_Upload_invoice_Blank 
+2018-04-12 17:33:26,797 INFO  [Log] Product_Restriction_mycart_page.xlsx_Blank 
+2018-04-12 17:33:26,813 INFO  [Log] FP_home_page_search_productName_Blank 
+2018-04-12 17:33:26,844 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2018-04-12 17:33:26,876 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2018-04-12 17:33:26,907 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2018-04-12 17:33:26,938 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2018-04-12 17:33:26,954 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2018-04-12 17:33:26,985 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2018-04-12 17:33:27,001 INFO  [Log] FP_Order_Upload_Blank 
+2018-04-12 17:33:27,032 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2018-04-12 17:33:27,063 INFO  [Log] FP_My_Account_TC_2_Blank 
+2018-04-12 17:33:27,094 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2018-04-12 17:33:27,110 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2018-04-12 17:33:27,126 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2018-04-12 17:33:27,157 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2018-04-12 17:33:27,172 INFO  [Log] FP_My_Cart_TC_09_Blank 
+2018-04-12 17:33:27,204 INFO  [Log] FP_My_Cart_TC_44_Blank 
+2018-04-12 17:33:27,219 INFO  [Log] FP_My_Cart_TC_47_Blank 
+2018-04-12 17:33:27,251 INFO  [Log] FP_My_Cart_TC_46_Blank 
+2018-04-12 17:33:27,266 INFO  [Log] FP_Payment_TC_02_Blank 
+2018-04-12 17:33:27,297 INFO  [Log] FP_Payment_TC_15_Blank 
+2018-04-12 17:33:27,313 INFO  [Log] Sales_Force_Blank 
+2018-04-12 17:33:27,344 INFO  [Log] Search_01_Blank 
+2018-04-12 17:33:27,376 INFO  [Log] Search_02_Blank 
+2018-04-12 17:33:27,391 INFO  [Log] Search_SO_Blank 
+2018-04-12 17:33:27,423 INFO  [Log] Filter_SO_Blank 
+2018-04-12 17:33:27,438 INFO  [Log] MA_Admin_Blank 
+2018-04-12 17:33:27,472 INFO  [Log] QO_Home_Blank 
+2018-04-12 17:33:27,510 INFO  [Log] Wishlist_PDP_Blank 
+2018-04-12 17:33:27,532 INFO  [Log] Wishlist_PLP_Blank 
+2018-04-12 17:33:27,556 INFO  [Log] QO_ShopOnline_Blank 
+2018-04-12 17:33:27,584 INFO  [Log] Upload_Blank 
+2018-04-12 17:33:27,612 INFO  [Log] Invalid_Quantity_Blank 
+2018-04-12 17:33:27,639 INFO  [Log] Invalid_Product_Blank 
+2018-04-12 17:33:27,660 INFO  [Log] Edit_Will_Call_Blank 
+2018-04-12 17:33:27,693 INFO  [Log] File_Verification_Blank 
+2018-04-12 17:33:27,720 INFO  [Log] Order_List_Account_Blank 
+2018-04-12 17:33:27,748 INFO  [Log] Saved_CC_Blank 
+2018-04-12 17:33:27,781 INFO  [Log] Backorder_Blank 
+2018-04-12 17:33:27,806 INFO  [Log] Backorder_Will_Call_Blank 
+2018-04-12 17:33:27,825 INFO  [Log] Blank_File_Blank 
+2018-04-12 17:33:27,846 INFO  [Log] UO_Del_Mor_Blank 
+2018-04-12 17:33:27,865 INFO  [Log] Search_Orders_Blank 
+2018-04-12 17:33:27,887 INFO  [Log] Shipping_Address_Blank 
+2018-04-12 17:33:27,911 INFO  [Log] PDP_Details_Blank 
+2018-04-12 17:33:27,939 INFO  [Log] Sales_Pack_QO_Home_Blank 
+2018-04-12 17:33:27,959 INFO  [Log] Sales_Pack_PDP_Blank 
+2018-04-12 17:33:27,984 INFO  [Log] ####Closing Test Suite #### 
+2018-04-12 17:33:27,984 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:33:27,985 INFO  [Log] Creating Logs backup and storing for further reference 

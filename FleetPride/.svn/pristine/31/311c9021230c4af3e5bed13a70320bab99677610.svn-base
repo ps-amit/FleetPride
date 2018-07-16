@@ -1,0 +1,114 @@
+2018-02-07 13:08:58,533 INFO  [Log] Test Scenario Configuration started 
+2018-02-07 13:08:58,551 INFO  [Log] Initialing HTML reporting 
+2018-02-07 13:08:58,827 INFO  [Log] Starting Test Suit Execution 
+2018-02-07 13:08:59,324 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-07 13:08:59,426 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-07 13:08:59,583 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-07 13:09:00,223 INFO  [Log] Object repository is created successfully 
+2018-02-07 13:09:00,264 INFO  [Log] E2E_back_order -stored_CC_Blank 
+2018-02-07 13:09:00,326 INFO  [Log] E2E_back_order_invoice_Blank 
+2018-02-07 13:09:00,373 INFO  [Log] E2E_normal_shipping -stored_CC_Blank 
+2018-02-07 13:09:00,415 INFO  [Log] E2E_normal_shipping_invoice_Blank 
+2018-02-07 13:09:00,457 INFO  [Log] E2E_Will_Call - stored_CC_Blank 
+2018-02-07 13:09:00,494 INFO  [Log] E2E_Will_Call -Ship_Remainder - stored_CC_Blank 
+2018-02-07 13:09:00,534 INFO  [Log] E2E_Will_Call -Ship_Remainder_invoice_Blank 
+2018-02-07 13:09:00,577 INFO  [Log] E2E_Will_Call_invoice_Blank 
+2018-02-07 13:09:00,601 INFO  [Log] Sales_Pack_E2E_normal_shipping -stored_CC_Blank 
+2018-02-07 13:09:00,645 INFO  [Log] Sales_Pack_E2E_normal_shipping -invoice_Blank 
+2018-02-07 13:09:00,674 INFO  [Log] PLP_Sales_Pack_E2E_normal_shipping -CC_Blank 
+2018-02-07 13:09:00,710 INFO  [Log] E2E_normal_shipping -CC_Blank 
+2018-02-07 13:09:00,736 INFO  [Log] E2E_Will_Call -Ship_Remainder -CC_Blank 
+2018-02-07 13:09:00,781 INFO  [Log] Product_Restriction_mycart_page.xlsx_Blank 
+2018-02-07 13:09:00,808 INFO  [Log] E2E_Quick_Order_Home_Page_Blank 
+2018-02-07 13:09:00,859 INFO  [Log] **************************************************************************************** 
+2018-02-07 13:09:00,859 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_Duplicate_Line_Item; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-07 13:09:00,859 INFO  [Log] **************************************************************************************** 
+2018-02-07 13:09:11,667 INFO  [Log] #### Executing Test case: E2E_Duplicate_Line_Item; Description: Blank In Firefox Browser for TestData:1 
+2018-02-07 13:09:30,211 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-07 13:09:30,534 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: mragendra@ps.com 
+2018-02-07 13:09:31,315 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: @Friend#1 
+2018-02-07 13:09:31,316 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-07 13:09:41,638 INFO  [Log] TS_05: Click on login button 
+2018-02-07 13:09:41,639 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-07 13:09:51,768 INFO  [Log] TS_07: Input  part number in the input box; Action: Submitted Value: Value: W200-12 
+2018-02-07 13:09:51,768 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-02-07 13:10:02,037 INFO  [Log] TS_09: Click on Add to cart button  
+2018-02-07 13:10:02,040 INFO  [Log] TS_10; Waited 15000 Milli seconds for Element 
+2018-02-07 13:10:17,113 INFO  [Log] TS_11: Capture the qty in Home DCQTY in VISALIA: 188; Value has been stored in index: 0 
+2018-02-07 13:10:17,120 INFO  [Log] User specified value has been replaced at index0New Value is: 188 
+2018-02-07 13:10:17,154 INFO  [Log] TS_13: Capture the qty in other DCQTY in other Locations: 1673; Value has been stored in index: 1 
+2018-02-07 13:10:17,162 INFO  [Log] User specified value has been replaced at index1New Value is: 1673 
+2018-02-07 13:10:17,194 INFO  [Log] TS_15: Capture the price of product on my cart page$1.02; Value has been stored in index: 2 
+2018-02-07 13:10:17,196 INFO  [Log] TS_16; Waited 10000 Milli seconds for Element 
+2018-02-07 13:10:27,286 INFO  [Log] TS_17: Capture the part no of the first product Part#: W200-12; Value has been stored in index: 3 
+2018-02-07 13:10:27,473 INFO  [Log] TS_18: Click on the Duplicate Line Item Link 
+2018-02-07 13:10:27,474 INFO  [Log] TS_19; Waited 15000 Milli seconds for Element 
+2018-02-07 13:10:42,595 INFO  [Log] TS_20: Capture the part no of the second product Part#: W200-12; Value has been stored in index: 4 
+2018-02-07 13:10:42,597 INFO  [Log] TS_21; Passed; null; Captured text1: part#: w200-12; Captured text2: part#: w200-12 
+2018-02-07 13:10:42,815 INFO  [Log] TS_22: Capture default qty for the duplicate line item row1; Value has been stored in index: 5 
+2018-02-07 13:10:42,894 INFO  [Log] TS_23; Passed; Verify the default qty for the duplicate line item row; Text is present for the given emement element :  
+2018-02-07 13:10:42,939 INFO  [Log] TS_24: Capture the Subtotal price of the cart$2.04; Value has been stored in index: 6 
+2018-02-07 13:10:42,939 INFO  [Log] TS_25; Waited 5000 Milli seconds for Element 
+2018-02-07 13:10:48,282 INFO  [Log] TS_26: Click on the Proceed to Order Review  button 
+2018-02-07 13:10:48,284 INFO  [Log] TS_27; Waited 10000 Milli seconds for Element 
+2018-02-07 13:10:58,971 INFO  [Log] TS_28: Capture the part no of the first first line itemPart#: W200-12; Value has been stored in index: 7 
+2018-02-07 13:10:58,973 INFO  [Log] TS_29; Passed; null; Captured text1: part#: w200-12; Captured text2: part#: w200-12 
+2018-02-07 13:10:58,994 INFO  [Log] TS_30: Capture the part no of the second line itemPart#: W200-12; Value has been stored in index: 8 
+2018-02-07 13:10:58,995 INFO  [Log] TS_31; Passed; null; Captured text1: part#: w200-12; Captured text2: part#: w200-12 
+2018-02-07 13:10:59,015 INFO  [Log] TS_32: Capture the Subtotal price on order review page$2.04; Value has been stored in index: 9 
+2018-02-07 13:10:59,015 INFO  [Log] TS_33; Passed; null; Captured text1: $2.04; Captured text2: $2.04 
+2018-02-07 13:10:59,040 INFO  [Log] TS_34: Capture the shipping cost $8.04; Value has been stored in index: 10 
+2018-02-07 13:10:59,062 INFO  [Log] TS_35: Capture the grandtotal price on order review page$10.08; Value has been stored in index: 11 
+2018-02-07 13:10:59,140 INFO  [Log] TS_36: Click on the Proceed to Payment information  button 
+2018-02-07 13:10:59,141 INFO  [Log] TS_37; Waited 10000 Milli seconds for Element 
+2018-02-07 13:11:09,338 INFO  [Log] TS_38: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-07 13:11:09,588 INFO  [Log] TS_39: Click on invoice Order tab 
+2018-02-07 13:11:09,695 INFO  [Log] TS_40: Click on the Check box 
+2018-02-07 13:11:09,835 INFO  [Log] TS_41: Click on the Submit order button for Invoice tab 
+2018-02-07 13:11:09,836 INFO  [Log] TS_42; Waited 10000 Milli seconds for Element 
+2018-02-07 13:11:19,939 INFO  [Log] TS_43: Capture the billing addressTRLR PARTS ,105 W COMMERCIAL AVE
+EL CENTRO , CA  92243-2547
+US; Value has been stored in index: 12 
+2018-02-07 13:11:20,011 INFO  [Log] TS_44: Capture the shipping address105 W COMMERCIAL AVE
+EL CENTRO , CA  92243; Value has been stored in index: 13 
+2018-02-07 13:11:20,049 INFO  [Log] TS_45; Passed; Verify the payment mode; Value: invoiced; Present in Page values: Invoiced,  
+2018-02-07 13:11:20,070 INFO  [Log] TS_46: Capture the Subtotal price on order confirmation page$2.04; Value has been stored in index: 14 
+2018-02-07 13:11:20,071 INFO  [Log] TS_47; Passed; null; Captured text1: $2.04; Captured text2: $2.04 
+2018-02-07 13:11:20,089 INFO  [Log] TS_48: Capture the shipping cost on order confirmation page$8.04; Value has been stored in index: 15 
+2018-02-07 13:11:20,089 INFO  [Log] TS_49; Passed; null; Captured text1: $8.04; Captured text2: $8.04 
+2018-02-07 13:11:20,107 INFO  [Log] TS_50: Capture the grandtotal price on order confirmation page$10.08; Value has been stored in index: 16 
+2018-02-07 13:11:20,108 INFO  [Log] TS_51; Passed; null; Captured text1: $10.08; Captured text2: $10.08 
+2018-02-07 13:11:20,124 INFO  [Log] TS_52: Capture the Home DC address7107 W SUNNYVIEW AVE VISALIA CA 932919639; Value has been stored in index: 17 
+2018-02-07 13:11:20,124 INFO  [Log] TS_53; Waited 10000 Milli seconds for Element 
+2018-02-07 13:11:30,170 INFO  [Log] TS_54: Capture the Order no.Thank you for placing your order! Your order number is O-0000008464.
+Order Date: 2/7/2018; Value has been stored in index: 18 
+2018-02-07 13:11:30,181 INFO  [Log] User specified value has been replaced at index18New Value is: Thank you for placing your order! Your order number is O-0000008464. 
+2018-02-07 13:11:30,189 INFO  [Log] User specified value has been replaced at index18New Value is: O-0000008464. 
+2018-02-07 13:11:30,217 INFO  [Log] TS_57: Capture the Order no.Thank you for placing your order! Your order number is O-0000008464.
+Order Date: 2/7/2018; Value has been stored in index: 19 
+2018-02-07 13:11:30,226 INFO  [Log] User specified value has been replaced at index19New Value is: 2/7/2018 
+2018-02-07 13:11:35,229 INFO  [Log] closing test case  
+2018-02-07 13:11:35,402 ERROR [Log] Error#: Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.207', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 2d18d867-2389-4f32-9a27-2a648504158b 
+2018-02-07 13:23:18,112 WARN  [Log]  Browser instance is active 
+2018-02-07 13:23:18,117 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.207', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 2d18d867-2389-4f32-9a27-2a648504158b 
+2018-02-07 13:23:18,117 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-07 13:23:18,117 FATAL [Log] Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.207', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 2d18d867-2389-4f32-9a27-2a648504158b 
+2018-02-07 13:23:18,117 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-07 13:23:18,833 INFO  [Log] ####Closing Test Suite #### 
+2018-02-07 13:23:18,833 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-07 13:23:18,833 INFO  [Log] Creating Logs backup and storing for further reference 

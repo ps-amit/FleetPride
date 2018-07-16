@@ -1,0 +1,61 @@
+2017-11-06 15:10:55,428 INFO  [Log] Test Scenario Configuration started 
+2017-11-06 15:10:55,448 INFO  [Log] Initialing HTML reporting 
+2017-11-06 15:10:55,618 INFO  [Log] Starting Test Suit Execution 
+2017-11-06 15:10:55,778 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-06 15:10:55,808 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-06 15:10:55,838 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-06 15:10:56,268 INFO  [Log] Object repository is created successfully 
+2017-11-06 15:10:56,329 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-06 15:10:56,389 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-06 15:10:56,429 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-06 15:10:56,479 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-06 15:10:56,510 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-06 15:10:56,542 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-06 15:10:56,592 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-06 15:10:56,642 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-06 15:10:56,672 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-06 15:10:56,715 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-06 15:10:56,744 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-06 15:10:56,777 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-06 15:10:56,814 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-06 15:10:56,844 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-06 15:10:56,895 INFO  [Log] Testing_Purpose_Blank 
+2017-11-06 15:10:56,916 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-06 15:10:56,956 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-06 15:10:56,976 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-06 15:10:57,016 INFO  [Log] **************************************************************************************** 
+2017-11-06 15:10:57,016 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_007; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-06 15:10:57,016 INFO  [Log] **************************************************************************************** 
+2017-11-06 15:11:02,814 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_007; Description: Blank In Chrome Browser for TestData:1 
+2017-11-06 15:12:21,377 INFO  [Log] FP_My_Cart_TC_07TS_02ObjectRepClick  org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.200', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir2568_25970}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 86fdaee720b527cc79eb8cc85e9a191enull:Exception is not handled 
+2017-11-06 15:12:22,040 WARN  [Log]  Browser instance is active 
+2017-11-06 15:12:22,040 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.200', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir2568_25970}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 86fdaee720b527cc79eb8cc85e9a191e 
+2017-11-06 15:12:22,040 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-06 15:12:22,040 FATAL [Log] FP_My_Cart_TC_07TS_02ObjectRepClick  org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.200', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir2568_25970}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 86fdaee720b527cc79eb8cc85e9a191enull:Exception is not handled 
+2017-11-06 15:12:22,040 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-06 15:12:22,110 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2017-11-06 15:12:22,130 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2017-11-06 15:12:22,160 INFO  [Log] ####Closing Test Suite #### 
+2017-11-06 15:12:22,160 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-06 15:12:22,160 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,1269 @@
+2017-09-13 19:22:01,975 INFO  [Log] Test Scenario Configuration started 
+2017-09-13 19:22:01,990 INFO  [Log] Initialing HTML reporting 
+2017-09-13 19:22:02,177 INFO  [Log] Starting Test Suit Execution 
+2017-09-13 19:22:02,349 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:22:02,380 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:22:02,411 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:22:02,864 INFO  [Log] Object repository is created successfully 
+2017-09-13 19:22:02,958 INFO  [Log] TC_101_To verify compset average value 
+2017-09-13 19:22:03,036 INFO  [Log] TC_93_Blank 
+2017-09-13 19:22:03,083 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-13 19:22:03,146 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-13 19:22:03,208 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-13 19:22:03,239 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-13 19:22:03,302 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-13 19:22:03,348 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-13 19:22:03,411 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-13 19:22:03,442 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-13 19:22:03,473 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-13 19:22:03,504 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-13 19:22:03,551 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-13 19:22:03,582 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-13 19:22:03,614 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-13 19:22:03,645 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-13 19:22:03,723 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-13 19:22:03,754 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-13 19:22:03,801 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-13 19:22:03,832 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-13 19:22:03,863 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-13 19:22:03,879 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-13 19:22:03,910 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-13 19:22:03,943 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-13 19:22:03,974 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-13 19:22:04,006 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-13 19:22:04,037 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-13 19:22:04,068 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-13 19:22:04,084 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-13 19:22:04,115 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-13 19:22:04,130 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-13 19:22:04,162 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-13 19:22:04,177 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-13 19:22:04,208 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-13 19:22:04,224 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-13 19:22:04,240 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-13 19:22:04,271 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-13 19:22:04,302 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-13 19:22:04,318 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-13 19:22:04,349 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-13 19:22:04,364 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-13 19:22:04,427 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-13 19:22:04,458 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-13 19:22:04,474 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-13 19:22:04,489 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-13 19:22:04,520 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-13 19:22:04,536 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-13 19:22:04,552 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-13 19:22:04,583 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-13 19:22:04,598 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-13 19:22:04,630 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-13 19:22:04,645 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-13 19:22:04,676 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-13 19:22:04,692 INFO  [Log] Rg_TC_174.xlsx_To verify the rates grid view 
+2017-09-13 19:22:04,723 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-13 19:22:04,739 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-13 19:22:04,770 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-13 19:22:04,786 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-13 19:22:04,817 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-13 19:22:04,832 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-13 19:22:04,864 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-13 19:22:04,879 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-13 19:22:04,910 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-13 19:22:04,926 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-13 19:22:04,957 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-13 19:22:04,988 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:22:04,988 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_012.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 19:22:04,988 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:22:14,353 INFO  [Log] #### Executing Test case: PGNG1030_TC_012.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-13 19:22:31,640 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:22:33,219 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:22:34,769 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:22:49,552 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:22:51,203 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:22:53,267 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:22:55,873 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:22:57,614 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:23:02,041 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:23:06,250 INFO  [Log] TS_11: Click on Competitor 
+2017-09-13 19:23:09,224 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:23:10,849 INFO  [Log] TS_13: Capture the First ResultCopthorne Tara Hotel London Kensington; Value has been stored in index: 0 
+2017-09-13 19:23:12,473 INFO  [Log] TS_14: Click on Search Competitor; Action Clear 
+2017-09-13 19:23:14,019 INFO  [Log] TS_15: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:23:14,019 INFO  [Log] TS_16; Waited 12000 Milli seconds for Element 
+2017-09-13 19:23:26,093 INFO  [Log] TS_18; Waited 12000 Milli seconds for Element 
+2017-09-13 19:23:39,708 INFO  [Log] TS_19: Capture the Last Element or CompetitorCopthorne Tara Hotel London Kensington; Value has been stored in index: 1 
+2017-09-13 19:23:39,708 INFO  [Log] TS_20; Passed; Verify First Search Result is Equal to the result after pressing Enter ; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara hotel london kensington 
+2017-09-13 19:23:41,363 INFO  [Log] TS_21: Delete the Added Compititor 
+2017-09-13 19:23:43,209 INFO  [Log] TS_22: Click on Delete to Confirm Deletion 
+2017-09-13 19:23:48,218 INFO  [Log] closing test case  
+2017-09-13 19:23:48,547 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:23:48,593 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:23:48,640 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:23:48,656 INFO  [Log] ### Test case: PGNG1030_TC_012.xlsx; Description: Blank; status Executed 
+2017-09-13 19:23:48,874 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:23:48,921 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:23:48,952 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:23:48,952 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:23:54,083 INFO  [Log] #### Executing Test case: PGNG1030_TC_012.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 19:24:05,701 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:24:07,046 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:24:07,172 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:24:07,271 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:24:23,152 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:24:23,314 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:24:23,390 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:24:24,620 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:24:24,785 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:24:27,977 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:24:30,194 INFO  [Log] TS_11: Click on Competitor 
+2017-09-13 19:24:31,446 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:24:32,641 INFO  [Log] TS_13: Capture the First ResultCopthorne Tara Hotel London Kensington; Value has been stored in index: 0 
+2017-09-13 19:24:32,732 INFO  [Log] TS_14: Click on Search Competitor; Action Clear 
+2017-09-13 19:24:32,895 INFO  [Log] TS_15: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:24:32,895 INFO  [Log] TS_16; Waited 12000 Milli seconds for Element 
+2017-09-13 19:24:44,959 INFO  [Log] TS_18; Waited 12000 Milli seconds for Element 
+2017-09-13 19:24:57,141 INFO  [Log] TS_19: Capture the Last Element or CompetitorCopthorne Tara Hotel London Kensington; Value has been stored in index: 1 
+2017-09-13 19:24:57,141 INFO  [Log] TS_20; Passed; Verify First Search Result is Equal to the result after pressing Enter ; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara hotel london kensington 
+2017-09-13 19:24:57,248 INFO  [Log] TS_21: Delete the Added Compititor 
+2017-09-13 19:24:57,372 INFO  [Log] TS_22: Click on Delete to Confirm Deletion 
+2017-09-13 19:25:02,374 INFO  [Log] closing test case  
+2017-09-13 19:25:02,652 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:25:02,699 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:25:02,730 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:25:02,746 INFO  [Log] ### Test case: PGNG1030_TC_012.xlsx; Description: Blank; status Executed 
+2017-09-13 19:25:02,980 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:25:03,011 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:25:03,042 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:25:03,042 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:25:07,742 INFO  [Log] #### Executing Test case: PGNG1030_TC_012.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 19:25:34,018 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:25:35,224 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:25:35,381 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:25:35,490 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:25:47,779 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:25:47,874 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:25:47,952 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:25:49,179 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:25:49,293 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:25:55,544 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:25:57,840 INFO  [Log] TS_11: Click on Competitor 
+2017-09-13 19:25:59,309 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:26:01,059 INFO  [Log] TS_13: Capture the First ResultCopthorne Tara Hotel London Kensington; Value has been stored in index: 0 
+2017-09-13 19:26:01,138 INFO  [Log] TS_14: Click on Search Competitor; Action Clear 
+2017-09-13 19:26:01,231 INFO  [Log] TS_15: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:26:01,231 INFO  [Log] TS_16; Waited 12000 Milli seconds for Element 
+2017-09-13 19:26:13,278 INFO  [Log] TS_18; Waited 12000 Milli seconds for Element 
+2017-09-13 19:26:25,394 INFO  [Log] TS_19: Capture the Last Element or CompetitorLondon Apart Hotel; Value has been stored in index: 1 
+2017-09-13 19:26:25,394 INFO  [Log] Fail; TS_20: Verify First Search Result is Equal to the result after pressing Enter Verify First Search Result is Equal to the result after pressing Enter ; Captured text1: copthorne tara hotel london kensington; Captured text2: london apart hotel 
+2017-09-13 19:26:25,797 INFO  [Log] TS_21: Delete the Added Compititor 
+2017-09-13 19:26:25,875 INFO  [Log] TS_22: Click on Delete to Confirm Deletion 
+2017-09-13 19:26:30,886 INFO  [Log] closing test case  
+2017-09-13 19:26:31,183 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:26:31,215 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:26:31,246 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:26:31,261 INFO  [Log] ### Test case: PGNG1030_TC_012.xlsx; Description: Blank; status Executed 
+2017-09-13 19:26:31,449 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:26:31,495 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:26:31,527 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:26:31,527 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:26:31,527 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:26:31,605 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:26:31,605 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_076.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 19:26:31,605 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:26:40,184 INFO  [Log] #### Executing Test case: PGNG1030_TC_076.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-13 19:27:00,412 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:27:01,965 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:27:03,499 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:27:16,240 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:27:17,927 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:27:19,956 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:27:22,542 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:27:24,304 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:27:28,999 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:27:33,220 INFO  [Log] TS_11: Click on Competitor 
+2017-09-13 19:27:36,164 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:27:37,734 INFO  [Log] TS_13: Capture the First ResultLondon Apart Hotel; Value has been stored in index: 0 
+2017-09-13 19:27:39,335 INFO  [Log] TS_14: Click on Search Competitor; Action Clear 
+2017-09-13 19:27:40,929 INFO  [Log] TS_15: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:27:40,929 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-13 19:27:50,654 INFO  [Log] Fail; TS_18: Verify Compititor is added successfully; Captured text: london apart hotel; Value form page: Andaz Liverpool Street London - A Concept by Hyatt,  
+2017-09-13 19:27:52,358 INFO  [Log] TS_19: Click on TAX page 
+2017-09-13 19:28:14,340 INFO  [Log] TS_20: Click on Add 
+2017-09-13 19:28:16,416 INFO  [Log] TS_21: Click on Channel Drop DownList 
+2017-09-13 19:28:18,011 INFO  [Log] Fail; TS_22: Verify The Competitor is added in the Property Drop Down List; Captured text: london apart hotel; Value form page: Andaz Liverpool Street London - A Concept by Hyatt,  
+2017-09-13 19:28:19,821 INFO  [Log] TS_23: Click on Cancel Button 
+2017-09-13 19:28:21,961 INFO  [Log] TS_24: Click on Edit Existing Rule 
+2017-09-13 19:28:23,912 INFO  [Log] TS_25: Click on Channel Drop DownList 
+2017-09-13 19:28:25,494 INFO  [Log] Fail; TS_26: Verify The Competitor is added in the Property Drop Down List; Captured text: london apart hotel; Value form page: Andaz Liverpool Street London - A Concept by Hyatt,  
+2017-09-13 19:28:27,296 INFO  [Log] TS_27: Click on Cancel Button 
+2017-09-13 19:28:29,253 INFO  [Log] TS_28: Click on Competitor 
+2017-09-13 19:28:32,211 INFO  [Log] TS_29: Delete the Added Competitor 
+2017-09-13 19:28:34,214 INFO  [Log] TS_30: Click on Delete pop up to confirm deletion 
+2017-09-13 19:28:39,226 INFO  [Log] closing test case  
+2017-09-13 19:28:39,493 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:28:39,540 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:28:39,571 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:28:39,587 INFO  [Log] ### Test case: PGNG1030_TC_076.xlsx; Description: Blank; status Executed 
+2017-09-13 19:28:39,789 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:28:39,821 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:28:39,852 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:28:39,852 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:28:44,962 INFO  [Log] #### Executing Test case: PGNG1030_TC_076.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 19:28:57,389 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:28:58,706 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:28:58,837 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:28:58,933 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:29:21,128 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:29:21,290 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:29:21,365 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:29:22,570 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:29:22,736 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:29:25,928 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:29:28,123 INFO  [Log] TS_11: Click on Competitor 
+2017-09-13 19:29:29,331 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:29:30,532 INFO  [Log] TS_13: Capture the First ResultLondon Apart Hotel; Value has been stored in index: 0 
+2017-09-13 19:29:30,654 INFO  [Log] TS_14: Click on Search Competitor; Action Clear 
+2017-09-13 19:29:30,766 INFO  [Log] TS_15: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:29:30,766 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-13 19:29:40,999 INFO  [Log] TS_18; Passed; Verify Compititor is added successfully; Captured text: london apart hotel; Value form page: London Apart Hotel,  
+2017-09-13 19:29:41,115 INFO  [Log] TS_19: Click on TAX page 
+2017-09-13 19:29:46,569 INFO  [Log] TS_20: Click on Add 
+2017-09-13 19:29:46,747 INFO  [Log] TS_21: Click on Channel Drop DownList 
+2017-09-13 19:29:46,897 INFO  [Log] TS_22; Passed; Verify The Competitor is added in the Property Drop Down List; Captured text: london apart hotel; Value form page: London Apart Hotel,  
+2017-09-13 19:29:47,057 INFO  [Log] TS_23: Click on Cancel Button 
+2017-09-13 19:29:47,322 INFO  [Log] TS_24: Click on Edit Existing Rule 
+2017-09-13 19:29:47,512 INFO  [Log] TS_25: Click on Channel Drop DownList 
+2017-09-13 19:29:47,648 INFO  [Log] TS_26; Passed; Verify The Competitor is added in the Property Drop Down List; Captured text: london apart hotel; Value form page: London Apart Hotel,  
+2017-09-13 19:29:47,814 INFO  [Log] TS_27: Click on Cancel Button 
+2017-09-13 19:29:48,033 INFO  [Log] TS_28: Click on Competitor 
+2017-09-13 19:29:49,186 INFO  [Log] TS_29: Delete the Added Competitor 
+2017-09-13 19:29:49,300 INFO  [Log] TS_30: Click on Delete pop up to confirm deletion 
+2017-09-13 19:29:54,309 INFO  [Log] closing test case  
+2017-09-13 19:29:56,596 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:29:56,643 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:29:56,659 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:29:56,675 INFO  [Log] ### Test case: PGNG1030_TC_076.xlsx; Description: Blank; status Executed 
+2017-09-13 19:29:56,862 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:29:56,909 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:29:56,940 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:29:56,940 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:30:01,621 INFO  [Log] #### Executing Test case: PGNG1030_TC_076.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 19:30:21,629 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:30:21,842 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:30:21,920 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:30:21,983 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:30:36,469 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:30:36,579 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:30:36,642 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:30:37,723 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:30:37,833 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:30:40,998 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:30:43,223 INFO  [Log] TS_11: Click on Competitor 
+2017-09-13 19:30:44,630 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:30:45,884 INFO  [Log] TS_13: Capture the First ResultLondon Apart Hotel; Value has been stored in index: 0 
+2017-09-13 19:30:45,932 INFO  [Log] TS_14: Click on Search Competitor; Action Clear 
+2017-09-13 19:30:46,025 INFO  [Log] TS_15: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-13 19:30:46,025 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-13 19:30:56,326 INFO  [Log] TS_18; Passed; Verify Compititor is added successfully; Captured text: london apart hotel; Value form page: London Apart Hotel,  
+2017-09-13 19:30:56,516 INFO  [Log] TS_19: Click on TAX page 
+2017-09-13 19:31:03,084 INFO  [Log] TS_20: Click on Add 
+2017-09-13 19:31:03,397 INFO  [Log] TS_21: Click on Channel Drop DownList 
+2017-09-13 19:31:03,647 INFO  [Log] TS_22; Passed; Verify The Competitor is added in the Property Drop Down List; Captured text: london apart hotel; Value form page: London Apart Hotel,  
+2017-09-13 19:31:03,803 INFO  [Log] TS_23: Click on Cancel Button 
+2017-09-13 19:31:04,006 INFO  [Log] TS_24: Click on Edit Existing Rule 
+2017-09-13 19:31:04,224 INFO  [Log] TS_25: Click on Channel Drop DownList 
+2017-09-13 19:31:04,459 INFO  [Log] TS_26; Passed; Verify The Competitor is added in the Property Drop Down List; Captured text: london apart hotel; Value form page: London Apart Hotel,  
+2017-09-13 19:31:04,631 INFO  [Log] TS_27: Click on Cancel Button 
+2017-09-13 19:31:04,834 INFO  [Log] TS_28: Click on Competitor 
+2017-09-13 19:31:06,083 INFO  [Log] TS_29: Delete the Added Competitor 
+2017-09-13 19:31:06,177 INFO  [Log] TS_30: Click on Delete pop up to confirm deletion 
+2017-09-13 19:31:11,186 INFO  [Log] closing test case  
+2017-09-13 19:31:11,468 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:31:11,499 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:31:11,546 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:31:11,546 INFO  [Log] ### Test case: PGNG1030_TC_076.xlsx; Description: Blank; status Executed 
+2017-09-13 19:31:11,717 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:31:11,748 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:31:11,780 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:31:11,780 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:31:11,780 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:31:11,826 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:31:11,826 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_014.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 19:31:11,826 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:31:20,339 INFO  [Log] #### Executing Test case: RG_TC_014.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-13 19:31:36,755 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:31:38,363 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:31:39,877 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:31:54,603 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:31:56,217 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:31:58,286 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:32:00,893 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:32:02,595 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:32:07,492 INFO  [Log] TS_10: click on inbox 
+2017-09-13 19:32:16,612 INFO  [Log] TS_11: Click on see more button if present for Rates: Action click If 
+2017-09-13 19:32:29,893 INFO  [Log] Action Element is not present moving to next step 
+2017-09-13 19:32:29,893 INFO  [Log] TS_12: Verify Shop Date is present: Action Element is not present moving to next step 
+2017-09-13 19:32:36,661 INFO  [Log] Action Element is not present moving to next step 
+2017-09-13 19:32:36,661 INFO  [Log] TS_13: Verify Check In date is Present: Action Element is not present moving to next step 
+2017-09-13 19:33:03,782 INFO  [Log] optima014TS_14XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:33948/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 1c0853ab-84d0-4322-b8dc-c3021d95c3e3null:Exception is not handled 
+2017-09-13 19:33:03,923 WARN  [Log]  Browser instance is active 
+2017-09-13 19:33:04,360 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:33:04,407 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:33:04,469 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:33:04,469 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:33:04,469 FATAL [Log] optima014TS_14XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:33948/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 1c0853ab-84d0-4322-b8dc-c3021d95c3e3null:Exception is not handled 
+2017-09-13 19:33:09,573 INFO  [Log] #### Executing Test case: RG_TC_014.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 19:33:21,962 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:33:23,313 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:33:23,437 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:33:23,540 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:33:39,029 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:33:39,148 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:33:39,218 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:33:40,436 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:33:40,568 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:33:43,725 INFO  [Log] TS_10: click on inbox 
+2017-09-13 19:33:47,948 INFO  [Log] TS_11: Click on see more button if present for Rates: Action click If 
+2017-09-13 19:33:55,335 INFO  [Log] Action Element is not present moving to next step 
+2017-09-13 19:33:55,335 INFO  [Log] TS_12: Verify Shop Date is present: Action Element is not present moving to next step 
+2017-09-13 19:34:00,661 INFO  [Log] Action Element is not present moving to next step 
+2017-09-13 19:34:00,661 INFO  [Log] TS_13: Verify Check In date is Present: Action Element is not present moving to next step 
+2017-09-13 19:34:01,751 INFO  [Log] TS_14: scroll to Parity section: Action Scroll Down 
+2017-09-13 19:34:04,897 INFO  [Log] TS_15: Click on see more button if present for Rates: Action click If 
+2017-09-13 19:34:06,062 INFO  [Log] TS_16; Passed; Verify Shop date is present; Value: shop date (in utc); Present in Page values: Shop Date (in UTC): 11 Aug, 2017 06:09:59
+Check-in Date (in UTC),  
+2017-09-13 19:34:06,062 INFO  [Log] TS_14: scroll to Parity section: Action Scroll Down 
+2017-09-13 19:34:06,159 INFO  [Log] TS_17; Passed; Verify Check In date is Present; Value: check-in date (in utc); Present in Page values: Check-in Date (in UTC),  
+2017-09-13 19:34:06,159 INFO  [Log] TS_14: scroll to Parity section: Action Scroll Down 
+2017-09-13 19:34:07,234 INFO  [Log] TS_18: scroll to Rank Section: Action Scroll Down 
+2017-09-13 19:34:10,405 INFO  [Log] TS_19: verify if see more button is present for Rank: Action click If 
+2017-09-13 19:34:11,541 INFO  [Log] TS_20; Passed; verify shop Frequency under Rank Heading is present; Value: shop date (in utc); Present in Page values: Shop Date (in UTC) 7 Jan, 2017 08:08:25,  
+2017-09-13 19:34:11,541 INFO  [Log] TS_18: scroll to Rank Section: Action Scroll Down 
+2017-09-13 19:34:11,643 INFO  [Log] TS_21; Passed; verify check-in date under Rank heading is present; Value: check-in date (in utc); Present in Page values: Check-in Date (in UTC),  
+2017-09-13 19:34:11,643 INFO  [Log] TS_18: scroll to Rank Section: Action Scroll Down 
+2017-09-13 19:34:12,709 INFO  [Log] TS_22: scroll to Trends Section: Action Scroll Down 
+2017-09-13 19:34:15,910 INFO  [Log] TS_23: verify if see more button is present for Trends: Action click If 
+2017-09-13 19:34:17,092 INFO  [Log] TS_24; Passed; verify shop date under Trends Heading is present; Value: shop date (in utc); Present in Page values: Shop Date (in UTC): 11 Aug, 2017 06:09:59
+Check-in Date (in UTC),  
+2017-09-13 19:34:17,092 INFO  [Log] TS_22: scroll to Trends Section: Action Scroll Down 
+2017-09-13 19:34:17,195 INFO  [Log] TS_25; Passed; verify check-in date under Trends heading is present; Value: check-in date (in utc); Present in Page values: Check-in Date (in UTC),  
+2017-09-13 19:34:17,195 INFO  [Log] TS_22: scroll to Trends Section: Action Scroll Down 
+2017-09-13 19:34:22,202 INFO  [Log] closing test case  
+2017-09-13 19:34:24,775 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:34:24,807 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:34:24,838 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:34:24,854 INFO  [Log] ### Test case: RG_TC_014.xlsx; Description: Blank; status Executed 
+2017-09-13 19:34:25,010 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:34:25,041 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:34:25,072 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:34:25,072 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:34:29,843 INFO  [Log] #### Executing Test case: RG_TC_014.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 19:34:52,451 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:34:53,712 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:34:53,791 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:34:53,853 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:35:05,935 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:35:06,041 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:35:06,100 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:35:07,332 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:35:07,443 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:35:10,660 INFO  [Log] TS_10: click on inbox 
+2017-09-13 19:35:15,047 INFO  [Log] TS_11: Click on see more button if present for Rates: Action click If 
+2017-09-13 19:35:21,184 INFO  [Log] Action Element is not present moving to next step 
+2017-09-13 19:35:21,184 INFO  [Log] TS_12: Verify Shop Date is present: Action Element is not present moving to next step 
+2017-09-13 19:35:26,405 INFO  [Log] Action Element is not present moving to next step 
+2017-09-13 19:35:26,405 INFO  [Log] TS_13: Verify Check In date is Present: Action Element is not present moving to next step 
+2017-09-13 19:35:27,514 INFO  [Log] TS_14: scroll to Parity section: Action Scroll Down 
+2017-09-13 19:35:30,854 INFO  [Log] TS_15: Click on see more button if present for Rates: Action click If 
+2017-09-13 19:35:31,978 INFO  [Log] TS_16; Passed; Verify Shop date is present; Value: shop date (in utc); Present in Page values: Shop Date (in UTC): 11 Aug, 2017 06:09:59
+Check-in Date (in UTC),  
+2017-09-13 19:35:31,978 INFO  [Log] TS_14: scroll to Parity section: Action Scroll Down 
+2017-09-13 19:35:32,042 INFO  [Log] TS_17; Passed; Verify Check In date is Present; Value: check-in date (in utc); Present in Page values: Check-in Date (in UTC),  
+2017-09-13 19:35:32,042 INFO  [Log] TS_14: scroll to Parity section: Action Scroll Down 
+2017-09-13 19:35:33,091 INFO  [Log] TS_18: scroll to Rank Section: Action Scroll Down 
+2017-09-13 19:35:36,462 INFO  [Log] TS_19: verify if see more button is present for Rank: Action click If 
+2017-09-13 19:35:37,582 INFO  [Log] TS_20; Passed; verify shop Frequency under Rank Heading is present; Value: shop date (in utc); Present in Page values: Shop Date (in UTC) 7 Jan, 2017 08:08:25,  
+2017-09-13 19:35:37,582 INFO  [Log] TS_18: scroll to Rank Section: Action Scroll Down 
+2017-09-13 19:35:37,630 INFO  [Log] TS_21; Passed; verify check-in date under Rank heading is present; Value: check-in date (in utc); Present in Page values: Check-in Date (in UTC),  
+2017-09-13 19:35:37,630 INFO  [Log] TS_18: scroll to Rank Section: Action Scroll Down 
+2017-09-13 19:35:38,685 INFO  [Log] TS_22: scroll to Trends Section: Action Scroll Down 
+2017-09-13 19:35:42,052 INFO  [Log] TS_23: verify if see more button is present for Trends: Action click If 
+2017-09-13 19:35:43,181 INFO  [Log] TS_24; Passed; verify shop date under Trends Heading is present; Value: shop date (in utc); Present in Page values: Shop Date (in UTC): 11 Aug, 2017 06:09:59
+Check-in Date (in UTC),  
+2017-09-13 19:35:43,181 INFO  [Log] TS_22: scroll to Trends Section: Action Scroll Down 
+2017-09-13 19:35:43,245 INFO  [Log] TS_25; Passed; verify check-in date under Trends heading is present; Value: check-in date (in utc); Present in Page values: Check-in Date (in UTC),  
+2017-09-13 19:35:43,245 INFO  [Log] TS_22: scroll to Trends Section: Action Scroll Down 
+2017-09-13 19:35:48,255 INFO  [Log] closing test case  
+2017-09-13 19:35:48,536 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:35:48,568 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:35:48,599 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:35:48,614 INFO  [Log] ### Test case: RG_TC_014.xlsx; Description: Blank; status Executed 
+2017-09-13 19:35:48,802 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:35:48,848 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:35:48,880 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:35:48,880 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:35:48,880 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:35:48,926 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:35:48,926 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_041.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 19:35:48,926 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:35:57,505 INFO  [Log] #### Executing Test case: RG_TC_041.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-13 19:36:14,983 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:36:16,616 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:36:18,158 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:36:30,603 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:36:32,289 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:36:34,373 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:36:37,046 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:36:38,819 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:36:43,419 INFO  [Log] TS_10: click on inbox 
+2017-09-13 19:36:47,316 INFO  [Log] TS_11: Scroll to Info Alert Section: Action Scroll Down 
+2017-09-13 19:36:48,896 INFO  [Log] TS_12: Verify Any Channel is Disabled; Passed; ; Element is present on the active page 
+2017-09-13 19:36:53,906 INFO  [Log] closing test case  
+2017-09-13 19:36:54,157 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:36:54,203 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:36:54,253 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:36:54,269 INFO  [Log] ### Test case: RG_TC_041.xlsx; Description: Blank; status Executed 
+2017-09-13 19:36:54,473 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:36:54,504 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:36:54,535 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:36:54,535 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:36:59,635 INFO  [Log] #### Executing Test case: RG_TC_041.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 19:37:12,551 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:37:13,871 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:37:13,977 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:37:14,079 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:37:29,959 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:37:30,066 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:37:30,154 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:37:31,376 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:37:31,514 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:37:34,670 INFO  [Log] TS_10: click on inbox 
+2017-09-13 19:37:36,813 INFO  [Log] TS_11: Scroll to Info Alert Section: Action Scroll Down 
+2017-09-13 19:37:36,920 INFO  [Log] TS_12: Verify Any Channel is Disabled; Passed; ; Element is present on the active page 
+2017-09-13 19:37:41,926 INFO  [Log] closing test case  
+2017-09-13 19:37:42,229 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:37:42,261 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:37:42,307 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:37:42,323 INFO  [Log] ### Test case: RG_TC_041.xlsx; Description: Blank; status Executed 
+2017-09-13 19:37:42,489 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:37:42,520 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:37:42,551 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:37:42,551 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:37:48,345 INFO  [Log] #### Executing Test case: RG_TC_041.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 19:38:05,201 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:38:05,408 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:38:05,486 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:38:05,533 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:38:18,372 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:38:18,452 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:38:18,483 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:38:19,546 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:38:24,860 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:38:28,987 INFO  [Log] TS_10: click on inbox 
+2017-09-13 19:38:31,099 INFO  [Log] TS_11: Scroll to Info Alert Section: Action Scroll Down 
+2017-09-13 19:38:31,178 INFO  [Log] TS_12: Verify Any Channel is Disabled; Passed; ; Element is present on the active page 
+2017-09-13 19:38:36,191 INFO  [Log] closing test case  
+2017-09-13 19:38:36,457 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:38:36,489 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:38:36,520 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:38:36,535 INFO  [Log] ### Test case: RG_TC_041.xlsx; Description: Blank; status Executed 
+2017-09-13 19:38:36,707 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:38:36,738 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:38:36,769 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:38:36,769 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:38:36,769 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:38:36,801 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:38:36,801 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_103.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 19:38:36,801 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:38:45,373 INFO  [Log] #### Executing Test case: RG_TC_103.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-13 19:39:02,782 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:39:04,417 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:39:05,949 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:39:18,086 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:39:19,756 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:39:21,832 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:39:24,415 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:39:26,261 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:39:30,674 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:39:37,957 INFO  [Log] TS_11: select toggle off: Action click If 
+2017-09-13 19:39:39,469 INFO  [Log] TS_12: click on save 
+2017-09-13 19:39:42,346 INFO  [Log] TS_13: click on optima logo 
+2017-09-13 19:39:48,192 INFO  [Log] TS_14: click on download report 
+2017-09-13 19:39:52,454 INFO  [Log] TS_15: capture range1 Oct 2017 - 5 Oct 2017; Value has been stored in index: 0 
+2017-09-13 19:39:54,041 INFO  [Log] TS_16: capture length of stay1; Value has been stored in index: 1 
+2017-09-13 19:39:55,649 INFO  [Log] TS_17: capture Occupancy1; Value has been stored in index: 2 
+2017-09-13 19:39:57,234 INFO  [Log] TS_18: click on Parity 
+2017-09-13 19:40:01,481 INFO  [Log] TS_19: click on grid view 
+2017-09-13 19:40:30,995 INFO  [Log] optima103TS_20XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:40:31,106 WARN  [Log]  Browser instance is active 
+2017-09-13 19:40:31,480 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:40:31,527 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:40:31,574 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:40:31,574 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:40:31,574 FATAL [Log] optima103TS_20XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:40:36,763 INFO  [Log] #### Executing Test case: RG_TC_103.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 19:40:51,364 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:40:52,714 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:40:52,842 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:40:52,905 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:41:06,066 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:41:06,161 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:41:06,239 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:41:07,303 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:41:07,418 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:41:10,609 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:41:18,816 INFO  [Log] TS_11: select toggle off: Action click If 
+2017-09-13 19:41:18,926 INFO  [Log] TS_12: click on save 
+2017-09-13 19:41:20,084 INFO  [Log] TS_13: click on optima logo 
+2017-09-13 19:41:24,271 INFO  [Log] TS_14: click on download report 
+2017-09-13 19:41:25,904 INFO  [Log] TS_15: capture range----; Value has been stored in index: 0 
+2017-09-13 19:41:28,058 INFO  [Log] TS_16: capture length of stay1; Value has been stored in index: 1 
+2017-09-13 19:41:28,152 INFO  [Log] TS_17: capture Occupancy1; Value has been stored in index: 2 
+2017-09-13 19:41:28,230 INFO  [Log] TS_18: click on Parity 
+2017-09-13 19:41:31,534 INFO  [Log] TS_19: click on grid view 
+2017-09-13 19:41:59,061 INFO  [Log] optima103TS_20XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:41:59,686 WARN  [Log]  Browser instance is active 
+2017-09-13 19:42:02,011 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:42:02,043 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:42:02,075 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:42:02,075 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:42:02,075 FATAL [Log] optima103TS_20XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:42:06,734 INFO  [Log] #### Executing Test case: RG_TC_103.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 19:42:56,979 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:42:57,152 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:42:57,230 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:42:57,276 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:43:07,749 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:43:07,841 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:43:07,897 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:43:08,988 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:43:09,099 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:43:12,282 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:43:17,852 INFO  [Log] TS_11: select toggle off: Action click If 
+2017-09-13 19:43:17,962 INFO  [Log] TS_12: click on save 
+2017-09-13 19:43:19,086 INFO  [Log] TS_13: click on optima logo 
+2017-09-13 19:43:24,330 INFO  [Log] TS_14: click on download report 
+2017-09-13 19:43:27,513 INFO  [Log] TS_15: capture range1 Oct 2017 - 5 Oct 2017; Value has been stored in index: 0 
+2017-09-13 19:43:27,561 INFO  [Log] TS_16: capture length of stay1; Value has been stored in index: 1 
+2017-09-13 19:43:27,608 INFO  [Log] TS_17: capture Occupancy1; Value has been stored in index: 2 
+2017-09-13 19:43:27,670 INFO  [Log] TS_18: click on Parity 
+2017-09-13 19:43:30,821 INFO  [Log] TS_19: click on grid view 
+2017-09-13 19:43:59,393 INFO  [Log] optima103TS_20XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:43:59,519 WARN  [Log]  Browser instance is active 
+2017-09-13 19:43:59,800 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:43:59,831 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:43:59,862 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:43:59,862 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:43:59,862 FATAL [Log] optima103TS_20XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:43:59,862 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:43:59,909 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:43:59,909 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_104.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 19:43:59,909 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:44:08,496 INFO  [Log] #### Executing Test case: RG_TC_104.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-13 19:44:34,868 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:44:36,493 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:44:38,054 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:44:56,834 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:44:58,395 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:45:00,112 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:45:02,658 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:45:04,484 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:45:11,369 INFO  [Log] TS_10: click on settings 
+2017-09-13 19:45:18,838 INFO  [Log] TS_11: select toggle on: Action click If 
+2017-09-13 19:45:20,633 INFO  [Log] slide   
+2017-09-13 19:45:22,195 INFO  [Log] TS_13: click on save 
+2017-09-13 19:45:24,995 INFO  [Log] TS_14: capture period; Value has been stored in index: 0 
+2017-09-13 19:45:26,540 INFO  [Log] TS_15: click on optima logo 
+2017-09-13 19:45:32,298 INFO  [Log] TS_16: click on Parity 
+2017-09-13 19:45:36,499 INFO  [Log] TS_17: click on grid view 
+2017-09-13 19:45:40,733 INFO  [Log] optima104TS_18ObjectRepVerifyDaysCount  java.lang.NumberFormatException: For input string: ""null:Exception is not handled 
+2017-09-13 19:45:54,905 WARN  [Log]  Browser instance is active 
+2017-09-13 19:45:55,343 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:45:55,374 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:45:55,421 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:45:55,421 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:45:55,421 FATAL [Log] optima104TS_18ObjectRepVerifyDaysCount  java.lang.NumberFormatException: For input string: ""null:Exception is not handled 
+2017-09-13 19:46:00,582 INFO  [Log] #### Executing Test case: RG_TC_104.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 19:46:24,683 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:47:25,754 INFO  [Log] optima104TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:49:39,515 WARN  [Log]  Browser instance is active 
+2017-09-13 19:49:39,767 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:49:39,799 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:49:39,845 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:49:39,845 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:49:39,845 FATAL [Log] optima104TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:49:44,504 INFO  [Log] #### Executing Test case: RG_TC_104.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 19:50:06,000 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:50:06,205 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:50:06,283 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:50:06,346 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:50:16,064 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:50:16,165 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:50:16,231 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:50:17,320 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:50:17,424 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:50:20,556 INFO  [Log] TS_10: click on settings 
+2017-09-13 19:50:26,073 INFO  [Log] TS_11: select toggle on: Action click If 
+2017-09-13 19:50:27,012 INFO  [Log] slide   
+2017-09-13 19:50:27,090 INFO  [Log] TS_13: click on save 
+2017-09-13 19:50:28,183 INFO  [Log] TS_14: capture period90; Value has been stored in index: 0 
+2017-09-13 19:50:28,230 INFO  [Log] TS_15: click on optima logo 
+2017-09-13 19:50:32,397 INFO  [Log] TS_16: click on Parity 
+2017-09-13 19:50:38,620 INFO  [Log] TS_17: click on grid view 
+2017-09-13 19:50:50,509 INFO  [Log] TS_18: capture start value; Passed; Value: 90; and value 90are same 
+2017-09-13 19:50:50,619 INFO  [Log] TS_19; Passed; verify no of guest is according to latest report when prefered view is on; Value: 1; Present in Page values: 1,  
+2017-09-13 19:50:50,790 INFO  [Log] TS_20; Passed; verify length of stay is according to latest report when prefered view is on; Value: 1; Present in Page values: 1,  
+2017-09-13 19:50:50,931 INFO  [Log] TS_21: click on settings 
+2017-09-13 19:50:55,399 INFO  [Log] TS_22: select toggle off: Action click If 
+2017-09-13 19:50:55,572 INFO  [Log] TS_23: click on save 
+2017-09-13 19:51:00,586 INFO  [Log] closing test case  
+2017-09-13 19:51:00,852 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:51:00,883 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:51:00,914 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:51:00,930 INFO  [Log] ### Test case: RG_TC_104.xlsx; Description: Blank; status Executed 
+2017-09-13 19:51:01,117 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:51:01,164 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:51:01,211 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:51:01,211 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:51:01,211 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:51:01,273 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:51:01,273 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_110.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 19:51:01,273 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:51:09,760 INFO  [Log] #### Executing Test case: RG_TC_110.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-13 19:51:28,460 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:51:30,065 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:51:31,658 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:51:42,931 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:51:44,649 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:51:46,641 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:51:49,232 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:51:51,025 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:51:55,484 INFO  [Log] TS_10: Click on Trends 
+2017-09-13 19:52:01,064 INFO  [Log] TS_11: Click on Events 
+2017-09-13 19:52:18,620 INFO  [Log] TS_12: Verify  Date Range is of 1 Year from Starting Date; Passed; Value: 365; and value 365are same 
+2017-09-13 19:52:20,930 INFO  [Log] TS_13: Click on add Custom event button 
+2017-09-13 19:52:23,159 INFO  [Log] TS_14: Add Event Name; Action: Submit Random Value: 13h1; Index No at ValueCaptured list is0 
+2017-09-13 19:52:25,094 INFO  [Log] TS_15: Add Event Address; Action: Submited ValueValue: India 
+2017-09-13 19:52:26,923 INFO  [Log] TS_16: Click on Event Start Date 
+2017-09-13 19:52:32,022 INFO  [Log] TS_18: Click on Event End Date 
+2017-09-13 19:52:37,264 INFO  [Log] TS_20: Add Event Category; Action: Submited ValueValue: Public 
+2017-09-13 19:52:39,388 INFO  [Log] TS_21: Select Event Charge    Free; Action: Drop Down Select 
+2017-09-13 19:52:41,376 INFO  [Log] TS_22: Add Event Description; Action: Submited ValueValue: Delhi 
+2017-09-13 19:52:43,363 INFO  [Log] TS_23: Save the Custom Event 
+2017-09-13 19:52:55,621 INFO  [Log] TS_24: Click on Filter for Custom Events 
+2017-09-13 19:52:58,524 INFO  [Log] TS_25: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 19:53:00,742 INFO  [Log] TS_26: Click on Apply Button 
+2017-09-13 19:53:06,544 INFO  [Log] TS_27: Search the Custom event; Action: Submited stored value 
+2017-09-13 19:53:07,985 INFO  [Log] TS_28: Insert Value for the EventNew Element Location is : 13h1Stored in ObjRep using element name: event: Type: Xpath 
+2017-09-13 19:53:09,547 INFO  [Log] TS_29: Verify If custom Event is added; Passed; ; Element is present on the active page 
+2017-09-13 19:53:11,095 INFO  [Log] TS_30: Click on Parity 
+2017-09-13 19:53:15,818 INFO  [Log] TS_31: Click on Parity 
+2017-09-13 19:53:20,100 INFO  [Log] TS_32: Click on Date Range 
+2017-09-13 19:53:25,160 INFO  [Log] TS_33: select start dateDate selected: 1 November 2017 
+2017-09-13 19:53:30,035 INFO  [Log] TS_34: select end dateDate selected: 1 November 2017 
+2017-09-13 19:53:31,739 INFO  [Log] TS_35: click on apply 
+2017-09-13 19:54:01,542 INFO  [Log] optima110TS_36XpathVerifyAttribute: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:54:01,699 WARN  [Log]  Browser instance is active 
+2017-09-13 19:54:01,948 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:54:01,979 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:54:02,042 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:54:02,042 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:54:02,042 FATAL [Log] optima110TS_36XpathVerifyAttribute: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:54:07,171 INFO  [Log] #### Executing Test case: RG_TC_110.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 19:54:18,282 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:54:19,623 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:54:19,723 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:54:19,809 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:54:34,854 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:54:34,959 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:54:35,053 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:54:36,293 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:54:36,429 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:54:38,751 INFO  [Log] TS_10: Click on Trends 
+2017-09-13 19:54:42,959 INFO  [Log] TS_11: Click on Events 
+2017-09-13 19:54:53,078 INFO  [Log] TS_12: Verify  Date Range is of 1 Year from Starting Date; Passed; Value: 365; and value 365are same 
+2017-09-13 19:54:53,490 INFO  [Log] TS_13: Click on add Custom event button 
+2017-09-13 19:54:54,329 INFO  [Log] TS_14: Add Event Name; Action: Submit Random Value: 9891; Index No at ValueCaptured list is0 
+2017-09-13 19:54:55,122 INFO  [Log] TS_15: Add Event Address; Action: Submited ValueValue: India 
+2017-09-13 19:54:55,318 INFO  [Log] TS_16: Click on Event Start Date 
+2017-09-13 19:54:55,722 INFO  [Log] TS_18: Click on Event End Date 
+2017-09-13 19:54:56,531 INFO  [Log] TS_20: Add Event Category; Action: Submited ValueValue: Public 
+2017-09-13 19:54:56,896 INFO  [Log] TS_21: Select Event Charge    Free; Action: Drop Down Select 
+2017-09-13 19:54:57,206 INFO  [Log] TS_22: Add Event Description; Action: Submited ValueValue: Delhi 
+2017-09-13 19:54:57,397 INFO  [Log] TS_23: Save the Custom Event 
+2017-09-13 19:55:04,888 INFO  [Log] TS_24: Click on Filter for Custom Events 
+2017-09-13 19:55:05,526 INFO  [Log] TS_25: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 19:55:05,681 INFO  [Log] TS_26: Click on Apply Button 
+2017-09-13 19:55:10,118 INFO  [Log] TS_27: Search the Custom event; Action: Submited stored value 
+2017-09-13 19:55:10,165 INFO  [Log] TS_28: Insert Value for the EventNew Element Location is : 9891Stored in ObjRep using element name: event: Type: Xpath 
+2017-09-13 19:55:10,235 INFO  [Log] TS_29: Verify If custom Event is added; Passed; ; Element is present on the active page 
+2017-09-13 19:55:10,321 INFO  [Log] TS_30: Click on Parity 
+2017-09-13 19:55:13,495 INFO  [Log] TS_31: Click on Parity 
+2017-09-13 19:55:15,663 INFO  [Log] TS_32: Click on Date Range 
+2017-09-13 19:55:16,027 INFO  [Log] TS_33: select start dateDate selected: 1 November 2017 
+2017-09-13 19:55:16,331 INFO  [Log] TS_34: select end dateDate selected: 1 November 2017 
+2017-09-13 19:55:16,437 INFO  [Log] TS_35: click on apply 
+2017-09-13 19:55:44,861 INFO  [Log] optima110TS_36XpathVerifyAttribute: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:55:45,240 WARN  [Log]  Browser instance is active 
+2017-09-13 19:55:47,624 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:55:47,657 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:55:47,688 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:55:47,688 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:55:47,688 FATAL [Log] optima110TS_36XpathVerifyAttribute: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:55:52,421 INFO  [Log] #### Executing Test case: RG_TC_110.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 19:56:10,025 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:56:11,260 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:56:11,339 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:56:11,401 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:56:20,993 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 19:56:21,075 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 19:56:21,129 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:56:22,193 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:56:22,319 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:56:25,447 INFO  [Log] TS_10: Click on Trends 
+2017-09-13 19:56:30,995 INFO  [Log] TS_11: Click on Events 
+2017-09-13 19:56:42,590 INFO  [Log] TS_12: Verify  Date Range is of 1 Year from Starting Date; Passed; Value: 365; and value 365are same 
+2017-09-13 19:56:43,403 INFO  [Log] TS_13: Click on add Custom event button 
+2017-09-13 19:56:43,748 INFO  [Log] TS_14: Add Event Name; Action: Submit Random Value: 1q7M; Index No at ValueCaptured list is0 
+2017-09-13 19:56:44,001 INFO  [Log] TS_15: Add Event Address; Action: Submited ValueValue: India 
+2017-09-13 19:56:44,322 INFO  [Log] TS_16: Click on Event Start Date 
+2017-09-13 19:56:44,722 INFO  [Log] TS_18: Click on Event End Date 
+2017-09-13 19:56:45,193 INFO  [Log] TS_20: Add Event Category; Action: Submited ValueValue: Public 
+2017-09-13 19:56:45,396 INFO  [Log] TS_21: Select Event Charge    Free; Action: Drop Down Select 
+2017-09-13 19:56:45,568 INFO  [Log] TS_22: Add Event Description; Action: Submited ValueValue: Delhi 
+2017-09-13 19:56:45,839 INFO  [Log] TS_23: Save the Custom Event 
+2017-09-13 19:56:54,190 INFO  [Log] TS_24: Click on Filter for Custom Events 
+2017-09-13 19:56:55,081 INFO  [Log] TS_25: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 19:56:55,207 INFO  [Log] TS_26: Click on Apply Button 
+2017-09-13 19:56:58,472 INFO  [Log] TS_27: Search the Custom event; Action: Submited stored value 
+2017-09-13 19:56:58,552 INFO  [Log] TS_28: Insert Value for the EventNew Element Location is : 1q7MStored in ObjRep using element name: event: Type: Xpath 
+2017-09-13 19:56:58,583 INFO  [Log] TS_29: Verify If custom Event is added; Passed; ; Element is present on the active page 
+2017-09-13 19:56:58,645 INFO  [Log] TS_30: Click on Parity 
+2017-09-13 19:57:01,767 INFO  [Log] TS_31: Click on Parity 
+2017-09-13 19:57:03,952 INFO  [Log] TS_32: Click on Date Range 
+2017-09-13 19:57:04,311 INFO  [Log] TS_33: select start dateDate selected: 1 November 2017 
+2017-09-13 19:57:04,540 INFO  [Log] TS_34: select end dateDate selected: 1 November 2017 
+2017-09-13 19:57:04,623 INFO  [Log] TS_35: click on apply 
+2017-09-13 19:57:33,128 INFO  [Log] optima110TS_36XpathVerifyAttribute: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:57:33,271 WARN  [Log]  Browser instance is active 
+2017-09-13 19:57:33,553 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:57:33,587 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:57:33,618 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:57:33,618 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:57:33,618 FATAL [Log] optima110TS_36XpathVerifyAttribute: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-13 19:57:33,618 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:57:33,680 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:57:33,680 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_113.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 19:57:33,680 INFO  [Log] **************************************************************************************** 
+2017-09-13 19:57:42,258 INFO  [Log] #### Executing Test case: RG_TC_113.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-13 19:57:58,841 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:58:00,449 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:58:01,912 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:58:12,838 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:58:14,511 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:58:16,498 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:58:19,077 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:58:20,796 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:58:25,312 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:58:32,582 INFO  [Log] TS_11: select toggle off: Action click If 
+2017-09-13 19:58:34,206 INFO  [Log] TS_12: click on save 
+2017-09-13 19:58:37,047 INFO  [Log] TS_13: click on optima logo 
+2017-09-13 19:58:42,863 INFO  [Log] TS_14: click on download report 
+2017-09-13 19:58:47,073 INFO  [Log] TS_15: capture length of stay1; Value has been stored in index: 0 
+2017-09-13 19:58:48,603 INFO  [Log] TS_16: capture Occupancy1; Value has been stored in index: 1 
+2017-09-13 19:58:50,136 INFO  [Log] TS_17: click on Trends 
+2017-09-13 19:58:57,134 INFO  [Log] TS_18: click on grid view 
+2017-09-13 19:58:59,427 INFO  [Log] TS_19: Verify Date Range is of 15 days not as per latest report; Passed; Value: 14; and value 14are same 
+2017-09-13 19:59:01,577 INFO  [Log] TS_20; Passed; verify length of stay is according to latest report when prefered view is off; Captured text: 1; Value form page: 1,  
+2017-09-13 19:59:03,663 INFO  [Log] TS_21; Passed; verify no of guest is according to latest report when prefered view is off; Captured text: 1; Value form page: 1,  
+2017-09-13 19:59:08,663 INFO  [Log] closing test case  
+2017-09-13 19:59:09,077 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:59:09,124 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:59:09,171 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:59:09,171 INFO  [Log] ### Test case: RG_TC_113.xlsx; Description: Blank; status Executed 
+2017-09-13 19:59:09,359 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 19:59:09,390 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 19:59:09,421 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 19:59:09,421 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 19:59:14,540 INFO  [Log] #### Executing Test case: RG_TC_113.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 19:59:26,785 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 19:59:28,115 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 19:59:28,220 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 19:59:28,305 INFO  [Log] TS_04: Click on login button 
+2017-09-13 19:59:43,123 INFO  [Log] TS_05: click on user name  
+2017-09-13 19:59:43,229 INFO  [Log] TS_06: click on choose property 
+2017-09-13 19:59:43,312 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 19:59:44,515 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 19:59:44,647 INFO  [Log] TS_09: Click on property 
+2017-09-13 19:59:47,773 INFO  [Log] TS_10: Click on settings 
+2017-09-13 19:59:53,027 INFO  [Log] TS_11: select toggle off: Action click If 
+2017-09-13 19:59:53,091 INFO  [Log] TS_12: click on save 
+2017-09-13 19:59:54,184 INFO  [Log] TS_13: click on optima logo 
+2017-09-13 19:59:58,391 INFO  [Log] TS_14: click on download report 
+2017-09-13 20:00:00,620 INFO  [Log] TS_15: capture length of stay1; Value has been stored in index: 0 
+2017-09-13 20:00:00,702 INFO  [Log] TS_16: capture Occupancy1; Value has been stored in index: 1 
+2017-09-13 20:00:00,769 INFO  [Log] TS_17: click on Trends 
+2017-09-13 20:00:04,998 INFO  [Log] TS_18: click on grid view 
+2017-09-13 20:00:05,119 INFO  [Log] TS_19: Verify Date Range is of 15 days not as per latest report; Passed; Value: 14; and value 14are same 
+2017-09-13 20:00:05,218 INFO  [Log] TS_20; Passed; verify length of stay is according to latest report when prefered view is off; Captured text: 1; Value form page: 1,  
+2017-09-13 20:00:05,327 INFO  [Log] TS_21; Passed; verify no of guest is according to latest report when prefered view is off; Captured text: 1; Value form page: 1,  
+2017-09-13 20:00:10,339 INFO  [Log] closing test case  
+2017-09-13 20:00:12,870 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:00:12,903 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:00:12,934 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:00:12,949 INFO  [Log] ### Test case: RG_TC_113.xlsx; Description: Blank; status Executed 
+2017-09-13 20:00:13,108 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:00:13,140 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:00:13,171 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:00:13,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:00:17,896 INFO  [Log] #### Executing Test case: RG_TC_113.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 20:00:33,226 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 20:00:34,494 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:00:34,573 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:00:34,635 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:00:45,154 INFO  [Log] TS_05: click on user name  
+2017-09-13 20:00:45,249 INFO  [Log] TS_06: click on choose property 
+2017-09-13 20:00:45,296 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:00:46,374 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:00:46,500 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:00:49,800 INFO  [Log] TS_10: Click on settings 
+2017-09-13 20:00:55,425 INFO  [Log] TS_11: select toggle off: Action click If 
+2017-09-13 20:00:55,551 INFO  [Log] TS_12: click on save 
+2017-09-13 20:00:56,617 INFO  [Log] TS_13: click on optima logo 
+2017-09-13 20:01:04,793 INFO  [Log] TS_14: click on download report 
+2017-09-13 20:01:07,922 INFO  [Log] TS_15: capture length of stay1; Value has been stored in index: 0 
+2017-09-13 20:01:07,970 INFO  [Log] TS_16: capture Occupancy1; Value has been stored in index: 1 
+2017-09-13 20:01:08,017 INFO  [Log] TS_17: click on Trends 
+2017-09-13 20:01:12,607 INFO  [Log] TS_18: click on grid view 
+2017-09-13 20:01:12,952 INFO  [Log] TS_19: Verify Date Range is of 15 days not as per latest report; Passed; Value: 14; and value 14are same 
+2017-09-13 20:01:13,014 INFO  [Log] TS_20; Passed; verify length of stay is according to latest report when prefered view is off; Captured text: 1; Value form page: 1,  
+2017-09-13 20:01:13,092 INFO  [Log] TS_21; Passed; verify no of guest is according to latest report when prefered view is off; Captured text: 1; Value form page: 1,  
+2017-09-13 20:01:18,093 INFO  [Log] closing test case  
+2017-09-13 20:01:18,359 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:01:18,391 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:01:18,437 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:01:18,437 INFO  [Log] ### Test case: RG_TC_113.xlsx; Description: Blank; status Executed 
+2017-09-13 20:01:18,609 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:01:18,640 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:01:18,671 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:01:18,671 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:01:18,671 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:01:18,718 INFO  [Log] **************************************************************************************** 
+2017-09-13 20:01:18,718 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_114; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 20:01:18,718 INFO  [Log] **************************************************************************************** 
+2017-09-13 20:01:27,393 INFO  [Log] #### Executing Test case: RG_TC_114; Description: Blank In IE Browser for TestData:1 
+2017-09-13 20:01:44,520 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:01:46,122 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:01:47,611 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:01:59,700 INFO  [Log] TS_05: click on user name  
+2017-09-13 20:02:01,300 INFO  [Log] TS_06: click on choose property 
+2017-09-13 20:02:03,350 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:02:05,972 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:02:07,783 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:02:12,204 INFO  [Log] TS_10: click on settings 
+2017-09-13 20:02:19,501 INFO  [Log] TS_11: select toggle on: Action click If 
+2017-09-13 20:02:21,394 INFO  [Log] slide   
+2017-09-13 20:02:22,942 INFO  [Log] TS_13: click on save 
+2017-09-13 20:02:25,812 INFO  [Log] TS_14: capture period; Value has been stored in index: 0 
+2017-09-13 20:02:27,361 INFO  [Log] TS_15: click on optima logo 
+2017-09-13 20:02:33,157 INFO  [Log] TS_16: click on Trends 
+2017-09-13 20:02:39,630 INFO  [Log] TS_17: click on grid view 
+2017-09-13 20:02:41,620 INFO  [Log] TS_18: Verify Date Range is 15Days which is not set as per settings; Passed; Value: 14; and value 14are same 
+2017-09-13 20:02:43,389 INFO  [Log] TS_19; Passed; verify no of guest is 1; Value: 1; Present in Page values: 1,  
+2017-09-13 20:02:45,168 INFO  [Log] TS_20; Passed; verify length of stay is 1 ; Value: 1; Present in Page values: 1,  
+2017-09-13 20:02:46,931 INFO  [Log] TS_21: click on settings 
+2017-09-13 20:02:52,963 INFO  [Log] TS_22: select toggle off: Action click If 
+2017-09-13 20:02:54,527 INFO  [Log] TS_23: click on save 
+2017-09-13 20:02:59,542 INFO  [Log] closing test case  
+2017-09-13 20:02:59,988 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:03:00,035 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:03:00,066 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:03:00,082 INFO  [Log] ### Test case: RG_TC_114; Description: Blank; status Executed 
+2017-09-13 20:03:00,254 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:03:00,285 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:03:00,316 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:03:00,316 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:03:05,421 INFO  [Log] #### Executing Test case: RG_TC_114; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 20:03:17,025 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 20:03:18,349 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:03:18,463 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:03:18,544 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:03:32,663 INFO  [Log] TS_05: click on user name  
+2017-09-13 20:03:32,773 INFO  [Log] TS_06: click on choose property 
+2017-09-13 20:03:32,841 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:03:34,055 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:03:34,210 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:03:37,384 INFO  [Log] TS_10: click on settings 
+2017-09-13 20:03:42,629 INFO  [Log] TS_11: select toggle on: Action click If 
+2017-09-13 20:03:42,835 INFO  [Log] slide   
+2017-09-13 20:03:42,897 INFO  [Log] TS_13: click on save 
+2017-09-13 20:03:44,035 INFO  [Log] TS_14: capture period90; Value has been stored in index: 0 
+2017-09-13 20:03:44,113 INFO  [Log] TS_15: click on optima logo 
+2017-09-13 20:03:48,299 INFO  [Log] TS_16: click on Trends 
+2017-09-13 20:03:52,763 INFO  [Log] TS_17: click on grid view 
+2017-09-13 20:03:52,903 INFO  [Log] TS_18: Verify Date Range is 15Days which is not set as per settings; Passed; Value: 14; and value 14are same 
+2017-09-13 20:03:53,008 INFO  [Log] TS_19; Passed; verify no of guest is 1; Value: 1; Present in Page values: 1,  
+2017-09-13 20:03:53,123 INFO  [Log] TS_20; Passed; verify length of stay is 1 ; Value: 1; Present in Page values: 1,  
+2017-09-13 20:03:53,208 INFO  [Log] TS_21: click on settings 
+2017-09-13 20:03:57,402 INFO  [Log] TS_22: select toggle off: Action click If 
+2017-09-13 20:03:57,503 INFO  [Log] TS_23: click on save 
+2017-09-13 20:04:02,517 INFO  [Log] closing test case  
+2017-09-13 20:04:05,072 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:04:05,104 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:04:05,135 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:04:05,135 INFO  [Log] ### Test case: RG_TC_114; Description: Blank; status Executed 
+2017-09-13 20:04:05,322 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:04:05,354 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:04:05,402 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:04:05,402 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:04:10,139 INFO  [Log] #### Executing Test case: RG_TC_114; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 20:04:35,911 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 20:04:37,161 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:04:37,224 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:04:37,287 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:04:42,504 INFO  [Log] TS_05: click on user name  
+2017-09-13 20:04:47,259 INFO  [Log] TS_06: click on choose property 
+2017-09-13 20:04:47,328 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:04:48,405 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:04:48,500 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:04:51,685 INFO  [Log] TS_10: click on settings 
+2017-09-13 20:04:57,082 INFO  [Log] TS_11: select toggle on: Action click If 
+2017-09-13 20:04:57,982 INFO  [Log] slide   
+2017-09-13 20:04:58,107 INFO  [Log] TS_13: click on save 
+2017-09-13 20:04:59,170 INFO  [Log] TS_14: capture period90; Value has been stored in index: 0 
+2017-09-13 20:04:59,254 INFO  [Log] TS_15: click on optima logo 
+2017-09-13 20:05:03,410 INFO  [Log] TS_16: click on Trends 
+2017-09-13 20:05:08,732 INFO  [Log] TS_17: click on grid view 
+2017-09-13 20:05:09,062 INFO  [Log] TS_18: Verify Date Range is 15Days which is not set as per settings; Passed; Value: 14; and value 14are same 
+2017-09-13 20:05:09,124 INFO  [Log] TS_19; Passed; verify no of guest is 1; Value: 1; Present in Page values: 1,  
+2017-09-13 20:05:09,218 INFO  [Log] TS_20; Passed; verify length of stay is 1 ; Value: 1; Present in Page values: 1,  
+2017-09-13 20:05:09,264 INFO  [Log] TS_21: click on settings 
+2017-09-13 20:05:13,665 INFO  [Log] TS_22: select toggle off: Action click If 
+2017-09-13 20:05:13,790 INFO  [Log] TS_23: click on save 
+2017-09-13 20:05:18,805 INFO  [Log] closing test case  
+2017-09-13 20:05:19,089 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:05:19,120 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:05:19,151 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:05:19,151 INFO  [Log] ### Test case: RG_TC_114; Description: Blank; status Executed 
+2017-09-13 20:05:19,332 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:05:19,363 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:05:19,410 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:05:19,410 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:05:19,410 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:05:19,441 INFO  [Log] **************************************************************************************** 
+2017-09-13 20:05:19,441 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_166; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 20:05:19,441 INFO  [Log] **************************************************************************************** 
+2017-09-13 20:05:27,932 INFO  [Log] #### Executing Test case: RG_TC_166; Description: Blank In IE Browser for TestData:1 
+2017-09-13 20:05:44,664 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:05:46,255 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:05:47,821 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:05:58,935 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 20:06:00,572 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 20:06:02,545 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:06:05,125 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:06:06,869 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:06:11,326 INFO  [Log] TS_10: Click on Trends 
+2017-09-13 20:06:17,015 INFO  [Log] TS_11: Click on Events 
+2017-09-13 20:06:30,998 INFO  [Log] TS_12: Verify  Date Range is of 1 Year from Starting Date; Passed; Value: 365; and value 365are same 
+2017-09-13 20:06:33,355 INFO  [Log] TS_13: Click on add Custom event button 
+2017-09-13 20:06:35,736 INFO  [Log] TS_14: Add Event Name; Action: Submit Random Value: I8AT; Index No at ValueCaptured list is0 
+2017-09-13 20:06:37,605 INFO  [Log] TS_15: Add Event Address; Action: Submited ValueValue: India 
+2017-09-13 20:06:39,421 INFO  [Log] TS_16: Click on Event Start Date 
+2017-09-13 20:06:44,617 INFO  [Log] TS_18: Click on Event End Date 
+2017-09-13 20:06:49,733 INFO  [Log] TS_20: Add Event Category; Action: Submited ValueValue: Public 
+2017-09-13 20:06:51,772 INFO  [Log] TS_21: Select Event Charge    Free; Action: Drop Down Select 
+2017-09-13 20:06:53,768 INFO  [Log] TS_22: Add Event Description; Action: Submited ValueValue: Delhi 
+2017-09-13 20:06:55,603 INFO  [Log] TS_23: Save the Custom Event 
+2017-09-13 20:07:08,081 INFO  [Log] TS_24: Click on Filter for Custom Events 
+2017-09-13 20:07:10,513 INFO  [Log] TS_25: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 20:07:12,708 INFO  [Log] TS_26: Click on Apply Button 
+2017-09-13 20:07:18,297 INFO  [Log] TS_27: Search the Custom event; Action: Submited stored value 
+2017-09-13 20:07:19,704 INFO  [Log] TS_28: Insert Value for the EventNew Element Location is : I8ATStored in ObjRep using element name: event: Type: Xpath 
+2017-09-13 20:07:21,234 INFO  [Log] TS_29: Verify If custom Event is added; Passed; ; Element is present on the active page 
+2017-09-13 20:07:22,766 INFO  [Log] TS_30: Click on Trends 
+2017-09-13 20:07:28,642 INFO  [Log] TS_31: Click on Grid View 
+2017-09-13 20:07:30,595 INFO  [Log] TS_32: Click on Date Range 
+2017-09-13 20:07:36,268 INFO  [Log] TS_33: Select Start Date Date selected: 1 November 2017 
+2017-09-13 20:07:40,975 INFO  [Log] TS_34: Select Start Date Date selected: 3 November 2017 
+2017-09-13 20:07:42,574 INFO  [Log] TS_35: Click on Apply Button 
+2017-09-13 20:07:46,967 INFO  [Log] TS_36: Edit Xpath to Verify Event is Present on Trends Grid ViewNew Element Location is : I8ATStored in ObjRep using element name: Trendsevent: Type: Xpath 
+2017-09-13 20:08:13,950 INFO  [Log] TS_37; Failed; Sepcified Element is not present on the page; Verify Event is Present on the Trends Grid View 
+2017-09-13 20:08:15,611 INFO  [Log] TS_38: Click on Events 
+2017-09-13 20:08:30,379 INFO  [Log] TS_39: Click on Filter for Custom Events 
+2017-09-13 20:08:32,800 INFO  [Log] TS_40: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 20:08:34,975 INFO  [Log] TS_41: Click on Apply Button 
+2017-09-13 20:08:41,391 INFO  [Log] TS_42: Search the Custom event; Action: Submited stored value 
+2017-09-13 20:08:42,984 INFO  [Log] TS_43: Click on edit event button 
+2017-09-13 20:08:44,600 INFO  [Log] TS_44: click on Delete button 
+2017-09-13 20:08:46,503 INFO  [Log] TS_45: Click on Yes button to confirm deletion of event 
+2017-09-13 20:08:51,515 INFO  [Log] closing test case  
+2017-09-13 20:08:51,753 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:08:51,784 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:08:51,846 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:08:51,846 INFO  [Log] ### Test case: RG_TC_166; Description: Blank; status Executed 
+2017-09-13 20:08:52,086 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:08:52,133 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:08:52,180 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:08:52,180 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:08:57,298 INFO  [Log] #### Executing Test case: RG_TC_166; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 20:09:10,117 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 20:09:11,441 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:09:11,542 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:09:11,644 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:09:24,394 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 20:09:24,508 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 20:09:24,589 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:09:25,787 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:09:25,928 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:09:29,072 INFO  [Log] TS_10: Click on Trends 
+2017-09-13 20:09:33,233 INFO  [Log] TS_11: Click on Events 
+2017-09-13 20:09:43,042 INFO  [Log] TS_12: Verify  Date Range is of 1 Year from Starting Date; Passed; Value: 365; and value 365are same 
+2017-09-13 20:09:43,406 INFO  [Log] TS_13: Click on add Custom event button 
+2017-09-13 20:09:44,683 INFO  [Log] TS_14: Add Event Name; Action: Submit Random Value: T725; Index No at ValueCaptured list is0 
+2017-09-13 20:09:45,366 INFO  [Log] TS_15: Add Event Address; Action: Submited ValueValue: India 
+2017-09-13 20:09:45,619 INFO  [Log] TS_16: Click on Event Start Date 
+2017-09-13 20:09:46,073 INFO  [Log] TS_18: Click on Event End Date 
+2017-09-13 20:09:46,703 INFO  [Log] TS_20: Add Event Category; Action: Submited ValueValue: Public 
+2017-09-13 20:09:46,987 INFO  [Log] TS_21: Select Event Charge    Free; Action: Drop Down Select 
+2017-09-13 20:09:47,306 INFO  [Log] TS_22: Add Event Description; Action: Submited ValueValue: Delhi 
+2017-09-13 20:09:47,473 INFO  [Log] TS_23: Save the Custom Event 
+2017-09-13 20:09:54,892 INFO  [Log] TS_24: Click on Filter for Custom Events 
+2017-09-13 20:09:55,495 INFO  [Log] TS_25: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 20:09:55,678 INFO  [Log] TS_26: Click on Apply Button 
+2017-09-13 20:09:59,064 INFO  [Log] TS_27: Search the Custom event; Action: Submited stored value 
+2017-09-13 20:09:59,115 INFO  [Log] TS_28: Insert Value for the EventNew Element Location is : T725Stored in ObjRep using element name: event: Type: Xpath 
+2017-09-13 20:09:59,181 INFO  [Log] TS_29: Verify If custom Event is added; Passed; ; Element is present on the active page 
+2017-09-13 20:09:59,239 INFO  [Log] TS_30: Click on Trends 
+2017-09-13 20:10:03,472 INFO  [Log] TS_31: Click on Grid View 
+2017-09-13 20:10:03,625 INFO  [Log] TS_32: Click on Date Range 
+2017-09-13 20:10:04,180 INFO  [Log] TS_33: Select Start Date Date selected: 1 November 2017 
+2017-09-13 20:10:04,424 INFO  [Log] TS_34: Select Start Date Date selected: 3 November 2017 
+2017-09-13 20:10:04,531 INFO  [Log] TS_35: Click on Apply Button 
+2017-09-13 20:10:07,712 INFO  [Log] TS_36: Edit Xpath to Verify Event is Present on Trends Grid ViewNew Element Location is : T725Stored in ObjRep using element name: Trendsevent: Type: Xpath 
+2017-09-13 20:10:33,386 INFO  [Log] TS_37; Failed; Sepcified Element is not present on the page; Verify Event is Present on the Trends Grid View 
+2017-09-13 20:10:33,892 INFO  [Log] TS_38: Click on Events 
+2017-09-13 20:10:43,949 INFO  [Log] TS_39: Click on Filter for Custom Events 
+2017-09-13 20:10:45,276 INFO  [Log] TS_40: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 20:10:45,477 INFO  [Log] TS_41: Click on Apply Button 
+2017-09-13 20:10:48,910 INFO  [Log] TS_42: Search the Custom event; Action: Submited stored value 
+2017-09-13 20:10:48,994 INFO  [Log] TS_43: Click on edit event button 
+2017-09-13 20:10:49,076 INFO  [Log] TS_44: click on Delete button 
+2017-09-13 20:10:49,168 INFO  [Log] TS_45: Click on Yes button to confirm deletion of event 
+2017-09-13 20:10:54,170 INFO  [Log] closing test case  
+2017-09-13 20:10:56,525 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:10:56,557 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:10:56,597 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:10:56,597 INFO  [Log] ### Test case: RG_TC_166; Description: Blank; status Executed 
+2017-09-13 20:10:56,769 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:10:56,800 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:10:56,831 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:10:56,831 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:11:01,525 INFO  [Log] #### Executing Test case: RG_TC_166; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 20:11:32,989 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 20:11:33,162 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:11:33,225 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:11:33,287 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:11:42,788 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-13 20:11:42,911 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-13 20:11:42,972 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:11:44,062 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:11:44,172 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:11:47,345 INFO  [Log] TS_10: Click on Trends 
+2017-09-13 20:11:51,547 INFO  [Log] TS_11: Click on Events 
+2017-09-13 20:12:02,722 INFO  [Log] TS_12: Verify  Date Range is of 1 Year from Starting Date; Passed; Value: 365; and value 365are same 
+2017-09-13 20:12:02,984 INFO  [Log] TS_13: Click on add Custom event button 
+2017-09-13 20:12:03,255 INFO  [Log] TS_14: Add Event Name; Action: Submit Random Value: 1H22; Index No at ValueCaptured list is0 
+2017-09-13 20:12:03,488 INFO  [Log] TS_15: Add Event Address; Action: Submited ValueValue: India 
+2017-09-13 20:12:03,665 INFO  [Log] TS_16: Click on Event Start Date 
+2017-09-13 20:12:03,990 INFO  [Log] TS_18: Click on Event End Date 
+2017-09-13 20:12:04,419 INFO  [Log] TS_20: Add Event Category; Action: Submited ValueValue: Public 
+2017-09-13 20:12:04,675 INFO  [Log] TS_21: Select Event Charge    Free; Action: Drop Down Select 
+2017-09-13 20:12:04,794 INFO  [Log] TS_22: Add Event Description; Action: Submited ValueValue: Delhi 
+2017-09-13 20:12:04,984 INFO  [Log] TS_23: Save the Custom Event 
+2017-09-13 20:12:13,474 INFO  [Log] TS_24: Click on Filter for Custom Events 
+2017-09-13 20:12:14,395 INFO  [Log] TS_25: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 20:12:14,521 INFO  [Log] TS_26: Click on Apply Button 
+2017-09-13 20:12:17,915 INFO  [Log] TS_27: Search the Custom event; Action: Submited stored value 
+2017-09-13 20:12:18,011 INFO  [Log] TS_28: Insert Value for the EventNew Element Location is : 1H22Stored in ObjRep using element name: event: Type: Xpath 
+2017-09-13 20:12:18,043 INFO  [Log] TS_29: Verify If custom Event is added; Passed; ; Element is present on the active page 
+2017-09-13 20:12:18,105 INFO  [Log] TS_30: Click on Trends 
+2017-09-13 20:12:21,700 INFO  [Log] TS_31: Click on Grid View 
+2017-09-13 20:12:22,138 INFO  [Log] TS_32: Click on Date Range 
+2017-09-13 20:12:22,590 INFO  [Log] TS_33: Select Start Date Date selected: 1 November 2017 
+2017-09-13 20:12:22,793 INFO  [Log] TS_34: Select Start Date Date selected: 3 November 2017 
+2017-09-13 20:12:22,872 INFO  [Log] TS_35: Click on Apply Button 
+2017-09-13 20:12:26,009 INFO  [Log] TS_36: Edit Xpath to Verify Event is Present on Trends Grid ViewNew Element Location is : 1H22Stored in ObjRep using element name: Trendsevent: Type: Xpath 
+2017-09-13 20:12:51,517 INFO  [Log] TS_37; Failed; Sepcified Element is not present on the page; Verify Event is Present on the Trends Grid View 
+2017-09-13 20:12:51,689 INFO  [Log] TS_38: Click on Events 
+2017-09-13 20:13:02,571 INFO  [Log] TS_39: Click on Filter for Custom Events 
+2017-09-13 20:13:03,589 INFO  [Log] TS_40: Select Custom Events    null; Action: Drop Down Select 
+2017-09-13 20:13:03,699 INFO  [Log] TS_41: Click on Apply Button 
+2017-09-13 20:13:06,891 INFO  [Log] TS_42: Search the Custom event; Action: Submited stored value 
+2017-09-13 20:13:06,949 INFO  [Log] TS_43: Click on edit event button 
+2017-09-13 20:13:07,011 INFO  [Log] TS_44: click on Delete button 
+2017-09-13 20:13:07,086 INFO  [Log] TS_45: Click on Yes button to confirm deletion of event 
+2017-09-13 20:13:12,087 INFO  [Log] closing test case  
+2017-09-13 20:13:12,401 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:13:12,432 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:13:12,463 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:13:12,479 INFO  [Log] ### Test case: RG_TC_166; Description: Blank; status Executed 
+2017-09-13 20:13:12,635 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:13:12,666 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:13:12,697 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:13:12,697 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:13:12,697 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:13:12,729 INFO  [Log] **************************************************************************************** 
+2017-09-13 20:13:12,729 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_176; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-13 20:13:12,729 INFO  [Log] **************************************************************************************** 
+2017-09-13 20:13:21,363 INFO  [Log] #### Executing Test case: RG_TC_176; Description: Blank In IE Browser for TestData:1 
+2017-09-13 20:13:36,981 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:13:38,661 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:13:40,220 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:13:52,274 INFO  [Log] TS_05: click on user name  
+2017-09-13 20:13:53,918 INFO  [Log] TS_06: click on choose property 
+2017-09-13 20:13:55,920 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:13:58,574 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:14:00,429 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:14:04,838 INFO  [Log] TS_10: click on Parity 
+2017-09-13 20:14:09,404 INFO  [Log] TS_11: Click on Grid View 
+2017-09-13 20:14:13,639 INFO  [Log] TS_12: click on filter 
+2017-09-13 20:14:18,915 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 20:14:23,668 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 20:14:25,318 INFO  [Log] TS_15: click on apply 
+2017-09-13 20:14:29,583 INFO  [Log] TS_16; Passed; Verify OTA Tab is Present; Present in Page   
+2017-09-13 20:14:34,240 INFO  [Log] TS_17: Click on OTA: Action click If 
+2017-09-13 20:14:40,754 INFO  [Log] TS_18; Passed; Verify OTA Table is Disable or Not Present; Element is not present/dispayed on the page 
+2017-09-13 20:14:43,055 INFO  [Log] Fail; TS_19: Verify OTA Tab is in Disable State; Element is present/displayed on the page 
+2017-09-13 20:14:48,629 INFO  [Log] TS_20: Click on OTA Channel: Action click If 
+2017-09-13 20:14:56,081 INFO  [Log] optima_176TS_21XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 62 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:46462/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 01479e5c-a809-4feb-bf1c-c46d895a6452null:Exception is not handled 
+2017-09-13 20:14:56,254 WARN  [Log]  Browser instance is active 
+2017-09-13 20:14:56,802 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:14:56,896 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:14:56,974 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:14:56,974 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:14:56,974 FATAL [Log] optima_176TS_21XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 62 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:46462/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 01479e5c-a809-4feb-bf1c-c46d895a6452null:Exception is not handled 
+2017-09-13 20:15:02,228 INFO  [Log] #### Executing Test case: RG_TC_176; Description: Blank In Chrome Browser for TestData:1 
+2017-09-13 20:15:16,592 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 20:15:18,039 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:15:18,163 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:15:18,247 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:15:32,800 INFO  [Log] TS_05: click on user name  
+2017-09-13 20:15:32,914 INFO  [Log] TS_06: click on choose property 
+2017-09-13 20:15:32,986 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:15:34,204 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:15:34,426 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:15:37,761 INFO  [Log] TS_10: click on Parity 
+2017-09-13 20:15:41,029 INFO  [Log] TS_11: Click on Grid View 
+2017-09-13 20:15:43,383 INFO  [Log] TS_12: click on filter 
+2017-09-13 20:15:43,804 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 20:15:44,083 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 20:15:44,174 INFO  [Log] TS_15: click on apply 
+2017-09-13 20:15:47,480 INFO  [Log] TS_16; Passed; Verify OTA Tab is Present; Present in Page   
+2017-09-13 20:15:50,855 INFO  [Log] TS_17: Click on OTA: Action click If 
+2017-09-13 20:15:56,217 INFO  [Log] TS_18; Passed; Verify OTA Table is Disable or Not Present; Element is not present/dispayed on the page 
+2017-09-13 20:16:01,655 INFO  [Log] TS_19; Passed; Verify OTA Tab is in Disable State; Element is not present/dispayed on the page 
+2017-09-13 20:16:04,867 INFO  [Log] TS_20: Click on OTA Channel: Action click If 
+2017-09-13 20:16:05,966 INFO  [Log] TS_21: Scroll to element: Action Scroll Down 
+2017-09-13 20:16:06,148 INFO  [Log] TS_22; Passed; Check OTA Channel Div is present; Present in Page   
+2017-09-13 20:16:06,340 INFO  [Log] TS_23; Passed; Verify Trivago Tab is Present; Present in Page   
+2017-09-13 20:16:09,686 INFO  [Log] TS_24: Click on Trivago: Action click If 
+2017-09-13 20:16:15,026 INFO  [Log] TS_25; Passed; Verify Trivago Table is Disable or Not Present; Element is not present/dispayed on the page 
+2017-09-13 20:16:20,525 INFO  [Log] TS_26; Passed; Verify Trivago Tab is in Disable State; Element is not present/dispayed on the page 
+2017-09-13 20:16:23,880 INFO  [Log] TS_27: Click on Trivago Channel: Action click If 
+2017-09-13 20:16:24,993 INFO  [Log] TS_28: Scroll to element: Action Scroll Down 
+2017-09-13 20:16:25,190 INFO  [Log] TS_29; Passed; Check Trivago Channel Div is present; Present in Page   
+2017-09-13 20:16:25,394 INFO  [Log] TS_30; Passed; Verify TripAdvisor Tab is Present; Present in Page   
+2017-09-13 20:16:28,666 INFO  [Log] TS_31: Click on TripAdvisor: Action click If 
+2017-09-13 20:16:34,025 INFO  [Log] TS_32; Passed; Verify TripAdvisor Table is Disable or Not Present; Element is not present/dispayed on the page 
+2017-09-13 20:16:39,472 INFO  [Log] TS_33; Passed; Verify TripAdvisor Tab is in Disable State; Element is not present/dispayed on the page 
+2017-09-13 20:16:42,746 INFO  [Log] TS_34: Click on TripAdvisor Channel: Action click If 
+2017-09-13 20:16:43,867 INFO  [Log] TS_35: Scroll to element: Action Scroll Down 
+2017-09-13 20:16:44,005 INFO  [Log] TS_36; Passed; Check TripAdvisor Channel Div is present; Present in Page   
+2017-09-13 20:16:49,010 INFO  [Log] closing test case  
+2017-09-13 20:16:51,544 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:16:51,576 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:16:51,607 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:16:51,607 INFO  [Log] ### Test case: RG_TC_176; Description: Blank; status Executed 
+2017-09-13 20:16:51,794 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:16:51,825 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:16:51,857 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:16:51,857 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:16:56,564 INFO  [Log] #### Executing Test case: RG_TC_176; Description: Blank In Firefox Browser for TestData:1 
+2017-09-13 20:17:24,238 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-13 20:17:24,493 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-13 20:17:24,680 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-13 20:17:24,843 INFO  [Log] TS_04: Click on login button 
+2017-09-13 20:17:30,324 INFO  [Log] TS_05: click on user name  
+2017-09-13 20:17:30,431 INFO  [Log] TS_06: click on choose property 
+2017-09-13 20:17:35,768 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-13 20:17:36,917 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-13 20:17:37,152 INFO  [Log] TS_09: Click on property 
+2017-09-13 20:17:40,551 INFO  [Log] TS_10: click on Parity 
+2017-09-13 20:17:43,745 INFO  [Log] TS_11: Click on Grid View 
+2017-09-13 20:17:47,065 INFO  [Log] TS_12: click on filter 
+2017-09-13 20:17:47,362 INFO  [Log] TS_13: select start dateDate selected: 1 November 2017 
+2017-09-13 20:17:47,549 INFO  [Log] TS_14: select end dateDate selected: 3 November 2017 
+2017-09-13 20:17:47,659 INFO  [Log] TS_15: click on apply 
+2017-09-13 20:17:50,898 INFO  [Log] TS_16; Passed; Verify OTA Tab is Present; Present in Page   
+2017-09-13 20:17:54,260 INFO  [Log] TS_17: Click on OTA: Action click If 
+2017-09-13 20:17:59,481 INFO  [Log] TS_18; Passed; Verify OTA Table is Disable or Not Present; Element is not present/dispayed on the page 
+2017-09-13 20:18:04,721 INFO  [Log] TS_19; Passed; Verify OTA Tab is in Disable State; Element is not present/dispayed on the page 
+2017-09-13 20:18:08,237 INFO  [Log] TS_20: Click on OTA Channel: Action click If 
+2017-09-13 20:18:09,441 INFO  [Log] TS_21: Scroll to element: Action Scroll Down 
+2017-09-13 20:18:09,567 INFO  [Log] TS_22; Passed; Check OTA Channel Div is present; Present in Page   
+2017-09-13 20:18:09,692 INFO  [Log] TS_23; Passed; Verify Trivago Tab is Present; Present in Page   
+2017-09-13 20:18:13,100 INFO  [Log] TS_24: Click on Trivago: Action click If 
+2017-09-13 20:18:13,241 INFO  [Log] Fail; TS_25: Verify Trivago Table is Disable or Not Present; Element is present/displayed on the page 
+2017-09-13 20:18:13,428 INFO  [Log] Fail; TS_26: Verify Trivago Tab is in Disable State; Element is present/displayed on the page 
+2017-09-13 20:18:16,871 INFO  [Log] TS_27: Click on Trivago Channel: Action click If 
+2017-09-13 20:18:18,013 INFO  [Log] TS_28: Scroll to element: Action Scroll Down 
+2017-09-13 20:18:18,125 INFO  [Log] TS_29; Passed; Check Trivago Channel Div is present; Present in Page   
+2017-09-13 20:18:18,265 INFO  [Log] TS_30; Passed; Verify TripAdvisor Tab is Present; Present in Page   
+2017-09-13 20:18:21,626 INFO  [Log] TS_31: Click on TripAdvisor: Action click If 
+2017-09-13 20:18:21,767 INFO  [Log] Fail; TS_32: Verify TripAdvisor Table is Disable or Not Present; Element is present/displayed on the page 
+2017-09-13 20:18:22,082 INFO  [Log] Fail; TS_33: Verify TripAdvisor Tab is in Disable State; Element is present/displayed on the page 
+2017-09-13 20:18:25,564 INFO  [Log] TS_34: Click on TripAdvisor Channel: Action click If 
+2017-09-13 20:18:26,712 INFO  [Log] TS_35: Scroll to element: Action Scroll Down 
+2017-09-13 20:18:26,813 INFO  [Log] TS_36; Passed; Check TripAdvisor Channel Div is present; Present in Page   
+2017-09-13 20:18:31,823 INFO  [Log] closing test case  
+2017-09-13 20:18:32,120 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:18:32,167 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:18:32,198 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:18:32,198 INFO  [Log] ### Test case: RG_TC_176; Description: Blank; status Executed 
+2017-09-13 20:18:32,385 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-13 20:18:32,417 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-13 20:18:32,448 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-13 20:18:32,448 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:18:32,448 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:18:32,479 INFO  [Log] ####Closing Test Suite #### 
+2017-09-13 20:18:32,479 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-13 20:18:32,479 INFO  [Log] Creating Logs backup and storing for further reference 

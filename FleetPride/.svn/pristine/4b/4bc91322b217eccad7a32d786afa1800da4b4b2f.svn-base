@@ -1,0 +1,64 @@
+2017-10-12 15:52:19,061 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 15:52:19,091 INFO  [Log] Initialing HTML reporting 
+2017-10-12 15:52:19,251 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 15:52:19,441 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:52:19,471 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:52:19,501 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:52:19,951 INFO  [Log] Object repository is created successfully 
+2017-10-12 15:52:20,032 INFO  [Log] **************************************************************************************** 
+2017-10-12 15:52:20,032 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 15:52:20,032 INFO  [Log] **************************************************************************************** 
+2017-10-12 15:52:25,772 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 15:52:31,937 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 15:53:07,831 INFO  [Log] TS_02: Click on "Top 100 Parts Template" button 
+2017-10-12 15:53:07,833 INFO  [Log] TS_03; Waited 5000 Milli seconds for Element 
+2017-10-12 15:53:12,854 INFO  [Log] TS_04; Passed;  file   downloaded C:\Users\amit.singh\Downloads\PDC_Top_100_Template.csv 
+2017-10-12 15:53:48,322 INFO  [Log] TS_05: Click on "Blank Order Template" button 
+2017-10-12 15:53:48,323 INFO  [Log] TS_07; Waited 5000 Milli seconds for Element 
+2017-10-12 15:53:53,348 INFO  [Log] TS_08; Passed;  file   downloaded C:\Users\amit.singh\Downloads\template.csv 
+2017-10-12 15:53:58,350 INFO  [Log] closing test case  
+2017-10-12 15:54:00,859 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:54:00,890 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:54:00,921 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:54:00,941 INFO  [Log] ### Test case: quick_order; Description: Blank; status Executed 
+2017-10-12 15:54:01,112 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:54:01,153 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:54:01,183 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:54:01,183 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 15:54:05,863 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Firefox Browser for TestData:1 
+2017-10-12 15:54:15,566 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 15:54:51,111 INFO  [Log] TS_02: Click on "Top 100 Parts Template" button 
+2017-10-12 15:54:51,111 INFO  [Log] TS_03; Waited 5000 Milli seconds for Element 
+2017-10-12 15:54:56,126 INFO  [Log] TS_04; Passed;  file   downloaded C:\Users\amit.singh\Downloads\PDC_Top_100_Template(1).csv 
+2017-10-12 15:55:31,647 INFO  [Log] TS_05: Click on "Blank Order Template" button 
+2017-10-12 15:55:31,647 INFO  [Log] TS_07; Waited 5000 Milli seconds for Element 
+2017-10-12 15:55:36,652 INFO  [Log] TS_08; Passed;  file   downloaded C:\Users\amit.singh\Downloads\template.csv 
+2017-10-12 15:55:41,656 INFO  [Log] closing test case  
+2017-10-12 15:55:41,957 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:55:41,988 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:55:42,028 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:55:42,038 INFO  [Log] ### Test case: quick_order; Description: Blank; status Executed 
+2017-10-12 15:55:42,228 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:55:42,258 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:55:42,288 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:55:42,288 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 15:55:50,713 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In IE Browser for TestData:1 
+2017-10-12 15:56:37,166 INFO  [Log] TS_02: Click on "Top 100 Parts Template" button 
+2017-10-12 15:56:37,166 INFO  [Log] TS_03; Waited 5000 Milli seconds for Element 
+2017-10-12 15:56:42,167 INFO  [Log] TS_04; Passed;  file   downloaded C:\Users\amit.singh\Downloads\PDC_Top_100_Template.csv 
+2017-10-12 15:57:22,524 INFO  [Log] TS_05: Click on "Blank Order Template" button 
+2017-10-12 15:57:22,524 INFO  [Log] TS_07; Waited 5000 Milli seconds for Element 
+2017-10-12 15:57:27,530 INFO  [Log] TS_08; Passed;  file   downloaded C:\Users\amit.singh\Downloads\template (1).csv 
+2017-10-12 15:57:32,529 INFO  [Log] closing test case  
+2017-10-12 15:57:32,847 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:57:32,877 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:57:32,917 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:57:32,927 INFO  [Log] ### Test case: quick_order; Description: Blank; status Executed 
+2017-10-12 15:57:33,107 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:57:33,137 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:57:33,178 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:57:33,178 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 15:57:33,178 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 15:57:33,435 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 15:57:33,435 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 15:57:33,435 INFO  [Log] Creating Logs backup and storing for further reference 

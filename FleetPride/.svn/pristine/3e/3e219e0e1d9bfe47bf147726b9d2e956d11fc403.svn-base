@@ -1,0 +1,191 @@
+2017-08-29 19:47:20,861 INFO  [Log] Test Scenario Configuration started 
+2017-08-29 19:47:20,885 INFO  [Log] Initialing HTML reporting 
+2017-08-29 19:47:21,075 INFO  [Log] Starting Test Suit Execution 
+2017-08-29 19:47:21,075 WARN  [Log] No Browser instance is active 
+2017-08-29 19:47:21,759 INFO  [Log] Object repository is created successfully 
+2017-08-29 19:47:21,859 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-29 19:47:21,923 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:47:21,976 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-08-29 19:47:22,035 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-08-29 19:47:22,221 INFO  [Log] **************************************************************************************** 
+2017-08-29 19:47:22,221 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_55.xlsx; Description: To verify Qualification filter For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-29 19:47:22,221 INFO  [Log] **************************************************************************************** 
+2017-08-29 19:47:28,560 INFO  [Log] #### Executing Test case: Rg_TC_55.xlsx; Description: To verify Qualification filter In Chrome Browser for TestData:1 
+2017-08-29 19:47:52,696 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-29 19:47:53,198 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-29 19:47:53,353 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-29 19:47:53,459 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-29 19:47:53,459 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-08-29 19:48:13,832 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-29 19:48:14,109 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-29 19:48:14,640 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-29 19:48:15,900 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-29 19:48:15,901 INFO  [Log] TS_10; Waited 12000 Milli seconds for Element 
+2017-08-29 19:48:28,077 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-29 19:48:28,078 INFO  [Log] TS_12; Waited 12000 Milli seconds for Element 
+2017-08-29 19:48:40,187 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-29 19:48:40,188 INFO  [Log] TS_14; Waited 12000 Milli seconds for Element 
+2017-08-29 19:48:52,363 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-29 19:48:52,364 INFO  [Log] TS_16; Waited 12000 Milli seconds for Element 
+2017-08-29 19:49:04,584 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-29 19:49:04,584 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-08-29 19:49:09,438 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:11,750 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:14,208 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-29 19:49:14,209 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-29 19:49:18,332 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-29 19:49:18,332 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-29 19:49:22,651 INFO  [Log] TS_27: select Qualification; Action: Drop Down Select 
+2017-08-29 19:49:22,652 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:24,903 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-29 19:49:24,903 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-29 19:49:29,057 INFO  [Log] TS_32: edit with chanal 1New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-29 19:49:29,178 INFO  [Log] TS_33: value capture channelExpediaAPI; Value has been stored in index: 0 
+2017-08-29 19:49:29,179 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:31,254 INFO  [Log] TS_35: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-29 19:49:31,359 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-29 19:49:31,360 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:35,068 INFO  [Log] TS_38: capture rate     RF; Value has been stored in index: 0 
+2017-08-29 19:49:35,148 INFO  [Log] TS_39User specified value has been replaced at index0New Value is: RF 
+2017-08-29 19:49:35,318 INFO  [Log] TS_40: move to top: Action click 
+2017-08-29 19:49:35,319 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:37,320 INFO  [Log] TS_42; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-08-29 19:49:37,882 INFO  [Log] TS_43; Passed; verify excel value against UI valuesvalues from excel [RF] and values from ui [RF]are same 
+2017-08-29 19:49:38,009 INFO  [Log] TS_44: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-29 19:49:38,072 INFO  [Log] TS_45: edit with chanal 2New Element Location is : BookItStored in ObjRep using element name: channel2: Type: Xpath 
+2017-08-29 19:49:38,191 INFO  [Log] TS_46: value capture channelBookIt; Value has been stored in index: 1 
+2017-08-29 19:49:38,192 INFO  [Log] TS_47; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:40,267 INFO  [Log] TS_48: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-29 19:49:40,376 INFO  [Log] TS_49: click on channel: Action click 
+2017-08-29 19:49:40,377 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:44,063 INFO  [Log] TS_51: capture rate     NP; Value has been stored in index: 0 
+2017-08-29 19:49:44,126 INFO  [Log] TS_52User specified value has been replaced at index0New Value is: NP 
+2017-08-29 19:49:44,269 INFO  [Log] TS_53: move to top: Action click 
+2017-08-29 19:49:44,270 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:46,270 INFO  [Log] TS_55; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-08-29 19:49:46,510 INFO  [Log] TS_56; Passed; verify excel value against UI valuesvalues from excel [NP] and values from ui [NP]are same 
+2017-08-29 19:49:46,614 INFO  [Log] TS_57: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-29 19:49:46,687 INFO  [Log] TS_58: edit with chanal 3New Element Location is : Booking.comStored in ObjRep using element name: channel3: Type: Xpath 
+2017-08-29 19:49:46,866 INFO  [Log] TS_59: value capture channelBooking.com; Value has been stored in index: 2 
+2017-08-29 19:49:46,866 INFO  [Log] TS_60; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:48,959 INFO  [Log] TS_61: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-29 19:49:49,081 INFO  [Log] TS_62: click on channel: Action click 
+2017-08-29 19:49:49,082 INFO  [Log] TS_63; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:53,139 INFO  [Log] TS_64: capture rate     434
+0; Value has been stored in index: 0 
+2017-08-29 19:49:53,235 INFO  [Log] TS_65User specified value has been replaced at index0New Value is: 434 
+2017-08-29 19:49:53,323 INFO  [Log] TS_66: move to top: Action click 
+2017-08-29 19:49:53,324 INFO  [Log] TS_67; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:55,324 INFO  [Log] TS_68; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-08-29 19:49:55,554 INFO  [Log] TS_69; Passed; verify excel value against UI valuesvalues from excel [434] and values from ui [434]are same 
+2017-08-29 19:49:55,645 INFO  [Log] TS_70: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-29 19:49:55,736 INFO  [Log] TS_71: edit with chanal 4New Element Location is : BookFHRStored in ObjRep using element name: channel4: Type: Xpath 
+2017-08-29 19:49:55,858 INFO  [Log] TS_72: value capture channelBookFHR; Value has been stored in index: 3 
+2017-08-29 19:49:55,859 INFO  [Log] TS_73; Waited 2000 Milli seconds for Element 
+2017-08-29 19:49:57,919 INFO  [Log] TS_74: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-29 19:49:58,048 INFO  [Log] TS_75: click on channel: Action click 
+2017-08-29 19:49:58,049 INFO  [Log] TS_76; Waited 2000 Milli seconds for Element 
+2017-08-29 19:50:01,808 INFO  [Log] TS_77: capture rate     NP; Value has been stored in index: 0 
+2017-08-29 19:50:01,884 INFO  [Log] TS_78User specified value has been replaced at index0New Value is: NP 
+2017-08-29 19:50:02,013 INFO  [Log] TS_79: move to top: Action click 
+2017-08-29 19:50:02,014 INFO  [Log] TS_80; Waited 2000 Milli seconds for Element 
+2017-08-29 19:50:04,016 INFO  [Log] TS_81; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-08-29 19:50:04,235 INFO  [Log] TS_82; Passed; verify excel value against UI valuesvalues from excel [NP] and values from ui [NP]are same 
+2017-08-29 19:50:04,327 INFO  [Log] TS_83: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-29 19:50:04,411 INFO  [Log] TS_84: edit with chanal 5New Element Location is : GDSStored in ObjRep using element name: channel5: Type: Xpath 
+2017-08-29 19:50:04,551 INFO  [Log] TS_85: value capture channelGDS; Value has been stored in index: 4 
+2017-08-29 19:50:04,551 INFO  [Log] TS_86; Waited 2000 Milli seconds for Element 
+2017-08-29 19:50:06,622 INFO  [Log] TS_87: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-29 19:50:06,773 INFO  [Log] TS_88: click on channel: Action click 
+2017-08-29 19:50:06,773 INFO  [Log] TS_89; Waited 2000 Milli seconds for Element 
+2017-08-29 19:50:10,433 INFO  [Log] TS_90: capture rate     434
++128; Value has been stored in index: 0 
+2017-08-29 19:50:10,515 INFO  [Log] TS_91User specified value has been replaced at index0New Value is: 434 
+2017-08-29 19:50:10,611 INFO  [Log] TS_92: move to top: Action click 
+2017-08-29 19:50:10,611 INFO  [Log] TS_93; Waited 2000 Milli seconds for Element 
+2017-08-29 19:50:12,611 INFO  [Log] TS_94; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-08-29 19:50:12,888 INFO  [Log] TS_95; Passed; verify excel value against UI valuesvalues from excel [434] and values from ui [434]are same 
+2017-08-29 19:50:13,124 INFO  [Log] TS_96: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-29 19:50:13,124 INFO  [Log] TS_97; Waited 8000 Milli seconds for Element 
+2017-08-29 19:50:21,332 INFO  [Log] TS_98: click on calander view: Action click 
+2017-08-29 19:50:21,332 INFO  [Log] TS_99; Waited 8000 Milli seconds for Element 
+2017-08-29 19:50:29,403 INFO  [Log] TS_100: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-08-29 19:50:29,403 INFO  [Log] TS_101; Waited 8000 Milli seconds for Element 
+2017-08-29 19:50:37,521 INFO  [Log] TS_102: value capture date     361
++360
++174; Value has been stored in index: 0 
+2017-08-29 19:50:37,588 INFO  [Log] TS_103User specified value has been replaced at index0New Value is: 361 
+2017-08-29 19:50:37,589 INFO  [Log] TS_104; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-08-29 19:50:38,102 INFO  [Log] TS_105; Passed; verify excel value against UI values(calander rate)values from excel [361] and values from ui [361]are same 
+2017-08-29 19:50:38,173 INFO  [Log] TS_106: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-29 19:50:38,286 INFO  [Log] TS_107: value capture date361
++360
++174; Value has been stored in index: 0 
+2017-08-29 19:50:38,354 INFO  [Log] User specified value has been replaced at index0New Value is: 361 
+2017-08-29 19:50:38,514 INFO  [Log] TS_109: click on date captured: Action click 
+2017-08-29 19:50:38,515 INFO  [Log] TS_110; Waited 2000 Milli seconds for Element 
+2017-08-29 19:50:43,135 INFO  [Log] TS_111: hover on last property: ToolTipNavigation 
+2017-08-29 19:50:43,326 INFO  [Log] TS_112: capture dataGBP 361 [ 106 ]; Value has been stored in index: 1 
+2017-08-29 19:50:43,436 INFO  [Log] User specified value has been replaced at index1New Value is: 361 
+2017-08-29 19:50:43,436 INFO  [Log] TS_114; Passed; verify rate difference from  last report; Captured text1: 361; Captured text2: 361 
+2017-08-29 19:50:43,437 INFO  [Log] TS_115; Waited 2000 Milli seconds for Element 
+2017-08-29 19:50:45,875 INFO  [Log] TS_116: click on chart view: Action click 
+2017-08-29 19:50:45,876 INFO  [Log] TS_117; Waited 8000 Milli seconds for Element 
+2017-08-29 19:50:54,081 INFO  [Log] TS_118: tooltip: ToolTipNavigation 
+2017-08-29 19:50:54,256 INFO  [Log] TS_119: capture rateGBP 361 [ 360 ]; Value has been stored in index: 2 
+2017-08-29 19:50:54,344 INFO  [Log] User specified value has been replaced at index2New Value is: 361 
+2017-08-29 19:50:54,433 INFO  [Log] User specified value has been replaced at index2New Value is: 361 
+2017-08-29 19:50:54,434 INFO  [Log] TS_122; Passed; verify rate difference from  last report; Captured text1: 361; Captured text2: 361 
+2017-08-29 19:50:54,434 INFO  [Log] TS_123; Passed; verify rate difference from  last report; Captured text1: 361; Captured text2: 361 
+2017-08-29 19:50:59,434 INFO  [Log] closing test case  
+2017-08-29 19:51:01,789 INFO  [Log] Closing instance of Browser: Chrome 
+2017-08-29 19:51:01,800 INFO  [Log] ### Test case: Rg_TC_55.xlsx; Description: To verify Qualification filter; status Executed 
+2017-08-29 19:51:01,800 WARN  [Log] No Browser instance is active 
+2017-08-29 19:51:01,800 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 19:51:01,800 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 19:51:02,235 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-08-29 19:51:02,259 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-08-29 19:51:02,283 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-08-29 19:51:02,307 INFO  [Log] Rg_TC_62.xlsx_To verify Length of Stay filter 
+2017-08-29 19:51:02,344 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-29 19:51:02,512 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-29 19:51:02,539 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-29 19:51:02,569 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-29 19:51:02,597 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-29 19:51:02,630 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-29 19:51:02,654 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-29 19:51:02,689 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-29 19:51:02,745 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-29 19:51:02,768 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-29 19:51:02,791 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-29 19:51:02,814 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-29 19:51:02,837 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-29 19:51:02,861 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-29 19:51:02,885 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-29 19:51:02,909 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-29 19:51:02,941 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-29 19:51:03,089 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-29 19:51:03,113 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-29 19:51:03,141 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-29 19:51:03,168 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-29 19:51:03,190 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-29 19:51:03,213 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-29 19:51:03,237 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:51:03,259 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-29 19:51:03,288 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-29 19:51:03,311 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:51:03,332 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-29 19:51:03,354 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-29 19:51:03,377 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:51:03,400 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-29 19:51:03,422 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-29 19:51:03,448 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:51:03,474 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-29 19:51:03,533 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-29 19:51:03,555 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-29 19:51:03,577 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-29 19:51:03,599 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-29 19:51:03,619 INFO  [Log] Rg_TC_53_multipleCAse_Rg_TC_53_multipleCAse 
+2017-08-29 19:51:03,640 INFO  [Log] ####Closing Test Suite #### 
+2017-08-29 19:51:03,640 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 19:51:03,640 INFO  [Log] Creating Logs backup and storing for further reference 

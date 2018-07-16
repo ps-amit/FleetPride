@@ -1,0 +1,24 @@
+2018-07-05 17:06:32,399 INFO  [Log] Test Scenario Configuration started 
+2018-07-05 17:06:32,417 INFO  [Log] Initialing HTML reporting 
+2018-07-05 17:06:32,751 INFO  [Log] Starting Test Suit Execution 
+2018-07-05 17:06:33,485 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-07-05 17:06:33,566 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-07-05 17:06:33,656 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-07-05 17:06:34,283 INFO  [Log] Object repository is created successfully 
+2018-07-05 17:06:34,359 INFO  [Log] **************************************************************************************** 
+2018-07-05 17:06:34,359 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: MYSQL_Database-script.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-05 17:06:34,359 INFO  [Log] **************************************************************************************** 
+2018-07-05 17:06:36,403 INFO  [Log] #### Executing Test case: MYSQL_Database-script.xlsx; Description: Blank In No Browser Browser for TestData:1 
+2018-07-05 17:06:36,489 ERROR [Log] Error#: TS_01; Element not found java.lang.IllegalArgumentException: object is not an instance of declaring class 
+2018-07-05 17:06:37,594 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-07-05 17:06:37,678 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-07-05 17:06:37,761 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-07-05 17:06:37,761 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-05 17:06:37,761 FATAL [Log] TS_01; Element not found java.lang.IllegalArgumentException: object is not an instance of declaring class 
+2018-07-05 17:06:37,761 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-05 17:06:38,098 INFO  [Log] Cost_Update_Task_Creation.xlsx_Blank 
+2018-07-05 17:06:38,150 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-07-05 17:06:38,209 INFO  [Log] Simple_Login_Blank 
+2018-07-05 17:06:38,264 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-07-05 17:06:38,295 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-07-05 17:06:38,340 INFO  [Log] Creating Logs backup and storing for further reference 

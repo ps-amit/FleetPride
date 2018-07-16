@@ -1,0 +1,25 @@
+2017-10-12 11:37:04,289 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 11:37:04,309 INFO  [Log] Initialing HTML reporting 
+2017-10-12 11:37:04,516 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 11:37:04,696 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 11:37:04,726 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 11:37:04,776 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 11:37:05,508 INFO  [Log] Object repository is created successfully 
+2017-10-12 11:37:05,640 INFO  [Log] **************************************************************************************** 
+2017-10-12 11:37:05,640 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_001_C; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 11:37:05,640 INFO  [Log] **************************************************************************************** 
+2017-10-12 11:37:11,548 INFO  [Log] #### Executing Test case: PGNG_1801_TC_001_C; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 11:37:24,891 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 11:38:00,403 INFO  [Log] TS_02: Click on "Blank Order Template" button 
+2017-10-12 11:38:00,404 INFO  [Log] Failed: TS_03: Verify file downloed in the download section file extension is not same C:\Users\amit.singh\Downloads\desktop.ini  as defined Blank 
+2017-10-12 11:38:01,070 ERROR [Log] Error#: BlankActionSupportValue:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.ActionSupportValue() 
+2017-10-12 11:38:01,366 WARN  [Log]  Browser instance is active 
+2017-10-12 11:38:01,657 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 11:38:01,698 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 11:38:01,728 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 11:38:01,728 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 11:38:01,738 FATAL [Log] BlankActionSupportValue:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.ActionSupportValue() 
+2017-10-12 11:38:01,738 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 11:38:01,830 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 11:38:01,830 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 11:38:01,830 INFO  [Log] Creating Logs backup and storing for further reference 

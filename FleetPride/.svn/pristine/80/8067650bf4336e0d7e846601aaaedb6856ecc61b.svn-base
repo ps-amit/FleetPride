@@ -1,0 +1,57 @@
+2017-10-31 14:54:13,140 INFO  [Log] Test Scenario Configuration started 
+2017-10-31 14:54:13,150 INFO  [Log] Initialing HTML reporting 
+2017-10-31 14:54:13,320 INFO  [Log] Starting Test Suit Execution 
+2017-10-31 14:54:13,520 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 14:54:13,560 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 14:54:13,590 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 14:54:13,991 INFO  [Log] Object repository is created successfully 
+2017-10-31 14:54:14,051 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-10-31 14:54:14,111 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-10-31 14:54:14,161 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-10-31 14:54:14,201 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-10-31 14:54:14,243 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-10-31 14:54:14,273 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-10-31 14:54:14,313 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-10-31 14:54:14,353 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-10-31 14:54:14,393 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-10-31 14:54:14,423 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-10-31 14:54:14,453 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-10-31 14:54:14,483 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-10-31 14:54:14,513 INFO  [Log] FP_contact_us_page_Blank 
+2017-10-31 14:54:14,543 INFO  [Log] **************************************************************************************** 
+2017-10-31 14:54:14,543 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_Order_Upload; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 14:54:14,543 INFO  [Log] **************************************************************************************** 
+2017-10-31 14:54:20,420 INFO  [Log] #### Executing Test case: FP_Order_Upload; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 14:54:29,292 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 14:55:11,241 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 14:55:47,236 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 14:56:22,919 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 14:57:04,676 INFO  [Log] TS_05: Click on login button 
+2017-10-31 14:57:43,340 INFO  [Log] TC_1: Click Order Upload link 
+2017-10-31 14:57:43,342 INFO  [Log] TC_2; Waited 1000 Milli seconds for Element 
+2017-10-31 14:58:20,282 INFO  [Log] TC_3; Passed; Verifying whether the button is present on the page.; Value: blank order template; Present in Page values: Blank Order Template,  
+2017-10-31 14:58:55,552 INFO  [Log] TC_4: Clickng on blank order template to see whether the blank csv file is getting downloaded. 
+2017-10-31 14:58:55,552 INFO  [Log] TC_5; Waited 1000 Milli seconds for Element 
+2017-10-31 14:59:32,032 INFO  [Log] TC_6; Passed; Verifying whether the top 100 button is present on the page.; Value: top 100 parts template; Present in Page values: Top 100 Parts Template,  
+2017-10-31 15:00:07,400 INFO  [Log] TC_7: Clicking on the Top 100 button. 
+2017-10-31 15:00:07,400 INFO  [Log] TC_8; Waited 1000 Milli seconds for Element 
+2017-10-31 15:00:43,783 INFO  [Log] TC_9; Passed; Verifying whether the Upload order button is present on the page.; Value: upload order; Present in Page values: Upload Order,  
+2017-10-31 15:01:19,571 INFO  [Log] TC_10: Click on "Top 100 Parts Template" button 
+2017-10-31 15:01:19,571 INFO  [Log] TC_11; Waited 5000 Milli seconds for Element 
+2017-10-31 15:01:24,620 INFO  [Log] TC_11; Waited 5000 Milli seconds for Element 
+2017-10-31 15:02:00,496 INFO  [Log] TC_13: Click on "Blank Order Template" button 
+2017-10-31 15:02:00,496 INFO  [Log] TC_14; Waited 5000 Milli seconds for Element 
+2017-10-31 15:02:05,504 INFO  [Log] TC_15; Passed;  file   downloaded C:\Users\amit.singh\Downloads\template.csv 
+2017-10-31 15:02:10,512 INFO  [Log] closing test case  
+2017-10-31 15:02:13,103 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 15:02:13,134 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 15:02:13,174 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 15:02:13,184 INFO  [Log] ### Test case: FP_Order_Upload; Description: Blank; status Executed 
+2017-10-31 15:02:13,374 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 15:02:13,414 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 15:02:13,444 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 15:02:13,444 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 15:02:13,444 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 15:02:13,714 INFO  [Log] ####Closing Test Suite #### 
+2017-10-31 15:02:13,714 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 15:02:13,714 INFO  [Log] Creating Logs backup and storing for further reference 

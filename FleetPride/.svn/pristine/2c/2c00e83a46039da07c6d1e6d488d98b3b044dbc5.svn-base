@@ -1,0 +1,49 @@
+2017-09-22 18:16:17,720 INFO  [Log] Test Scenario Configuration started 
+2017-09-22 18:16:17,736 INFO  [Log] Initialing HTML reporting 
+2017-09-22 18:16:17,970 INFO  [Log] Starting Test Suit Execution 
+2017-09-22 18:16:18,126 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 18:16:18,157 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 18:16:18,188 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 18:16:18,641 INFO  [Log] Object repository is created successfully 
+2017-09-22 18:16:18,704 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-22 18:16:18,751 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-22 18:16:18,798 INFO  [Log] RG_TC_012_Blank 
+2017-09-22 18:16:18,829 INFO  [Log] RG_TC_016_Blank 
+2017-09-22 18:16:18,891 INFO  [Log] **************************************************************************************** 
+2017-09-22 18:16:18,891 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_001; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-22 18:16:18,891 INFO  [Log] **************************************************************************************** 
+2017-09-22 18:16:24,960 INFO  [Log] #### Executing Test case: PGNG_1801_TC_001; Description: Blank In Chrome Browser for TestData:1 
+2017-09-22 18:16:38,530 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-22 18:16:38,873 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-22 18:16:39,030 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-22 18:16:39,114 INFO  [Log] TS_04: Click on login button 
+2017-09-22 18:17:09,305 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-22 18:17:09,439 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-22 18:17:09,552 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-22 18:17:10,730 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-22 18:17:10,991 INFO  [Log] TS_09: Click on property 
+2017-09-22 18:17:15,334 INFO  [Log] TS_10: Click on Settings 
+2017-09-22 18:17:17,697 INFO  [Log] TS_11: Click on Mapping 
+2017-09-22 18:17:22,115 INFO  [Log] TS_12: Click on Basic tab 
+2017-09-22 18:17:30,559 INFO  [Log] TS_13: Click on Yes button: Action Element is not present moving to next step 
+2017-09-22 18:17:30,559 INFO  [Log] TS_14; Waited 5000 Milli seconds for Element 
+2017-09-22 18:17:35,828 INFO  [Log] TS_15; Passed; Verify the appearance of text 'Room Mapping' in the page; Value: room mapping; Present in Page values: Room Mapping,  
+2017-09-22 18:17:36,046 INFO  [Log] TS_16; Passed; Verify the appearance of text 'Rate Category' in the page; Value: rate category; Present in Page values: Rate Category,  
+2017-09-22 18:17:36,202 INFO  [Log] TS_17; Passed; Verify the appearance of text 'Inclusions' in the page; Value: inclusions; Present in Page values: Inclusions,  
+2017-09-22 18:17:41,206 INFO  [Log] closing test case  
+2017-09-22 18:17:43,658 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 18:17:43,721 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 18:17:43,784 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 18:17:43,799 INFO  [Log] ### Test case: PGNG_1801_TC_001; Description: Blank; status Executed 
+2017-09-22 18:17:43,973 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 18:17:44,004 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 18:17:44,036 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 18:17:44,036 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 18:17:44,036 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 18:17:44,270 INFO  [Log] PGNG_1801_TC_002_Blank 
+2017-09-22 18:17:44,301 INFO  [Log] PGNG_1801_TC_028_Blank 
+2017-09-22 18:17:44,348 INFO  [Log] PGNG_1801_TC_003_Blank 
+2017-09-22 18:17:44,363 INFO  [Log] PGNG_1801_TC_006_Blank 
+2017-09-22 18:17:44,394 INFO  [Log] ####Closing Test Suite #### 
+2017-09-22 18:17:44,394 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 18:17:44,394 INFO  [Log] Creating Logs backup and storing for further reference 

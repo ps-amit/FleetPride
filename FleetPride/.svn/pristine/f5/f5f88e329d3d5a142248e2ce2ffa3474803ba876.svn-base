@@ -1,0 +1,34 @@
+2017-10-13 15:24:02,045 INFO  [Log] Test Scenario Configuration started 
+2017-10-13 15:24:02,064 INFO  [Log] Initialing HTML reporting 
+2017-10-13 15:24:02,251 INFO  [Log] Starting Test Suit Execution 
+2017-10-13 15:24:02,456 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 15:24:02,491 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 15:24:02,524 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 15:24:02,950 INFO  [Log] Object repository is created successfully 
+2017-10-13 15:24:03,004 INFO  [Log] product_search_script_Blank 
+2017-10-13 15:24:03,054 INFO  [Log] quick_order_Blank 
+2017-10-13 15:24:03,127 INFO  [Log] **************************************************************************************** 
+2017-10-13 15:24:03,127 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: cart; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-13 15:24:03,127 INFO  [Log] **************************************************************************************** 
+2017-10-13 15:24:08,906 INFO  [Log] #### Executing Test case: cart; Description: Blank In Chrome Browser for TestData:1 
+2017-10-13 15:24:27,063 INFO  [Log] TS_01: Open dev url; Action: open URL 
+2017-10-13 15:25:05,153 INFO  [Log] TS_02: Click on the login link 
+2017-10-13 15:25:40,902 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-13 15:26:16,508 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-13 15:27:07,715 INFO  [Log] TS_05: Click on login button 
+2017-10-13 15:27:07,730 INFO  [Log] Blank; Waited 3000 Milli seconds for Element 
+2017-10-13 15:27:46,382 INFO  [Log] TS_06; Passed; Verify that user lands on the Home Page; Value: logout user avionos; Present in Page values:  Logout User avionos,  
+2017-10-13 15:28:21,980 INFO  [Log] TS_07: Capture the product SKU number TMK-907257; Value has been stored in index: 0 
+2017-10-13 15:29:01,922 INFO  [Log] TS_08: Click on the product name link that comes at the top 
+2017-10-13 15:29:37,458 ERROR [Log] Error#: TS_09Element Location type is not defined 
+2017-10-13 15:29:37,459 INFO  [Log] myAccountTS_09BlankVerifyCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-13 15:29:38,393 WARN  [Log]  Browser instance is active 
+2017-10-13 15:29:40,988 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 15:29:41,023 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 15:29:41,060 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 15:29:41,060 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 15:29:41,060 FATAL [Log] myAccountTS_09BlankVerifyCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-13 15:29:41,060 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 15:29:41,147 INFO  [Log] ####Closing Test Suite #### 
+2017-10-13 15:29:41,147 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 15:29:41,147 INFO  [Log] Creating Logs backup and storing for further reference 

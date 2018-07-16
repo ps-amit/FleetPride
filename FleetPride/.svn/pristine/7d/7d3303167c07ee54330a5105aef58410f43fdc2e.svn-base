@@ -1,0 +1,31 @@
+2017-09-25 16:39:58,023 INFO  [Log] Test Scenario Configuration started 
+2017-09-25 16:39:58,054 INFO  [Log] Initialing HTML reporting 
+2017-09-25 16:39:58,257 INFO  [Log] Starting Test Suit Execution 
+2017-09-25 16:39:58,444 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 16:39:58,475 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 16:39:58,506 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 16:39:58,974 INFO  [Log] Object repository is created successfully 
+2017-09-25 16:39:59,038 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-25 16:39:59,084 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-25 16:39:59,116 INFO  [Log] RG_TC_012_Blank 
+2017-09-25 16:39:59,162 INFO  [Log] RG_TC_016_Blank 
+2017-09-25 16:39:59,209 INFO  [Log] PGNG_1801_TC_001_Blank 
+2017-09-25 16:39:59,240 INFO  [Log] PGNG_1801_TC_002_Blank 
+2017-09-25 16:39:59,303 INFO  [Log] **************************************************************************************** 
+2017-09-25 16:39:59,303 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_028; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-25 16:39:59,303 INFO  [Log] **************************************************************************************** 
+2017-09-25 16:40:05,190 INFO  [Log] #### Executing Test case: PGNG_1801_TC_028; Description: Blank In Chrome Browser for TestData:1 
+2017-09-25 16:40:29,356 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-25 16:41:30,715 INFO  [Log] PGNG_TC_028TS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-25 16:41:33,293 WARN  [Log]  Browser instance is active 
+2017-09-25 16:41:33,559 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 16:41:33,590 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 16:41:33,621 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 16:41:33,621 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 16:41:33,621 FATAL [Log] PGNG_TC_028TS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-25 16:41:33,621 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 16:41:33,715 INFO  [Log] PGNG_1801_TC_003_Blank 
+2017-09-25 16:41:33,731 INFO  [Log] PGNG_1801_TC_006_Blank 
+2017-09-25 16:41:33,762 INFO  [Log] ####Closing Test Suite #### 
+2017-09-25 16:41:33,762 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 16:41:33,762 INFO  [Log] Creating Logs backup and storing for further reference 

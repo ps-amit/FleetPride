@@ -1,0 +1,114 @@
+2017-08-30 09:37:25,898 INFO  [Log] Test Scenario Configuration started 
+2017-08-30 09:37:25,930 INFO  [Log] Initialing HTML reporting 
+2017-08-30 09:37:26,156 INFO  [Log] Starting Test Suit Execution 
+2017-08-30 09:37:26,156 WARN  [Log] No Browser instance is active 
+2017-08-30 09:37:26,967 INFO  [Log] Object repository is created successfully 
+2017-08-30 09:37:27,102 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-30 09:37:27,168 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 09:37:27,223 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-08-30 09:37:27,314 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 09:37:27,366 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-08-30 09:37:27,433 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 09:37:27,503 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-08-30 09:37:27,568 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 09:37:27,609 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-08-30 09:37:27,649 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 09:37:27,685 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-08-30 09:37:27,744 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 09:37:27,862 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-08-30 09:37:27,930 INFO  [Log] **************************************************************************************** 
+2017-08-30 09:37:27,930 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_61_compset.xlsx; Description: To verify Restriction filter on compset For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-30 09:37:27,930 INFO  [Log] **************************************************************************************** 
+2017-08-30 09:37:34,221 INFO  [Log] #### Executing Test case: Rg_TC_61_compset.xlsx; Description: To verify Restriction filter on compset In Chrome Browser for TestData:1 
+2017-08-30 09:37:52,468 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-30 09:37:52,846 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-30 09:37:52,994 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-30 09:37:53,085 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-30 09:37:53,086 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-30 09:38:06,822 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-30 09:38:07,103 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-30 09:38:07,165 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-30 09:38:08,338 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-30 09:38:08,338 INFO  [Log] TS_10; Waited 2000 Milli seconds for Element 
+2017-08-30 09:38:10,496 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-30 09:38:10,498 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-30 09:38:18,634 INFO  [Log] TS_47: click on rates: Action click 
+2017-08-30 09:38:18,635 INFO  [Log] TS_48; Waited 8000 Milli seconds for Element 
+2017-08-30 09:38:26,900 INFO  [Log] TS_49: click on grid view: Action click 
+2017-08-30 09:38:26,901 INFO  [Log] TS_50; Waited 8000 Milli seconds for Element 
+2017-08-30 09:38:35,213 INFO  [Log] 4; Value has been stored in index: 0 
+2017-08-30 09:38:35,213 INFO  [Log] TS_52; Waited 8000 Milli seconds for Element 
+2017-08-30 09:38:43,422 INFO  [Log] TS_53: clcik on rangefilter: Action click 
+2017-08-30 09:38:43,423 INFO  [Log] TS_54; Waited 1000 Milli seconds for Element 
+2017-08-30 09:38:45,178 INFO  [Log] TS_56; Waited 1000 Milli seconds for Element 
+2017-08-30 09:38:46,429 INFO  [Log] TS_58; Waited 1000 Milli seconds for Element 
+2017-08-30 09:38:47,933 INFO  [Log] TS_59: click on apply: Action click 
+2017-08-30 09:38:47,934 INFO  [Log] TS_60; Waited 4000 Milli seconds for Element 
+2017-08-30 09:38:52,047 INFO  [Log] TS_61: clcik on rate filter: Action click 
+2017-08-30 09:38:52,047 INFO  [Log] TS_62; Waited 4000 Milli seconds for Element 
+2017-08-30 09:38:56,328 INFO  [Log] TS_63: select RoomType; Action: Drop Down Select 
+2017-08-30 09:38:56,328 INFO  [Log] TS_64; Waited 2000 Milli seconds for Element 
+2017-08-30 09:38:58,554 INFO  [Log] TS_65: click on apply: Action click 
+2017-08-30 09:38:58,554 INFO  [Log] TS_66; Waited 4000 Milli seconds for Element 
+2017-08-30 09:39:02,734 INFO  [Log] TS_68: edit with channel  1New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-30 09:39:02,863 INFO  [Log] TS_69: value capture channelExpediaAPI; Value has been stored in index: 1 
+2017-08-30 09:39:02,864 INFO  [Log] TS_70; Waited 2000 Milli seconds for Element 
+2017-08-30 09:39:04,926 INFO  [Log] TS_71: edit elemntNew Element Location is : 4Stored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-30 09:39:05,036 INFO  [Log] TS_72: click on channel: Action click 
+2017-08-30 09:39:05,037 INFO  [Log] TS_73; Waited 2000 Milli seconds for Element 
+2017-08-30 09:39:08,725 INFO  [Log] TS_74: capture rate     NA; Value has been stored in index: 0 
+2017-08-30 09:39:08,843 INFO  [Log] TS_75User specified value has been replaced at index0New Value is: NA 
+2017-08-30 09:39:08,944 INFO  [Log] TS_76: move to top: Action click 
+2017-08-30 09:39:08,945 INFO  [Log] TS_77; Waited 2000 Milli seconds for Element 
+2017-08-30 09:39:11,057 INFO  [Log] TS_78: click on channel: Action click 
+2017-08-30 09:39:11,058 INFO  [Log] TS_79; Waited 2000 Milli seconds for Element 
+2017-08-30 09:39:13,058 INFO  [Log] TS_80; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-08-30 09:39:13,648 INFO  [Log] optima-1000TS_81BlankVerifyRatesInExcel  java.lang.IndexOutOfBoundsException: Index: 3, Size: 2null:Exception is not handled 
+2017-08-30 09:39:18,284 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-30 09:39:20,560 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-30 09:39:23,286 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-30 09:39:23,286 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 09:39:23,286 FATAL [Log] optima-1000TS_81BlankVerifyRatesInExcel  java.lang.IndexOutOfBoundsException: Index: 3, Size: 2null:Exception is not handled 
+2017-08-30 09:39:23,286 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 09:39:23,439 INFO  [Log] Rg_TC_61.xlsx_Rg_TC_61.xlsx 
+2017-08-30 09:39:23,469 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-30 09:39:23,497 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-30 09:39:23,526 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-30 09:39:23,556 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-30 09:39:23,583 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-30 09:39:23,610 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-30 09:39:23,635 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-30 09:39:23,663 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-30 09:39:23,693 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-30 09:39:23,751 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-30 09:39:23,853 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-30 09:39:23,879 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-30 09:39:23,907 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-30 09:39:23,932 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-30 09:39:23,957 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-30 09:39:23,984 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-30 09:39:24,009 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-30 09:39:24,034 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-30 09:39:24,077 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-30 09:39:24,106 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-30 09:39:24,133 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-30 09:39:24,177 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-30 09:39:24,201 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 09:39:24,230 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-30 09:39:24,258 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-30 09:39:24,291 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 09:39:24,315 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-30 09:39:24,338 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-30 09:39:24,362 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 09:39:24,387 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-30 09:39:24,410 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-30 09:39:24,433 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 09:39:24,456 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-30 09:39:24,482 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-30 09:39:24,507 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-30 09:39:24,597 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-30 09:39:24,621 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-30 09:39:24,644 INFO  [Log] Rg_TC_53_multipleCAse_Rg_TC_53_multipleCAse 
+2017-08-30 09:39:24,665 INFO  [Log] ####Closing Test Suite #### 
+2017-08-30 09:39:24,666 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 09:39:24,666 INFO  [Log] Creating Logs backup and storing for further reference 

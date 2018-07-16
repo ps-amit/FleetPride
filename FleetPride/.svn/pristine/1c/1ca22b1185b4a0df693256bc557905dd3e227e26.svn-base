@@ -1,0 +1,65 @@
+2017-07-25 23:19:03,941 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 23:19:03,953 INFO  [Log] Initialing HTML reporting 
+2017-07-25 23:19:04,119 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 23:19:04,119 WARN  [Log] Browser instance value is null 
+2017-07-25 23:19:04,640 INFO  [Log] Object repository is created successfully 
+2017-07-25 23:19:04,737 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:19:04,737 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 23:19:04,737 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:19:11,184 INFO  [Log] #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx In firefox Browser for TestData:1 
+2017-07-25 23:19:23,284 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:19:23,533 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:19:23,730 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:19:23,873 INFO  [Log] TS_04: click on forget password: Action click 
+2017-07-25 23:19:23,944 INFO  [Log] TS_05: verify forget password screen appear; Passed; ; Element is present on the active page 
+2017-07-25 23:19:24,182 INFO  [Log] TS_06: enter eamil; Action: Submited Value 
+2017-07-25 23:19:24,279 INFO  [Log] TS_07: click on recovery email button: Action click 
+2017-07-25 23:19:24,280 INFO  [Log] TS_08; Waited 2000 Milli seconds for Element 
+2017-07-25 23:19:27,453 INFO  [Log] TS_09; Passed; verify reset email has been sent; Value: a password recovery email has been sent to your email id, please check!; Present in Page values: A password recovery email has been sent to your email id, please check!,  
+2017-07-25 23:19:27,454 INFO  [Log] closing test case  
+2017-07-25 23:19:27,666 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-25 23:19:27,687 INFO  [Log] ### Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx; status Executed 
+2017-07-25 23:19:27,703 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.2KcNyPOFSe53, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=9000.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: d97f17e5-080a-4eaf-a61a-28e2b51e13dc 
+2017-07-25 23:19:27,703 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:19:27,704 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:19:28,243 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 23:19:28,281 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 23:19:28,320 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 23:19:28,378 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 23:19:28,420 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 23:19:28,457 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 23:19:28,506 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 23:19:28,544 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 23:19:28,576 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 23:19:28,609 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 23:19:28,637 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 23:19:28,670 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 23:19:28,700 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 23:19:28,724 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 23:19:28,750 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 23:19:28,775 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 23:19:28,800 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 23:19:28,830 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 23:19:28,858 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 23:19:28,887 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 23:19:28,919 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 23:19:28,955 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 23:19:28,981 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-25 23:19:29,007 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-25 23:19:29,032 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-25 23:19:29,058 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-25 23:19:29,077 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-25 23:19:29,102 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-25 23:19:29,125 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-25 23:19:29,149 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-25 23:19:29,174 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-25 23:19:29,198 INFO  [Log] Rg_TC0070.xlsx_Rg_TC0070.xlsx 
+2017-07-25 23:19:29,239 INFO  [Log] Rg_TC0072.xlsx_Rg_TC0072.xlsx 
+2017-07-25 23:19:29,267 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 23:19:29,267 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:19:29,267 INFO  [Log] Creating Logs backup and storing for further reference 

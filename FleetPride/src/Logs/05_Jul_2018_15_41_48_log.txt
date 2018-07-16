@@ -1,0 +1,24 @@
+2018-07-05 15:41:41,950 INFO  [Log] Test Scenario Configuration started 
+2018-07-05 15:41:41,968 INFO  [Log] Initialing HTML reporting 
+2018-07-05 15:41:42,242 INFO  [Log] Starting Test Suit Execution 
+2018-07-05 15:41:43,317 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-07-05 15:41:43,414 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-07-05 15:41:43,510 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-07-05 15:41:44,147 INFO  [Log] Object repository is created successfully 
+2018-07-05 15:41:44,227 INFO  [Log] **************************************************************************************** 
+2018-07-05 15:41:44,227 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: MYSQL_Database-script.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-05 15:41:44,227 INFO  [Log] **************************************************************************************** 
+2018-07-05 15:41:46,271 INFO  [Log] #### Executing Test case: MYSQL_Database-script.xlsx; Description: Blank In No Browser Browser for TestData:1 
+2018-07-05 15:41:46,315 ERROR [Log] Error#: optima_Rank_CurrencymySQL_Database:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.mySQL_Database() 
+2018-07-05 15:41:47,423 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-07-05 15:41:47,521 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-07-05 15:41:47,625 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-07-05 15:41:47,625 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-05 15:41:47,625 FATAL [Log] optima_Rank_CurrencymySQL_Database:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.mySQL_Database() 
+2018-07-05 15:41:47,625 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-05 15:41:47,995 INFO  [Log] Cost_Update_Task_Creation.xlsx_Blank 
+2018-07-05 15:41:48,061 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-07-05 15:41:48,154 INFO  [Log] Simple_Login_Blank 
+2018-07-05 15:41:48,228 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-07-05 15:41:48,287 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-07-05 15:41:48,329 INFO  [Log] Creating Logs backup and storing for further reference 

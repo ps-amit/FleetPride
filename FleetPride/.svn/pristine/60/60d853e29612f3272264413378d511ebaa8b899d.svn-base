@@ -1,0 +1,53 @@
+2017-07-17 12:37:42,514 INFO  [Log] Test Scenario Configuration started 
+2017-07-17 12:37:42,634 INFO  [Log] Initialing HTML reporting 
+2017-07-17 12:37:42,982 INFO  [Log] Starting Test Suit Execution 
+2017-07-17 12:37:42,983 WARN  [Log] Browser instance value is null 
+2017-07-17 12:37:43,651 INFO  [Log] Object repository is created successfully 
+2017-07-17 12:37:43,728 INFO  [Log] AlertRateKart_1_AlertRateKart_1 
+2017-07-17 12:37:43,837 INFO  [Log] **************************************************************************************** 
+2017-07-17 12:37:43,837 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_07; Description: AlertRateKart_07 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 12:37:43,837 INFO  [Log] **************************************************************************************** 
+2017-07-17 12:38:11,837 INFO  [Log] #### Executing Test case: AlertRateKart_07; Description: AlertRateKart_07 In firefox Browser for TestData:1 
+2017-07-17 12:38:25,620 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 12:38:25,991 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-17 12:38:26,456 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-17 12:38:26,677 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-17 12:38:26,678 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-17 12:38:31,910 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-17 12:38:32,959 INFO  [Log] TS_07: click on thrashold breach: Action click 
+2017-07-17 12:38:33,126 INFO  [Log] TS_08: click on treands: Action click 
+2017-07-17 12:38:33,266 INFO  [Log] TS_09: click on rates: Action click 
+2017-07-17 12:38:33,266 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-17 12:38:37,429 INFO  [Log] TS_11: all rate store : Action rateAgainstDate 
+2017-07-17 12:38:37,429 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-07-17 12:38:47,631 INFO  [Log] 105
+0
+-3; Value has been stored in index: 0 
+2017-07-17 12:38:47,723 INFO  [Log] User specified value has been replaced at index0New Value is: 105 
+2017-07-17 12:38:47,940 INFO  [Log] TS_15: click on date: Action click 
+2017-07-17 12:38:51,827 INFO  [Log] TS_16: ToolTipNavigation: ToolTipNavigation 
+2017-07-17 12:38:52,049 INFO  [Log] CAD105 [ 0 ]; Value has been stored in index: 1 
+2017-07-17 12:38:52,152 INFO  [Log] User specified value has been replaced at index1New Value is: CAD105 
+2017-07-17 12:38:52,153 INFO  [Log] TS_19; Passed; verify values; Captured text1: 105; Captured text2: cad105 
+2017-07-17 12:38:52,154 INFO  [Log] TS_20; Waited 10000 Milli seconds for Element 
+2017-07-17 12:39:11,454 INFO  [Log] closing test case  
+2017-07-17 12:39:11,464 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 12:39:11,521 INFO  [Log] ### Test case: AlertRateKart_07; Description: AlertRateKart_07; status Executed 
+2017-07-17 12:39:12,978 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 12:39:13,092 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 12:39:13,238 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 12:39:13,239 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 12:39:13,239 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 12:39:13,710 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-17 12:39:13,753 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-17 12:39:13,806 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-17 12:39:13,849 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-17 12:39:13,880 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-17 12:39:13,914 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-17 12:39:13,945 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-17 12:39:13,977 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-17 12:39:14,012 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-17 12:39:14,041 INFO  [Log] PostRequest_PostRequest 
+2017-07-17 12:39:14,141 INFO  [Log] ####Closing Test Suite #### 
+2017-07-17 12:39:14,142 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 12:39:14,142 INFO  [Log] Creating Logs backup and storing for further reference 

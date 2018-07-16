@@ -1,0 +1,119 @@
+2017-08-27 19:43:45,847 INFO  [Log] Test Scenario Configuration started 
+2017-08-27 19:43:45,864 INFO  [Log] Initialing HTML reporting 
+2017-08-27 19:43:46,024 INFO  [Log] Starting Test Suit Execution 
+2017-08-27 19:43:46,024 WARN  [Log] No Browser instance is active 
+2017-08-27 19:43:46,579 INFO  [Log] Object repository is created successfully 
+2017-08-27 19:43:46,664 INFO  [Log] Rg_TC_42.xlsx_Rg_TC_42.xlsx 
+2017-08-27 19:43:46,737 INFO  [Log] Rg_TC_43.xlsx_Rg_TC_43.xlsx 
+2017-08-27 19:43:46,855 INFO  [Log] **************************************************************************************** 
+2017-08-27 19:43:46,856 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_53.xlsx; Description: Rg_TC_53.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-27 19:43:46,856 INFO  [Log] **************************************************************************************** 
+2017-08-27 19:43:53,032 INFO  [Log] #### Executing Test case: Rg_TC_53.xlsx; Description: Rg_TC_53.xlsx In Chrome Browser for TestData:1 
+2017-08-27 19:44:02,335 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-27 19:44:02,825 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-27 19:44:02,968 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-27 19:44:03,064 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-27 19:44:03,065 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-27 19:44:13,192 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-27 19:44:13,310 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-27 19:44:13,376 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-27 19:44:14,476 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-27 19:44:14,484 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-08-27 19:44:24,766 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-27 19:44:24,766 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-08-27 19:44:34,924 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-27 19:44:34,925 INFO  [Log] TS_14; Waited 10000 Milli seconds for Element 
+2017-08-27 19:44:45,107 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-27 19:44:45,108 INFO  [Log] TS_16; Waited 10000 Milli seconds for Element 
+2017-08-27 19:44:55,310 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-27 19:44:55,311 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-27 19:44:57,585 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-27 19:44:59,830 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-27 19:45:02,171 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-27 19:45:02,172 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-27 19:45:06,304 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-27 19:45:06,305 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-27 19:45:10,590 INFO  [Log] TS_27: select restriction level; Action: Drop Down Select 
+2017-08-27 19:45:10,590 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-27 19:45:12,779 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-27 19:45:12,780 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-27 19:45:17,003 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-27 19:45:17,107 INFO  [Log] TS_33: value capture channelExpediaAPI; Value has been stored in index: 0 
+2017-08-27 19:45:17,108 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-27 19:45:19,196 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-27 19:45:19,301 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-27 19:45:19,302 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-27 19:45:21,428 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-27 19:45:21,484 INFO  [Log] TS_39User specified value has been replaced at index0New Value is: NA 
+2017-08-27 19:45:21,570 INFO  [Log] TS_40: move to top: Action click 
+2017-08-27 19:45:21,570 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-27 19:45:26,207 INFO  [Log] TS_43: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-27 19:45:26,290 INFO  [Log] TS_44: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-27 19:45:26,363 INFO  [Log] New Element Location is : GDSStored in ObjRep using element name: channel2: Type: Xpath 
+2017-08-27 19:45:26,499 INFO  [Log] TS_46: value capture channelGDS; Value has been stored in index: 1 
+2017-08-27 19:45:26,500 INFO  [Log] TS_47; Waited 2000 Milli seconds for Element 
+2017-08-27 19:45:28,578 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-27 19:45:28,683 INFO  [Log] TS_49: click on channel: Action click 
+2017-08-27 19:45:28,684 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2017-08-27 19:45:30,815 INFO  [Log] 288
+0; Value has been stored in index: 0 
+2017-08-27 19:45:30,869 INFO  [Log] TS_52User specified value has been replaced at index0New Value is: 288 
+2017-08-27 19:45:30,938 INFO  [Log] TS_53: move to top: Action click 
+2017-08-27 19:45:30,939 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-27 19:45:34,461 INFO  [Log] TS_56; Passed; verify excel value against UI valuesvalues from excel [288] and values from ui [288]are same 
+2017-08-27 19:45:34,545 INFO  [Log] TS_57: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-27 19:45:34,616 INFO  [Log] New Element Location is : OrbitzStored in ObjRep using element name: channel3: Type: Xpath 
+2017-08-27 19:45:59,803 ERROR [Log] Error#: optima_53TS_59ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-08-27 19:46:02,628 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-27 19:46:02,735 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-27 19:46:02,844 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-27 19:46:02,844 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-27 19:46:02,844 FATAL [Log] optima_53TS_59ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-08-27 19:46:02,845 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-27 19:46:03,188 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter  
+2017-08-27 19:46:03,210 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filter 
+2017-08-27 19:46:03,241 INFO  [Log] Rg_TC_59.xlsx_Rg_TC_59.xlsx 
+2017-08-27 19:46:03,268 INFO  [Log] Rg_TC_60.xlsx_Rg_TC_60.xlsx 
+2017-08-27 19:46:03,294 INFO  [Log] Rg_TC_62.xlsx_Rg_TC_62.xlsx 
+2017-08-27 19:46:03,318 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-27 19:46:03,340 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-27 19:46:03,395 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-27 19:46:03,419 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-27 19:46:03,444 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-27 19:46:03,470 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-27 19:46:03,496 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-27 19:46:03,522 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-27 19:46:03,547 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-27 19:46:03,572 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-27 19:46:03,596 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-27 19:46:03,663 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-27 19:46:03,688 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-27 19:46:03,716 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-27 19:46:03,781 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-27 19:46:03,808 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-27 19:46:03,830 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-27 19:46:03,853 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-27 19:46:03,874 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-27 19:46:03,898 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-27 19:46:03,964 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-27 19:46:03,986 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-27 19:46:04,010 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-27 19:46:04,035 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-27 19:46:04,053 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-27 19:46:04,076 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-27 19:46:04,099 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-27 19:46:04,120 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-27 19:46:04,144 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-27 19:46:04,198 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-27 19:46:04,232 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-27 19:46:04,275 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-27 19:46:04,299 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-27 19:46:04,325 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-27 19:46:04,351 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-27 19:46:04,377 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-27 19:46:04,399 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-27 19:46:04,419 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-27 19:46:04,442 INFO  [Log] Rg_TC_107_parity_Rg_TC_107_parity 
+2017-08-27 19:46:04,484 INFO  [Log] ####Closing Test Suite #### 
+2017-08-27 19:46:04,484 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-27 19:46:04,484 INFO  [Log] Creating Logs backup and storing for further reference 

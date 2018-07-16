@@ -1,0 +1,43 @@
+2018-05-22 10:32:19,238 INFO  [Log] Test Scenario Configuration started 
+2018-05-22 10:32:19,269 INFO  [Log] Initialing HTML reporting 
+2018-05-22 10:32:19,744 INFO  [Log] Starting Test Suit Execution 
+2018-05-22 10:32:21,209 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-22 10:32:21,290 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-22 10:32:21,393 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-22 10:32:22,322 INFO  [Log] Object repository is created successfully 
+2018-05-22 10:32:22,379 INFO  [Log] **************************************************************************************** 
+2018-05-22 10:32:22,379 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-685; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-22 10:32:22,379 INFO  [Log] **************************************************************************************** 
+2018-05-22 10:32:43,116 ERROR [Log] Error#: PE-685; Error in communicating with Browserorg.openqa.selenium.InvalidArgumentException: Invalid timeout type specified: page load
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:41170/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 52fddcec-007f-47c2-bc0a-238b5920353c 
+2018-05-22 10:32:43,116 INFO  [Log] #### Executing Test case: PE-685; Description: Blank In IE Browser for TestData:1 
+2018-05-22 10:33:14,780 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-22 10:33:15,362 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-22 10:33:15,362 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-22 10:33:21,926 INFO  [Log] TS_05: Click on login button 
+2018-05-22 10:33:21,928 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-22 10:33:51,573 INFO  [Log] TS_07: Click on the "Upload Order" link from main menu 
+2018-05-22 10:33:51,574 INFO  [Log] TS_08; Waited 2000 Milli seconds for Element 
+2018-05-22 10:38:54,324 INFO  [Log] PE-685TS_09XpathClick  org.openqa.selenium.TimeoutException: Timed out waiting for page to load.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:41170/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 52fddcec-007f-47c2-bc0a-238b5920353cnull:Exception is not handled 
+2018-05-22 10:39:40,763 WARN  [Log]  Browser instance is active 
+2018-05-22 10:39:41,367 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-22 10:39:41,467 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-22 10:39:41,567 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-22 10:39:41,567 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 10:39:41,567 FATAL [Log] PE-685TS_09XpathClick  org.openqa.selenium.TimeoutException: Timed out waiting for page to load.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:41170/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 52fddcec-007f-47c2-bc0a-238b5920353cnull:Exception is not handled 
+2018-05-22 10:39:41,567 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 10:39:41,652 INFO  [Log] Creating Logs backup and storing for further reference 

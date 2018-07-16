@@ -1,0 +1,26 @@
+2018-05-25 13:00:01,521 INFO  [Log] Test Scenario Configuration started 
+2018-05-25 13:00:01,544 INFO  [Log] Initialing HTML reporting 
+2018-05-25 13:00:01,801 INFO  [Log] Starting Test Suit Execution 
+2018-05-25 13:00:02,121 INFO  [RetryExec] I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:25371: Connection reset 
+2018-05-25 13:00:02,125 INFO  [RetryExec] Retrying request to {}->http://localhost:25371 
+2018-05-25 13:00:02,333 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-25 13:00:02,405 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-25 13:00:02,479 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-25 13:00:03,097 INFO  [Log] Object repository is created successfully 
+2018-05-25 13:00:03,170 INFO  [Log] fetch_X_Category_Product_Blank 
+2018-05-25 13:00:03,253 INFO  [Log] Reorder_Blank 
+2018-05-25 13:00:03,285 INFO  [Log] Creating Logs backup and storing for further reference 
+2018-05-25 13:00:04,910 WARN  [Log]  Browser instance is active 
+2018-05-25 13:00:06,957 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:25371 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-05-25 13:00:06,958 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-25 13:00:06,959 FATAL [Log] Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 68af4d4a-4cb8-4a15-8d10-ec41fb0d6a4f 
+2018-05-25 13:00:06,959 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-25 13:00:07,108 INFO  [Log] Creating Logs backup and storing for further reference 

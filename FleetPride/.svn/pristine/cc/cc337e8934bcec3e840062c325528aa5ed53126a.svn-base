@@ -1,0 +1,30 @@
+2017-10-13 15:05:15,450 INFO  [Log] Test Scenario Configuration started 
+2017-10-13 15:05:15,467 INFO  [Log] Initialing HTML reporting 
+2017-10-13 15:05:15,627 INFO  [Log] Starting Test Suit Execution 
+2017-10-13 15:05:15,812 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 15:05:15,842 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 15:05:15,875 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 15:05:16,272 INFO  [Log] Object repository is created successfully 
+2017-10-13 15:05:16,320 INFO  [Log] product_search_script_Blank 
+2017-10-13 15:05:16,371 INFO  [Log] quick_order_Blank 
+2017-10-13 15:05:16,440 INFO  [Log] **************************************************************************************** 
+2017-10-13 15:05:16,440 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: cart; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-13 15:05:16,440 INFO  [Log] **************************************************************************************** 
+2017-10-13 15:05:22,242 INFO  [Log] #### Executing Test case: cart; Description: Blank In Chrome Browser for TestData:1 
+2017-10-13 15:05:32,952 INFO  [Log] TS_01: Open dev url; Action: open URL 
+2017-10-13 15:06:18,362 INFO  [Log] TS_02: Click on the login link 
+2017-10-13 15:06:53,966 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-13 15:07:29,429 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-13 15:08:11,714 INFO  [Log] TS_05: Click on login button 
+2017-10-13 15:08:11,715 INFO  [Log] Blank; Waited 3000 Milli seconds for Element 
+2017-10-13 15:09:15,289 INFO  [Log] myAccountTS_06XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-13 15:09:16,439 WARN  [Log]  Browser instance is active 
+2017-10-13 15:09:19,021 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 15:09:19,057 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 15:09:19,092 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 15:09:19,092 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 15:09:19,092 FATAL [Log] myAccountTS_06XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-13 15:09:19,092 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 15:09:19,169 INFO  [Log] ####Closing Test Suite #### 
+2017-10-13 15:09:19,169 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 15:09:19,169 INFO  [Log] Creating Logs backup and storing for further reference 

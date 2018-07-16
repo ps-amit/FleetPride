@@ -1,0 +1,36 @@
+2018-06-18 15:06:58,613 INFO  [Log] Test Scenario Configuration started 
+2018-06-18 15:06:58,676 INFO  [Log] Initialing HTML reporting 
+2018-06-18 15:06:58,993 INFO  [Log] Starting Test Suit Execution 
+2018-06-18 15:06:59,465 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 15:06:59,558 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 15:06:59,653 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 15:07:00,419 INFO  [Log] Object repository is created successfully 
+2018-06-18 15:07:00,512 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-18 15:07:00,628 INFO  [Log] **************************************************************************************** 
+2018-06-18 15:07:00,628 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Simple_Login; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-18 15:07:00,628 INFO  [Log] **************************************************************************************** 
+2018-06-18 15:07:07,815 INFO  [Log] #### Executing Test case: Simple_Login; Description: Blank In Chrome Browser for TestData:1 
+2018-06-18 15:07:12,788 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-06-18 15:07:12,937 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: test.auto@epdc.ecom 
+2018-06-18 15:07:13,050 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: test@1234 
+2018-06-18 15:07:13,050 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-06-18 15:07:15,446 INFO  [Log] TS_05: Click on login button 
+2018-06-18 15:07:15,447 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-06-18 15:07:28,474 INFO  [Log] TS_07: Click on the Upload Order link 
+2018-06-18 15:07:28,474 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-06-18 15:07:38,560 INFO  [Log] TS_09: Click on the Upload Order button 
+2018-06-18 15:07:38,561 INFO  [Log] TS_10; Waited 2000 Milli seconds for Element 
+2018-06-18 15:07:41,771 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2018-06-18 15:07:56,770 INFO  [Log] closing test case  
+2018-06-18 15:07:59,385 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 15:07:59,472 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 15:07:59,564 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 15:07:59,593 INFO  [Log] ### Test case: Simple_Login; Description: Blank; status Executed 
+2018-06-18 15:08:00,081 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 15:08:00,175 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 15:08:00,271 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 15:08:00,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-18 15:08:00,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-18 15:08:00,633 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-18 15:08:00,704 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-18 15:08:00,744 INFO  [Log] Creating Logs backup and storing for further reference 

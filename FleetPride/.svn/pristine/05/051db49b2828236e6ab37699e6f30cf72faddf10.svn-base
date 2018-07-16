@@ -1,0 +1,52 @@
+2017-09-22 16:03:05,197 INFO  [Log] Test Scenario Configuration started 
+2017-09-22 16:03:05,212 INFO  [Log] Initialing HTML reporting 
+2017-09-22 16:03:05,509 INFO  [Log] Starting Test Suit Execution 
+2017-09-22 16:03:05,681 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 16:03:05,712 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 16:03:05,744 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 16:03:06,196 INFO  [Log] Object repository is created successfully 
+2017-09-22 16:03:06,258 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-22 16:03:06,305 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-22 16:03:06,352 INFO  [Log] RG_TC_012_Blank 
+2017-09-22 16:03:06,383 INFO  [Log] RG_TC_016_Blank 
+2017-09-22 16:03:06,430 INFO  [Log] PGNG_1801_TC_001_Blank 
+2017-09-22 16:03:06,461 INFO  [Log] PGNG_1801_TC_002_Blank 
+2017-09-22 16:03:06,492 INFO  [Log] PGNG_1801_TC_028_Blank 
+2017-09-22 16:03:06,555 INFO  [Log] **************************************************************************************** 
+2017-09-22 16:03:06,555 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_006; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-22 16:03:06,555 INFO  [Log] **************************************************************************************** 
+2017-09-22 16:03:12,465 INFO  [Log] #### Executing Test case: PGNG_1801_TC_006; Description: Blank In Chrome Browser for TestData:1 
+2017-09-22 16:03:51,151 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-22 16:03:51,451 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-22 16:03:51,587 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-22 16:03:51,678 INFO  [Log] TS_04: Click on login button 
+2017-09-22 16:04:03,659 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-22 16:04:03,831 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-22 16:04:03,899 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-22 16:04:05,078 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-22 16:04:05,238 INFO  [Log] TS_09: Click on property 
+2017-09-22 16:04:08,447 INFO  [Log] TS_10: Click on Settings 
+2017-09-22 16:04:10,607 INFO  [Log] TS_11: Click on Mapping 
+2017-09-22 16:04:17,953 INFO  [Log] TS_12: Click on basic mapping tab: Action click If 
+2017-09-22 16:04:26,317 INFO  [Log] TS_13: Click on the Yes buton from the pop up: Action Element is not present moving to next step 
+2017-09-22 16:04:26,317 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-09-22 16:04:28,489 INFO  [Log] TS_15: Click on the Room Type button 
+2017-09-22 16:04:28,489 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-09-22 16:04:30,629 INFO  [Log] TS_17: Click on the edit box for name under Add New Room Type 
+2017-09-22 16:04:30,863 INFO  [Log] TS_18: Input Room type name in the box; Action: Submited ValueValue: Sharing 
+2017-09-22 16:04:30,958 INFO  [Log] TS_19: Click on Add button  
+2017-09-22 16:04:32,477 INFO  [Log] Failed: TS_20: Verify that added room type is displayed on the page; Value: config.addnewroomtype; is Not Present in Page values: Sharing,  
+2017-09-22 16:04:38,048 INFO  [Log] closing test case  
+2017-09-22 16:04:40,397 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 16:04:40,445 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 16:04:40,476 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 16:04:40,491 INFO  [Log] ### Test case: PGNG_1801_TC_006; Description: Blank; status Executed 
+2017-09-22 16:04:40,710 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 16:04:40,741 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 16:04:40,772 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 16:04:40,772 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 16:04:40,772 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 16:04:40,850 WARN  [Log] RunMode is not Defined for the test scirpt moving to next test scriptBlank 
+2017-09-22 16:04:40,928 INFO  [Log] ####Closing Test Suite #### 
+2017-09-22 16:04:40,928 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 16:04:40,928 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,56 @@
+2018-06-18 16:31:21,401 INFO  [Log] Test Scenario Configuration started 
+2018-06-18 16:31:21,429 INFO  [Log] Initialing HTML reporting 
+2018-06-18 16:31:21,745 INFO  [Log] Starting Test Suit Execution 
+2018-06-18 16:31:22,344 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 16:31:22,450 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 16:31:22,550 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 16:31:23,418 INFO  [Log] Object repository is created successfully 
+2018-06-18 16:31:23,593 INFO  [Log] **************************************************************************************** 
+2018-06-18 16:31:23,593 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-18 16:31:23,593 INFO  [Log] **************************************************************************************** 
+2018-06-18 16:31:30,067 INFO  [Log] #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2018-06-18 16:31:48,404 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-06-18 16:31:48,417 INFO  [Log] TS_02; Waited 20000 Milli seconds for Element 
+2018-06-18 16:32:08,589 INFO  [Log] TS_03: Enter Email ID; Action: Submitted Value: Value: null 
+2018-06-18 16:32:08,675 INFO  [Log] TS_04: Enter Password; Action: Submitted Value: Value: null 
+2018-06-18 16:32:08,765 INFO  [Log] TS_05: Click on Login 
+2018-06-18 16:32:08,766 INFO  [Log] TS_06; Waited 5000 Milli seconds for Element 
+2018-06-18 16:32:16,648 INFO  [Log] TS_07: Click on Vendor name dropdown 
+2018-06-18 16:32:16,762 INFO  [Log] TS_08: Select Vendor 
+2018-06-18 16:32:16,925 INFO  [Log] TS_09: Enter Task name; Action: Submitted Value: Value: null 
+2018-06-18 16:32:17,101 INFO  [Log] TS_10: Select Task type as cost update 
+2018-06-18 16:32:17,225 INFO  [Log] TS_11: Click 
+2018-06-18 16:32:17,330 INFO  [Log] TS_12: Click on Create task button 
+2018-06-18 16:32:17,331 INFO  [Log] TS_13; Waited 20000 Milli seconds for Element 
+2018-06-18 16:32:37,430 INFO  [Log] TS_14: Clicking on upload order button to upload xls 
+2018-06-18 16:32:37,430 INFO  [Log] TS_13; Waited 2000 Milli seconds for Element 
+2018-06-18 16:32:39,545 INFO  [Log] TS_15; Waited 5000 Milli seconds for Element 
+2018-06-18 16:32:46,232 INFO  [Log] CostUpdateTaskCreationTS_17XpathClick  org.openqa.selenium.WebDriverException: unknown error: Element <button type="button" class="btn btn-success" id="btn..." title="Move to Cost Update Review page" style="margin-left:20px; float:right; border-radius: 4px;">Next</button> is not clickable at point (1289, 85). Other element would receive the click: <div class="dx-overlay-wrapper dx-dialog dx-popup-wrapper dx-dialog-wrapper dx-dialog-root dx-overlay-modal dx-overlay-shader" data-bind="dxControlsDescendantBindings: true" style="z-index: 1501; position: fixed; width: 100%; height: 100%; left: 0px; top: 0px; transform: translate(0px, 0px);">...</div>
+  (Session info: chrome=64.0.3282.140)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 67 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir13612_17789}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.140, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: c8545c41a2eba1293fd1337f4e3c4a88null:Exception is not handled 
+2018-06-18 16:32:46,938 WARN  [Log]  Browser instance is active 
+2018-06-18 16:32:49,797 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 16:32:49,887 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 16:32:49,980 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 16:32:49,980 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-18 16:32:49,980 FATAL [Log] CostUpdateTaskCreationTS_17XpathClick  org.openqa.selenium.WebDriverException: unknown error: Element <button type="button" class="btn btn-success" id="btn..." title="Move to Cost Update Review page" style="margin-left:20px; float:right; border-radius: 4px;">Next</button> is not clickable at point (1289, 85). Other element would receive the click: <div class="dx-overlay-wrapper dx-dialog dx-popup-wrapper dx-dialog-wrapper dx-dialog-root dx-overlay-modal dx-overlay-shader" data-bind="dxControlsDescendantBindings: true" style="z-index: 1501; position: fixed; width: 100%; height: 100%; left: 0px; top: 0px; transform: translate(0px, 0px);">...</div>
+  (Session info: chrome=64.0.3282.140)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 67 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir13612_17789}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.140, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: c8545c41a2eba1293fd1337f4e3c4a88null:Exception is not handled 
+2018-06-18 16:32:49,980 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-18 16:32:50,130 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-18 16:32:50,218 INFO  [Log] Simple_Login_Blank 
+2018-06-18 16:32:50,293 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-18 16:32:50,371 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-18 16:32:50,402 INFO  [Log] Creating Logs backup and storing for further reference 

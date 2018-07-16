@@ -1,0 +1,35 @@
+2018-05-24 11:52:18,116 INFO  [Log] Test Scenario Configuration started 
+2018-05-24 11:52:18,135 INFO  [Log] Initialing HTML reporting 
+2018-05-24 11:52:18,386 INFO  [Log] Starting Test Suit Execution 
+2018-05-24 11:52:18,855 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-24 11:52:18,929 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-24 11:52:19,008 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-24 11:52:19,636 INFO  [Log] Object repository is created successfully 
+2018-05-24 11:52:19,722 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-24 11:52:19,814 INFO  [Log] **************************************************************************************** 
+2018-05-24 11:52:19,814 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_normal_shipping -CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-24 11:52:19,814 INFO  [Log] **************************************************************************************** 
+2018-05-24 11:52:29,130 INFO  [Log] #### Executing Test case: E2E_normal_shipping -CC; Description: Blank In Firefox Browser for TestData:1 
+2018-05-24 11:52:37,603 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-24 11:52:38,075 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: null 
+2018-05-24 11:52:38,685 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: null 
+2018-05-24 11:52:38,686 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-24 11:52:39,919 INFO  [Log] TS_05: Click on login button 
+2018-05-24 11:52:39,920 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-24 11:52:50,180 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: XK5204707QP 
+2018-05-24 11:52:50,301 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-24 11:52:50,302 INFO  [Log] TS_09; Waited 20000 Milli seconds for Element 
+2018-05-24 11:53:10,354 FATAL [Log] Framework is not able to find Object defination in ObjRep for the Keynew_price_plp 
+2018-05-24 11:53:10,357 INFO  [Log] E2ETS_10ObjectRepValueCapture  java.lang.NullPointerExceptionnull:Exception is not handled 
+2018-05-24 11:53:11,011 WARN  [Log]  Browser instance is active 
+2018-05-24 11:53:11,030 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.65', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: acb9659a-393b-4d15-8473-ef63309c2e46 
+2018-05-24 11:53:11,030 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-24 11:53:11,030 FATAL [Log] E2ETS_10ObjectRepValueCapture  java.lang.NullPointerExceptionnull:Exception is not handled 
+2018-05-24 11:53:11,030 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-24 11:53:11,276 INFO  [Log] PE-685_Blank 
+2018-05-24 11:53:11,343 INFO  [Log] Creating Logs backup and storing for further reference 

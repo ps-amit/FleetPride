@@ -1,0 +1,304 @@
+2017-09-14 14:55:09,157 INFO  [Log] Test Scenario Configuration started 
+2017-09-14 14:55:09,189 INFO  [Log] Initialing HTML reporting 
+2017-09-14 14:55:09,392 INFO  [Log] Starting Test Suit Execution 
+2017-09-14 14:55:09,580 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 14:55:09,611 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 14:55:09,658 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 14:55:10,110 INFO  [Log] Object repository is created successfully 
+2017-09-14 14:55:10,220 INFO  [Log] TC_101_To verify compset average value 
+2017-09-14 14:55:10,283 INFO  [Log] TC_93_Blank 
+2017-09-14 14:55:10,345 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-14 14:55:10,392 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-14 14:55:10,454 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-14 14:55:10,501 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-14 14:55:10,548 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-14 14:55:10,595 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-14 14:55:10,657 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-14 14:55:10,688 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-14 14:55:10,719 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-14 14:55:10,766 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-14 14:55:10,797 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-14 14:55:10,844 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-14 14:55:10,875 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-14 14:55:10,922 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-14 14:55:10,953 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-14 14:55:11,000 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-14 14:55:11,031 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-14 14:55:11,063 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-14 14:55:11,094 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-14 14:55:11,125 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-14 14:55:11,157 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-14 14:55:11,173 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-14 14:55:11,220 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-14 14:55:11,251 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-14 14:55:11,266 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-14 14:55:11,298 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-14 14:55:11,313 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-14 14:55:11,344 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-14 14:55:11,360 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-14 14:55:11,391 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-14 14:55:11,422 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-14 14:55:11,438 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-14 14:55:11,469 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-14 14:55:11,500 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-14 14:55:11,516 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-14 14:55:11,547 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-14 14:55:11,578 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-14 14:55:11,594 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-14 14:55:11,625 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-14 14:55:11,656 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-14 14:55:11,672 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-14 14:55:11,703 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-14 14:55:11,719 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-14 14:55:11,750 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-14 14:55:11,766 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-14 14:55:11,797 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-14 14:55:11,812 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-14 14:55:11,828 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-14 14:55:11,859 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-14 14:55:11,890 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-14 14:55:11,906 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-14 14:55:11,937 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-14 14:55:11,968 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-14 14:55:12,000 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-14 14:55:12,062 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-14 14:55:12,078 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-14 14:55:12,109 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-14 14:55:12,140 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-14 14:55:12,156 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-14 14:55:12,187 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-14 14:55:12,218 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-14 14:55:12,296 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-14 14:55:12,321 INFO  [Log] PGNG1030_TC_012.xlsx_Blank 
+2017-09-14 14:55:12,345 INFO  [Log] PGNG1030_TC_076.xlsx_Blank 
+2017-09-14 14:55:12,368 INFO  [Log] RG_TC_014.xlsx_Blank 
+2017-09-14 14:55:12,393 INFO  [Log] RG_TC_041.xlsx_Blank 
+2017-09-14 14:55:12,416 INFO  [Log] RG_TC_103.xlsx_Blank 
+2017-09-14 14:55:12,439 INFO  [Log] RG_TC_104.xlsx_Blank 
+2017-09-14 14:55:12,462 INFO  [Log] RG_TC_110.xlsx_Blank 
+2017-09-14 14:55:12,485 INFO  [Log] RG_TC_113.xlsx_Blank 
+2017-09-14 14:55:12,510 INFO  [Log] RG_TC_114_Blank 
+2017-09-14 14:55:12,526 INFO  [Log] RG_TC_166_Blank 
+2017-09-14 14:55:12,541 INFO  [Log] RG_TC_176_Blank 
+2017-09-14 14:55:12,573 INFO  [Log] PGNG1030_TC_051.xlsx_Blank 
+2017-09-14 14:55:12,604 INFO  [Log] PGNG1030_TC_062.xlsx_Blank 
+2017-09-14 14:55:12,619 INFO  [Log] Rg_TC_174_Blank 
+2017-09-14 14:55:12,651 INFO  [Log] **************************************************************************************** 
+2017-09-14 14:55:12,651 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_053; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-14 14:55:12,651 INFO  [Log] **************************************************************************************** 
+2017-09-14 14:55:22,246 INFO  [Log] #### Executing Test case: PGNG1030_TC_053; Description: Blank In IE Browser for TestData:1 
+2017-09-14 14:55:48,530 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 14:55:50,185 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 14:55:51,761 INFO  [Log] TS_04: Click on login button 
+2017-09-14 14:56:03,047 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-14 14:56:04,769 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-14 14:56:06,846 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 14:56:09,480 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 14:56:11,355 INFO  [Log] TS_09: Click on property 
+2017-09-14 14:56:15,933 INFO  [Log] TS_10: Click on settings 
+2017-09-14 14:56:20,076 INFO  [Log] TS_11: Click on Competitor 
+2017-09-14 14:56:23,092 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 14:56:26,758 INFO  [Log] TS_13: Capture the First ResultLondon Apart Hotel; Value has been stored in index: 0 
+2017-09-14 14:56:26,806 INFO  [Log] TS_15; Waited 15000 Milli seconds for Element 
+2017-09-14 14:56:43,493 INFO  [Log] TS_16; Passed; Verify Compititor is added successfully; Captured text: london apart hotel; Value form page: London Apart Hotel,  
+2017-09-14 14:56:45,071 INFO  [Log] TS_17: Click on Optima Logo 
+2017-09-14 14:56:50,985 INFO  [Log] TS_18: Click on Rank 
+2017-09-14 14:56:50,985 INFO  [Log] TS_19; Waited 5000 Milli seconds for Element 
+2017-09-14 14:56:57,738 INFO  [Log] TS_20: Capture the Last Competitor on the Graph Legend from first ChannelRoyal Garden Hotel; Value has been stored in index: 1 
+2017-09-14 14:56:59,162 INFO  [Log] User specified value has been replaced at index1New Value is: Royal Garden 
+2017-09-14 14:56:59,162 INFO  [Log] Fail; TS_22: Verify Competititor is added graph Legend of first channelVerify Competititor is added graph Legend of first channel; Captured text1: london apart hotel; Captured text2: royal garden 
+2017-09-14 14:57:02,578 INFO  [Log] Action: jMouse Hover performed on Element.//*[@id='OTAChannelChart']/div/div[1]//*[local-name() = 'svg']//*[local-name() = 'g'][13]//*[local-name() = 'g'][1]//*[local-name() = 'text'][2]//*[local-name() = 'tspan'] 
+2017-09-14 14:57:02,578 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-09-14 14:57:06,241 INFO  [Log] TS_25: Capture the last competitor nameRoyal Garden Hotel; Value has been stored in index: 2 
+2017-09-14 14:57:07,698 INFO  [Log] User specified value has been replaced at index2New Value is: Royal Garden  
+2017-09-14 14:57:07,698 INFO  [Log] Fail; TS_27: Verify Competititor is added on the Second Channel on Rank Graph LegendVerify Competititor is added on the Second Channel on Rank Graph Legend; Captured text1: london apart hotel; Captured text2: royal garden  
+2017-09-14 14:57:09,354 INFO  [Log] PGNG1030_053TS_28XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:28324/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 1e97781f-848b-4e09-9402-261288b52bd0null:Exception is not handled 
+2017-09-14 14:57:09,433 WARN  [Log]  Browser instance is active 
+2017-09-14 14:57:09,668 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 14:57:09,715 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 14:57:09,777 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 14:57:09,777 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 14:57:09,777 FATAL [Log] PGNG1030_053TS_28XpathScrollToElement  org.openqa.selenium.JavascriptException: JavaScript error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:28324/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 1e97781f-848b-4e09-9402-261288b52bd0null:Exception is not handled 
+2017-09-14 14:57:14,927 INFO  [Log] #### Executing Test case: PGNG1030_TC_053; Description: Blank In Chrome Browser for TestData:1 
+2017-09-14 14:57:29,234 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-14 14:57:29,523 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 14:57:29,648 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 14:57:29,724 INFO  [Log] TS_04: Click on login button 
+2017-09-14 14:57:47,553 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-14 14:57:47,694 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-14 14:57:47,757 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 14:57:48,900 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 14:57:49,084 INFO  [Log] TS_09: Click on property 
+2017-09-14 14:57:52,278 INFO  [Log] TS_10: Click on settings 
+2017-09-14 14:57:54,483 INFO  [Log] TS_11: Click on Competitor 
+2017-09-14 14:57:55,732 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 14:57:56,923 INFO  [Log] TS_13: Capture the First ResultCopthorne Tara Hotel London Kensington; Value has been stored in index: 0 
+2017-09-14 14:57:56,977 INFO  [Log] TS_15; Waited 15000 Milli seconds for Element 
+2017-09-14 14:58:12,107 INFO  [Log] TS_16; Passed; Verify Compititor is added successfully; Captured text: copthorne tara hotel london kensington; Value form page: Copthorne Tara Hotel London Kensington,  
+2017-09-14 14:58:12,205 INFO  [Log] TS_17: Click on Optima Logo 
+2017-09-14 14:58:16,446 INFO  [Log] TS_18: Click on Rank 
+2017-09-14 14:58:16,446 INFO  [Log] TS_19; Waited 5000 Milli seconds for Element 
+2017-09-14 14:58:21,576 INFO  [Log] TS_20: Capture the Last Competitor on the Graph Legend from first ChannelCopthorne Tara Hotel..; Value has been stored in index: 1 
+2017-09-14 14:58:21,624 INFO  [Log] User specified value has been replaced at index1New Value is: Copthorne Tara H 
+2017-09-14 14:58:21,624 INFO  [Log] TS_22; Passed; Verify Competititor is added graph Legend of first channel; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara h 
+2017-09-14 14:58:21,798 INFO  [Log] TS_23: Click on second Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 14:58:21,798 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-09-14 14:58:23,931 INFO  [Log] TS_25: Capture the last competitor nameCopthorne Tara Hotel..; Value has been stored in index: 2 
+2017-09-14 14:58:23,988 INFO  [Log] User specified value has been replaced at index2New Value is: Copthorne Tara Ho 
+2017-09-14 14:58:23,988 INFO  [Log] TS_27; Passed; Verify Competititor is added on the Second Channel on Rank Graph Legend; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara ho 
+2017-09-14 14:58:25,067 INFO  [Log] TS_28: Scroll to Third Channel : Action Scroll Down 
+2017-09-14 14:58:25,253 INFO  [Log] TS_29: Click on Third Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 14:58:25,253 INFO  [Log] TS_30; Waited 2000 Milli seconds for Element 
+2017-09-14 14:58:27,386 INFO  [Log] TS_31: Capture the last Competitor NameCopthorne Tara Hotel..; Value has been stored in index: 3 
+2017-09-14 14:58:27,438 INFO  [Log] User specified value has been replaced at index3New Value is: Copthorne Tara Ho 
+2017-09-14 14:58:27,438 INFO  [Log] TS_33; Passed; Verify Competititor is added on the Third Channel on Rank Graph Legend; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara ho 
+2017-09-14 14:58:28,522 INFO  [Log] TS_34: Scroll to Fourth Channel : Action Scroll Down 
+2017-09-14 14:58:28,710 INFO  [Log] TS_35: Click on Fourth Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 14:58:28,711 INFO  [Log] TS_36; Waited 2000 Milli seconds for Element 
+2017-09-14 14:58:30,837 INFO  [Log] TS_37: Capture the last Competitor NameCopthorne Tara Hotel..; Value has been stored in index: 4 
+2017-09-14 14:58:30,902 INFO  [Log] User specified value has been replaced at index4New Value is: Copthorne Tara Ho 
+2017-09-14 14:58:30,902 INFO  [Log] TS_39; Passed; Verify Competititor is added on the Fourth Channel on Rank Graph Legend; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara ho 
+2017-09-14 14:58:31,986 INFO  [Log] TS_40: Scroll to Fifth Channel : Action Scroll Down 
+2017-09-14 14:58:32,159 INFO  [Log] TS_41: Click on Fifth Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 14:58:32,160 INFO  [Log] TS_42; Waited 2000 Milli seconds for Element 
+2017-09-14 14:58:34,294 INFO  [Log] TS_43: Capture the last Competitor NameCopthorne Tara Hotel..; Value has been stored in index: 5 
+2017-09-14 14:58:34,350 INFO  [Log] User specified value has been replaced at index5New Value is: Copthorne Tara Ho 
+2017-09-14 14:58:34,350 INFO  [Log] TS_45; Passed; Verify Competititor is added on the Fourth Channel on Rank Graph Legend; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara ho 
+2017-09-14 14:58:34,443 INFO  [Log] TS_46: Click on settings 
+2017-09-14 14:58:35,595 INFO  [Log] TS_47: Click on Competitor 
+2017-09-14 14:58:36,715 INFO  [Log] TS_48: Delete the Added Record 
+2017-09-14 14:58:36,870 INFO  [Log] TS_49: click on delete button to delete the record 
+2017-09-14 14:58:36,870 INFO  [Log] TS_50; Waited 5000 Milli seconds for Element 
+2017-09-14 14:58:42,040 INFO  [Log] TS_51: Click on Optima Logo 
+2017-09-14 14:58:45,306 INFO  [Log] TS_52: Click on Rank 
+2017-09-14 14:58:45,306 INFO  [Log] TS_53; Waited 2000 Milli seconds for Element 
+2017-09-14 14:58:48,421 INFO  [Log] TS_54: Edit Xpath to Verify Competititor is Deleted graph Legend of first channelNew Element Location is : Copthorne Tara HStored in ObjRep using element name: Allchannel: Type: Xpath 
+2017-09-14 14:59:13,662 INFO  [Log] TS_55; Passed; Verify Competititor is Deleted graph Legend of first channel; Element is not present/dispayed on the page 
+2017-09-14 14:59:13,850 INFO  [Log] TS_56: Click on second Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 14:59:13,851 INFO  [Log] TS_57; Waited 2000 Milli seconds for Element 
+2017-09-14 14:59:15,951 INFO  [Log] TS_58: Edit Xpath Verify Competititor is Deleted from Other Channel on Rank Graph LegendNew Element Location is : Copthorne Tara HStored in ObjRep using element name: OtherChannels: Type: Xpath 
+2017-09-14 14:59:41,216 INFO  [Log] TS_59; Passed; Verify Competititor is Deleted from Second Channel on Rank Graph Legend; Element is not present/dispayed on the page 
+2017-09-14 14:59:42,408 INFO  [Log] TS_60: Scroll to Third Channel : Action Scroll Down 
+2017-09-14 14:59:42,587 INFO  [Log] TS_61: Click on Third Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 14:59:42,587 INFO  [Log] TS_62; Waited 2000 Milli seconds for Element 
+2017-09-14 15:00:09,892 INFO  [Log] TS_63; Passed; Verify Competititor is Deleted from Third Channel on Rank Graph Legend; Element is not present/dispayed on the page 
+2017-09-14 15:00:11,005 INFO  [Log] TS_64: Scroll to Fourth Channel : Action Scroll Down 
+2017-09-14 15:00:11,186 INFO  [Log] TS_65: Click on Fourth Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:00:11,186 INFO  [Log] TS_66; Waited 2000 Milli seconds for Element 
+2017-09-14 15:00:38,505 INFO  [Log] TS_67; Passed; Verify Competititor is Deleted from Fourth Channel on Rank Graph Legend; Element is not present/dispayed on the page 
+2017-09-14 15:00:39,624 INFO  [Log] TS_68: Scroll to Fifth Channel : Action Scroll Down 
+2017-09-14 15:00:39,789 INFO  [Log] TS_69: Click on Fifth Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:00:39,789 INFO  [Log] TS_70; Waited 2000 Milli seconds for Element 
+2017-09-14 15:01:07,107 INFO  [Log] TS_71; Passed; Verify Competititor is Deleted from Fourth Channel on Rank Graph Legend; Element is not present/dispayed on the page 
+2017-09-14 15:01:12,109 INFO  [Log] closing test case  
+2017-09-14 15:01:12,418 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:01:12,450 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:01:12,481 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:01:12,496 INFO  [Log] ### Test case: PGNG1030_TC_053; Description: Blank; status Executed 
+2017-09-14 15:01:12,652 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:01:12,684 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:01:12,715 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:01:12,715 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:01:18,524 INFO  [Log] #### Executing Test case: PGNG1030_TC_053; Description: Blank In Firefox Browser for TestData:1 
+2017-09-14 15:01:45,561 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-14 15:01:45,753 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 15:01:45,924 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 15:01:45,987 INFO  [Log] TS_04: Click on login button 
+2017-09-14 15:01:55,648 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-14 15:01:55,758 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-14 15:01:55,883 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 15:01:57,238 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 15:01:57,332 INFO  [Log] TS_09: Click on property 
+2017-09-14 15:02:00,489 INFO  [Log] TS_10: Click on settings 
+2017-09-14 15:02:02,617 INFO  [Log] TS_11: Click on Competitor 
+2017-09-14 15:02:04,071 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 15:02:05,274 INFO  [Log] TS_13: Capture the First ResultCopthorne Tara Hotel London Kensington; Value has been stored in index: 0 
+2017-09-14 15:02:05,322 INFO  [Log] TS_15; Waited 15000 Milli seconds for Element 
+2017-09-14 15:02:20,410 INFO  [Log] TS_16; Passed; Verify Compititor is added successfully; Captured text: copthorne tara hotel london kensington; Value form page: Copthorne Tara Hotel London Kensington,  
+2017-09-14 15:02:20,489 INFO  [Log] TS_17: Click on Optima Logo 
+2017-09-14 15:02:24,744 INFO  [Log] TS_18: Click on Rank 
+2017-09-14 15:02:24,744 INFO  [Log] TS_19; Waited 5000 Milli seconds for Element 
+2017-09-14 15:02:29,844 INFO  [Log] TS_20: Capture the Last Competitor on the Graph Legend from first ChannelCopthorne Tara Hotel..; Value has been stored in index: 1 
+2017-09-14 15:02:29,894 INFO  [Log] User specified value has been replaced at index1New Value is: Copthorne Tara H 
+2017-09-14 15:02:29,894 INFO  [Log] TS_22; Passed; Verify Competititor is added graph Legend of first channel; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara h 
+2017-09-14 15:02:30,206 INFO  [Log] TS_23: Click on second Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:02:30,206 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-09-14 15:02:32,301 INFO  [Log] TS_25: Capture the last competitor nameCopthorne Tara Hotel..; Value has been stored in index: 2 
+2017-09-14 15:02:32,365 INFO  [Log] User specified value has been replaced at index2New Value is: Copthorne Tara Ho 
+2017-09-14 15:02:32,365 INFO  [Log] TS_27; Passed; Verify Competititor is added on the Second Channel on Rank Graph Legend; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara ho 
+2017-09-14 15:02:33,444 INFO  [Log] TS_28: Scroll to Third Channel : Action Scroll Down 
+2017-09-14 15:02:33,773 INFO  [Log] TS_29: Click on Third Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:02:33,773 INFO  [Log] TS_30; Waited 2000 Milli seconds for Element 
+2017-09-14 15:02:35,851 INFO  [Log] TS_31: Capture the last Competitor NameCopthorne Tara Hotel..; Value has been stored in index: 3 
+2017-09-14 15:02:35,883 INFO  [Log] User specified value has been replaced at index3New Value is: Copthorne Tara Ho 
+2017-09-14 15:02:35,883 INFO  [Log] TS_33; Passed; Verify Competititor is added on the Third Channel on Rank Graph Legend; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara ho 
+2017-09-14 15:02:36,962 INFO  [Log] TS_34: Scroll to Fourth Channel : Action Scroll Down 
+2017-09-14 15:02:37,337 INFO  [Log] TS_35: Click on Fourth Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:02:37,337 INFO  [Log] TS_36; Waited 2000 Milli seconds for Element 
+2017-09-14 15:02:39,436 INFO  [Log] TS_37: Capture the last Competitor NameCopthorne Tara Hotel..; Value has been stored in index: 4 
+2017-09-14 15:02:39,483 INFO  [Log] User specified value has been replaced at index4New Value is: Copthorne Tara Ho 
+2017-09-14 15:02:39,483 INFO  [Log] TS_39; Passed; Verify Competititor is added on the Fourth Channel on Rank Graph Legend; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara ho 
+2017-09-14 15:02:40,531 INFO  [Log] TS_40: Scroll to Fifth Channel : Action Scroll Down 
+2017-09-14 15:02:40,909 INFO  [Log] TS_41: Click on Fifth Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:02:40,909 INFO  [Log] TS_42; Waited 2000 Milli seconds for Element 
+2017-09-14 15:02:42,995 INFO  [Log] TS_43: Capture the last Competitor NameCopthorne Tara Hotel..; Value has been stored in index: 5 
+2017-09-14 15:02:43,027 INFO  [Log] User specified value has been replaced at index5New Value is: Copthorne Tara Ho 
+2017-09-14 15:02:43,027 INFO  [Log] TS_45; Passed; Verify Competititor is added on the Fourth Channel on Rank Graph Legend; Captured text1: copthorne tara hotel london kensington; Captured text2: copthorne tara ho 
+2017-09-14 15:02:43,089 INFO  [Log] TS_46: Click on settings 
+2017-09-14 15:02:44,226 INFO  [Log] TS_47: Click on Competitor 
+2017-09-14 15:02:45,432 INFO  [Log] TS_48: Delete the Added Record 
+2017-09-14 15:02:45,604 INFO  [Log] TS_49: click on delete button to delete the record 
+2017-09-14 15:02:45,604 INFO  [Log] TS_50; Waited 5000 Milli seconds for Element 
+2017-09-14 15:02:50,720 INFO  [Log] TS_51: Click on Optima Logo 
+2017-09-14 15:02:54,874 INFO  [Log] TS_52: Click on Rank 
+2017-09-14 15:02:54,874 INFO  [Log] TS_53; Waited 2000 Milli seconds for Element 
+2017-09-14 15:02:57,961 INFO  [Log] TS_54: Edit Xpath to Verify Competititor is Deleted graph Legend of first channelNew Element Location is : Copthorne Tara HStored in ObjRep using element name: Allchannel: Type: Xpath 
+2017-09-14 15:03:23,506 INFO  [Log] TS_55; Passed; Verify Competititor is Deleted graph Legend of first channel; Element is not present/dispayed on the page 
+2017-09-14 15:03:23,877 INFO  [Log] TS_56: Click on second Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:03:23,877 INFO  [Log] TS_57; Waited 2000 Milli seconds for Element 
+2017-09-14 15:03:25,930 INFO  [Log] TS_58: Edit Xpath Verify Competititor is Deleted from Other Channel on Rank Graph LegendNew Element Location is : Copthorne Tara HStored in ObjRep using element name: OtherChannels: Type: Xpath 
+2017-09-14 15:03:51,216 INFO  [Log] TS_59; Passed; Verify Competititor is Deleted from Second Channel on Rank Graph Legend; Element is not present/dispayed on the page 
+2017-09-14 15:03:52,282 INFO  [Log] TS_60: Scroll to Third Channel : Action Scroll Down 
+2017-09-14 15:03:52,595 INFO  [Log] TS_61: Click on Third Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:03:52,595 INFO  [Log] TS_62; Waited 2000 Milli seconds for Element 
+2017-09-14 15:04:20,164 INFO  [Log] TS_63; Passed; Verify Competititor is Deleted from Third Channel on Rank Graph Legend; Element is not present/dispayed on the page 
+2017-09-14 15:04:21,276 INFO  [Log] TS_64: Scroll to Fourth Channel : Action Scroll Down 
+2017-09-14 15:04:21,621 INFO  [Log] TS_65: Click on Fourth Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:04:21,621 INFO  [Log] TS_66; Waited 2000 Milli seconds for Element 
+2017-09-14 15:04:48,723 INFO  [Log] TS_67; Passed; Verify Competititor is Deleted from Fourth Channel on Rank Graph Legend; Element is not present/dispayed on the page 
+2017-09-14 15:04:49,851 INFO  [Log] TS_68: Scroll to Fifth Channel : Action Scroll Down 
+2017-09-14 15:04:50,195 INFO  [Log] TS_69: Click on Fifth Channel on Rank Graph view; Action: Mouse Hover and Clicked 
+2017-09-14 15:04:50,195 INFO  [Log] TS_70; Waited 2000 Milli seconds for Element 
+2017-09-14 15:05:17,369 INFO  [Log] TS_71; Passed; Verify Competititor is Deleted from Fourth Channel on Rank Graph Legend; Element is not present/dispayed on the page 
+2017-09-14 15:05:22,382 INFO  [Log] closing test case  
+2017-09-14 15:05:22,680 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:05:22,727 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:05:22,758 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:05:22,758 INFO  [Log] ### Test case: PGNG1030_TC_053; Description: Blank; status Executed 
+2017-09-14 15:05:22,976 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:05:23,007 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:05:23,039 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:05:23,039 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:05:23,039 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:05:23,101 FATAL [Log] Test script Location/sheet name is not provided for PGNG1030_TC_054 
+2017-09-14 15:05:23,163 INFO  [Log] ####Closing Test Suite #### 
+2017-09-14 15:05:23,163 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:05:23,163 INFO  [Log] Creating Logs backup and storing for further reference 

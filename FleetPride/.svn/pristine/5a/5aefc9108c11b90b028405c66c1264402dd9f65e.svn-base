@@ -1,0 +1,55 @@
+2017-07-17 17:44:27,412 INFO  [Log] Test Scenario Configuration started 
+2017-07-17 17:44:27,430 INFO  [Log] Initialing HTML reporting 
+2017-07-17 17:44:27,653 INFO  [Log] Starting Test Suit Execution 
+2017-07-17 17:44:27,654 WARN  [Log] Browser instance value is null 
+2017-07-17 17:44:28,211 INFO  [Log] Object repository is created successfully 
+2017-07-17 17:44:28,277 INFO  [Log] AlertRateKart_1_AlertRateKart_1 
+2017-07-17 17:44:28,335 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-17 17:44:28,400 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-17 17:44:28,450 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-17 17:44:28,495 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-17 17:44:28,540 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-17 17:44:28,580 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-17 17:44:28,639 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:44:28,639 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:44:28,639 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:44:35,295 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In firefox Browser for TestData:1 
+2017-07-17 17:44:43,231 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-07-17 17:44:43,256 INFO  [Log] RG-02; Waited 5000 Milli seconds for Element 
+2017-07-17 17:44:48,470 INFO  [Log] RG-03: Enter User ID; Action: Submited Value 
+2017-07-17 17:44:48,675 INFO  [Log] RG-04: Enter Password; Action: Submited Value 
+2017-07-17 17:44:48,759 INFO  [Log] RG-05: Click on Login: Action click 
+2017-07-17 17:44:48,760 INFO  [Log] RG-06; Waited 5000 Milli seconds for Element 
+2017-07-17 17:44:53,867 INFO  [Log] RG-07; Passed; Verify Button; Value: enterprise view; Present in Page values: ENTERPRISE VIEW,  
+2017-07-17 17:44:54,045 INFO  [Log] RG-08; Passed; Verify Button; Value: property view; Present in Page values: PROPERTY VIEW,  
+2017-07-17 17:44:54,171 INFO  [Log] RG-09: Clickon left header: Action click 
+2017-07-17 17:44:54,172 INFO  [Log] RG-10; Waited 5000 Milli seconds for Element 
+2017-07-17 17:44:59,358 INFO  [Log] RG-11: Clickon Logout: Action click 
+2017-07-17 17:44:59,359 INFO  [Log] RG-12; Waited 5000 Milli seconds for Element 
+2017-07-17 17:45:04,601 INFO  [Log] RG-13: Click logout: Action click 
+2017-07-17 17:45:04,602 INFO  [Log] closing test case  
+2017-07-17 17:45:04,759 ERROR [Log] Error#: RateGain-1; Browser Window is Closedorg.openqa.selenium.UnhandledAlertException: Unexpected modal dialog (text: Logging out from here will log you out from all the products. Still want to logout?): Logging out from here will log you out from all the products. Still want to logout?
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Vinayak-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2b23f872-8d23-46eb-bb70-c5463bbb1ca2 
+2017-07-17 17:45:06,831 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:45:06,938 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:45:07,062 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:45:07,062 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:45:07,062 FATAL [Log] RateGain-1; Browser Window is Closedorg.openqa.selenium.UnhandledAlertException: Unexpected modal dialog (text: Logging out from here will log you out from all the products. Still want to logout?): Logging out from here will log you out from all the products. Still want to logout?
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Vinayak-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2b23f872-8d23-46eb-bb70-c5463bbb1ca2 
+2017-07-17 17:45:07,062 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:45:07,596 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-17 17:45:07,676 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-17 17:45:07,704 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-17 17:45:07,731 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-17 17:45:07,760 INFO  [Log] PostRequest_PostRequest 
+2017-07-17 17:45:07,792 INFO  [Log] ####Closing Test Suite #### 
+2017-07-17 17:45:07,793 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:45:07,793 INFO  [Log] Creating Logs backup and storing for further reference 

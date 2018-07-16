@@ -1,0 +1,184 @@
+2017-09-14 11:25:07,961 INFO  [Log] Test Scenario Configuration started 
+2017-09-14 11:25:07,977 INFO  [Log] Initialing HTML reporting 
+2017-09-14 11:25:08,164 INFO  [Log] Starting Test Suit Execution 
+2017-09-14 11:25:08,351 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:25:08,398 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:25:08,430 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:25:08,882 INFO  [Log] Object repository is created successfully 
+2017-09-14 11:25:08,976 INFO  [Log] TC_101_To verify compset average value 
+2017-09-14 11:25:09,054 INFO  [Log] TC_93_Blank 
+2017-09-14 11:25:09,116 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-14 11:25:09,163 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-14 11:25:09,226 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-14 11:25:09,257 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-14 11:25:09,304 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-14 11:25:09,350 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-14 11:25:09,413 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-14 11:25:09,444 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-14 11:25:09,476 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-14 11:25:09,507 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-14 11:25:09,539 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-14 11:25:09,570 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-14 11:25:09,601 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-14 11:25:09,632 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-14 11:25:09,679 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-14 11:25:09,710 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-14 11:25:09,741 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-14 11:25:09,773 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-14 11:25:09,804 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-14 11:25:09,819 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-14 11:25:09,851 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-14 11:25:09,882 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-14 11:25:09,913 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-14 11:25:09,944 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-14 11:25:09,960 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-14 11:25:09,975 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-14 11:25:10,007 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-14 11:25:10,022 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-14 11:25:10,053 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-14 11:25:10,069 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-14 11:25:10,100 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-14 11:25:10,116 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-14 11:25:10,147 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-14 11:25:10,178 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-14 11:25:10,209 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-14 11:25:10,241 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-14 11:25:10,256 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-14 11:25:10,287 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-14 11:25:10,319 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-14 11:25:10,350 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-14 11:25:10,381 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-14 11:25:10,397 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-14 11:25:10,428 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-14 11:25:10,459 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-14 11:25:10,476 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-14 11:25:10,507 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-14 11:25:10,522 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-14 11:25:10,538 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-14 11:25:10,569 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-14 11:25:10,585 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-14 11:25:10,600 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-14 11:25:10,632 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-14 11:25:10,647 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-14 11:25:10,678 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-14 11:25:10,694 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-14 11:25:10,725 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-14 11:25:10,756 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-14 11:25:10,772 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-14 11:25:10,788 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-14 11:25:10,819 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-14 11:25:10,850 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-14 11:25:10,912 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-14 11:25:10,928 INFO  [Log] PGNG1030_TC_012.xlsx_Blank 
+2017-09-14 11:25:10,959 INFO  [Log] PGNG1030_TC_076.xlsx_Blank 
+2017-09-14 11:25:10,975 INFO  [Log] RG_TC_014.xlsx_Blank 
+2017-09-14 11:25:11,006 INFO  [Log] RG_TC_041.xlsx_Blank 
+2017-09-14 11:25:11,022 INFO  [Log] RG_TC_103.xlsx_Blank 
+2017-09-14 11:25:11,053 INFO  [Log] RG_TC_104.xlsx_Blank 
+2017-09-14 11:25:11,068 INFO  [Log] RG_TC_110.xlsx_Blank 
+2017-09-14 11:25:11,100 INFO  [Log] RG_TC_113.xlsx_Blank 
+2017-09-14 11:25:11,115 INFO  [Log] RG_TC_114_Blank 
+2017-09-14 11:25:11,131 INFO  [Log] RG_TC_166_Blank 
+2017-09-14 11:25:11,146 INFO  [Log] RG_TC_176_Blank 
+2017-09-14 11:25:11,178 INFO  [Log] PGNG1030_TC_051.xlsx_Blank 
+2017-09-14 11:25:11,193 INFO  [Log] PGNG1030_TC_062.xlsx_Blank 
+2017-09-14 11:25:11,224 INFO  [Log] PGNG1030_TC_076.xlsx_Blank 
+2017-09-14 11:25:11,256 INFO  [Log] **************************************************************************************** 
+2017-09-14 11:25:11,256 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_174; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-14 11:25:11,256 INFO  [Log] **************************************************************************************** 
+2017-09-14 11:25:21,184 INFO  [Log] #### Executing Test case: Rg_TC_174; Description: Blank In IE Browser for TestData:1 
+2017-09-14 11:25:39,785 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 11:25:41,814 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 11:25:43,624 INFO  [Log] TS_04: Click on login button 
+2017-09-14 11:25:56,651 INFO  [Log] TS_05: click on user name  
+2017-09-14 11:25:58,571 INFO  [Log] TS_06: click on choose property 
+2017-09-14 11:26:00,709 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 11:26:03,601 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 11:26:05,760 INFO  [Log] TS_09: Click on property 
+2017-09-14 11:26:10,878 INFO  [Log] TS_10: click on rates 
+2017-09-14 11:26:17,478 INFO  [Log] TS_11: click on grid view 
+2017-09-14 11:26:22,096 INFO  [Log] TS_12; Passed; verify by default all channels is selected; Value: active default ng-scope; Present in Page values: active default ng-scope,  
+2017-09-14 11:26:27,167 INFO  [Log] Failed: count for properties are not same 
+2017-09-14 11:26:29,150 INFO  [Log] TS_14: CleanValuesCapturedOnly: Values Captured list is clean now 
+2017-09-14 11:26:32,229 INFO  [Log] List of following Values has been storedTS_15: capture all the properties from grid; Action: Capture and stored value, The Park City Grand Plaz..., Holiday Inn London - Ken..., Best Western John Howard..., Kensington London, London Perfect - Middlet..., Hyatt Place London Heath..., Baglioni Hotel London - ..., Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel Lon... 
+2017-09-14 11:26:34,060 INFO  [Log] TS_16: click on settings 
+2017-09-14 11:26:37,384 INFO  [Log] TS_17: click on competators 
+2017-09-14 11:26:41,722 INFO  [Log] List of following Values has been storedTS_18: capture subscriber property from settings; Action: Capture and stored value, The Park City Grand Plaza Kensington Hotel, Holiday Inn London - Kensington Forum, Best Western John Howard Hotel London, Kensington London, London Perfect - Middleton, Hyatt Place London Heathrow Hayes, Baglioni Hotel London - The Leading Hotels of the World, Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel London Kensington 
+2017-09-14 11:26:41,801 INFO  [Log] Failed: TS_19 captured value [[The Park City Grand Plaza Kensington Hotel, Holiday Inn London - Kensington Forum, Best Western John Howard Hotel London, Kensington London, London Perfect - Middleton, Hyatt Place London Heathrow Hayes, Baglioni Hotel London - The Leading Hotels of the World, Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel London Kensington]  ] and captured value [[The Park City Grand Plaz..., Holiday Inn London - Ken..., Best Western John Howard..., Kensington London, London Perfect - Middlet..., Hyatt Place London Heath..., Baglioni Hotel London - ..., Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel Lon...]  ] are not same 
+2017-09-14 11:26:46,917 INFO  [Log] closing test case  
+2017-09-14 11:26:47,433 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:26:47,480 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:26:47,511 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:26:47,527 INFO  [Log] ### Test case: Rg_TC_174; Description: Blank; status Executed 
+2017-09-14 11:26:47,698 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:26:47,745 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:26:47,776 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:26:47,776 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 11:26:52,969 INFO  [Log] #### Executing Test case: Rg_TC_174; Description: Blank In Chrome Browser for TestData:1 
+2017-09-14 11:27:09,300 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-14 11:27:09,635 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 11:27:09,771 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 11:27:09,857 INFO  [Log] TS_04: Click on login button 
+2017-09-14 11:27:25,408 INFO  [Log] TS_05: click on user name  
+2017-09-14 11:27:25,521 INFO  [Log] TS_06: click on choose property 
+2017-09-14 11:27:25,604 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 11:27:26,821 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 11:27:27,129 INFO  [Log] TS_09: Click on property 
+2017-09-14 11:27:30,312 INFO  [Log] TS_10: click on rates 
+2017-09-14 11:27:35,854 INFO  [Log] TS_11: click on grid view 
+2017-09-14 11:27:40,222 INFO  [Log] TS_12; Passed; verify by default all channels is selected; Value: active default ng-scope; Present in Page values: active default ng-scope,  
+2017-09-14 11:29:41,541 INFO  [Log] TS_13; Passed; verify by click on all channel and count for propertieschannels count for present channals [BookFHR BookIt Booking.com BookingMobApp Booking_Member Brand Expedia ExpediaAPI ExpediaAR ExpediaAU ExpediaCA ExpediaDE ExpediaDK ExpediaES GDS Tripadvisor trivago   ] are same 
+2017-09-14 11:29:41,760 INFO  [Log] TS_14: CleanValuesCapturedOnly: Values Captured list is clean now 
+2017-09-14 11:29:42,216 INFO  [Log] List of following Values has been storedTS_15: capture all the properties from grid; Action: Capture and stored value, The Park City Grand Plaz..., Holiday Inn London - Ken..., Best Western John Howard..., Kensington London, London Perfect - Middlet..., Hyatt Place London Heath..., Baglioni Hotel London - ..., Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel Lon... 
+2017-09-14 11:29:42,390 INFO  [Log] TS_16: click on settings 
+2017-09-14 11:29:44,652 INFO  [Log] TS_17: click on competators 
+2017-09-14 11:29:46,313 INFO  [Log] List of following Values has been storedTS_18: capture subscriber property from settings; Action: Capture and stored value, The Park City Grand Plaza Kensington Hotel, Holiday Inn London - Kensington Forum, Best Western John Howard Hotel London, Kensington London, London Perfect - Middleton, Hyatt Place London Heathrow Hayes, Baglioni Hotel London - The Leading Hotels of the World, Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel London Kensington 
+2017-09-14 11:29:46,719 INFO  [Log] Failed: TS_19 captured value [[The Park City Grand Plaza Kensington Hotel, Holiday Inn London - Kensington Forum, Best Western John Howard Hotel London, Kensington London, London Perfect - Middleton, Hyatt Place London Heathrow Hayes, Baglioni Hotel London - The Leading Hotels of the World, Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel London Kensington]  ] and captured value [[The Park City Grand Plaz..., Holiday Inn London - Ken..., Best Western John Howard..., Kensington London, London Perfect - Middlet..., Hyatt Place London Heath..., Baglioni Hotel London - ..., Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel Lon...]  ] are not same 
+2017-09-14 11:29:52,102 INFO  [Log] closing test case  
+2017-09-14 11:29:52,443 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:29:52,490 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:29:52,521 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:29:52,537 INFO  [Log] ### Test case: Rg_TC_174; Description: Blank; status Executed 
+2017-09-14 11:29:52,708 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:29:52,755 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:29:52,786 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:29:52,786 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 11:29:57,676 INFO  [Log] #### Executing Test case: Rg_TC_174; Description: Blank In Firefox Browser for TestData:1 
+2017-09-14 11:30:25,841 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-14 11:30:26,076 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 11:30:26,263 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 11:30:26,434 INFO  [Log] TS_04: Click on login button 
+2017-09-14 11:30:33,942 INFO  [Log] TS_05: click on user name  
+2017-09-14 11:30:36,380 INFO  [Log] TS_06: click on choose property 
+2017-09-14 11:30:36,440 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 11:30:37,541 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 11:30:37,729 INFO  [Log] TS_09: Click on property 
+2017-09-14 11:30:41,022 INFO  [Log] TS_10: click on rates 
+2017-09-14 11:30:45,505 INFO  [Log] TS_11: click on grid view 
+2017-09-14 11:30:48,158 INFO  [Log] TS_12; Passed; verify by default all channels is selected; Value: active default ng-scope; Present in Page values: active default ng-scope,  
+2017-09-14 11:32:45,299 INFO  [Log] TS_13; Passed; verify by click on all channel and count for propertieschannels count for present channals [BookFHR BookIt Booking.com BookingMobApp Booking_Member Brand Expedia ExpediaAPI ExpediaAR ExpediaAU ExpediaCA ExpediaDE ExpediaDK ExpediaES GDS Tripadvisor trivago   ] are same 
+2017-09-14 11:32:45,472 INFO  [Log] TS_14: CleanValuesCapturedOnly: Values Captured list is clean now 
+2017-09-14 11:32:45,768 INFO  [Log] List of following Values has been storedTS_15: capture all the properties from grid; Action: Capture and stored value, The Park City Grand Plaz..., Holiday Inn London - Ken..., Best Western John Howard..., Kensington London, London Perfect - Middlet..., Hyatt Place London Heath..., Baglioni Hotel London - ..., Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel Lon... 
+2017-09-14 11:32:45,909 INFO  [Log] TS_16: click on settings 
+2017-09-14 11:32:48,124 INFO  [Log] TS_17: click on competators 
+2017-09-14 11:32:50,496 INFO  [Log] List of following Values has been storedTS_18: capture subscriber property from settings; Action: Capture and stored value, The Park City Grand Plaza Kensington Hotel, Holiday Inn London - Kensington Forum, Best Western John Howard Hotel London, Kensington London, London Perfect - Middleton, Hyatt Place London Heathrow Hayes, Baglioni Hotel London - The Leading Hotels of the World, Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel London Kensington 
+2017-09-14 11:32:50,575 INFO  [Log] Failed: TS_19 captured value [[The Park City Grand Plaza Kensington Hotel, Holiday Inn London - Kensington Forum, Best Western John Howard Hotel London, Kensington London, London Perfect - Middleton, Hyatt Place London Heathrow Hayes, Baglioni Hotel London - The Leading Hotels of the World, Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel London Kensington]  ] and captured value [[The Park City Grand Plaz..., Holiday Inn London - Ken..., Best Western John Howard..., Kensington London, London Perfect - Middlet..., Hyatt Place London Heath..., Baglioni Hotel London - ..., Hyatt Regency Birmingham, Royal Garden Hotel, London Perfect-Cornwall, London Apart Hotel, Copthorne Tara Hotel Lon...]  ] are not same 
+2017-09-14 11:32:55,692 INFO  [Log] closing test case  
+2017-09-14 11:32:56,005 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:32:56,036 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:32:56,083 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:32:56,083 INFO  [Log] ### Test case: Rg_TC_174; Description: Blank; status Executed 
+2017-09-14 11:32:56,254 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:32:56,301 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:32:56,332 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:32:56,332 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 11:32:56,332 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 11:32:56,379 INFO  [Log] ####Closing Test Suite #### 
+2017-09-14 11:32:56,379 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 11:32:56,379 INFO  [Log] Creating Logs backup and storing for further reference 

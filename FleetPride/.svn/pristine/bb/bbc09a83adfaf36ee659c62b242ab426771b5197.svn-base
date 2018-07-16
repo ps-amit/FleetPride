@@ -1,0 +1,149 @@
+2017-09-25 12:41:03,720 INFO  [Log] Test Scenario Configuration started 
+2017-09-25 12:41:03,735 INFO  [Log] Initialing HTML reporting 
+2017-09-25 12:41:03,969 INFO  [Log] Starting Test Suit Execution 
+2017-09-25 12:41:04,141 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:41:04,157 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:41:04,188 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:41:04,626 INFO  [Log] Object repository is created successfully 
+2017-09-25 12:41:04,689 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-25 12:41:04,720 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-25 12:41:04,767 INFO  [Log] RG_TC_012_Blank 
+2017-09-25 12:41:04,784 INFO  [Log] RG_TC_016_Blank 
+2017-09-25 12:41:04,862 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:41:04,862 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_001; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-25 12:41:04,862 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:41:10,822 INFO  [Log] #### Executing Test case: PGNG_1801_TC_001; Description: Blank In Chrome Browser for TestData:1 
+2017-09-25 12:41:25,190 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-25 12:41:26,536 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-25 12:41:26,713 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-25 12:41:26,835 INFO  [Log] TS_04: Click on login button 
+2017-09-25 12:41:41,659 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-25 12:41:41,802 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-25 12:41:41,872 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-25 12:41:43,135 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-25 12:41:43,301 INFO  [Log] TS_09: Click on property 
+2017-09-25 12:41:46,510 INFO  [Log] TS_10: Click on Settings 
+2017-09-25 12:41:48,665 INFO  [Log] TS_11: Click on Mapping 
+2017-09-25 12:41:53,944 INFO  [Log] TS_12: Click on Basic tab 
+2017-09-25 12:42:02,277 INFO  [Log] TS_13: Click on Yes button: Action Element is not present moving to next step 
+2017-09-25 12:42:02,278 INFO  [Log] TS_14; Waited 5000 Milli seconds for Element 
+2017-09-25 12:42:07,457 INFO  [Log] TS_15; Passed; Verify the appearance of text 'Room Mapping' in the page; Value: room mapping; Present in Page values: Room Mapping,  
+2017-09-25 12:42:07,537 INFO  [Log] TS_16; Passed; Verify the appearance of text 'Rate Category' in the page; Value: rate category; Present in Page values: Rate Category,  
+2017-09-25 12:42:07,673 INFO  [Log] TS_17; Passed; Verify the appearance of text 'Inclusions' in the page; Value: inclusions; Present in Page values: Inclusions,  
+2017-09-25 12:42:12,688 INFO  [Log] closing test case  
+2017-09-25 12:42:14,951 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:42:14,983 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:42:14,998 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:42:15,045 INFO  [Log] ### Test case: PGNG_1801_TC_001; Description: Blank; status Executed 
+2017-09-25 12:42:15,186 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:42:15,217 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:42:15,248 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:42:15,248 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:42:15,248 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:42:15,498 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:42:15,498 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_002; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-25 12:42:15,498 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:42:20,720 INFO  [Log] #### Executing Test case: PGNG_1801_TC_002; Description: Blank In Chrome Browser for TestData:1 
+2017-09-25 12:42:36,509 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-25 12:42:37,889 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-25 12:42:38,039 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-25 12:42:38,139 INFO  [Log] TS_04: Click on login button 
+2017-09-25 12:42:52,298 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-25 12:42:52,431 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-25 12:42:52,494 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-25 12:42:53,687 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-25 12:42:53,782 INFO  [Log] TS_09: Click on property 
+2017-09-25 12:42:57,077 INFO  [Log] TS_10: Click on Settings 
+2017-09-25 12:42:59,203 INFO  [Log] TS_11: Click on Mapping 
+2017-09-25 12:43:03,384 INFO  [Log] TS_13: Verify that the default selected tab is 'Basic'; Passed; ; Element is present on the active page 
+2017-09-25 12:43:08,416 INFO  [Log] closing test case  
+2017-09-25 12:43:10,954 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:43:10,970 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:43:11,017 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:43:11,033 INFO  [Log] ### Test case: PGNG_1801_TC_002; Description: Blank; status Executed 
+2017-09-25 12:43:11,173 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:43:11,204 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:43:11,235 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:43:11,235 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:43:11,235 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:43:11,313 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:43:11,313 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_028; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-25 12:43:11,313 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:43:16,455 INFO  [Log] #### Executing Test case: PGNG_1801_TC_028; Description: Blank In Chrome Browser for TestData:1 
+2017-09-25 12:43:40,575 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-25 12:44:41,424 INFO  [Log] PGNG_TC_028TS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-25 12:45:35,263 WARN  [Log]  Browser instance is active 
+2017-09-25 12:45:35,514 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:45:35,545 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:45:35,576 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:45:35,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:45:35,576 FATAL [Log] PGNG_TC_028TS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-25 12:45:35,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:45:35,623 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:45:35,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_003; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-25 12:45:35,623 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:45:40,755 INFO  [Log] #### Executing Test case: PGNG_1801_TC_003; Description: Blank In Chrome Browser for TestData:1 
+2017-09-25 12:45:48,753 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-25 12:45:50,084 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-25 12:45:50,218 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-25 12:45:50,337 INFO  [Log] TS_04: Click on login button 
+2017-09-25 12:46:09,454 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-25 12:46:09,585 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-25 12:46:09,642 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-25 12:46:10,805 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-25 12:46:10,920 INFO  [Log] TS_09: Click on property 
+2017-09-25 12:46:14,104 INFO  [Log] TS_10: Click on Settings 
+2017-09-25 12:46:16,234 INFO  [Log] TS_11: Click on Mapping 
+2017-09-25 12:46:24,912 INFO  [Log] TS_12: Click on basic mapping tab: Action click If 
+2017-09-25 12:46:33,326 INFO  [Log] TS_13: Click on the Yes buton from the pop up: Action Element is not present moving to next step 
+2017-09-25 12:46:33,326 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-09-25 12:46:35,502 INFO  [Log] TS_15: Click on the Room Type button 
+2017-09-25 12:46:35,502 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-09-25 12:46:37,672 INFO  [Log] TS_17; Passed; Verify the text 'Add New Room Type' appearing in the pop up; Value: add new room type; Present in Page values: Add New Room Type,  
+2017-09-25 12:46:37,774 INFO  [Log] TS_18: Click on Name input box under Add new room type pop up 
+2017-09-25 12:46:38,044 INFO  [Log] TS_19: Input the Room type name; Action: Submited ValueValue: Sharing 
+2017-09-25 12:46:38,145 INFO  [Log] TS_20: Click on the Add button from the pop up 
+2017-09-25 12:46:39,284 INFO  [Log] TS_21; Passed; Verify the presence of Room type which is added; Value: sharing; Present in Page values: Sharing,  
+2017-09-25 12:46:39,367 INFO  [Log] TS_22: Click on the Room Type button again 
+2017-09-25 12:46:39,367 INFO  [Log] TS_23; Waited 2000 Milli seconds for Element 
+2017-09-25 12:46:41,462 INFO  [Log] TS_24: Click on Name input box under Add new room type pop up 
+2017-09-25 12:46:41,781 INFO  [Log] TS_25: Input the Room type name; Action: Submited ValueValue: Sharing 
+2017-09-25 12:46:41,879 INFO  [Log] TS_26: Click on the Add button from the pop up 
+2017-09-25 12:46:41,880 INFO  [Log] TS_27; Passed; Verify the alert message if room type already exist; Value: Room Type already exists!; Present in Alert message values: Room Type already exists! 
+2017-09-25 12:46:41,891 INFO  [Log] Alert is not detected on the page 
+2017-09-25 12:46:41,891 INFO  [Log] TS_29; Waited 4000 Milli seconds for Element 
+2017-09-25 12:46:46,031 INFO  [Log] TS_30: Click on the 'Cancel' button to close the pop up 
+2017-09-25 12:46:46,032 INFO  [Log] TS_31; Waited 2000 Milli seconds for Element 
+2017-09-25 12:46:48,157 INFO  [Log] TS_32; Passed; Verify Pop is Visible on the Page or not; Element is not present/dispayed on the page 
+2017-09-25 12:46:48,254 INFO  [Log] TS_33: Click on the action icon to delete the added room type 
+2017-09-25 12:46:48,357 INFO  [Log] TS_34: Click delete to delete the added room type 
+2017-09-25 12:46:48,357 INFO  [Log] TS_35; Waited 3000 Milli seconds for Element 
+2017-09-25 12:46:51,522 INFO  [Log] TS_36: Click on Yes button to delete the room type which is added; Action: Mouse Hover and Clicked 
+2017-09-25 12:46:55,817 INFO  [Log] New Element Location is : SharingStored in ObjRep using element name: delete: Type: Xpath 
+2017-09-25 12:47:21,211 INFO  [Log] TS_38; Passed; Verify the added room type is deleted; Element is not present/dispayed on the page 
+2017-09-25 12:47:26,211 INFO  [Log] closing test case  
+2017-09-25 12:47:28,521 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:47:28,553 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:47:28,584 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:47:28,584 INFO  [Log] ### Test case: PGNG_1801_TC_003; Description: Blank; status Executed 
+2017-09-25 12:47:28,802 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:47:28,834 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:47:28,865 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:47:28,865 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:47:28,865 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:47:28,927 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:47:28,927 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_006; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-25 12:47:28,927 INFO  [Log] **************************************************************************************** 
+2017-09-25 12:47:34,299 INFO  [Log] #### Executing Test case: PGNG_1801_TC_006; Description: Blank In Chrome Browser for TestData:1 
+2017-09-25 12:47:58,460 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-25 12:48:59,871 INFO  [Log] PGNG_TC_006TS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-25 12:50:26,249 WARN  [Log]  Browser instance is active 
+2017-09-25 12:50:26,549 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-25 12:50:26,580 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-25 12:50:26,611 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-25 12:50:26,611 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:50:26,611 FATAL [Log] PGNG_TC_006TS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-25 12:50:26,611 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:50:26,658 INFO  [Log] ####Closing Test Suite #### 
+2017-09-25 12:50:26,658 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-25 12:50:26,658 INFO  [Log] Creating Logs backup and storing for further reference 

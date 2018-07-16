@@ -1,0 +1,31 @@
+2017-10-12 14:52:27,324 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 14:52:27,341 INFO  [Log] Initialing HTML reporting 
+2017-10-12 14:52:27,546 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 14:52:27,767 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 14:52:27,805 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 14:52:27,839 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 14:52:28,309 INFO  [Log] Object repository is created successfully 
+2017-10-12 14:52:28,396 INFO  [Log] **************************************************************************************** 
+2017-10-12 14:52:28,396 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 14:52:28,396 INFO  [Log] **************************************************************************************** 
+2017-10-12 14:52:34,221 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 14:52:53,385 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 14:53:29,339 INFO  [Log] TS_02: Click on "Top 100 Parts Template" button 
+2017-10-12 14:53:29,343 INFO  [Log] TS_03; Waited 3000 Milli seconds for Element 
+2017-10-12 14:53:32,351 INFO  [Log] TS_04; Passed;  file   downloaded C:\Users\amit.singh\Downloads\PDC_Top_100_Template.csv 
+2017-10-12 14:54:07,790 INFO  [Log] TS_05: Click on "Blank Order Template" button 
+2017-10-12 14:54:07,791 INFO  [Log] TS_07; Waited 3000 Milli seconds for Element 
+2017-10-12 14:54:10,794 INFO  [Log] TS_07; Waited 3000 Milli seconds for Element 
+2017-10-12 14:54:15,801 INFO  [Log] closing test case  
+2017-10-12 14:54:18,367 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 14:54:18,404 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 14:54:18,441 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 14:54:18,456 INFO  [Log] ### Test case: quick_order; Description: Blank; status Executed 
+2017-10-12 14:54:18,639 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 14:54:18,674 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 14:54:18,711 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 14:54:18,711 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 14:54:18,711 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 14:54:18,950 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 14:54:18,950 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 14:54:18,950 INFO  [Log] Creating Logs backup and storing for further reference 

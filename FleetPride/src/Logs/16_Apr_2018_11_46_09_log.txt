@@ -1,0 +1,115 @@
+2018-04-16 11:45:43,166 INFO  [Log] Test Scenario Configuration started 
+2018-04-16 11:45:43,186 INFO  [Log] Initialing HTML reporting 
+2018-04-16 11:45:43,427 INFO  [Log] Starting Test Suit Execution 
+2018-04-16 11:45:43,797 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-16 11:45:43,860 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-16 11:45:43,927 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-16 11:45:44,508 INFO  [Log] Object repository is created successfully 
+2018-04-16 11:45:44,588 INFO  [Log] PE-733 Interchange Products Pricing Issue PDP PLP Page_Blank 
+2018-04-16 11:45:44,668 INFO  [Log] PE-717 Check Positive Negative Icon on PLP Page_Blank 
+2018-04-16 11:45:44,748 INFO  [Log] PE-403 My address Book Blank Scree Issue_Blank 
+2018-04-16 11:45:44,843 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-16 11:45:44,888 INFO  [Log] **************************************************************************************** 
+2018-04-16 11:45:44,888 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Pre-requisite Fetch Sales Pack DSP No; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-16 11:45:44,888 INFO  [Log] **************************************************************************************** 
+2018-04-16 11:45:52,388 INFO  [Log] #### Executing Test case: Pre-requisite Fetch Sales Pack DSP No; Description: Blank In Firefox Browser for TestData:1 
+2018-04-16 11:45:55,750 INFO  [Log] TS_01: fetch value form SF for Sales Pack;Column Name is not provided, Please provide column name in ActionSupportValue 
+2018-04-16 11:45:56,030 INFO  [Log] TS_01: fetch value form SF;Column Name is not provided, Please provide column name in ActionSupportValue 
+2018-04-16 11:46:00,756 INFO  [Log] closing test case  
+2018-04-16 11:46:00,834 ERROR [Log] Error#: Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.12.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 6487fbee-1106-4abc-beda-774158657d8a 
+2018-04-16 11:46:01,033 INFO  [Log] closing test case  
+2018-04-16 11:46:03,055 ERROR [Log] Error#: Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:6564 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.12.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-04-16 11:46:05,322 WARN  [Log]  Browser instance is active 
+2018-04-16 11:46:07,356 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:6564 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.12.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-04-16 11:46:07,356 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-16 11:46:07,359 FATAL [Log] Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:6564 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.12.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-04-16 11:46:07,359 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-16 11:46:07,486 INFO  [Log] E2E_normal_shipping -CC_Blank 
+2018-04-16 11:46:07,528 INFO  [Log] Links_Home_Page.xlsx_Blank 
+2018-04-16 11:46:07,559 INFO  [Log] Sales_Force_Login.xlsx_Blank 
+2018-04-16 11:46:07,590 INFO  [Log] E2E_Core_charges-CC_Blank 
+2018-04-16 11:46:07,642 INFO  [Log] Jira_P1_Sales_Pack_qty_validation_Quick_Order_Home_Page.xlsx_Blank 
+2018-04-16 11:46:07,673 INFO  [Log] E2E_Multiple_DC_Products_Quick_Order_Blank 
+2018-04-16 11:46:07,703 INFO  [Log] E2E_Multiple_products_Quick_Order_Blank 
+2018-04-16 11:46:07,737 INFO  [Log] E2E_back_order -stored_CC_Blank 
+2018-04-16 11:46:07,770 INFO  [Log] E2E_back_order_invoice_Blank 
+2018-04-16 11:46:07,815 INFO  [Log] E2E_normal_shipping -stored_CC_Blank 
+2018-04-16 11:46:07,843 INFO  [Log] E2E_normal_shipping_invoice_Blank 
+2018-04-16 11:46:07,877 INFO  [Log] E2E_Will_Call - stored_CC_Blank 
+2018-04-16 11:46:07,906 INFO  [Log] E2E_Will_Call -Ship_Remainder - stored_CC_Blank 
+2018-04-16 11:46:07,933 INFO  [Log] E2E_Will_Call -Ship_Remainder_invoice_Blank 
+2018-04-16 11:46:07,964 INFO  [Log] E2E_Will_Call_invoice_Blank 
+2018-04-16 11:46:07,986 INFO  [Log] fetch_SP_qty_Blank 
+2018-04-16 11:46:08,008 INFO  [Log] Sales_Pack_E2E_normal_shipping -stored_CC_Blank 
+2018-04-16 11:46:08,051 INFO  [Log] Sales_Pack_E2E_normal_shipping -invoice_Blank 
+2018-04-16 11:46:08,080 INFO  [Log] PLP_Sales_Pack_E2E_normal_shipping -CC_Blank 
+2018-04-16 11:46:08,106 INFO  [Log] E2E_Will_Call -Ship_Remainder -CC_Blank 
+2018-04-16 11:46:08,145 INFO  [Log] E2E_Quick_Order_Home_Page_Blank 
+2018-04-16 11:46:08,208 INFO  [Log] E2E_Duplicate_Line_Item_Blank 
+2018-04-16 11:46:08,241 INFO  [Log] E2E_Quick_Order_Home_Page_Free_Shipping_Blank 
+2018-04-16 11:46:08,292 INFO  [Log] E2E_X_category_product_Blank 
+2018-04-16 11:46:08,319 INFO  [Log] E2E_CSV_Order_Upload_invoice_Blank 
+2018-04-16 11:46:08,345 INFO  [Log] Product_Restriction_mycart_page.xlsx_Blank 
+2018-04-16 11:46:08,381 INFO  [Log] FP_home_page_search_productName_Blank 
+2018-04-16 11:46:08,411 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2018-04-16 11:46:08,439 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2018-04-16 11:46:08,510 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2018-04-16 11:46:08,547 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2018-04-16 11:46:08,581 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2018-04-16 11:46:08,607 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2018-04-16 11:46:08,634 INFO  [Log] FP_Order_Upload_Blank 
+2018-04-16 11:46:08,663 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2018-04-16 11:46:08,690 INFO  [Log] FP_My_Account_TC_2_Blank 
+2018-04-16 11:46:08,721 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2018-04-16 11:46:08,751 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2018-04-16 11:46:08,791 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2018-04-16 11:46:08,816 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2018-04-16 11:46:08,842 INFO  [Log] FP_My_Cart_TC_09_Blank 
+2018-04-16 11:46:08,864 INFO  [Log] FP_My_Cart_TC_44_Blank 
+2018-04-16 11:46:08,906 INFO  [Log] FP_My_Cart_TC_47_Blank 
+2018-04-16 11:46:08,933 INFO  [Log] FP_My_Cart_TC_46_Blank 
+2018-04-16 11:46:08,959 INFO  [Log] FP_Payment_TC_02_Blank 
+2018-04-16 11:46:08,983 INFO  [Log] FP_Payment_TC_15_Blank 
+2018-04-16 11:46:09,020 INFO  [Log] Sales_Force_Blank 
+2018-04-16 11:46:09,045 INFO  [Log] Search_01_Blank 
+2018-04-16 11:46:09,062 INFO  [Log] Search_02_Blank 
+2018-04-16 11:46:09,086 INFO  [Log] Search_SO_Blank 
+2018-04-16 11:46:09,107 INFO  [Log] Filter_SO_Blank 
+2018-04-16 11:46:09,126 INFO  [Log] MA_Admin_Blank 
+2018-04-16 11:46:09,144 INFO  [Log] QO_Home_Blank 
+2018-04-16 11:46:09,156 INFO  [Log] Wishlist_PDP_Blank 
+2018-04-16 11:46:09,176 INFO  [Log] Wishlist_PLP_Blank 
+2018-04-16 11:46:09,216 INFO  [Log] QO_ShopOnline_Blank 
+2018-04-16 11:46:09,236 INFO  [Log] Upload_Blank 
+2018-04-16 11:46:09,277 INFO  [Log] Invalid_Quantity_Blank 
+2018-04-16 11:46:09,297 INFO  [Log] Invalid_Product_Blank 
+2018-04-16 11:46:09,317 INFO  [Log] Edit_Will_Call_Blank 
+2018-04-16 11:46:09,337 INFO  [Log] File_Verification_Blank 
+2018-04-16 11:46:09,357 INFO  [Log] Order_List_Account_Blank 
+2018-04-16 11:46:09,367 INFO  [Log] Saved_CC_Blank 
+2018-04-16 11:46:09,397 INFO  [Log] Backorder_Blank 
+2018-04-16 11:46:09,412 INFO  [Log] Backorder_Will_Call_Blank 
+2018-04-16 11:46:09,445 INFO  [Log] Blank_File_Blank 
+2018-04-16 11:46:09,456 INFO  [Log] UO_Del_Mor_Blank 
+2018-04-16 11:46:09,487 INFO  [Log] Search_Orders_Blank 
+2018-04-16 11:46:09,497 INFO  [Log] Shipping_Address_Blank 
+2018-04-16 11:46:09,517 INFO  [Log] PDP_Details_Blank 
+2018-04-16 11:46:09,527 INFO  [Log] Sales_Pack_QO_Home_Blank 
+2018-04-16 11:46:09,552 INFO  [Log] Sales_Pack_PDP_Blank 
+2018-04-16 11:46:09,567 INFO  [Log] ####Closing Test Suite #### 
+2018-04-16 11:46:09,567 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-16 11:46:09,567 INFO  [Log] Creating Logs backup and storing for further reference 

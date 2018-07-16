@@ -1,0 +1,45 @@
+2018-06-18 12:16:25,963 INFO  [Log] Test Scenario Configuration started 
+2018-06-18 12:16:25,982 INFO  [Log] Initialing HTML reporting 
+2018-06-18 12:16:26,906 INFO  [Log] Starting Test Suit Execution 
+2018-06-18 12:16:27,512 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 12:16:27,592 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 12:16:27,672 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 12:16:29,125 INFO  [Log] Object repository is created successfully 
+2018-06-18 12:16:29,219 INFO  [Log] **************************************************************************************** 
+2018-06-18 12:16:29,219 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Fetch DSP from Sales Force; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-18 12:16:29,219 INFO  [Log] **************************************************************************************** 
+2018-06-18 12:16:31,347 INFO  [Log] #### Executing Test case: Fetch DSP from Sales Force; Description: Blank In No Browser Browser for TestData:1 
+2018-06-18 12:16:35,728 INFO  [Log] TS_01: fetch value form SF;Column Name is not provided, Please provide column name in ActionSupportValue 
+2018-06-18 12:16:40,731 INFO  [Log] closing test case  
+2018-06-18 12:16:41,132 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 12:16:41,209 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 12:16:41,292 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 12:16:41,323 INFO  [Log] ### Test case: Fetch DSP from Sales Force; Description: Blank; status Executed 
+2018-06-18 12:16:41,773 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 12:16:41,849 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 12:16:41,936 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 12:16:41,936 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-18 12:16:41,936 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-18 12:16:42,456 INFO  [Log] **************************************************************************************** 
+2018-06-18 12:16:42,456 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Simple_Login; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-18 12:16:42,456 INFO  [Log] **************************************************************************************** 
+2018-06-18 12:16:52,702 INFO  [Log] #### Executing Test case: Simple_Login; Description: Blank In Chrome Browser for TestData:1 
+2018-06-18 12:16:58,668 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-06-18 12:16:58,885 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: test.auto@epdc.com 
+2018-06-18 12:16:58,885 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: config.username 
+2018-06-18 12:16:58,985 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: test@1234 
+2018-06-18 12:16:58,985 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: config.password 
+2018-06-18 12:16:58,985 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-06-18 12:17:04,985 INFO  [Log] closing test case  
+2018-06-18 12:17:07,833 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 12:17:07,926 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 12:17:08,017 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 12:17:08,138 INFO  [Log] ### Test case: Simple_Login; Description: Blank; status Executed 
+2018-06-18 12:17:08,595 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-18 12:17:08,680 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-18 12:17:08,766 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-18 12:17:08,766 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-18 12:17:08,766 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-18 12:17:08,902 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-18 12:17:09,061 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-18 12:17:09,085 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,64 @@
+2018-05-28 15:35:19,125 INFO  [Log] Test Scenario Configuration started 
+2018-05-28 15:35:19,145 INFO  [Log] Initialing HTML reporting 
+2018-05-28 15:35:19,438 INFO  [Log] Starting Test Suit Execution 
+2018-05-28 15:35:19,961 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 15:35:20,063 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 15:35:20,168 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 15:35:20,854 INFO  [Log] Object repository is created successfully 
+2018-05-28 15:35:20,937 INFO  [Log] fetch_SP_qty_Blank 
+2018-05-28 15:35:21,011 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-28 15:35:21,084 INFO  [Log] fetch_X_Category_Product_Pre-requisite  
+2018-05-28 15:35:21,144 INFO  [Log] E2E_X_category_product_Blank 
+2018-05-28 15:35:21,214 INFO  [Log] Reorder_Blank 
+2018-05-28 15:35:21,277 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite 
+2018-05-28 15:35:21,333 INFO  [Log] Fetch DSP from Sales Force-qty<100_Pre-requisite 
+2018-05-28 15:35:21,382 INFO  [Log] **************************************************************************************** 
+2018-05-28 15:35:21,382 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-28 15:35:21,382 INFO  [Log] **************************************************************************************** 
+2018-05-28 15:35:27,559 INFO  [Log] #### Executing Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank In Chrome Browser for TestData:1 
+2018-05-28 15:35:37,590 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-28 15:35:37,802 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-28 15:35:37,925 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1234 
+2018-05-28 15:35:37,925 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-28 15:35:40,896 INFO  [Log] TS_05: Click on login button 
+2018-05-28 15:35:40,899 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-28 15:35:51,172 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: YP518L 
+2018-05-28 15:35:55,176 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-28 15:35:55,178 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-05-28 15:36:05,341 INFO  [Log] TS_10: Click on the down arrow icon to select the already created order list 
+2018-05-28 15:36:05,461 INFO  [Log] TS_11: Select the first available order list from the drop down 
+2018-05-28 15:36:05,462 INFO  [Log] TS_12; Waited 2000 Milli seconds for Element 
+2018-05-28 15:36:11,653 INFO  [Log] TS_13: Navigate back to the home page 
+2018-05-28 15:36:11,654 INFO  [Log] TS_14; Waited 10000 Milli seconds for Element 
+2018-05-28 15:36:22,804 INFO  [Log] TS_15: Scroll to saved order list section: Action Scroll Down 
+2018-05-28 15:36:23,092 INFO  [Log] TS_16: Click on the drop down icon to select the order list 
+2018-05-28 15:36:23,260 INFO  [Log] TS_17: Select the first order list name from the drop down 
+2018-05-28 15:36:23,261 INFO  [Log] TS_18; Waited 10000 Milli seconds for Element 
+2018-05-28 15:36:33,471 INFO  [Log] TS_19: Clear the qty field; Action Clear 
+2018-05-28 15:36:33,609 INFO  [Log] TS_20: Input qty in the field; Action: Submitted Value: Value: null 
+2018-05-28 15:36:33,711 INFO  [Log] TS_21: Click on "Add To cart" button 
+2018-05-28 15:36:33,711 INFO  [Log] TS_22; Waited 10000 Milli seconds for Element 
+2018-05-28 15:36:43,972 INFO  [Log] TS_23; Passed; Verify the appearance of the 'Back Order' text in the pop up; Text is present for the given emement element :  
+2018-05-28 15:36:44,159 INFO  [Log] TS_24: Capture the back order textWe can ship 7 to you but 93 will be on backorder.; Value has been stored in index: 0 
+2018-05-28 15:36:44,197 INFO  [Log] User specified value has been replaced at index0New Value is: We can ship 7 
+2018-05-28 15:36:44,221 INFO  [Log] User specified value has been replaced at index0New Value is: 7 
+2018-05-28 15:36:44,445 INFO  [Log] TS_27: Click on the "Continue" button 
+2018-05-28 15:36:44,445 INFO  [Log] TS_28; Waited 10000 Milli seconds for Element 
+2018-05-28 15:36:55,618 INFO  [Log] TS_29: Scroll to the top of the page: Action Scroll Down 
+2018-05-28 15:36:55,781 INFO  [Log] TS_30: Capture the mini my cart link valueMy Cart: 7 item(s), $0.00; Value has been stored in index: 1 
+2018-05-28 15:36:55,816 INFO  [Log] User specified value has been replaced at index1New Value is: My Cart: 7 
+2018-05-28 15:36:55,860 INFO  [Log] User specified value has been replaced at index1New Value is: 7 
+2018-05-28 15:36:55,862 INFO  [Log] TS_33; Passed; null; Captured text1: 7; Captured text2: 7 
+2018-05-28 15:36:56,013 INFO  [Log] TS_34: Verify the price value not to be zeroMy Cart: 7 item(s), $0.00; Value has been stored in index: 2 
+2018-05-28 15:36:56,042 INFO  [Log] User specified value has been replaced at index2New Value is: My Cart: 7 item(s), $0.00 
+2018-05-28 15:36:56,073 INFO  [Log] User specified value has been replaced at index2New Value is:  $0.00 
+2018-05-28 15:36:56,073 INFO  [Log] TS_38; Waited 5000 Milli seconds for Element 
+2018-05-28 15:37:01,164 INFO  [Log] PE-319TS_37XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-28 15:37:02,260 WARN  [Log]  Browser instance is active 
+2018-05-28 15:37:05,576 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 15:37:05,708 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 15:37:05,845 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 15:37:05,845 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 15:37:05,845 FATAL [Log] PE-319TS_37XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-28 15:37:05,845 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 15:37:05,937 INFO  [Log] Creating Logs backup and storing for further reference 

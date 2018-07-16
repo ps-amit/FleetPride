@@ -1,0 +1,42 @@
+2017-10-27 18:43:16,824 INFO  [Log] Test Scenario Configuration started 
+2017-10-27 18:43:16,844 INFO  [Log] Initialing HTML reporting 
+2017-10-27 18:43:17,004 INFO  [Log] Starting Test Suit Execution 
+2017-10-27 18:43:17,194 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 18:43:17,224 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 18:43:17,254 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 18:43:17,674 INFO  [Log] Object repository is created successfully 
+2017-10-27 18:43:17,715 INFO  [Log] FP_home_page_search_productName_TC_13_Blank 
+2017-10-27 18:43:17,775 INFO  [Log] FP_home_page_search_productPartNumber_TC_01_Blank 
+2017-10-27 18:43:17,815 INFO  [Log] FP_home_page_search_invalid_data_TC_14_Blank 
+2017-10-27 18:43:17,855 INFO  [Log] FP_home_page_search_below_2_characters_TC_08_Blank 
+2017-10-27 18:43:17,896 INFO  [Log] FP_pdp_search_productPartNumber_TC_09_Blank 
+2017-10-27 18:43:17,937 INFO  [Log] FP_pdp_search_productName_TC_07_Blank 
+2017-10-27 18:43:17,967 INFO  [Log] FP_pdp_search_invalid_data_TC_08_Blank 
+2017-10-27 18:43:18,007 INFO  [Log] FP_pdp_search_below_2_characters_TC_10_Blank 
+2017-10-27 18:43:18,047 INFO  [Log] **************************************************************************************** 
+2017-10-27 18:43:18,047 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdp_quick_order_TC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-27 18:43:18,047 INFO  [Log] **************************************************************************************** 
+2017-10-27 18:43:23,914 INFO  [Log] #### Executing Test case: FP_pdp_quick_order_TC; Description: Blank In Chrome Browser for TestData:1 
+2017-10-27 18:43:33,688 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-27 18:44:11,762 INFO  [Log] TS_02: Click on the login link 
+2017-10-27 18:44:47,281 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-27 18:45:22,855 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-27 18:46:04,371 INFO  [Log] TS_05: Click on login button 
+2017-10-27 18:46:45,918 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-27 18:47:21,980 INFO  [Log] TS_07: Input the SKU value in first field; Action: Submited ValueValue: TMK-907257 
+2017-10-27 18:47:57,474 INFO  [Log] TS_09: Click on add to cart button 
+2017-10-27 18:48:32,873 INFO  [Log] TS_10: Capture the product quantity from the my cart section that appears at the topMy Cart: 2 item, $16.00; Value has been stored in index: 0 
+2017-10-27 18:49:08,693 INFO  [Log] User specified value has been replaced at index0New Value is: My Cart: 2 
+2017-10-27 18:49:44,004 INFO  [Log] User specified value has been replaced at index0New Value is: 2 
+2017-10-27 18:50:19,313 ERROR [Log] Error#: TS_13Element Location type is not defined 
+2017-10-27 18:50:19,313 INFO  [Log] FP_pdp_quick_order_TCTS_13BlankVerifyCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-27 18:50:20,355 WARN  [Log]  Browser instance is active 
+2017-10-27 18:50:22,923 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 18:50:22,954 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 18:50:22,984 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 18:50:22,984 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 18:50:22,984 FATAL [Log] FP_pdp_quick_order_TCTS_13BlankVerifyCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-27 18:50:22,984 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 18:50:23,054 INFO  [Log] ####Closing Test Suite #### 
+2017-10-27 18:50:23,054 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 18:50:23,054 INFO  [Log] Creating Logs backup and storing for further reference 

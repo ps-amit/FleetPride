@@ -1,0 +1,27 @@
+2017-10-27 11:27:39,385 INFO  [Log] Test Scenario Configuration started 
+2017-10-27 11:27:39,405 INFO  [Log] Initialing HTML reporting 
+2017-10-27 11:27:39,626 INFO  [Log] Starting Test Suit Execution 
+2017-10-27 11:27:39,806 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 11:27:39,847 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 11:27:39,877 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 11:27:40,449 INFO  [Log] Object repository is created successfully 
+2017-10-27 11:27:40,489 INFO  [Log] product_search_script_Blank 
+2017-10-27 11:27:40,539 INFO  [Log] quick_order_Blank 
+2017-10-27 11:27:40,619 INFO  [Log] **************************************************************************************** 
+2017-10-27 11:27:40,619 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: cart; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-27 11:27:40,619 INFO  [Log] **************************************************************************************** 
+2017-10-27 11:27:40,659 ERROR [Log] Error#: cart; Error in communicating with Browserorg.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.203', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: SafariDriver 
+2017-10-27 11:27:40,659 INFO  [Log] #### Executing Test case: cart; Description: Blank In Safari Browser for TestData:1 
+2017-10-27 11:27:50,745 INFO  [Log] myAccountTS_02XpathClick  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-10-27 11:27:51,941 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 11:27:51,981 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 11:27:52,021 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 11:27:52,021 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 11:27:52,021 FATAL [Log] myAccountTS_02XpathClick  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-10-27 11:27:52,021 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 11:27:52,101 INFO  [Log] ####Closing Test Suite #### 
+2017-10-27 11:27:52,101 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 11:27:52,101 INFO  [Log] Creating Logs backup and storing for further reference 

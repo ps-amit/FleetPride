@@ -1,0 +1,26 @@
+2018-05-22 11:16:21,629 INFO  [Log] Test Scenario Configuration started 
+2018-05-22 11:16:21,656 INFO  [Log] Initialing HTML reporting 
+2018-05-22 11:16:21,920 INFO  [Log] Starting Test Suit Execution 
+2018-05-22 11:16:22,353 INFO  [Log] PE-685TS_09XpathClick  org.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-05-22 11:16:22,482 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-22 11:16:22,634 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-22 11:16:22,765 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-22 11:16:23,391 INFO  [Log] Object repository is created successfully 
+2018-05-22 11:16:23,460 INFO  [Log] **************************************************************************************** 
+2018-05-22 11:16:23,460 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-685; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-22 11:16:23,460 INFO  [Log] **************************************************************************************** 
+2018-05-22 11:16:25,221 WARN  [Log]  Browser instance is active 
+2018-05-22 11:16:27,273 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:17156 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-05-22 11:16:27,273 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 11:16:27,273 FATAL [Log] PE-685TS_09XpathClick  org.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-05-22 11:16:27,273 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 11:16:27,392 INFO  [Log] Creating Logs backup and storing for further reference 

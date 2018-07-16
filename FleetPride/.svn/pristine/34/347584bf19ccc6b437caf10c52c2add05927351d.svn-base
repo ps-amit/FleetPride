@@ -1,0 +1,42 @@
+2017-07-17 14:51:13,954 INFO  [Log] Test Scenario Configuration started 
+2017-07-17 14:51:13,973 INFO  [Log] Initialing HTML reporting 
+2017-07-17 14:51:14,251 INFO  [Log] Starting Test Suit Execution 
+2017-07-17 14:51:14,252 WARN  [Log] Browser instance value is null 
+2017-07-17 14:51:15,184 INFO  [Log] Object repository is created successfully 
+2017-07-17 14:51:15,443 INFO  [Log] **************************************************************************************** 
+2017-07-17 14:51:15,443 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_1; Description: AlertRateKart_1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 14:51:15,444 INFO  [Log] **************************************************************************************** 
+2017-07-17 14:51:22,813 INFO  [Log] #### Executing Test case: AlertRateKart_1; Description: AlertRateKart_1 In firefox Browser for TestData:1 
+2017-07-17 14:52:53,941 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 14:52:54,400 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-17 14:52:54,656 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-17 14:52:55,803 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-17 14:52:55,803 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-17 14:53:03,988 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-17 14:53:05,028 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-17 14:53:05,111 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-17 14:53:05,191 INFO  [Log] TS_09: verify price thrashold breach present; Passed; ; Element is present on the active page 
+2017-07-17 14:53:05,268 INFO  [Log] TS_10: verify competitors price change present; Passed; ; Element is present on the active page 
+2017-07-17 14:53:05,363 INFO  [Log] TS_11: verify price watch present; Passed; ; Element is present on the active page 
+2017-07-17 14:53:05,365 INFO  [Log] closing test case  
+2017-07-17 14:53:05,373 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 14:53:05,439 INFO  [Log] ### Test case: AlertRateKart_1; Description: AlertRateKart_1; status Executed 
+2017-07-17 14:53:06,906 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 14:53:07,041 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 14:53:07,365 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 14:53:07,365 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 14:53:07,365 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 14:53:07,787 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-17 14:53:07,834 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-17 14:53:07,874 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-17 14:53:07,908 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-17 14:53:07,944 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-17 14:53:07,974 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-17 14:53:08,010 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-17 14:53:08,049 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-17 14:53:08,079 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-17 14:53:08,111 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-17 14:53:08,141 INFO  [Log] PostRequest_PostRequest 
+2017-07-17 14:53:08,174 INFO  [Log] ####Closing Test Suite #### 
+2017-07-17 14:53:08,174 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 14:53:08,174 INFO  [Log] Creating Logs backup and storing for further reference 

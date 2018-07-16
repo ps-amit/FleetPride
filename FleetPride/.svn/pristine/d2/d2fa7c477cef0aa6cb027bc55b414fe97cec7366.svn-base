@@ -1,0 +1,105 @@
+2017-08-31 10:37:17,575 INFO  [Log] Test Scenario Configuration started 
+2017-08-31 10:37:17,608 INFO  [Log] Initialing HTML reporting 
+2017-08-31 10:37:17,848 INFO  [Log] Starting Test Suit Execution 
+2017-08-31 10:37:17,848 WARN  [Log] No Browser instance is active 
+2017-08-31 10:37:18,536 INFO  [Log] Object repository is created successfully 
+2017-08-31 10:37:18,646 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-31 10:37:18,741 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-31 10:37:18,838 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-08-31 10:37:18,890 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-08-31 10:37:18,959 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-08-31 10:37:19,042 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Restriction filter on compset 
+2017-08-31 10:37:19,089 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-08-31 10:37:19,137 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Restriction filter on compset 
+2017-08-31 10:37:19,197 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-08-31 10:37:19,289 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Restriction filter on compset 
+2017-08-31 10:37:19,383 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-08-31 10:37:19,426 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Restriction filter on compset 
+2017-08-31 10:37:19,470 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-08-31 10:37:19,527 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-08-31 10:37:19,567 INFO  [Log] Rg_TC_61.xlsx_Rg_TC_61.xlsx 
+2017-08-31 10:37:19,632 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-31 10:37:19,693 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-31 10:37:19,735 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-08-31 10:37:19,803 INFO  [Log] **************************************************************************************** 
+2017-08-31 10:37:19,803 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_68.xlsx; Description: To verify  Compset Avg Supply on calander (All  Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-31 10:37:19,803 INFO  [Log] **************************************************************************************** 
+2017-08-31 10:37:26,066 INFO  [Log] #### Executing Test case: Rg_TC_68.xlsx; Description: To verify  Compset Avg Supply on calander (All  Filter) In Chrome Browser for TestData:1 
+2017-08-31 10:37:45,297 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-31 10:37:45,983 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-31 10:37:46,137 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-31 10:37:46,242 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-31 10:37:46,243 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-31 10:37:56,375 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-31 10:37:56,515 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-31 10:37:56,584 INFO  [Log] TS_08: edit xpathNew Element Location is : Holiday Inn Express  London - EalingStored in ObjRep using element name: property: Type: Xpath 
+2017-08-31 10:38:15,084 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-31 10:38:15,084 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-08-31 10:38:25,278 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-31 10:38:25,278 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-08-31 10:38:35,389 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-31 10:38:35,390 INFO  [Log] TS_14; Waited 12000 Milli seconds for Element 
+2017-08-31 10:38:47,583 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-31 10:38:47,584 INFO  [Log] TS_16; Waited 12000 Milli seconds for Element 
+2017-08-31 10:38:59,809 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-31 10:38:59,810 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-08-31 10:39:19,366 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-31 10:39:26,699 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-31 10:39:28,833 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-31 10:39:28,833 INFO  [Log] TS_24; Waited 8000 Milli seconds for Element 
+2017-08-31 10:39:36,946 INFO  [Log] TS_25: RateFilter: Action click 
+2017-08-31 10:39:36,946 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-31 10:39:41,283 INFO  [Log] TS_27: Qualification; Action: Drop Down Select 
+2017-08-31 10:39:41,507 INFO  [Log] TS_28: Restriction; Action: Drop Down Select 
+2017-08-31 10:39:41,745 INFO  [Log] TS_29: Promotion; Action: Drop Down Select 
+2017-08-31 10:39:41,998 INFO  [Log] TS_30: LOS; Action: Drop Down Select 
+2017-08-31 10:39:42,294 INFO  [Log] TS_31: GuestCount; Action: Drop Down Select 
+2017-08-31 10:39:42,481 INFO  [Log] optima-lowest_filterTS_32ObjectRepDropDownSelect  org.openqa.selenium.NoSuchElementException: Cannot locate element with text: King
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: driver.version: unknownnull:Exception is not handled 
+2017-08-31 10:39:47,685 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-31 10:39:48,087 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-31 10:39:48,394 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-31 10:39:48,395 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-31 10:39:48,395 FATAL [Log] optima-lowest_filterTS_32ObjectRepDropDownSelect  org.openqa.selenium.NoSuchElementException: Cannot locate element with text: King
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: driver.version: unknownnull:Exception is not handled 
+2017-08-31 10:39:48,395 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-31 10:39:48,571 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-08-31 10:39:48,608 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-31 10:39:48,686 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-08-31 10:39:48,719 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-08-31 10:39:48,755 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-08-31 10:39:48,788 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-08-31 10:39:48,821 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-31 10:39:48,854 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-31 10:39:48,887 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-31 10:39:48,940 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-31 10:39:48,988 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-31 10:39:49,038 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-31 10:39:49,065 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-31 10:39:49,098 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-31 10:39:49,137 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-31 10:39:49,196 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-31 10:39:49,262 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-31 10:39:49,308 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-31 10:39:49,339 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-31 10:39:49,365 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-31 10:39:49,392 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-31 10:39:49,418 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-31 10:39:49,444 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-31 10:39:49,470 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-31 10:39:49,494 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-31 10:39:49,518 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-31 10:39:49,545 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-31 10:39:49,574 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-31 10:39:49,604 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-31 10:39:49,633 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-31 10:39:49,685 INFO  [Log] Rg_TC_53_allfilyer_Rg_TC_53_allfilyer 
+2017-08-31 10:39:49,713 INFO  [Log] ####Closing Test Suite #### 
+2017-08-31 10:39:49,713 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-31 10:39:49,713 INFO  [Log] Creating Logs backup and storing for further reference 

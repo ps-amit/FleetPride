@@ -1,0 +1,54 @@
+2017-11-02 17:26:56,869 INFO  [Log] Test Scenario Configuration started 
+2017-11-02 17:26:56,889 INFO  [Log] Initialing HTML reporting 
+2017-11-02 17:26:57,069 INFO  [Log] Starting Test Suit Execution 
+2017-11-02 17:26:57,239 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 17:26:57,269 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 17:26:57,309 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 17:26:57,733 INFO  [Log] Object repository is created successfully 
+2017-11-02 17:26:57,798 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-02 17:26:57,856 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-02 17:26:57,913 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-02 17:26:57,946 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-02 17:26:57,988 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-02 17:26:58,027 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-02 17:26:58,074 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-02 17:26:58,104 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-02 17:26:58,153 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-02 17:26:58,183 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-02 17:26:58,204 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-02 17:26:58,233 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-02 17:26:58,262 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-02 17:26:58,290 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-02 17:26:58,317 INFO  [Log] Testing_Purpose_Blank 
+2017-11-02 17:26:58,353 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-02 17:26:58,393 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-02 17:26:58,433 INFO  [Log] **************************************************************************************** 
+2017-11-02 17:26:58,433 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_01; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-02 17:26:58,433 INFO  [Log] **************************************************************************************** 
+2017-11-02 17:27:04,262 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_01; Description: Blank In Chrome Browser for TestData:1 
+2017-11-02 17:27:17,709 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 17:27:55,775 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 17:28:31,314 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 17:29:06,962 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 17:29:47,922 INFO  [Log] TS_05: Click on login button 
+2017-11-02 17:30:23,470 INFO  [Log] TS_06: Capture value at my cart link intiallyMy Cart: 0 item(s), $0.00; Value has been stored in index: 0 
+2017-11-02 17:30:58,911 INFO  [Log] User specified value has been replaced at index0New Value is: My Cart: 0 
+2017-11-02 17:31:34,312 INFO  [Log] User specified value has been replaced at index0New Value is: 0 
+2017-11-02 17:32:09,811 INFO  [Log] TS_09: Capture value at my cart linkMy Cart: 0 item(s), $0.00; Value has been stored in index: 1 
+2017-11-02 17:32:45,264 INFO  [Log] User specified value has been replaced at index1New Value is:  $0.00 
+2017-11-02 17:33:20,687 INFO  [Log] TS_11: Capture the product part number90350; Value has been stored in index: 2 
+2017-11-02 17:33:56,170 INFO  [Log] TS_12: Capture the product price$50.00; Value has been stored in index: 3 
+2017-11-02 17:34:40,649 INFO  [Log] TS_13: Click on the product link 
+2017-11-02 17:35:16,163 INFO  [Log] TS_14: Capture the product initial quantity1; Value has been stored in index: 4 
+2017-11-02 17:35:51,657 INFO  [Log] TS_15: Click on the '+' icon to change product quantity 
+2017-11-02 17:35:51,657 INFO  [Log] FP_My_Cart_TC_01TS_16BlankVerifyCapturewithCapture  java.lang.IndexOutOfBoundsException: Index: 5, Size: 5null:Exception is not handled 
+2017-11-02 17:35:52,798 WARN  [Log]  Browser instance is active 
+2017-11-02 17:35:55,340 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 17:35:55,371 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 17:35:55,401 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 17:35:55,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 17:35:55,401 FATAL [Log] FP_My_Cart_TC_01TS_16BlankVerifyCapturewithCapture  java.lang.IndexOutOfBoundsException: Index: 5, Size: 5null:Exception is not handled 
+2017-11-02 17:35:55,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 17:35:55,461 INFO  [Log] ####Closing Test Suite #### 
+2017-11-02 17:35:55,461 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 17:35:55,461 INFO  [Log] Creating Logs backup and storing for further reference 

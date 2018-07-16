@@ -1,0 +1,67 @@
+2017-08-04 14:45:21,538 INFO  [Log] Test Scenario Configuration started 
+2017-08-04 14:45:21,618 INFO  [Log] Initialing HTML reporting 
+2017-08-04 14:45:21,896 INFO  [Log] Starting Test Suit Execution 
+2017-08-04 14:45:21,897 WARN  [Log] No Browser instance is active 
+2017-08-04 14:45:22,701 INFO  [Log] Object repository is created successfully 
+2017-08-04 14:45:22,787 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-08-04 14:45:22,871 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-08-04 14:45:22,950 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-08-04 14:45:23,009 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-08-04 14:45:23,063 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-08-04 14:45:23,203 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-08-04 14:45:23,258 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-08-04 14:45:23,330 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-08-04 14:45:23,377 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-08-04 14:45:23,467 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-08-04 14:45:23,517 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-08-04 14:45:23,598 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-08-04 14:45:23,651 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-08-04 14:45:23,690 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-08-04 14:45:23,729 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-08-04 14:45:23,770 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-08-04 14:45:23,809 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-08-04 14:45:23,848 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-08-04 14:45:23,986 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-08-04 14:45:24,024 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-08-04 14:45:24,060 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-08-04 14:45:24,097 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-08-04 14:45:24,133 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-08-04 14:45:24,167 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-08-04 14:45:24,306 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-08-04 14:45:24,341 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-08-04 14:45:24,372 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-08-04 14:45:24,439 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-08-04 14:45:24,487 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-08-04 14:45:24,516 INFO  [Log] Rg_TC0065.xlsx_Rg_TC0065.xlsx 
+2017-08-04 14:45:24,545 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-08-04 14:45:24,576 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-08-04 14:45:24,603 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-08-04 14:45:24,630 INFO  [Log] Rg_TC0103.xlsx_Rg_TC0103.xlsx 
+2017-08-04 14:45:24,658 INFO  [Log] Rg_TC0104.xlsx_Rg_TC0104.xlsx 
+2017-08-04 14:45:24,701 INFO  [Log] **************************************************************************************** 
+2017-08-04 14:45:24,701 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0105.xlsx; Description: Rg_TC0105.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-04 14:45:24,701 INFO  [Log] **************************************************************************************** 
+2017-08-04 14:45:44,889 INFO  [Log] #### Executing Test case: Rg_TC0105.xlsx; Description: Rg_TC0105.xlsx In firefox Browser for TestData:1 
+2017-08-04 14:45:50,114 ERROR [Log] Error#: optima-117TS_02XpathSubmitValue  org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.mcSf03dZgnr0, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=17876.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 551aca45-fb34-4a0c-a800-9370c58cc11dnull:Exception is not handled 
+2017-08-04 14:45:51,140 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.mcSf03dZgnr0, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=17876.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 551aca45-fb34-4a0c-a800-9370c58cc11d 
+2017-08-04 14:45:51,140 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-04 14:45:51,141 FATAL [Log] optima-117TS_02XpathSubmitValue  org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.mcSf03dZgnr0, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=17876.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 551aca45-fb34-4a0c-a800-9370c58cc11dnull:Exception is not handled 
+2017-08-04 14:45:51,141 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-04 14:45:51,695 INFO  [Log] ####Closing Test Suite #### 
+2017-08-04 14:45:51,696 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-04 14:45:51,696 INFO  [Log] Creating Logs backup and storing for further reference 

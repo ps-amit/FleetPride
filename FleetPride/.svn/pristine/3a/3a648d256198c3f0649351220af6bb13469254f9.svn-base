@@ -1,0 +1,45 @@
+2017-10-27 18:02:43,018 INFO  [Log] Test Scenario Configuration started 
+2017-10-27 18:02:43,035 INFO  [Log] Initialing HTML reporting 
+2017-10-27 18:02:43,210 INFO  [Log] Starting Test Suit Execution 
+2017-10-27 18:02:43,407 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 18:02:43,439 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 18:02:43,472 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 18:02:43,891 INFO  [Log] Object repository is created successfully 
+2017-10-27 18:02:43,940 INFO  [Log] FP_home_page_search_productName_TC_13_Blank 
+2017-10-27 18:02:43,995 INFO  [Log] FP_home_page_search_productPartNumber_TC_01_Blank 
+2017-10-27 18:02:44,042 INFO  [Log] FP_home_page_search_invalid_data_TC_14_Blank 
+2017-10-27 18:02:44,083 INFO  [Log] FP_home_page_search_below_2_characters_TC_08_Blank 
+2017-10-27 18:02:44,120 INFO  [Log] FP_pdp_search_productPartNumber_TC_09_Blank 
+2017-10-27 18:02:44,155 INFO  [Log] FP_pdp_search_productName_TC_07_Blank 
+2017-10-27 18:02:44,191 INFO  [Log] FP_pdp_search_invalid_data_TC_08_Blank 
+2017-10-27 18:02:44,230 INFO  [Log] FP_pdp_search_below_2_characters_TC_10_Blank 
+2017-10-27 18:02:44,279 INFO  [Log] **************************************************************************************** 
+2017-10-27 18:02:44,279 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdp_quick_order_TC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-27 18:02:44,279 INFO  [Log] **************************************************************************************** 
+2017-10-27 18:02:50,082 INFO  [Log] #### Executing Test case: FP_pdp_quick_order_TC; Description: Blank In Chrome Browser for TestData:1 
+2017-10-27 18:03:03,001 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-27 18:03:41,556 INFO  [Log] TS_02: Click on the login link 
+2017-10-27 18:04:17,268 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-27 18:04:52,859 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-27 18:05:33,766 INFO  [Log] TS_05: Click on login button 
+2017-10-27 18:06:13,569 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-27 18:06:49,211 INFO  [Log] TS_07: Input the SKU value in first field; Action: Submited ValueValue: TMK-907257 
+2017-10-27 18:07:24,855 INFO  [Log] TS_08: Capture the product quantity; Value has been stored in index: 0 
+2017-10-27 18:08:00,358 INFO  [Log] TS_09: Click on add to cart button 
+2017-10-27 18:08:35,717 INFO  [Log] TS_10: Capture the product quantity from the my cart section that appears at the topMy Cart: 1 item, $8.00; Value has been stored in index: 1 
+2017-10-27 18:09:11,050 INFO  [Log] User specified value has been replaced at index1New Value is: My Cart: 1 
+2017-10-27 18:09:46,416 INFO  [Log] User specified value has been replaced at index1New Value is: 1 
+2017-10-27 18:09:46,416 INFO  [Log] TS_13; Passed; Verify the quantity of product; Captured text1: ; Captured text2: 1 
+2017-10-27 18:09:51,416 INFO  [Log] closing test case  
+2017-10-27 18:09:54,017 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 18:09:54,048 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 18:09:54,088 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 18:09:54,108 INFO  [Log] ### Test case: FP_pdp_quick_order_TC; Description: Blank; status Executed 
+2017-10-27 18:09:54,298 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 18:09:54,328 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 18:09:54,358 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 18:09:54,358 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 18:09:54,358 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 18:09:54,618 INFO  [Log] ####Closing Test Suite #### 
+2017-10-27 18:09:54,618 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 18:09:54,618 INFO  [Log] Creating Logs backup and storing for further reference 

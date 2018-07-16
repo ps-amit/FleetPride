@@ -1,0 +1,65 @@
+2017-07-28 11:26:17,675 INFO  [Log] Test Scenario Configuration started 
+2017-07-28 11:26:17,685 INFO  [Log] Initialing HTML reporting 
+2017-07-28 11:26:17,937 INFO  [Log] Starting Test Suit Execution 
+2017-07-28 11:26:17,937 WARN  [Log] No Browser instance is active 
+2017-07-28 11:26:18,661 INFO  [Log] Object repository is created successfully 
+2017-07-28 11:26:18,772 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-28 11:26:18,875 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-28 11:26:19,041 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-28 11:26:19,188 INFO  [Log] **************************************************************************************** 
+2017-07-28 11:26:19,188 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC008.xlsx; Description: Rg_TC008.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-28 11:26:19,189 INFO  [Log] **************************************************************************************** 
+2017-07-28 11:26:25,373 INFO  [Log] #### Executing Test case: Rg_TC008.xlsx; Description: Rg_TC008.xlsx In chrome Browser for TestData:1 
+2017-07-28 11:26:38,533 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-28 11:26:39,523 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-28 11:26:39,728 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-28 11:26:39,859 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-28 11:26:39,859 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-28 11:26:47,301 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-28 11:26:54,122 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-28 11:26:54,238 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-28 11:26:54,308 INFO  [Log] TS_09: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-28 11:26:54,487 INFO  [Log] TS_10: click on price thrashold breach : Action click 
+2017-07-28 11:26:54,487 INFO  [Log] TS_11; Waited 2000 Milli seconds for Element 
+2017-07-28 11:26:56,557 INFO  [Log] TS_12: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/rates; User Defined URL:http://rg.hospi.qa.rategain.com/optima/rates 
+2017-07-28 11:26:56,668 INFO  [Log] TS_13; Passed; verify all channels are present; Value: all channels; Present in Page values: All Channels,  
+2017-07-28 11:26:56,858 ERROR [Log] Error#: optimaTS_17XpathVerifyAnyRate  java.lang.ArrayIndexOutOfBoundsException: 1null:Exception is not handled 
+2017-07-28 11:27:00,675 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-28 11:27:03,446 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-28 11:27:03,576 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-28 11:27:03,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-28 11:27:03,576 FATAL [Log] optimaTS_17XpathVerifyAnyRate  java.lang.ArrayIndexOutOfBoundsException: 1null:Exception is not handled 
+2017-07-28 11:27:03,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-28 11:27:03,920 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-28 11:27:03,965 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-28 11:27:04,029 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-28 11:27:04,095 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-28 11:27:04,176 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-28 11:27:04,222 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-28 11:27:04,285 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-28 11:27:04,323 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-28 11:27:04,375 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-28 11:27:04,432 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-28 11:27:04,466 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-28 11:27:04,497 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-28 11:27:04,527 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-28 11:27:04,554 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-28 11:27:04,601 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-28 11:27:04,631 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-28 11:27:04,678 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-28 11:27:04,706 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-28 11:27:04,735 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-28 11:27:04,761 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-28 11:27:04,794 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-28 11:27:04,824 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-28 11:27:04,859 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-28 11:27:04,887 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-28 11:27:04,926 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-28 11:27:05,069 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-28 11:27:05,092 INFO  [Log] Rg_TC0065.xlsx_Rg_TC0065.xlsx 
+2017-07-28 11:27:05,115 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-28 11:27:05,137 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-07-28 11:27:05,160 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-28 11:27:05,188 INFO  [Log] ####Closing Test Suite #### 
+2017-07-28 11:27:05,188 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-28 11:27:05,188 INFO  [Log] Creating Logs backup and storing for further reference 

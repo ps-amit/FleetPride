@@ -1,0 +1,31 @@
+2018-05-08 15:00:59,665 INFO  [Log] Test Scenario Configuration started 
+2018-05-08 15:00:59,697 INFO  [Log] Initialing HTML reporting 
+2018-05-08 15:01:00,107 INFO  [Log] Starting Test Suit Execution 
+2018-05-08 15:01:00,570 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-08 15:01:00,642 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-08 15:01:00,716 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-08 15:01:02,377 INFO  [Log] Object repository is created successfully 
+2018-05-08 15:01:02,464 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-08 15:01:02,561 INFO  [Log] **************************************************************************************** 
+2018-05-08 15:01:02,561 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-259_Navigation_Link_Not_Working.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-08 15:01:02,561 INFO  [Log] **************************************************************************************** 
+2018-05-08 15:01:13,831 INFO  [Log] #### Executing Test case: PE-259_Navigation_Link_Not_Working.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2018-05-08 15:01:20,205 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-08 15:01:21,005 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-08 15:01:21,143 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-08 15:01:21,144 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-08 15:01:24,075 INFO  [Log] TS_05: Click on login button 
+2018-05-08 15:01:24,076 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-08 15:01:38,317 INFO  [Log] TS_07: Scroll to element 
+2018-05-08 15:01:38,320 INFO  [Log] TS_08; Waited 1000 Milli seconds for Element 
+2018-05-08 15:01:40,274 INFO  [Log] TS_09: Click on the Cooling System link 
+2018-05-08 15:01:40,276 INFO  [Log] TS_10; Waited 1000 Milli seconds for Element 
+2018-05-08 15:01:41,284 FATAL [Log] PE-259Blank:Action Keyword is not defined. Please defined Action Keyword 
+2018-05-08 15:01:41,291 WARN  [Log]  Browser instance is active 
+2018-05-08 15:01:42,606 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-08 15:01:42,680 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-08 15:01:42,758 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-08 15:01:42,758 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-08 15:01:42,758 FATAL [Log]  
+2018-05-08 15:01:42,758 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-08 15:01:43,357 INFO  [Log] Creating Logs backup and storing for further reference 

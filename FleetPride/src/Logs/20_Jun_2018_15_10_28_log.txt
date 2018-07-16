@@ -1,0 +1,61 @@
+2018-06-20 15:10:02,876 INFO  [Log] Test Scenario Configuration started 
+2018-06-20 15:10:02,922 INFO  [Log] Initialing HTML reporting 
+2018-06-20 15:10:03,297 INFO  [Log] Starting Test Suit Execution 
+2018-06-20 15:10:03,873 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-20 15:10:03,960 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-20 15:10:04,058 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-20 15:10:04,738 INFO  [Log] Object repository is created successfully 
+2018-06-20 15:10:04,820 INFO  [Log] **************************************************************************************** 
+2018-06-20 15:10:04,820 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-20 15:10:04,820 INFO  [Log] **************************************************************************************** 
+2018-06-20 15:10:05,525 INFO  [Log] CostUpdateTaskCreationTS_01URLOpenGivenURL  org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:32929 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-06-20 15:10:08,147 WARN  [Log]  Browser instance is active 
+2018-06-20 15:10:10,152 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:32929 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-06-20 15:10:10,152 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 15:10:10,152 FATAL [Log] CostUpdateTaskCreationTS_01URLOpenGivenURL  org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:32929 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-06-20 15:10:10,152 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 15:10:10,403 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-20 15:10:10,504 INFO  [Log] Simple_Login_Blank 
+2018-06-20 15:10:10,578 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-20 15:10:10,672 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-20 15:10:10,722 INFO  [Log] Creating Logs backup and storing for further reference 
+2018-06-20 15:10:11,881 INFO  [Log] #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2018-06-20 15:10:13,458 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-06-20 15:10:13,491 INFO  [Log] TS_02; Waited 5000 Milli seconds for Element 
+2018-06-20 15:10:22,589 INFO  [Log] Blank: Blank 
+2018-06-20 15:10:27,601 INFO  [Log] closing test case  
+2018-06-20 15:10:27,706 ERROR [Log] Error#: Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: a6ac7be3-ca51-409a-a811-b82269607af9 
+2018-06-20 15:10:28,045 WARN  [Log]  Browser instance is active 
+2018-06-20 15:10:28,051 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: a6ac7be3-ca51-409a-a811-b82269607af9 
+2018-06-20 15:10:28,052 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 15:10:28,052 FATAL [Log] Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: a6ac7be3-ca51-409a-a811-b82269607af9 
+2018-06-20 15:10:28,052 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 15:10:28,435 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-20 15:10:28,505 INFO  [Log] Simple_Login_Blank 
+2018-06-20 15:10:28,562 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-20 15:10:28,620 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-20 15:10:28,660 INFO  [Log] Creating Logs backup and storing for further reference 

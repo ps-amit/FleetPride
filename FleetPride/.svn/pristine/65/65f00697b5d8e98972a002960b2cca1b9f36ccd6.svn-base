@@ -1,0 +1,209 @@
+Note: Please Do Not Use KeyBoard while running the Suite, As Some cases are based on "ROBOT" KeyBoard "ENTER".
+
+
+*****************
+#Login Details:
+*****************
+
+config.username=User@avionos.com
+config.password=Testing12
+
+#Used for Inbox Cases with Notification
+config.username.new=sameer.sinha@rategain.com
+config.password.new=pgh@1234
+---------------
+
+
+
+
+
+******************************
+#Excel File Location Details:
+******************************
+Note: Please change the Path of below Excel File according to your System Download Location, or place the Excel File in the below location,Followed by the TAB Name in the 
+Excel for which Data is to be Verified. Eg. To Check Overview Page, Replace Detail Data with Rate Overview
+
+config.file.sheet=D:\\workspace\\Puresoftware_Automation\\Automation\\Automation_Framework_Puresoftware\\src\\DataEngine\\optima123.xlsm,Detail Data
+
+Note: Maximum Excel File Size Can be Upto 2-3MB.  
+------------------------------
+
+
+*******************************************
+#Subscriber & Competitor Property Details:
+*******************************************
+#Change the Property Details as per requirement
+
+config.property=DoubleTree by Hilton Hotel London - Marble Arch
+Milestone Hotel Kensington
+Milestone Hotel Kensington
+
+DoubleTree by Hilton Hotel London - Marble Arch
+config.property.Competitor=Hilton London Metropole
+Hilton London Metropole
+
+Royal Garden Hotel
+
+London Apart Hotel
+Royal Garden Hotel
+
+
+#Competitor Property can be used to delete the competitor from the List.
+------------------------------------------
+
+
+*********************
+#Date Range Details:
+*********************
+#This is a Date Range Filter on the top. Change the Dates for which Data is to verified.
+Note: The Maximum Range to be selected is 5 Days Only
+
+config.grid.startDate=1 November 2017
+config.grid.enddate=3 November 2017
+
+# This Filter is used while selecting the Dates from Pop Up, eg. selecting Date while creating a New Event. This can handle multiple dates. For Future Use.
+
+config.downloadrateshop.selectdate=10 September
+config.downloadrateshop.enddate=10 September
+--------------------
+
+*************************
+#Events Addition Details:
+*************************
+#Currently Event Name is Managed by RandomName Script, but you can give Specific Name, change the Script Accordingly for the same.
+
+config.eventName=ABCDE
+config.eventAddress=India
+config.eventCategory=Public
+config.eventCharge=Free
+config.eventDescription=Delhi
+-------------------------
+
+***************************
+#General Settings Details:
+***************************
+#TO Change StarRating on General Page Setting Use the below tag
+config.StarRating=3
+config.NoOfRooms=100
+
+
+#To Change HotelStarRating on Settings>Mapping Page Use the below tag   
+config.HotelStarRating=3 Star
+config.AddNewRoomType=Sharing
+---------------------------
+
+
+
+*****************
+#Filters Details:
+*****************
+Note: Select Minimum Two Compsets & Two Filters[eg. LOS,NOP...]
+
+
+
+config.companyName=Avionos - West
+config.userName=User Avionos
+config.email=hameed.bello@avionos.com
+
+
+config.contact=
+
+
+
+
+
+config.partnumber=TMK-907257
+config.partnumber1=GAT-90350
+config.productname=Hood Latch Assembly Gates-90350
+config.searchProduct=Additives
+config.incorrectsearchdata=34fgxgf
+config.datalessthan2characters=a
+------------------
+
+
+
+
+******************
+#Channels Details:
+******************
+
+config.channel.1=Brand
+config.channel.2=Expedia
+config.channel.3=Booking.com
+config.channel.4=Tripadvisor
+Travelocity
+config.channel.5=trivago
+config.channel.6=trivago
+config.channel.8=Tripadvisor
+config.channel.7=Orbitz
+config.channel.9=travelocity
+config.channel.10=Expedia
+config.channel.11=Galahotels
+config.channel.12=OTA
+config.downloadrateshop.channel=trivago
+config.channel.download=Expedia
+---------------------------------
+
+**********************************
+#Settings->Tax Page Details:
+**********************************
+#to change Tax Values under Settings>TAX
+//config.TAXvalue=Holiday Inn Express London - EarlS Court
+config.Tax1Value=22
+config.Tax2Value=55
+----------------------------------
+
+************************************
+#Settings->Competitor Page Details
+************************************ 
+
+
+#PGNG1030_TC005[To check result is changing on adding every single alphabet in search]
+config.SearchCompetitorByName1=abc
+config.SearchCompetitorByName2=o
+
+#PGNG1030_006[And Logic Checking]
+config.SearchComp1Correct2Incorrect=ab x
+config.SearchComp1Incorrect2Correct=x ab
+config.SearchComp1Correc2Correct=ab l
+config.SearchCompetitorName=hotel
+
+#PGNG1030_012[Search Competitor by City Name same as Subscriber City] &&
+#PGNG1030_038/039/040[To check weightage/Threshold(Absolute/Percentage)of newly added competitor]
+#PGNG1030_045[To check Added competitor is added on all relevant screens]
+
+config.SearchCompetitorByCity=london
+
+
+config.CompPrsntInProprtyName=hotel
+config.CompPrsntInProprtyAddr=lon
+config.lowinput=44
+config.highinput=57
+
+#PGNG1030_017[To check Mandatory Feilds while requesting to add new competitor in competitor List/bucket] && 
+#PGNG1030_022 [To check request is sent successfully for adding new competitor]
+
+config.AddCompetitor=Taj Hotel Mumbai
+config.CompetitorAddr=Mumbai
+config.CompetitorWebsiteUrl=www.tajhotels.com
+--------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

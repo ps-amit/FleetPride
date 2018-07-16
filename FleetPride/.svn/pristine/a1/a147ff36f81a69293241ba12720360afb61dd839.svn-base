@@ -1,0 +1,67 @@
+2017-07-25 23:18:38,737 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 23:18:38,752 INFO  [Log] Initialing HTML reporting 
+2017-07-25 23:18:38,944 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 23:18:38,944 WARN  [Log] Browser instance value is null 
+2017-07-25 23:18:39,464 INFO  [Log] Object repository is created successfully 
+2017-07-25 23:18:39,562 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:18:39,562 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 23:18:39,562 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:18:46,091 INFO  [Log] #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx In firefox Browser for TestData:1 
+2017-07-25 23:18:57,014 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:18:57,298 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:18:57,397 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:18:57,468 INFO  [Log] TS_04: click on forget password: Action click 
+2017-07-25 23:18:57,521 INFO  [Log] TS_05: verify forget password screen appear; Passed; ; Element is present on the active page 
+2017-07-25 23:18:57,604 ERROR [Log] Error#: optimaTS_06XpathSubmitValue  org.openqa.selenium.ElementNotInteractableException: Element is not visible
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.VvAn3apEMJFn, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=8160.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 944853be-2442-4d9d-b5c7-f1b1b8adddf4null:Exception is not handled 
+2017-07-25 23:18:58,548 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 23:18:58,651 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 23:18:58,762 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 23:18:58,762 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:18:58,762 FATAL [Log] optimaTS_06XpathSubmitValue  org.openqa.selenium.ElementNotInteractableException: Element is not visible
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.VvAn3apEMJFn, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=8160.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 944853be-2442-4d9d-b5c7-f1b1b8adddf4null:Exception is not handled 
+2017-07-25 23:18:58,762 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:18:59,167 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 23:18:59,214 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 23:18:59,256 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 23:18:59,311 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 23:18:59,348 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 23:18:59,388 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 23:18:59,431 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 23:18:59,463 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 23:18:59,494 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 23:18:59,526 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 23:18:59,554 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 23:18:59,587 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 23:18:59,617 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 23:18:59,657 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 23:18:59,686 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 23:18:59,714 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 23:18:59,743 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 23:18:59,773 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 23:18:59,801 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 23:18:59,824 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 23:18:59,849 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 23:18:59,878 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 23:18:59,906 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-25 23:18:59,937 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-25 23:18:59,962 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-25 23:18:59,986 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-25 23:19:00,010 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-25 23:19:00,038 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-25 23:19:00,065 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-25 23:19:00,101 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-25 23:19:00,128 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-25 23:19:00,150 INFO  [Log] Rg_TC0070.xlsx_Rg_TC0070.xlsx 
+2017-07-25 23:19:00,170 INFO  [Log] Rg_TC0072.xlsx_Rg_TC0072.xlsx 
+2017-07-25 23:19:00,191 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 23:19:00,191 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:19:00,191 INFO  [Log] Creating Logs backup and storing for further reference 

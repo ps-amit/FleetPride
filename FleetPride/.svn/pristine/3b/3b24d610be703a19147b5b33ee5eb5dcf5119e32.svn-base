@@ -1,0 +1,61 @@
+2017-11-02 00:24:23,761 INFO  [Log] Test Scenario Configuration started 
+2017-11-02 00:24:23,788 INFO  [Log] Initialing HTML reporting 
+2017-11-02 00:24:24,019 INFO  [Log] Starting Test Suit Execution 
+2017-11-02 00:24:24,205 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 00:24:24,238 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 00:24:24,270 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 00:24:24,734 INFO  [Log] Object repository is created successfully 
+2017-11-02 00:24:24,796 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-02 00:24:24,865 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-02 00:24:24,926 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-02 00:24:24,976 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-02 00:24:25,019 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-02 00:24:25,065 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-02 00:24:25,125 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-02 00:24:25,170 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-02 00:24:25,218 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-02 00:24:25,250 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-02 00:24:25,279 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-02 00:24:25,316 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-02 00:24:25,357 INFO  [Log] **************************************************************************************** 
+2017-11-02 00:24:25,357 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_contact_us_page_before_login; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-02 00:24:25,357 INFO  [Log] **************************************************************************************** 
+2017-11-02 00:24:31,326 INFO  [Log] #### Executing Test case: FP_contact_us_page_before_login; Description: Blank In Chrome Browser for TestData:1 
+2017-11-02 00:24:46,829 INFO  [Log] TC_1: Open Contact Us page URL; Action: open URL 
+2017-11-02 00:25:22,433 INFO  [Log] TC_2; Passed; Verify text 'Company Name'; Value: company name:; Present in Page values: Company name:,  
+2017-11-02 00:25:58,283 INFO  [Log] TC_3; Passed; Verify text 'Your Name:'; Value: your name:; Present in Page values: Your Name:,  
+2017-11-02 00:26:33,644 INFO  [Log] TC_4; Passed; Verify text 'Email:'; Value: email:; Present in Page values: Email:,  
+2017-11-02 00:27:09,492 INFO  [Log] TC_5; Passed; Verify text 'Phone:'; Value: phone:; Present in Page values: Phone:,  
+2017-11-02 00:27:44,815 INFO  [Log] TC_6; Passed; Verify text 'Choose Contact Reason:'; Value: choose contact reason:; Present in Page values: Choose Contact Reason:,  
+2017-11-02 00:28:20,114 INFO  [Log] List of following Values has been storedTC_7: Capture all the drop down values; Action: Capture and stored value,                               Become a Supplier
+                              Marketing Services
+                              Question About My Account
+                              Request a Catalog
+                              Request a Quote
+                              Site Issue
+                             
+                             
+2017-11-02 00:28:56,299 INFO  [Log] Failed: TC_8: Verify text 'Message:'; Value: message: ; is Not Present in Page values: Message:,  
+2017-11-02 00:29:32,705 INFO  [Log] TC_9: Choose contact us region dropdown 
+2017-11-02 00:30:08,495 INFO  [Log] TC_10: Selecting the request a catalog option from the dropdown. 
+2017-11-02 00:30:44,653 INFO  [Log] Failed: TC_11: Verifying the first fields added after choosing the option.; Value: address 1:; is Not Present in Page values: ,  
+2017-11-02 00:31:20,747 INFO  [Log] Failed: TC_12: Verifying the second field.; Value: address 2:; is Not Present in Page values: ,  
+2017-11-02 00:31:56,830 INFO  [Log] Failed: TC_13: Verifying the third field.; Value: state:; is Not Present in Page values: ,  
+2017-11-02 00:32:32,842 INFO  [Log] Failed: TC_14: Verifying the fourth field.; Value: zipcode:; is Not Present in Page values: ,  
+2017-11-02 00:33:09,370 INFO  [Log] Failed: TC_15: Verifying the fifth field.; Value: country:; is Not Present in Page values: ,  
+2017-11-02 00:33:14,716 INFO  [Log] closing test case  
+2017-11-02 00:33:17,037 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 00:33:17,068 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 00:33:17,099 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 00:33:17,119 INFO  [Log] ### Test case: FP_contact_us_page_before_login; Description: Blank; status Executed 
+2017-11-02 00:33:17,299 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 00:33:17,329 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 00:33:17,359 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 00:33:17,359 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 00:33:17,359 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 00:33:17,419 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-02 00:33:17,449 INFO  [Log] Testing_Purpose_Blank 
+2017-11-02 00:33:17,478 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-02 00:33:17,499 INFO  [Log] ####Closing Test Suite #### 
+2017-11-02 00:33:17,499 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 00:33:17,499 INFO  [Log] Creating Logs backup and storing for further reference 

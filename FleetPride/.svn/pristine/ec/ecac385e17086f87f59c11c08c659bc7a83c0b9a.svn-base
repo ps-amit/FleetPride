@@ -1,0 +1,46 @@
+2017-07-17 15:50:44,322 INFO  [Log] Test Scenario Configuration started 
+2017-07-17 15:50:44,340 INFO  [Log] Initialing HTML reporting 
+2017-07-17 15:50:44,535 INFO  [Log] Starting Test Suit Execution 
+2017-07-17 15:50:44,535 WARN  [Log] Browser instance value is null 
+2017-07-17 15:50:45,055 INFO  [Log] Object repository is created successfully 
+2017-07-17 15:50:45,128 INFO  [Log] AlertRateKart_1_AlertRateKart_1 
+2017-07-17 15:50:45,186 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-17 15:50:45,237 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-17 15:50:45,287 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-17 15:50:45,381 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-17 15:50:45,432 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-17 15:50:45,478 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-17 15:50:45,551 INFO  [Log] RateGain-1_RateGain -1 
+2017-07-17 15:50:45,595 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-17 15:50:45,644 INFO  [Log] **************************************************************************************** 
+2017-07-17 15:50:45,644 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-3; Description: RateGain -3 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 15:50:45,644 INFO  [Log] **************************************************************************************** 
+2017-07-17 15:50:52,431 INFO  [Log] #### Executing Test case: RateGain-3; Description: RateGain -3 In firefox Browser for TestData:1 
+2017-07-17 15:51:00,530 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-07-17 15:51:00,561 INFO  [Log] RG-02; Waited 5000 Milli seconds for Element 
+2017-07-17 15:51:05,896 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-07-17 15:51:06,095 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-07-17 15:51:06,177 INFO  [Log] RG-05: Click on Login: Action click 
+2017-07-17 15:51:06,177 INFO  [Log] RG-06; Waited 5000 Milli seconds for Element 
+2017-07-17 15:51:11,422 INFO  [Log] RG-07: Click Button: Action click 
+2017-07-17 15:51:11,423 INFO  [Log] RG-08; Waited 5000 Milli seconds for Element 
+2017-07-17 15:51:26,459 INFO  [Log] RG-09; Passed; Verify Meter Header; Value: key stats; Present in Page values: Key Stats,  
+2017-07-17 15:51:26,730 INFO  [Log] 2189; Value has been stored in index: 0 
+2017-07-17 15:51:26,857 INFO  [Log] Fail; RG-11: Verify Key Stats Item 2; Captured text: 2189; Value form page: Positive Reviews,  
+2017-07-17 15:51:27,554 INFO  [Log] RG-12; Passed; Verify Key Stats Item 3; Value: negative reviews; Present in Page values: Negative Reviews,  
+2017-07-17 15:51:27,690 INFO  [Log] RG-13; Passed; Verify Key Stats Item 4; Value: neutral reviews; Present in Page values: Neutral Reviews,  
+2017-07-17 15:51:27,691 INFO  [Log] RG-14; Waited 3000 Milli seconds for Element 
+2017-07-17 15:51:30,693 INFO  [Log] closing test case  
+2017-07-17 15:51:30,702 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 15:51:30,713 INFO  [Log] ### Test case: RateGain-3; Description: RateGain -3; status Executed 
+2017-07-17 15:51:31,937 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 15:51:32,052 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 15:51:32,171 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 15:51:32,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 15:51:32,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 15:51:32,301 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-17 15:51:32,334 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-17 15:51:32,378 INFO  [Log] PostRequest_PostRequest 
+2017-07-17 15:51:32,460 INFO  [Log] ####Closing Test Suite #### 
+2017-07-17 15:51:32,460 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 15:51:32,460 INFO  [Log] Creating Logs backup and storing for further reference 

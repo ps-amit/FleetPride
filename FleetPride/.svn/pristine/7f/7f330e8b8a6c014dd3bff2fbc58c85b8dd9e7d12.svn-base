@@ -1,0 +1,172 @@
+2017-09-22 13:54:51,654 INFO  [Log] Test Scenario Configuration started 
+2017-09-22 13:54:51,685 INFO  [Log] Initialing HTML reporting 
+2017-09-22 13:54:51,888 INFO  [Log] Starting Test Suit Execution 
+2017-09-22 13:54:52,153 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 13:54:52,184 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 13:54:52,215 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 13:54:52,707 INFO  [Log] Object repository is created successfully 
+2017-09-22 13:54:52,832 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-22 13:54:52,910 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-22 13:54:52,957 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-22 13:54:53,019 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-22 13:54:53,082 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-22 13:54:53,129 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-22 13:54:53,222 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-22 13:54:53,269 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-22 13:54:53,317 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-22 13:54:53,364 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-22 13:54:53,395 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-22 13:54:53,442 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-22 13:54:53,488 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-22 13:54:53,535 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-22 13:54:53,566 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-22 13:54:53,598 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-22 13:54:53,629 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-22 13:54:53,660 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-22 13:54:53,691 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-22 13:54:53,738 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-22 13:54:53,769 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-22 13:54:53,800 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-22 13:54:53,816 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-22 13:54:53,847 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-22 13:54:53,878 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-22 13:54:53,910 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-22 13:54:53,925 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-22 13:54:53,956 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-22 13:54:53,988 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-22 13:54:54,019 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-22 13:54:54,050 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-22 13:54:54,066 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-22 13:54:54,097 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-22 13:54:54,128 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-22 13:54:54,159 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-22 13:54:54,190 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-22 13:54:54,222 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-22 13:54:54,237 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-22 13:54:54,268 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-22 13:54:54,284 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-22 13:54:54,316 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-22 13:54:54,332 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-22 13:54:54,363 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-22 13:54:54,379 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-22 13:54:54,394 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-22 13:54:54,425 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-22 13:54:54,457 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-22 13:54:54,472 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-22 13:54:54,503 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-22 13:54:54,519 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-22 13:54:54,550 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-22 13:54:54,581 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-22 13:54:54,613 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-22 13:54:54,628 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-22 13:54:54,644 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-22 13:54:54,675 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-22 13:54:54,691 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-22 13:54:54,706 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-22 13:54:54,722 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-22 13:54:54,753 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-22 13:54:54,769 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-22 13:54:54,800 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-22 13:54:54,831 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-22 13:54:54,862 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-22 13:54:54,893 INFO  [Log] PGNG1030_TC_012.xlsx_Blank 
+2017-09-22 13:54:54,909 INFO  [Log] PGNG1030_TC_076.xlsx_Blank 
+2017-09-22 13:54:54,940 INFO  [Log] RG_TC_014.xlsx_Blank 
+2017-09-22 13:54:54,971 INFO  [Log] RG_TC_041.xlsx_Blank 
+2017-09-22 13:54:54,987 INFO  [Log] RG_TC_103.xlsx_Blank 
+2017-09-22 13:54:55,003 INFO  [Log] RG_TC_104.xlsx_Blank 
+2017-09-22 13:54:55,018 INFO  [Log] RG_TC_110.xlsx_Blank 
+2017-09-22 13:54:55,043 INFO  [Log] RG_TC_113.xlsx_Blank 
+2017-09-22 13:54:55,058 INFO  [Log] RG_TC_114_Blank 
+2017-09-22 13:54:55,090 INFO  [Log] RG_TC_166_Blank 
+2017-09-22 13:54:55,105 INFO  [Log] RG_TC_176_Blank 
+2017-09-22 13:54:55,136 INFO  [Log] PGNG1030_TC_051.xlsx_Blank 
+2017-09-22 13:54:55,152 INFO  [Log] Rg_TC_174_Blank 
+2017-09-22 13:54:55,183 INFO  [Log] PGNG1030_TC_053_Blank 
+2017-09-22 13:54:55,199 INFO  [Log] PGNG1030_TC_054_Blank 
+2017-09-22 13:54:55,214 INFO  [Log] PGNG1030_TC_062_Blank 
+2017-09-22 13:54:55,230 INFO  [Log] PGNG1030_TC_005_Blank 
+2017-09-22 13:54:55,261 INFO  [Log] PGNG1030_TC_006_Blank 
+2017-09-22 13:54:55,277 INFO  [Log] PGNG1030_TC_013_Blank 
+2017-09-22 13:54:55,293 INFO  [Log] PGNG1030_TC_015_Blank 
+2017-09-22 13:54:55,309 INFO  [Log] PGNG1030_TC_017_Blank 
+2017-09-22 13:54:55,325 INFO  [Log] PGNG1030_TC_019_Blank 
+2017-09-22 13:54:55,340 INFO  [Log] PGNG1030_TC_022_Blank 
+2017-09-22 13:54:55,356 INFO  [Log] PGNG1030_TC_038_Blank 
+2017-09-22 13:54:55,371 INFO  [Log] PGNG1030_TC_039_Blank 
+2017-09-22 13:54:55,387 INFO  [Log] PGNG1030_TC_040_Blank 
+2017-09-22 13:54:55,403 INFO  [Log] PGNG1030_TC_045_Blank 
+2017-09-22 13:54:55,418 INFO  [Log] PGNG1030_TC_048_Blank 
+2017-09-22 13:54:55,434 INFO  [Log] PGNG1030_TC_075_Blank 
+2017-09-22 13:54:55,449 INFO  [Log] PGNG1030_TC_078_Blank 
+2017-09-22 13:54:55,465 INFO  [Log] PGNG1030_TC_079_Blank 
+2017-09-22 13:54:55,481 INFO  [Log] PGNG1030_TC_105_Blank 
+2017-09-22 13:54:55,496 INFO  [Log] PGNG1030_TC_106_Blank 
+2017-09-22 13:54:55,512 INFO  [Log] PGNG1030_TC_107_Blank 
+2017-09-22 13:54:55,527 INFO  [Log] PGNG1030_TC_111_Blank 
+2017-09-22 13:54:55,559 INFO  [Log] PGNG1030_TC_120_Blank 
+2017-09-22 13:54:55,574 INFO  [Log] PGNG1030_TC_116_Blank 
+2017-09-22 13:54:55,590 INFO  [Log] RG_TC_012_Blank 
+2017-09-22 13:54:55,621 INFO  [Log] RG_TC_016_Blank 
+2017-09-22 13:54:55,637 INFO  [Log] PGNG_1801_TC_001_Blank 
+2017-09-22 13:54:55,652 INFO  [Log] PGNG_1801_TC_002_Blank 
+2017-09-22 13:54:55,683 INFO  [Log] PGNG_1801_TC_028_Blank 
+2017-09-22 13:54:55,699 INFO  [Log] **************************************************************************************** 
+2017-09-22 13:54:55,699 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_003; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-22 13:54:55,699 INFO  [Log] **************************************************************************************** 
+2017-09-22 13:55:01,601 INFO  [Log] #### Executing Test case: PGNG_1801_TC_003; Description: Blank In Chrome Browser for TestData:1 
+2017-09-22 13:55:19,000 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-22 13:55:19,330 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-22 13:55:19,470 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-22 13:55:19,559 INFO  [Log] TS_04: Click on login button 
+2017-09-22 13:55:33,105 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-22 13:55:33,266 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-22 13:55:33,351 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-22 13:55:34,544 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-22 13:55:34,687 INFO  [Log] TS_09: Click on property 
+2017-09-22 13:55:37,953 INFO  [Log] TS_10: Click on Settings 
+2017-09-22 13:55:40,113 INFO  [Log] TS_11: Click on Mapping 
+2017-09-22 13:55:47,416 INFO  [Log] TS_12: Click on basic mapping tab: Action click If 
+2017-09-22 13:55:55,793 INFO  [Log] TS_13: Click on the Yes buton from the pop up: Action Element is not present moving to next step 
+2017-09-22 13:55:55,793 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-09-22 13:55:57,958 INFO  [Log] TS_15: Click on the Room Type button 
+2017-09-22 13:55:57,958 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-09-22 13:56:00,139 INFO  [Log] TS_17; Passed; Verify the text 'Add New Room Type' appearing in the pop up; Value: add new room type; Present in Page values: Add New Room Type,  
+2017-09-22 13:56:00,237 INFO  [Log] TS_18: Click on Name input box under Add new room type pop up 
+2017-09-22 13:56:00,466 INFO  [Log] TS_19: Input the Room type name; Action: Submited ValueValue: Sharing 
+2017-09-22 13:56:00,568 INFO  [Log] TS_20: Click on the Add button from the pop up 
+2017-09-22 13:56:02,829 INFO  [Log] TS_21; Passed; Verify the presence of Room type which is added; Value: sharing; Present in Page values: Sharing,  
+2017-09-22 13:56:02,908 INFO  [Log] TS_22: Click on the Room Type button again 
+2017-09-22 13:56:02,908 INFO  [Log] TS_23; Waited 2000 Milli seconds for Element 
+2017-09-22 13:56:05,033 INFO  [Log] TS_24: Click on Name input box under Add new room type pop up 
+2017-09-22 13:56:05,280 INFO  [Log] TS_25: Input the Room type name; Action: Submited ValueValue: Sharing 
+2017-09-22 13:56:05,371 INFO  [Log] TS_26: Click on the Add button from the pop up 
+2017-09-22 13:56:05,372 INFO  [Log] TS_27; Waited 2000 Milli seconds for Element 
+2017-09-22 13:56:07,393 INFO  [Log] TS_28; Passed; Verify the alert message if room type already exist; Value: Room Type already exists!; Present in Alert message values: Room Type already exists! 
+2017-09-22 13:56:17,605 INFO  [Log] PGNG_TC_003TS_29BlankAlertAccept  org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir4684_29404}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.91, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 7449da1956fa5bc7cb72dbd781a6ad58null:Exception is not handled 
+2017-09-22 13:56:18,215 WARN  [Log]  Browser instance is active 
+2017-09-22 13:56:20,744 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 13:56:20,776 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 13:56:20,808 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 13:56:20,808 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 13:56:20,808 FATAL [Log] PGNG_TC_003TS_29BlankAlertAccept  org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir4684_29404}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.91, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 7449da1956fa5bc7cb72dbd781a6ad58null:Exception is not handled 
+2017-09-22 13:56:20,808 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 13:56:20,870 INFO  [Log] ####Closing Test Suite #### 
+2017-09-22 13:56:20,870 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 13:56:20,870 INFO  [Log] Creating Logs backup and storing for further reference 

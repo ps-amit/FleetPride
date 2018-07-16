@@ -1,0 +1,133 @@
+2018-04-13 15:32:55,851 INFO  [Log] Test Scenario Configuration started 
+2018-04-13 15:32:55,868 INFO  [Log] Initialing HTML reporting 
+2018-04-13 15:32:56,113 INFO  [Log] Starting Test Suit Execution 
+2018-04-13 15:32:56,436 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-13 15:32:56,564 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-13 15:32:56,693 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-13 15:32:57,313 INFO  [Log] Object repository is created successfully 
+2018-04-13 15:32:57,381 INFO  [Log] **************************************************************************************** 
+2018-04-13 15:32:57,381 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-733 Interchange Products Pricing Issue PDP PLP Page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-13 15:32:57,381 INFO  [Log] **************************************************************************************** 
+2018-04-13 15:33:03,825 INFO  [Log] #### Executing Test case: PE-733 Interchange Products Pricing Issue PDP PLP Page; Description: Blank In Chrome Browser for TestData:1 
+2018-04-13 15:33:10,160 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-13 15:33:10,468 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-13 15:33:10,607 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-13 15:33:10,608 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-13 15:33:13,417 INFO  [Log] TS_05: Click on login button 
+2018-04-13 15:33:13,418 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-13 15:33:23,771 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-04-13 15:33:23,874 INFO  [Log] PE-733TS_08ObjectRepClick  org.openqa.selenium.WebDriverException: unknown error: Element <button id="doSearch" class="btn btn-default search_button" type="Submit" data-original-title="" title="">...</button> is not clickable at point (1209, 137). Other element would receive the click: <div id="overlay" class="modal-backdrop fade in"></div>
+  (Session info: chrome=64.0.3282.140)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 67 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir10948_16259}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.140, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d354a07ae0c48e2e900efa5fde85338enull:Exception is not handled 
+2018-04-13 15:33:24,785 WARN  [Log]  Browser instance is active 
+2018-04-13 15:33:27,859 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-13 15:33:27,961 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-13 15:33:28,066 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-13 15:33:28,066 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-13 15:33:28,067 FATAL [Log] PE-733TS_08ObjectRepClick  org.openqa.selenium.WebDriverException: unknown error: Element <button id="doSearch" class="btn btn-default search_button" type="Submit" data-original-title="" title="">...</button> is not clickable at point (1209, 137). Other element would receive the click: <div id="overlay" class="modal-backdrop fade in"></div>
+  (Session info: chrome=64.0.3282.140)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 67 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir10948_16259}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.140, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d354a07ae0c48e2e900efa5fde85338enull:Exception is not handled 
+2018-04-13 15:33:28,067 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-13 15:33:28,182 INFO  [Log] PE-717 Check Positive Negative Icon on PLP Page_Blank 
+2018-04-13 15:33:28,255 INFO  [Log] PE-403 My address Book Blank Scree Issue_Blank 
+2018-04-13 15:33:28,326 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:33:28,359 INFO  [Log] Pre-requisite Fetch Sales Pack DSP No_Blank 
+2018-04-13 15:33:28,418 INFO  [Log] PE-734 Sales Pack Qty issue from Quick Order_Blank 
+2018-04-13 15:33:28,467 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:33:28,501 INFO  [Log] PE-383 Price Mismatch_Blank 
+2018-04-13 15:33:28,523 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:33:28,568 INFO  [Log] PE-411 Free Parcel Shipping Text_Blank 
+2018-04-13 15:33:28,608 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:33:28,639 INFO  [Log] PE-482 Payment Credit Card_Blank 
+2018-04-13 15:33:28,694 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite cases 
+2018-04-13 15:33:28,734 INFO  [Log] PE-475 Incorrect Product Qty Order on Review Page_Blank 
+2018-04-13 15:33:28,783 INFO  [Log] OrderID.xlsx_Blank 
+2018-04-13 15:33:28,825 INFO  [Log] Database-script.xlsx_Blank 
+2018-04-13 15:33:28,859 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-04-13 15:33:28,900 INFO  [Log] E2E_normal_shipping -CC_Blank 
+2018-04-13 15:33:28,923 INFO  [Log] Links_Home_Page.xlsx_Blank 
+2018-04-13 15:33:28,948 INFO  [Log] Sales_Force_Login.xlsx_Blank 
+2018-04-13 15:33:28,983 INFO  [Log] E2E_Core_charges-CC_Blank 
+2018-04-13 15:33:29,016 INFO  [Log] Jira_P1_Sales_Pack_qty_validation_Quick_Order_Home_Page.xlsx_Blank 
+2018-04-13 15:33:29,046 INFO  [Log] E2E_Multiple_DC_Products_Quick_Order_Blank 
+2018-04-13 15:33:29,079 INFO  [Log] E2E_Multiple_products_Quick_Order_Blank 
+2018-04-13 15:33:29,109 INFO  [Log] E2E_back_order -stored_CC_Blank 
+2018-04-13 15:33:29,139 INFO  [Log] E2E_back_order_invoice_Blank 
+2018-04-13 15:33:29,158 INFO  [Log] E2E_normal_shipping -stored_CC_Blank 
+2018-04-13 15:33:29,203 INFO  [Log] E2E_normal_shipping_invoice_Blank 
+2018-04-13 15:33:29,236 INFO  [Log] E2E_Will_Call - stored_CC_Blank 
+2018-04-13 15:33:29,272 INFO  [Log] E2E_Will_Call -Ship_Remainder - stored_CC_Blank 
+2018-04-13 15:33:29,301 INFO  [Log] E2E_Will_Call -Ship_Remainder_invoice_Blank 
+2018-04-13 15:33:29,333 INFO  [Log] E2E_Will_Call_invoice_Blank 
+2018-04-13 15:33:29,362 INFO  [Log] fetch_SP_qty_Blank 
+2018-04-13 15:33:29,405 INFO  [Log] Sales_Pack_E2E_normal_shipping -stored_CC_Blank 
+2018-04-13 15:33:29,425 INFO  [Log] Sales_Pack_E2E_normal_shipping -invoice_Blank 
+2018-04-13 15:33:29,458 INFO  [Log] PLP_Sales_Pack_E2E_normal_shipping -CC_Blank 
+2018-04-13 15:33:29,491 INFO  [Log] E2E_Will_Call -Ship_Remainder -CC_Blank 
+2018-04-13 15:33:29,518 INFO  [Log] E2E_Quick_Order_Home_Page_Blank 
+2018-04-13 15:33:29,535 INFO  [Log] E2E_Duplicate_Line_Item_Blank 
+2018-04-13 15:33:29,568 INFO  [Log] E2E_Quick_Order_Home_Page_Free_Shipping_Blank 
+2018-04-13 15:33:29,589 INFO  [Log] E2E_X_category_product_Blank 
+2018-04-13 15:33:29,623 INFO  [Log] E2E_CSV_Order_Upload_invoice_Blank 
+2018-04-13 15:33:29,651 INFO  [Log] Product_Restriction_mycart_page.xlsx_Blank 
+2018-04-13 15:33:29,675 INFO  [Log] FP_home_page_search_productName_Blank 
+2018-04-13 15:33:29,714 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2018-04-13 15:33:29,754 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2018-04-13 15:33:29,782 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2018-04-13 15:33:29,796 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2018-04-13 15:33:29,831 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2018-04-13 15:33:29,862 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2018-04-13 15:33:29,880 INFO  [Log] FP_Order_Upload_Blank 
+2018-04-13 15:33:29,920 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2018-04-13 15:33:29,934 INFO  [Log] FP_My_Account_TC_2_Blank 
+2018-04-13 15:33:29,957 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2018-04-13 15:33:29,985 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2018-04-13 15:33:30,015 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2018-04-13 15:33:30,029 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2018-04-13 15:33:30,060 INFO  [Log] FP_My_Cart_TC_09_Blank 
+2018-04-13 15:33:30,082 INFO  [Log] FP_My_Cart_TC_44_Blank 
+2018-04-13 15:33:30,089 INFO  [Log] FP_My_Cart_TC_47_Blank 
+2018-04-13 15:33:30,129 INFO  [Log] FP_My_Cart_TC_46_Blank 
+2018-04-13 15:33:30,157 INFO  [Log] FP_Payment_TC_02_Blank 
+2018-04-13 15:33:30,173 INFO  [Log] FP_Payment_TC_15_Blank 
+2018-04-13 15:33:30,206 INFO  [Log] Sales_Force_Blank 
+2018-04-13 15:33:30,239 INFO  [Log] Search_01_Blank 
+2018-04-13 15:33:30,265 INFO  [Log] Search_02_Blank 
+2018-04-13 15:33:30,278 INFO  [Log] Search_SO_Blank 
+2018-04-13 15:33:30,318 INFO  [Log] Filter_SO_Blank 
+2018-04-13 15:33:30,339 INFO  [Log] MA_Admin_Blank 
+2018-04-13 15:33:30,360 INFO  [Log] QO_Home_Blank 
+2018-04-13 15:33:30,381 INFO  [Log] Wishlist_PDP_Blank 
+2018-04-13 15:33:30,401 INFO  [Log] Wishlist_PLP_Blank 
+2018-04-13 15:33:30,435 INFO  [Log] QO_ShopOnline_Blank 
+2018-04-13 15:33:30,446 INFO  [Log] Upload_Blank 
+2018-04-13 15:33:30,468 INFO  [Log] Invalid_Quantity_Blank 
+2018-04-13 15:33:30,490 INFO  [Log] Invalid_Product_Blank 
+2018-04-13 15:33:30,505 INFO  [Log] Edit_Will_Call_Blank 
+2018-04-13 15:33:30,539 INFO  [Log] File_Verification_Blank 
+2018-04-13 15:33:30,547 INFO  [Log] Order_List_Account_Blank 
+2018-04-13 15:33:30,570 INFO  [Log] Saved_CC_Blank 
+2018-04-13 15:33:30,589 INFO  [Log] Backorder_Blank 
+2018-04-13 15:33:30,612 INFO  [Log] Backorder_Will_Call_Blank 
+2018-04-13 15:33:30,634 INFO  [Log] Blank_File_Blank 
+2018-04-13 15:33:30,651 INFO  [Log] UO_Del_Mor_Blank 
+2018-04-13 15:33:30,673 INFO  [Log] Search_Orders_Blank 
+2018-04-13 15:33:30,705 INFO  [Log] Shipping_Address_Blank 
+2018-04-13 15:33:30,736 INFO  [Log] PDP_Details_Blank 
+2018-04-13 15:33:30,759 INFO  [Log] Sales_Pack_QO_Home_Blank 
+2018-04-13 15:33:30,783 INFO  [Log] Sales_Pack_PDP_Blank 
+2018-04-13 15:33:30,798 INFO  [Log] ####Closing Test Suite #### 
+2018-04-13 15:33:30,798 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-13 15:33:30,798 INFO  [Log] Creating Logs backup and storing for further reference 

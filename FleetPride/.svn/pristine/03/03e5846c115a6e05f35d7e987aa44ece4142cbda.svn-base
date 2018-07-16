@@ -1,0 +1,388 @@
+2017-08-13 17:05:49,911 INFO  [Log] Test Scenario Configuration started 
+2017-08-13 17:05:49,931 INFO  [Log] Initialing HTML reporting 
+2017-08-13 17:05:50,111 INFO  [Log] Starting Test Suit Execution 
+2017-08-13 17:05:50,111 WARN  [Log] No Browser instance is active 
+2017-08-13 17:05:50,641 INFO  [Log] Object repository is created successfully 
+2017-08-13 17:05:50,732 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-08-13 17:05:50,803 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-08-13 17:05:50,854 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-08-13 17:05:50,920 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-08-13 17:05:50,966 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-08-13 17:05:51,016 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-08-13 17:05:51,058 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-08-13 17:05:51,108 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-08-13 17:05:51,148 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-08-13 17:05:51,188 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-08-13 17:05:51,228 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-08-13 17:05:51,258 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-08-13 17:05:51,298 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-08-13 17:05:51,348 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-08-13 17:05:51,388 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-08-13 17:05:51,418 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-08-13 17:05:51,448 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-08-13 17:05:51,488 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-08-13 17:05:51,518 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-08-13 17:05:51,558 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-08-13 17:05:51,620 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-08-13 17:05:51,650 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-08-13 17:05:51,671 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-08-13 17:05:51,701 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-08-13 17:05:51,731 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-08-13 17:05:51,761 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-08-13 17:05:51,791 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-08-13 17:05:51,841 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-08-13 17:05:51,881 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:05:51,881 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:05:51,881 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:05:58,267 INFO  [Log] #### Executing Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx In chrome Browser for TestData:1 
+2017-08-13 17:06:10,753 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:06:11,159 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:06:11,319 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:06:11,409 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:06:11,409 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:06:22,704 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:06:22,855 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:06:22,928 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:06:24,053 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:06:24,053 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:06:28,236 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:06:28,239 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-08-13 17:06:32,455 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-08-13 17:06:32,546 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-13 17:06:32,546 INFO  [Log] TS_15; Waited 2000 Milli seconds for Element 
+2017-08-13 17:06:34,905 INFO  [Log] TS_17: click on download report: Action click 
+2017-08-13 17:06:34,907 INFO  [Log] TS_18; Waited 20000 Milli seconds for Element 
+2017-08-13 17:06:55,100 INFO  [Log] TS_20; Waited 1000 Milli seconds for Element 
+2017-08-13 17:06:56,143 INFO  [Log] TS_22; Waited 35000 Milli seconds for Element 
+2017-08-13 17:07:31,241 INFO  [Log] TS_23; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170813_113714.xlsm 
+2017-08-13 17:07:31,246 INFO  [Log] closing test case  
+2017-08-13 17:07:31,615 INFO  [Log] Closing instance of Browser: chrome 
+2017-08-13 17:07:31,667 INFO  [Log] ### Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx; status Executed 
+2017-08-13 17:07:31,668 WARN  [Log] No Browser instance is active 
+2017-08-13 17:07:31,668 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:07:31,670 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:07:32,067 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:07:32,067 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:07:32,067 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:07:37,691 INFO  [Log] #### Executing Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx In chrome Browser for TestData:1 
+2017-08-13 17:07:47,538 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:07:47,909 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:07:48,054 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:07:48,139 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:07:48,139 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:07:58,362 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:07:58,535 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:07:58,618 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:07:59,768 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:07:59,768 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:08:03,931 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:08:03,934 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-08-13 17:08:14,200 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-08-13 17:08:14,325 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-13 17:08:14,325 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2017-08-13 17:08:29,893 INFO  [Log] TS_16: GridView: Action click 
+2017-08-13 17:08:29,895 INFO  [Log] TS_17; Waited 10000 Milli seconds for Element 
+2017-08-13 17:08:40,766 INFO  [Log] List of following Values has been storedTS_18: capture all the values of all ; Action: Capture and stored value, , , , , , , , , , , , , , , , , , , , , , , ,  
+2017-08-13 17:08:41,024 INFO  [Log] TS_20: click on download report: Action click 
+2017-08-13 17:08:41,024 INFO  [Log] TS_21; Waited 8000 Milli seconds for Element 
+2017-08-13 17:08:49,105 INFO  [Log] TS_23; Waited 1000 Milli seconds for Element 
+2017-08-13 17:08:50,146 INFO  [Log] TS_25; Waited 20000 Milli seconds for Element 
+2017-08-13 17:09:10,232 INFO  [Log] TS_26; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170813_113921.xlsm 
+2017-08-13 17:09:11,579 INFO  [Log] Fail; TS_27: verify excel values with ui valuesvalues from excel  [378, --, NP, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, 114] and values from ui [, , , , , , , , , , , , , , , , , , , , , , , ] are either not same or no matching value present 
+2017-08-13 17:09:12,292 INFO  [Log] closing test case  
+2017-08-13 17:09:12,379 INFO  [Log] Closing instance of Browser: chrome 
+2017-08-13 17:09:12,422 INFO  [Log] ### Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx; status Executed 
+2017-08-13 17:09:12,422 WARN  [Log] No Browser instance is active 
+2017-08-13 17:09:12,422 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:09:12,422 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:09:12,560 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:09:12,560 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:09:12,561 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:09:18,100 INFO  [Log] #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx In chrome Browser for TestData:1 
+2017-08-13 17:09:27,281 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:09:27,620 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:09:27,832 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:09:27,950 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:09:27,950 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:09:38,120 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:09:38,291 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:09:38,346 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:09:39,502 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:09:39,522 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:09:43,862 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:09:43,862 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:09:52,048 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-08-13 17:09:52,149 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-13 17:09:52,149 INFO  [Log] TS_15; Waited 8000 Milli seconds for Element 
+2017-08-13 17:10:00,346 INFO  [Log] TS_16: GridView: Action click 
+2017-08-13 17:10:00,346 INFO  [Log] TS_17; Waited 8000 Milli seconds for Element 
+2017-08-13 17:10:08,495 INFO  [Log] New Element Location is : ExpediaStored in ObjRep using element name: channel: Type: Xpath 
+2017-08-13 17:10:08,495 INFO  [Log] TS_19; Waited 8000 Milli seconds for Element 
+2017-08-13 17:10:16,768 INFO  [Log] TS_20: click on channel: Action click 
+2017-08-13 17:10:16,768 INFO  [Log] TS_21; Waited 8000 Milli seconds for Element 
+2017-08-13 17:10:24,922 INFO  [Log] New Element Location is : ExpediaStored in ObjRep using element name: channelvalue: Type: Xpath 
+2017-08-13 17:10:25,638 INFO  [Log] List of following Values has been storedTS_23: capture all the values of brand ; Action: Capture and stored value, RF, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, RF 
+2017-08-13 17:10:25,925 INFO  [Log] TS_25: click on download report: Action click 
+2017-08-13 17:10:25,925 INFO  [Log] TS_26; Waited 30000 Milli seconds for Element 
+2017-08-13 17:10:56,009 INFO  [Log] TS_28; Waited 1000 Milli seconds for Element 
+2017-08-13 17:10:57,050 INFO  [Log] TS_30; Waited 30000 Milli seconds for Element 
+2017-08-13 17:11:27,129 INFO  [Log] TS_31; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170813_114104.xlsm 
+2017-08-13 17:11:27,670 INFO  [Log] TS_32; Passed; verify excel value against UI valuesvalues from excel [RF, --, NP, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, RF] and values from ui [RF, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, RF]are same 
+2017-08-13 17:11:27,670 INFO  [Log] closing test case  
+2017-08-13 17:11:29,819 INFO  [Log] Closing instance of Browser: chrome 
+2017-08-13 17:11:29,839 INFO  [Log] ### Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx; status Executed 
+2017-08-13 17:11:29,839 WARN  [Log] No Browser instance is active 
+2017-08-13 17:11:29,839 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:11:29,839 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:11:29,963 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-08-13 17:11:29,996 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-08-13 17:11:30,023 INFO  [Log] Rg_TC0103.xlsx_Rg_TC0103.xlsx 
+2017-08-13 17:11:30,050 INFO  [Log] Rg_TC0104.xlsx_Rg_TC0104.xlsx 
+2017-08-13 17:11:30,095 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:11:30,095 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC01000.xlsx; Description: qualification For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:11:30,095 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:11:36,879 INFO  [Log] #### Executing Test case: Rg_TC01000.xlsx; Description: qualification In firefox Browser for TestData:1 
+2017-08-13 17:11:46,071 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:11:46,990 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:11:47,358 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:11:47,426 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:11:47,427 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:11:57,675 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:11:57,835 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:11:57,938 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:11:59,075 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:11:59,075 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:12:03,301 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:12:03,301 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:12:11,489 INFO  [Log] TS_47: click on rates: Action click 
+2017-08-13 17:12:11,490 INFO  [Log] TS_48; Waited 8000 Milli seconds for Element 
+2017-08-13 17:12:19,770 INFO  [Log] TS_49: click on grid view: Action click 
+2017-08-13 17:12:19,770 INFO  [Log] TS_50; Waited 8000 Milli seconds for Element 
+2017-08-13 17:12:28,055 INFO  [Log] TS_51: clcik on rangefilter: Action click 
+2017-08-13 17:12:28,056 INFO  [Log] TS_52; Waited 2000 Milli seconds for Element 
+2017-08-13 17:12:30,454 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-13 17:12:32,913 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-13 17:12:35,762 INFO  [Log] TS_57: click on apply: Action click 
+2017-08-13 17:12:35,762 INFO  [Log] TS_58; Waited 4000 Milli seconds for Element 
+2017-08-13 17:12:39,910 INFO  [Log] TS_59: clcik on rate filter: Action click 
+2017-08-13 17:12:39,910 INFO  [Log] TS_60; Waited 4000 Milli seconds for Element 
+2017-08-13 17:12:44,374 INFO  [Log] TS_61: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:12:44,374 INFO  [Log] TS_62; Waited 2000 Milli seconds for Element 
+2017-08-13 17:12:46,657 INFO  [Log] TS_63: click on apply: Action click 
+2017-08-13 17:12:46,658 INFO  [Log] TS_64; Waited 4000 Milli seconds for Element 
+2017-08-13 17:12:50,789 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:12:50,852 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:12:50,853 INFO  [Log] TS_68; Waited 2000 Milli seconds for Element 
+2017-08-13 17:12:52,988 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:12:53,277 INFO  [Log] TS_70: click on channel: Action click 
+2017-08-13 17:12:53,278 INFO  [Log] TS_71; Waited 2000 Milli seconds for Element 
+2017-08-13 17:12:55,491 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:12:55,571 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:12:55,669 INFO  [Log] TS_74: move to top: Action click 
+2017-08-13 17:12:55,670 INFO  [Log] TS_75; Waited 2000 Milli seconds for Element 
+2017-08-13 17:12:58,172 ERROR [Log] Error#: optima-1000TS_77BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:12:59,383 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-13 17:12:59,564 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-13 17:12:59,764 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-13 17:12:59,764 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:12:59,764 FATAL [Log] optima-1000TS_77BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:12:59,764 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:12:59,906 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:12:59,906 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC02000.xlsx; Description: restriction For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:12:59,906 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:13:06,229 INFO  [Log] #### Executing Test case: Rg_TC02000.xlsx; Description: restriction In firefox Browser for TestData:1 
+2017-08-13 17:13:15,470 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:13:15,835 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:13:16,028 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:13:16,123 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:13:16,123 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:13:26,316 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:13:26,413 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:13:26,452 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:13:27,524 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:13:27,524 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:13:31,767 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:13:31,767 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:13:39,923 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-13 17:13:39,923 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-13 17:13:48,224 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-13 17:13:48,225 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-08-13 17:13:56,491 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-13 17:13:56,492 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-13 17:13:58,891 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-13 17:14:01,364 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-13 17:14:04,210 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-13 17:14:04,211 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-13 17:14:08,436 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-13 17:14:08,436 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-13 17:14:12,638 INFO  [Log] TS_27: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:14:12,638 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-13 17:14:14,861 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-13 17:14:14,861 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-13 17:14:19,071 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:14:19,158 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:14:19,158 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-13 17:14:21,232 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:14:21,366 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-13 17:14:21,366 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-13 17:14:23,611 INFO  [Log] NA; Value has been stored in index: 1 
+2017-08-13 17:14:23,652 INFO  [Log] User specified value has been replaced at index1New Value is: NA 
+2017-08-13 17:14:23,749 INFO  [Log] TS_40: move to top: Action click 
+2017-08-13 17:14:23,749 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-13 17:14:26,124 ERROR [Log] Error#: optima-1000TS_43BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:14:27,104 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-13 17:14:27,334 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-13 17:14:27,595 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-13 17:14:27,595 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:14:27,595 FATAL [Log] optima-1000TS_43BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:14:27,595 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:14:27,675 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:14:27,675 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC03000.xlsx; Description: promotion For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:14:27,675 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:14:34,465 INFO  [Log] #### Executing Test case: Rg_TC03000.xlsx; Description: promotion In firefox Browser for TestData:1 
+2017-08-13 17:14:45,157 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:14:45,410 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:14:45,679 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:14:45,769 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:14:45,769 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:14:55,990 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:14:56,062 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:14:56,108 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:14:57,166 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:14:57,166 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:15:01,358 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:15:01,359 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:15:09,614 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-13 17:15:09,614 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-13 17:15:17,890 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-13 17:15:17,891 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-08-13 17:15:26,239 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-13 17:15:26,240 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-13 17:15:28,628 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-13 17:15:31,060 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-13 17:15:33,841 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-13 17:15:33,841 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-13 17:15:38,007 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-13 17:15:38,007 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-13 17:15:42,531 INFO  [Log] TS_27: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:15:42,532 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-13 17:15:44,808 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-13 17:15:44,808 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-13 17:15:48,970 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:15:49,035 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:15:49,036 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-13 17:15:51,181 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:15:51,598 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-13 17:15:51,598 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-13 17:15:53,840 INFO  [Log] NA; Value has been stored in index: 2 
+2017-08-13 17:15:53,914 INFO  [Log] User specified value has been replaced at index2New Value is: NA 
+2017-08-13 17:15:54,057 INFO  [Log] TS_40: move to top: Action click 
+2017-08-13 17:15:54,058 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-13 17:15:56,410 ERROR [Log] Error#: optima-1000TS_43BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:15:57,379 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-13 17:15:57,659 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-13 17:15:57,850 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-13 17:15:57,850 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:15:57,850 FATAL [Log] optima-1000TS_43BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:15:57,850 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:15:57,940 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:15:57,940 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC04000.xlsx; Description: LOS For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:15:57,940 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:16:04,274 INFO  [Log] #### Executing Test case: Rg_TC04000.xlsx; Description: LOS In firefox Browser for TestData:1 
+2017-08-13 17:16:13,994 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:16:14,826 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:16:15,099 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:16:15,165 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:16:15,165 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:16:25,380 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:16:25,526 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:16:25,577 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:16:26,692 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:16:26,692 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:16:30,870 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:16:30,870 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:16:39,049 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-13 17:16:39,049 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-13 17:16:47,379 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-13 17:16:47,379 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-08-13 17:16:55,663 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-13 17:16:55,663 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-13 17:16:58,096 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-13 17:17:00,493 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-13 17:17:03,299 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-13 17:17:03,299 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-13 17:17:07,541 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-13 17:17:07,541 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-13 17:17:11,936 INFO  [Log] TS_27: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:17:11,938 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-13 17:17:14,174 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-13 17:17:14,174 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-13 17:17:18,314 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:17:18,375 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:17:18,375 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-13 17:17:20,508 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:17:20,729 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-13 17:17:20,729 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-13 17:17:22,896 INFO  [Log] NA; Value has been stored in index: 3 
+2017-08-13 17:17:22,936 INFO  [Log] User specified value has been replaced at index3New Value is: NA 
+2017-08-13 17:17:22,997 INFO  [Log] TS_40: move to top: Action click 
+2017-08-13 17:17:22,997 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-13 17:17:25,326 ERROR [Log] Error#: optima-1000TS_43BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:17:26,232 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-13 17:17:26,432 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-13 17:17:26,653 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-13 17:17:26,653 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:17:26,653 FATAL [Log] optima-1000TS_43BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:17:26,653 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:17:26,733 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:17:26,733 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC05000.xlsx; Description: guest count For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:17:26,733 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:17:33,218 INFO  [Log] #### Executing Test case: Rg_TC05000.xlsx; Description: guest count In firefox Browser for TestData:1 
+2017-08-13 17:18:02,107 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:18:02,375 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:18:02,546 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:18:02,607 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:18:02,607 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:18:12,826 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:18:12,922 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:18:12,961 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:18:14,030 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:18:14,030 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:18:18,311 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:18:18,311 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:18:26,546 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-13 17:18:26,547 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-13 17:18:34,891 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-13 17:18:34,892 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-08-13 17:18:43,107 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-13 17:18:43,107 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-13 17:18:45,607 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-13 17:18:48,045 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-13 17:18:50,909 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-13 17:18:50,909 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-13 17:18:55,034 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-13 17:18:55,035 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-13 17:18:59,640 INFO  [Log] TS_27: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:18:59,641 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-13 17:19:01,983 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-13 17:19:01,983 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-13 17:19:06,187 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:19:06,240 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:19:06,240 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-13 17:19:08,314 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:19:08,562 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-13 17:19:08,562 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-13 17:19:10,738 INFO  [Log] NA; Value has been stored in index: 4 
+2017-08-13 17:19:10,818 INFO  [Log] User specified value has been replaced at index4New Value is: NA 
+2017-08-13 17:19:10,965 INFO  [Log] TS_40: move to top: Action click 
+2017-08-13 17:19:10,966 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-13 17:19:13,254 ERROR [Log] Error#: optima-1000TS_43BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:19:14,435 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-13 17:19:14,626 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-13 17:19:14,826 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-13 17:19:14,826 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:19:14,826 FATAL [Log] optima-1000TS_43BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-13 17:19:14,826 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:19:14,886 INFO  [Log] ####Closing Test Suite #### 
+2017-08-13 17:19:14,886 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:19:14,886 INFO  [Log] Creating Logs backup and storing for further reference 

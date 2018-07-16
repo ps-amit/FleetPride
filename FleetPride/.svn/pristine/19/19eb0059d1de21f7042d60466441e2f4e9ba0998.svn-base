@@ -1,0 +1,1049 @@
+2018-02-06 18:37:14,033 INFO  [Log] Test Scenario Configuration started 
+2018-02-06 18:37:14,052 INFO  [Log] Initialing HTML reporting 
+2018-02-06 18:37:14,287 INFO  [Log] Starting Test Suit Execution 
+2018-02-06 18:37:14,614 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:37:14,687 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:37:14,755 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:37:15,273 INFO  [Log] Object repository is created successfully 
+2018-02-06 18:37:15,357 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:37:15,357 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_back_order -stored_CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:37:15,357 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:37:23,440 INFO  [Log] #### Executing Test case: E2E_back_order -stored_CC; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:37:28,528 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:37:28,628 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:37:28,666 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:37:28,666 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:37:55,420 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:37:55,420 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:38:05,546 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: ABX-EL4702QSB 
+2018-02-06 18:38:09,192 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:38:09,194 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 18:38:19,273 INFO  [Log] TS_10: Capture the price of the product$79.57; Value has been stored in index: 0 
+2018-02-06 18:38:19,311 INFO  [Log] TS_11; Passed; Verify the part # of the product; Value: part#: el4702qsb; Present in Page values: Part#: EL4702QSB,  
+2018-02-06 18:38:19,358 INFO  [Log] TS_12: Clear the qty field; Action Clear 
+2018-02-06 18:38:19,389 INFO  [Log] TS_13: Increase the qty more than availability; Action: Submitted Value: Value: null 
+2018-02-06 18:38:19,659 INFO  [Log] TS_14: Click on Add to cart button  
+2018-02-06 18:38:19,659 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2018-02-06 18:38:29,737 INFO  [Log] TS_16: Capture the value on the back order pop up boxWe can ship 0 to you but 50 will be on backorder.; Value has been stored in index: 1 
+2018-02-06 18:38:29,740 INFO  [Log] User specified value has been replaced at index1New Value is: We can ship 0  
+2018-02-06 18:38:29,740 INFO  [Log] User specified value has been replaced at index1New Value is: 0  
+2018-02-06 18:38:29,771 INFO  [Log] TS_19: Capture the value on the back order pop up boxWe can ship 0 to you but 50 will be on backorder.; Value has been stored in index: 2 
+2018-02-06 18:38:29,771 INFO  [Log] User specified value has been replaced at index2New Value is: We can ship 0 to you but 50  
+2018-02-06 18:38:29,787 INFO  [Log] User specified value has been replaced at index2New Value is: 50  
+2018-02-06 18:38:30,038 INFO  [Log] TS_22: Click on the continue btn from the pop up 
+2018-02-06 18:38:30,038 INFO  [Log] TS_23; Waited 5000 Milli seconds for Element 
+2018-02-06 18:38:35,108 INFO  [Log] TS_24: Capture value at my cart link intiallyMy Cart: 0 item(s), $0.00; Value has been stored in index: 3 
+2018-02-06 18:38:35,118 INFO  [Log] User specified value has been replaced at index3New Value is:  $0.00 
+2018-02-06 18:38:35,119 INFO  [Log] TS_26; Passed; null; Captured text1: $79.57; Captured text2:  $0.00 
+2018-02-06 18:38:35,203 INFO  [Log] TS_27: Click on the mini my cart link 
+2018-02-06 18:38:35,203 INFO  [Log] TS_28; Waited 10000 Milli seconds for Element 
+2018-02-06 18:38:45,249 INFO  [Log] TS_29: Capture the shipping address from the fulfillment section1781 WESTFORK DR
+LITHIA SPRINGS, GA 30122
+undefined; Value has been stored in index: 4 
+2018-02-06 18:38:45,268 INFO  [Log] TS_30: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 5 
+2018-02-06 18:38:45,284 INFO  [Log] TS_31: Capture the qty in Home DCQTY in LAWRENCEVILLE: 0; Value has been stored in index: 6 
+2018-02-06 18:38:45,299 INFO  [Log] User specified value has been replaced at index6New Value is: ILLE: 0 
+2018-02-06 18:38:45,315 INFO  [Log] TS_33: Capture the qty in other DCQTY in other Locations: 0; Value has been stored in index: 7 
+2018-02-06 18:38:45,333 INFO  [Log] User specified value has been replaced at index7New Value is: 0 
+2018-02-06 18:38:45,349 INFO  [Log] TS_35: Capture the shipping qty on my cart page0; Value has been stored in index: 8 
+2018-02-06 18:38:45,349 INFO  [Log] TS_36; Passed; null; Captured text1: 0 ; Captured text2: 0 
+2018-02-06 18:38:45,365 INFO  [Log] TS_37: Capture the backorder qty on my cart page50; Value has been stored in index: 9 
+2018-02-06 18:38:45,365 INFO  [Log] TS_38; Passed; null; Captured text1: 50 ; Captured text2: 50 
+2018-02-06 18:38:45,380 INFO  [Log] TS_39: Capture the price of product on my cart page$79.57; Value has been stored in index: 10 
+2018-02-06 18:38:45,380 INFO  [Log] TS_40; Passed; null; Captured text1: $79.57; Captured text2: $79.57 
+2018-02-06 18:38:45,380 INFO  [Log] TS_41; Waited 5000 Milli seconds for Element 
+2018-02-06 18:38:50,689 INFO  [Log] TS_42: Click on the Proceed to Order Review  button 
+2018-02-06 18:38:50,698 INFO  [Log] TS_43; Waited 10000 Milli seconds for Element 
+2018-02-06 18:39:00,728 INFO  [Log] TS_44: Capture the Subtotal price on order review page$0.00; Value has been stored in index: 11 
+2018-02-06 18:39:00,761 INFO  [Log] TS_45: Capture the shipping cost $0.00; Value has been stored in index: 12 
+2018-02-06 18:39:00,765 INFO  [Log] TS_46: Capture the grandtotal price on order review page$0.00; Value has been stored in index: 13 
+2018-02-06 18:39:01,028 INFO  [Log] TS_47: Click on the Proceed to Payment information  button 
+2018-02-06 18:39:01,028 INFO  [Log] TS_48; Waited 10000 Milli seconds for Element 
+2018-02-06 18:39:11,121 INFO  [Log] TS_49: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 18:39:11,390 INFO  [Log] TS_50: Click on Saved Credit Card tab 
+2018-02-06 18:39:11,653 INFO  [Log] TS_51: Click on Saved Credit Card checkbox 
+2018-02-06 18:39:11,937 INFO  [Log] TS_52: Click on Stored Payment button 
+2018-02-06 18:39:11,937 INFO  [Log] TS_53; Waited 10000 Milli seconds for Element 
+2018-02-06 18:39:22,019 INFO  [Log] TS_54: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 14 
+2018-02-06 18:39:22,045 INFO  [Log] TS_55: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 15 
+2018-02-06 18:39:22,079 INFO  [Log] TS_56: Capture the Subtotal price on order confirmation page$0.00; Value has been stored in index: 16 
+2018-02-06 18:39:22,088 INFO  [Log] TS_57: Capture the shipping cost on order confirmation page$0.00; Value has been stored in index: 17 
+2018-02-06 18:39:22,088 INFO  [Log] TS_58; Passed; null; Captured text1: $0.00; Captured text2: $0.00 
+2018-02-06 18:39:22,103 INFO  [Log] TS_59: Capture the grandtotal price on order confirmation page$0.00; Value has been stored in index: 18 
+2018-02-06 18:39:22,103 INFO  [Log] TS_60; Passed; null; Captured text1: $0.00; Captured text2: $0.00 
+2018-02-06 18:39:22,103 INFO  [Log] TS_61; Waited 1000 Milli seconds for Element 
+2018-02-06 18:39:23,151 INFO  [Log] TS_62: Capture the Order no.Thank you for placing your order! Your order number is O-0000008363.
+Order Date: 2/6/2018; Value has been stored in index: 19 
+2018-02-06 18:39:23,153 INFO  [Log] User specified value has been replaced at index19New Value is: Thank you for placing your order! Your order number is O-0000008363. 
+2018-02-06 18:39:23,153 INFO  [Log] User specified value has been replaced at index19New Value is: O-0000008363. 
+2018-02-06 18:39:23,189 INFO  [Log] TS_65: Capture the Order no.Thank you for placing your order! Your order number is O-0000008363.
+Order Date: 2/6/2018; Value has been stored in index: 20 
+2018-02-06 18:39:23,204 INFO  [Log] User specified value has been replaced at index20New Value is: 2/6/2018 
+2018-02-06 18:39:28,211 INFO  [Log] closing test case  
+2018-02-06 18:39:28,743 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:39:28,812 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:39:28,893 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:39:28,897 INFO  [Log] ### Test case: E2E_back_order -stored_CC; Description: Blank; status Executed 
+2018-02-06 18:39:29,259 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:39:29,328 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:39:29,396 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:39:29,396 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:39:29,396 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:39:29,766 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:39:29,766 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_back_order_invoice; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:39:29,766 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:39:35,688 INFO  [Log] #### Executing Test case: E2E_back_order_invoice; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:39:40,529 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:39:40,670 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:39:40,719 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:39:40,720 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:40:18,647 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:40:18,647 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:40:28,731 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: ABX-EN1308TDP 
+2018-02-06 18:40:32,605 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:40:32,605 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 18:40:42,656 INFO  [Log] TS_10: Capture the price of the product$8.89; Value has been stored in index: 0 
+2018-02-06 18:40:42,723 INFO  [Log] TS_11; Passed; Verify the part # of the product; Value: part#: en1308td-p; Present in Page values: Part#: EN1308TD-P,  
+2018-02-06 18:40:42,765 INFO  [Log] TS_12: Clear the qty field; Action Clear 
+2018-02-06 18:40:42,801 INFO  [Log] TS_13: Increase the qty more than availability; Action: Submitted Value: Value: null 
+2018-02-06 18:40:43,080 INFO  [Log] TS_14: Click on Add to cart button  
+2018-02-06 18:40:43,081 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2018-02-06 18:40:53,126 INFO  [Log] TS_16: Capture the value on the back order pop up boxWe can ship 0 to you but 50 will be on backorder.; Value has been stored in index: 1 
+2018-02-06 18:40:53,134 INFO  [Log] User specified value has been replaced at index1New Value is: We can ship 0  
+2018-02-06 18:40:53,140 INFO  [Log] User specified value has been replaced at index1New Value is: 0  
+2018-02-06 18:40:53,173 INFO  [Log] TS_19: Capture the value on the back order pop up boxWe can ship 0 to you but 50 will be on backorder.; Value has been stored in index: 2 
+2018-02-06 18:40:53,179 INFO  [Log] User specified value has been replaced at index2New Value is: We can ship 0 to you but 50  
+2018-02-06 18:40:53,185 INFO  [Log] User specified value has been replaced at index2New Value is: 50  
+2018-02-06 18:40:53,463 INFO  [Log] TS_22: Click on the continue btn from the pop up 
+2018-02-06 18:40:53,464 INFO  [Log] TS_23; Waited 5000 Milli seconds for Element 
+2018-02-06 18:40:58,502 INFO  [Log] TS_24: Capture value at my cart link intiallyMy Cart: 0 item(s), $0.00; Value has been stored in index: 3 
+2018-02-06 18:40:58,508 INFO  [Log] User specified value has been replaced at index3New Value is:  $0.00 
+2018-02-06 18:40:58,509 INFO  [Log] TS_26; Passed; null; Captured text1: $8.89; Captured text2:  $0.00 
+2018-02-06 18:40:58,573 INFO  [Log] TS_27: Click on the mini my cart link 
+2018-02-06 18:40:58,573 INFO  [Log] TS_28; Waited 10000 Milli seconds for Element 
+2018-02-06 18:41:08,617 INFO  [Log] TS_29: Capture the shipping address from the fulfillment section1781 WESTFORK DR
+LITHIA SPRINGS, GA 30122
+undefined; Value has been stored in index: 4 
+2018-02-06 18:41:08,642 INFO  [Log] TS_30: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 5 
+2018-02-06 18:41:08,673 INFO  [Log] TS_31: Capture the qty in Home DCQTY in LAWRENCEVILLE: 0; Value has been stored in index: 6 
+2018-02-06 18:41:08,680 INFO  [Log] User specified value has been replaced at index6New Value is: ILLE: 0 
+2018-02-06 18:41:08,708 INFO  [Log] TS_33: Capture the qty in other DCQTY in other Locations: 0; Value has been stored in index: 7 
+2018-02-06 18:41:08,714 INFO  [Log] User specified value has been replaced at index7New Value is: 0 
+2018-02-06 18:41:08,736 INFO  [Log] TS_35: Capture the shipping qty on my cart page0; Value has been stored in index: 8 
+2018-02-06 18:41:08,737 INFO  [Log] TS_36; Passed; null; Captured text1: 0 ; Captured text2: 0 
+2018-02-06 18:41:08,765 INFO  [Log] TS_37: Capture the backorder qty on my cart page50; Value has been stored in index: 9 
+2018-02-06 18:41:08,765 INFO  [Log] TS_38; Passed; null; Captured text1: 50 ; Captured text2: 50 
+2018-02-06 18:41:08,789 INFO  [Log] TS_39: Capture the price of product on my cart page$8.89; Value has been stored in index: 10 
+2018-02-06 18:41:08,790 INFO  [Log] TS_40; Passed; null; Captured text1: $8.89; Captured text2: $8.89 
+2018-02-06 18:41:08,790 INFO  [Log] TS_41; Waited 5000 Milli seconds for Element 
+2018-02-06 18:41:14,065 INFO  [Log] TS_42: Click on the Proceed to Order Review  button 
+2018-02-06 18:41:14,065 INFO  [Log] TS_43; Waited 10000 Milli seconds for Element 
+2018-02-06 18:41:24,107 INFO  [Log] TS_44: Capture the Subtotal price on order review page$0.00; Value has been stored in index: 11 
+2018-02-06 18:41:24,129 INFO  [Log] TS_45: Capture the shipping cost $0.00; Value has been stored in index: 12 
+2018-02-06 18:41:24,150 INFO  [Log] TS_46: Capture the grandtotal price on order review page$0.00; Value has been stored in index: 13 
+2018-02-06 18:41:24,416 INFO  [Log] TS_47: Click on the Proceed to Payment information  button 
+2018-02-06 18:41:24,417 INFO  [Log] TS_48; Waited 10000 Milli seconds for Element 
+2018-02-06 18:41:34,471 INFO  [Log] TS_49: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 18:41:34,742 INFO  [Log] TS_50: Click on invoice Order tab 
+2018-02-06 18:41:35,007 INFO  [Log] TS_51: Click on the Check box 
+2018-02-06 18:41:35,281 INFO  [Log] TS_52: Click on the Submit order button for Invoice tab 
+2018-02-06 18:41:35,282 INFO  [Log] TS_53; Waited 10000 Milli seconds for Element 
+2018-02-06 18:41:45,344 INFO  [Log] TS_54: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 14 
+2018-02-06 18:41:45,379 INFO  [Log] TS_55: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 15 
+2018-02-06 18:41:45,410 INFO  [Log] TS_56; Passed; Verify the payment mode; Value: invoiced; Present in Page values: Invoiced,  
+2018-02-06 18:41:45,429 INFO  [Log] TS_57: Capture the Subtotal price on order confirmation page$0.00; Value has been stored in index: 16 
+2018-02-06 18:41:45,450 INFO  [Log] TS_58: Capture the shipping cost on order confirmation page$0.00; Value has been stored in index: 17 
+2018-02-06 18:41:45,450 INFO  [Log] TS_59; Passed; null; Captured text1: $0.00; Captured text2: $0.00 
+2018-02-06 18:41:45,482 INFO  [Log] TS_60: Capture the grandtotal price on order confirmation page$0.00; Value has been stored in index: 18 
+2018-02-06 18:41:45,483 INFO  [Log] TS_61; Passed; null; Captured text1: $0.00; Captured text2: $0.00 
+2018-02-06 18:41:45,483 INFO  [Log] TS_62; Waited 1000 Milli seconds for Element 
+2018-02-06 18:41:46,512 INFO  [Log] TS_63: Capture the Order no.Thank you for placing your order! Your order number is O-0000008364.
+Order Date: 2/6/2018; Value has been stored in index: 19 
+2018-02-06 18:41:46,518 INFO  [Log] User specified value has been replaced at index19New Value is: Thank you for placing your order! Your order number is O-0000008364. 
+2018-02-06 18:41:46,523 INFO  [Log] User specified value has been replaced at index19New Value is: O-0000008364. 
+2018-02-06 18:41:46,542 INFO  [Log] TS_66: Capture the Order no.Thank you for placing your order! Your order number is O-0000008364.
+Order Date: 2/6/2018; Value has been stored in index: 20 
+2018-02-06 18:41:46,547 INFO  [Log] User specified value has been replaced at index20New Value is: 2/6/2018 
+2018-02-06 18:41:51,560 INFO  [Log] closing test case  
+2018-02-06 18:41:52,199 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:41:52,288 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:41:52,382 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:41:52,397 INFO  [Log] ### Test case: E2E_back_order_invoice; Description: Blank; status Executed 
+2018-02-06 18:41:52,847 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:41:52,937 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:41:53,029 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:41:53,029 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:41:53,029 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:41:53,122 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:41:53,122 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_normal_shipping -stored_CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:41:53,122 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:42:00,556 INFO  [Log] #### Executing Test case: E2E_normal_shipping -stored_CC; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:42:05,717 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:42:05,818 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:42:05,870 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:42:05,870 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:42:33,850 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:42:33,851 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:42:43,933 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-02-06 18:42:47,531 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:42:47,532 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 18:42:57,569 INFO  [Log] TS_10: Capture the price of the product$62.18; Value has been stored in index: 0 
+2018-02-06 18:42:57,602 INFO  [Log] TS_11; Passed; Verify the part # of the product; Value: part#: rw200; Present in Page values: Part#: RW200,  
+2018-02-06 18:42:57,883 INFO  [Log] TS_12: Click on Add to cart button  
+2018-02-06 18:42:57,883 INFO  [Log] TS_13; Waited 5000 Milli seconds for Element 
+2018-02-06 18:43:02,923 INFO  [Log] TS_14: Capture value at my cart link intiallyMy Cart: 1 item(s), $62.18; Value has been stored in index: 1 
+2018-02-06 18:43:02,929 INFO  [Log] User specified value has been replaced at index1New Value is:  $62.18 
+2018-02-06 18:43:02,929 INFO  [Log] TS_16; Passed; null; Captured text1: $62.18; Captured text2:  $62.18 
+2018-02-06 18:43:03,000 INFO  [Log] TS_17: Click on the mini my cart link 
+2018-02-06 18:43:03,000 INFO  [Log] TS_18; Waited 10000 Milli seconds for Element 
+2018-02-06 18:43:13,051 INFO  [Log] TS_19: Capture the shipping address from the fulfillment section1781 WESTFORK DR
+LITHIA SPRINGS, GA 30122
+undefined; Value has been stored in index: 2 
+2018-02-06 18:43:13,113 INFO  [Log] TS_20: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 3 
+2018-02-06 18:43:13,149 INFO  [Log] TS_21: Capture the qty in Home DCQTY in LAWRENCEVILLE: 862; Value has been stored in index: 4 
+2018-02-06 18:43:13,155 INFO  [Log] User specified value has been replaced at index4New Value is: ILLE: 862 
+2018-02-06 18:43:13,184 INFO  [Log] TS_23: Capture the qty in other DCQTY in other Locations: 1448; Value has been stored in index: 5 
+2018-02-06 18:43:13,193 INFO  [Log] User specified value has been replaced at index5New Value is: 1448 
+2018-02-06 18:43:13,217 INFO  [Log] TS_25: Capture the price of product on my cart page$62.18; Value has been stored in index: 6 
+2018-02-06 18:43:13,217 INFO  [Log] TS_26; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:43:13,245 INFO  [Log] TS_27: Capture the Subtotal price of the cart$62.18; Value has been stored in index: 7 
+2018-02-06 18:43:13,246 INFO  [Log] TS_28; Waited 5000 Milli seconds for Element 
+2018-02-06 18:43:18,522 INFO  [Log] TS_29: Click on the Proceed to Order Review  button 
+2018-02-06 18:43:18,522 INFO  [Log] TS_30; Waited 10000 Milli seconds for Element 
+2018-02-06 18:43:28,559 INFO  [Log] TS_31: Capture the Subtotal price on order review page$62.18; Value has been stored in index: 8 
+2018-02-06 18:43:28,559 INFO  [Log] TS_32; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:43:28,579 INFO  [Log] TS_33: Capture the shipping cost $8.04; Value has been stored in index: 9 
+2018-02-06 18:43:28,597 INFO  [Log] TS_34: Capture the grandtotal price on order review page$70.22; Value has been stored in index: 10 
+2018-02-06 18:43:28,874 INFO  [Log] TS_35: Click on the Proceed to Payment information  button 
+2018-02-06 18:43:28,874 INFO  [Log] TS_36; Waited 10000 Milli seconds for Element 
+2018-02-06 18:43:38,916 INFO  [Log] TS_37: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 18:43:39,177 INFO  [Log] TS_38: Click on Saved Credit Card tab 
+2018-02-06 18:43:39,426 INFO  [Log] TS_39: Click on Saved Credit Card checkbox 
+2018-02-06 18:43:39,675 INFO  [Log] TS_40: Click on Stored Payment button 
+2018-02-06 18:43:39,675 INFO  [Log] TS_41; Waited 10000 Milli seconds for Element 
+2018-02-06 18:43:49,727 INFO  [Log] TS_42: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 11 
+2018-02-06 18:43:49,760 INFO  [Log] TS_43: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 12 
+2018-02-06 18:43:49,781 INFO  [Log] TS_44: Capture the Subtotal price on order confirmation page$62.18; Value has been stored in index: 13 
+2018-02-06 18:43:49,782 INFO  [Log] TS_45; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:43:49,802 INFO  [Log] TS_46: Capture the shipping cost on order confirmation page$8.04; Value has been stored in index: 14 
+2018-02-06 18:43:49,802 INFO  [Log] TS_47; Passed; null; Captured text1: $8.04; Captured text2: $8.04 
+2018-02-06 18:43:49,820 INFO  [Log] TS_48: Capture the grandtotal price on order confirmation page$70.22; Value has been stored in index: 15 
+2018-02-06 18:43:49,821 INFO  [Log] TS_49; Passed; null; Captured text1: $70.22; Captured text2: $70.22 
+2018-02-06 18:43:49,839 INFO  [Log] TS_50: Capture the Home DC address2406 TECH CENTER PKWY STE 200 LAWRENCEVILLE GA 300431353; Value has been stored in index: 16 
+2018-02-06 18:43:49,840 INFO  [Log] TS_51; Waited 10000 Milli seconds for Element 
+2018-02-06 18:43:59,884 INFO  [Log] TS_52: Capture the Order no.Thank you for placing your order! Your order number is O-0000008365.
+Order Date: 2/6/2018; Value has been stored in index: 17 
+2018-02-06 18:43:59,890 INFO  [Log] User specified value has been replaced at index17New Value is: Thank you for placing your order! Your order number is O-0000008365. 
+2018-02-06 18:43:59,896 INFO  [Log] User specified value has been replaced at index17New Value is: O-0000008365. 
+2018-02-06 18:43:59,916 INFO  [Log] TS_55: Capture the Order no.Thank you for placing your order! Your order number is O-0000008365.
+Order Date: 2/6/2018; Value has been stored in index: 18 
+2018-02-06 18:43:59,921 INFO  [Log] User specified value has been replaced at index18New Value is: 2/6/2018 
+2018-02-06 18:44:04,928 INFO  [Log] closing test case  
+2018-02-06 18:44:05,624 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:44:05,714 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:44:05,807 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:44:05,825 INFO  [Log] ### Test case: E2E_normal_shipping -stored_CC; Description: Blank; status Executed 
+2018-02-06 18:44:06,286 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:44:06,375 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:44:06,466 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:44:06,466 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:44:06,466 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:44:06,559 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:44:06,559 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_normal_shipping_invoice; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:44:06,559 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:44:13,383 INFO  [Log] #### Executing Test case: E2E_normal_shipping_invoice; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:44:18,735 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:44:18,841 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:44:18,893 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:44:18,893 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:44:49,193 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:44:49,193 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:44:59,265 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-02-06 18:45:02,849 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:45:02,850 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 18:45:12,905 INFO  [Log] TS_10: Capture the price of the product$62.18; Value has been stored in index: 0 
+2018-02-06 18:45:12,986 INFO  [Log] TS_11; Passed; Verify the part # of the product; Value: part#: rw200; Present in Page values: Part#: RW200,  
+2018-02-06 18:45:13,287 INFO  [Log] TS_12: Click on Add to cart button  
+2018-02-06 18:45:13,288 INFO  [Log] TS_13; Waited 5000 Milli seconds for Element 
+2018-02-06 18:45:18,319 INFO  [Log] TS_14: Capture value at my cart link intiallyMy Cart: 1 item(s), $62.18; Value has been stored in index: 1 
+2018-02-06 18:45:18,326 INFO  [Log] User specified value has been replaced at index1New Value is:  $62.18 
+2018-02-06 18:45:18,327 INFO  [Log] TS_16; Passed; null; Captured text1: $62.18; Captured text2:  $62.18 
+2018-02-06 18:45:18,409 INFO  [Log] TS_17: Click on the mini my cart link 
+2018-02-06 18:45:18,409 INFO  [Log] TS_18; Waited 10000 Milli seconds for Element 
+2018-02-06 18:45:28,450 INFO  [Log] TS_19: Capture the shipping address from the fulfillment section1781 WESTFORK DR
+LITHIA SPRINGS, GA 30122
+undefined; Value has been stored in index: 2 
+2018-02-06 18:45:28,475 INFO  [Log] TS_20: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 3 
+2018-02-06 18:45:28,507 INFO  [Log] TS_21: Capture the qty in Home DCQTY in LAWRENCEVILLE: 862; Value has been stored in index: 4 
+2018-02-06 18:45:28,513 INFO  [Log] User specified value has been replaced at index4New Value is: ILLE: 862 
+2018-02-06 18:45:28,545 INFO  [Log] TS_23: Capture the qty in other DCQTY in other Locations: 1448; Value has been stored in index: 5 
+2018-02-06 18:45:28,550 INFO  [Log] User specified value has been replaced at index5New Value is: 1448 
+2018-02-06 18:45:28,572 INFO  [Log] TS_25: Capture the price of product on my cart page$62.18; Value has been stored in index: 6 
+2018-02-06 18:45:28,573 INFO  [Log] TS_26; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:45:28,596 INFO  [Log] TS_27: Capture the Subtotal price of the cart$62.18; Value has been stored in index: 7 
+2018-02-06 18:45:28,596 INFO  [Log] TS_28; Waited 5000 Milli seconds for Element 
+2018-02-06 18:45:33,873 INFO  [Log] TS_29: Click on the Proceed to Order Review  button 
+2018-02-06 18:45:33,873 INFO  [Log] TS_30; Waited 10000 Milli seconds for Element 
+2018-02-06 18:45:43,909 INFO  [Log] TS_31: Capture the Subtotal price on order review page$62.18; Value has been stored in index: 8 
+2018-02-06 18:45:43,909 INFO  [Log] TS_32; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:45:43,929 INFO  [Log] TS_33: Capture the shipping cost $8.04; Value has been stored in index: 9 
+2018-02-06 18:45:43,947 INFO  [Log] TS_34: Capture the grandtotal price on order review page$70.22; Value has been stored in index: 10 
+2018-02-06 18:45:44,223 INFO  [Log] TS_35: Click on the Proceed to Payment information  button 
+2018-02-06 18:45:44,224 INFO  [Log] TS_36; Waited 10000 Milli seconds for Element 
+2018-02-06 18:45:54,279 INFO  [Log] TS_37: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 18:45:54,565 INFO  [Log] TS_38: Click on invoice Order tab 
+2018-02-06 18:45:54,827 INFO  [Log] TS_39: Click on the Check box 
+2018-02-06 18:45:55,121 INFO  [Log] TS_40: Click on the Submit order button for Invoice tab 
+2018-02-06 18:45:55,122 INFO  [Log] TS_41; Waited 10000 Milli seconds for Element 
+2018-02-06 18:46:05,184 INFO  [Log] TS_42: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 11 
+2018-02-06 18:46:05,219 INFO  [Log] TS_43: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 12 
+2018-02-06 18:46:05,248 INFO  [Log] TS_44; Passed; Verify the payment mode; Value: invoiced; Present in Page values: Invoiced,  
+2018-02-06 18:46:05,267 INFO  [Log] TS_45: Capture the Subtotal price on order confirmation page$62.18; Value has been stored in index: 13 
+2018-02-06 18:46:05,268 INFO  [Log] TS_46; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:46:05,288 INFO  [Log] TS_47: Capture the shipping cost on order confirmation page$8.04; Value has been stored in index: 14 
+2018-02-06 18:46:05,288 INFO  [Log] TS_48; Passed; null; Captured text1: $8.04; Captured text2: $8.04 
+2018-02-06 18:46:05,309 INFO  [Log] TS_49: Capture the grandtotal price on order confirmation page$70.22; Value has been stored in index: 15 
+2018-02-06 18:46:05,309 INFO  [Log] TS_50; Passed; null; Captured text1: $70.22; Captured text2: $70.22 
+2018-02-06 18:46:05,329 INFO  [Log] TS_51: Capture the Home DC address2406 TECH CENTER PKWY STE 200 LAWRENCEVILLE GA 300431353; Value has been stored in index: 16 
+2018-02-06 18:46:05,329 INFO  [Log] TS_52; Waited 1000 Milli seconds for Element 
+2018-02-06 18:46:06,348 INFO  [Log] TS_53: Capture the Order no.Thank you for placing your order! Your order number is O-0000008366.
+Order Date: 2/6/2018; Value has been stored in index: 17 
+2018-02-06 18:46:06,354 INFO  [Log] User specified value has been replaced at index17New Value is: Thank you for placing your order! Your order number is O-0000008366. 
+2018-02-06 18:46:06,354 INFO  [Log] User specified value has been replaced at index17New Value is: O-0000008366. 
+2018-02-06 18:46:06,369 INFO  [Log] TS_56: Capture the Order no.Thank you for placing your order! Your order number is O-0000008366.
+Order Date: 2/6/2018; Value has been stored in index: 18 
+2018-02-06 18:46:06,385 INFO  [Log] User specified value has been replaced at index18New Value is: 2/6/2018 
+2018-02-06 18:46:11,399 INFO  [Log] closing test case  
+2018-02-06 18:46:12,082 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:46:12,170 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:46:12,262 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:46:12,275 INFO  [Log] ### Test case: E2E_normal_shipping_invoice; Description: Blank; status Executed 
+2018-02-06 18:46:12,743 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:46:12,834 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:46:12,925 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:46:12,925 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:46:12,926 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:46:13,004 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:46:13,004 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_Will_Call - stored_CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:46:13,004 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:46:20,125 INFO  [Log] #### Executing Test case: E2E_Will_Call - stored_CC; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:46:26,641 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:46:26,736 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:46:26,777 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:46:26,777 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:46:52,202 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:46:52,203 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:47:02,448 INFO  [Log] TS_07: Click on the Edit Fulfillment link 
+2018-02-06 18:47:02,448 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-02-06 18:47:27,924 INFO  [Log] E2ETS_09ObjectRepClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-02-06 18:47:28,336 WARN  [Log]  Browser instance is active 
+2018-02-06 18:47:29,070 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:47:29,160 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:47:29,251 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:47:29,251 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:47:29,251 FATAL [Log] E2ETS_09ObjectRepClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-02-06 18:47:29,251 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:47:29,321 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:47:29,321 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_Will_Call -Ship_Remainder - stored_CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:47:29,321 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:47:36,975 INFO  [Log] #### Executing Test case: E2E_Will_Call -Ship_Remainder - stored_CC; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:47:42,476 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:47:42,558 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:47:42,597 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:47:42,597 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:48:10,006 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:48:10,006 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:48:20,146 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-02-06 18:48:23,835 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:48:23,835 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 18:48:33,977 INFO  [Log] TS_10: Click on the Edit Fulfillment link 
+2018-02-06 18:48:33,986 INFO  [Log] TS_11; Waited 3000 Milli seconds for Element 
+2018-02-06 18:48:52,189 INFO  [Log] E2ETS_12ObjectRepClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-02-06 18:48:52,305 WARN  [Log]  Browser instance is active 
+2018-02-06 18:48:52,879 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:48:52,948 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:48:53,027 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:48:53,027 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:48:53,027 FATAL [Log] E2ETS_12ObjectRepClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-02-06 18:48:53,027 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:48:53,093 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:48:53,093 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_Will_Call -Ship_Remainder_invoice; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:48:53,093 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:49:01,442 INFO  [Log] #### Executing Test case: E2E_Will_Call -Ship_Remainder_invoice; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:49:06,408 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:49:06,492 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:49:06,539 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:49:06,539 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:49:30,830 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:49:30,830 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:49:40,973 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-02-06 18:49:44,383 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:49:44,387 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 18:49:54,562 INFO  [Log] TS_10: Click on the Edit Fulfillment link 
+2018-02-06 18:49:54,562 INFO  [Log] TS_11; Waited 3000 Milli seconds for Element 
+2018-02-06 18:49:57,879 INFO  [Log] TS_12: Change the address to Will call 
+2018-02-06 18:49:58,734 INFO  [Log] TS_13: Click on the Will call -Ship Remainder radio button 
+2018-02-06 18:49:58,734 INFO  [Log] TS_14; Waited 3000 Milli seconds for Element 
+2018-02-06 18:50:05,010 INFO  [Log] TS_15: Click on the Continue button 
+2018-02-06 18:50:05,010 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2018-02-06 18:50:13,086 INFO  [Log] TS_17: Capture the price of the product$62.18; Value has been stored in index: 0 
+2018-02-06 18:50:13,110 INFO  [Log] TS_18; Passed; Verify the part # of the product; Value: part#: rw200; Present in Page values: Part#: RW200,  
+2018-02-06 18:50:13,386 INFO  [Log] TS_19: Click on Add to cart button  
+2018-02-06 18:50:13,386 INFO  [Log] TS_20; Waited 3000 Milli seconds for Element 
+2018-02-06 18:50:16,455 INFO  [Log] TS_21: Capture value at my cart link intiallyMy Cart: 1 item(s), $62.18; Value has been stored in index: 1 
+2018-02-06 18:50:16,458 INFO  [Log] User specified value has been replaced at index1New Value is:  $62.18 
+2018-02-06 18:50:16,458 INFO  [Log] TS_23; Passed; null; Captured text1: $62.18; Captured text2:  $62.18 
+2018-02-06 18:50:19,458 INFO  [Log] TS_24: Click on the mini my cart link 
+2018-02-06 18:50:19,458 INFO  [Log] TS_25; Waited 10000 Milli seconds for Element 
+2018-02-06 18:50:29,532 INFO  [Log] TS_26: Capture the address from the fulfillment section2406 TECH CENTER PKWY STE 200
+undefined, LAWRENCEVILLE GA
+300431353; Value has been stored in index: 2 
+2018-02-06 18:50:29,554 INFO  [Log] TS_27: Capture the Home DC as per the addressLAWRENCEVILLE:; Value has been stored in index: 3 
+2018-02-06 18:50:29,570 INFO  [Log] TS_28: Capture the qty in Home DCQTY in LAWRENCEVILLE: 861; Value has been stored in index: 4 
+2018-02-06 18:50:29,586 INFO  [Log] User specified value has been replaced at index4New Value is: ILLE: 861 
+2018-02-06 18:50:29,601 INFO  [Log] TS_30: Capture the qty in other DCQTY in other Locations: 1448; Value has been stored in index: 5 
+2018-02-06 18:50:29,601 INFO  [Log] User specified value has been replaced at index5New Value is: 1448 
+2018-02-06 18:50:29,617 INFO  [Log] TS_32: Capture the price of product on my cart page$62.18; Value has been stored in index: 6 
+2018-02-06 18:50:29,617 INFO  [Log] TS_33; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:50:29,633 INFO  [Log] TS_34: Capture the Subtotal price of the cart$62.18; Value has been stored in index: 7 
+2018-02-06 18:50:29,633 INFO  [Log] TS_35; Waited 5000 Milli seconds for Element 
+2018-02-06 18:50:34,939 INFO  [Log] TS_36: Click on the Proceed to Order Review  button 
+2018-02-06 18:50:34,946 INFO  [Log] TS_37; Waited 10000 Milli seconds for Element 
+2018-02-06 18:50:45,033 INFO  [Log] TS_38: Capture the Subtotal price on order review page$62.18; Value has been stored in index: 8 
+2018-02-06 18:50:45,041 INFO  [Log] TS_39; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:50:45,065 INFO  [Log] TS_40; Passed; Verify the shipping cost ; Value: 0.0; Present in Page values: $0.00,  
+2018-02-06 18:50:45,071 INFO  [Log] TS_41: Capture the grandtotal price on order review page$62.18; Value has been stored in index: 9 
+2018-02-06 18:50:45,334 INFO  [Log] TS_42: Click on the Proceed to Payment information  button 
+2018-02-06 18:50:45,334 INFO  [Log] TS_43; Waited 10000 Milli seconds for Element 
+2018-02-06 18:50:55,443 INFO  [Log] TS_44: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 18:50:55,697 INFO  [Log] TS_45: Click on invoice Order tab 
+2018-02-06 18:50:55,997 INFO  [Log] TS_46: Click on the Check box 
+2018-02-06 18:50:56,329 INFO  [Log] TS_47: Click on the Submit order button for Invoice tab 
+2018-02-06 18:50:56,329 INFO  [Log] TS_48; Waited 10000 Milli seconds for Element 
+2018-02-06 18:51:06,368 INFO  [Log] TS_49: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 10 
+2018-02-06 18:51:06,390 INFO  [Log] TS_50: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 11 
+2018-02-06 18:51:06,421 INFO  [Log] TS_51: Capture the will call pick up  address2406 TECH CENTER PKWY STE 200
+LAWRENCEVILLE , GA  300431353
+US; Value has been stored in index: 12 
+2018-02-06 18:51:06,437 INFO  [Log] TS_52; Passed; Verify the payment mode; Value: invoiced; Present in Page values: Invoiced,  
+2018-02-06 18:51:06,452 INFO  [Log] TS_53: Capture the Subtotal price on order confirmation page$62.18; Value has been stored in index: 13 
+2018-02-06 18:51:06,452 INFO  [Log] TS_54; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:51:06,468 INFO  [Log] TS_55; Passed; Verify the Shipping cost charge on order confirmation page; Value: 0.0; Present in Page values: $0.00,  
+2018-02-06 18:51:06,490 INFO  [Log] TS_56: Capture the grandtotal price on order confirmation page$62.18; Value has been stored in index: 14 
+2018-02-06 18:51:06,490 INFO  [Log] TS_57; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:51:06,506 INFO  [Log] TS_58: Capture the Home DC address2406 TECH CENTER PKWY STE 200 LAWRENCEVILLE GA 300431353; Value has been stored in index: 15 
+2018-02-06 18:51:06,506 INFO  [Log] TS_59; Waited 10000 Milli seconds for Element 
+2018-02-06 18:51:16,577 INFO  [Log] TS_60: Capture the Order no.Thank you for placing your order! Your order number is O-0000008367.
+Order Date: 2/6/2018; Value has been stored in index: 16 
+2018-02-06 18:51:16,600 INFO  [Log] User specified value has been replaced at index16New Value is: Thank you for placing your order! Your order number is O-0000008367. 
+2018-02-06 18:51:16,602 INFO  [Log] User specified value has been replaced at index16New Value is: O-0000008367. 
+2018-02-06 18:51:16,617 INFO  [Log] TS_63: Capture the Order no.Thank you for placing your order! Your order number is O-0000008367.
+Order Date: 2/6/2018; Value has been stored in index: 17 
+2018-02-06 18:51:16,633 INFO  [Log] User specified value has been replaced at index17New Value is: 2/6/2018 
+2018-02-06 18:51:21,641 INFO  [Log] closing test case  
+2018-02-06 18:51:22,257 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:51:22,326 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:51:22,388 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:51:22,405 INFO  [Log] ### Test case: E2E_Will_Call -Ship_Remainder_invoice; Description: Blank; status Executed 
+2018-02-06 18:51:22,726 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:51:22,802 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:51:22,857 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:51:22,857 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:51:22,857 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:51:22,911 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:51:22,911 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_Will_Call_invoice; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:51:22,911 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:51:29,872 INFO  [Log] #### Executing Test case: E2E_Will_Call_invoice; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:51:35,363 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:51:35,449 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:51:35,486 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:51:35,487 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:51:59,632 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:51:59,635 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:52:09,811 INFO  [Log] TS_07: Click on the Edit Fulfillment link 
+2018-02-06 18:52:09,811 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-02-06 18:52:20,139 INFO  [Log] TS_09: Change the address to Will call 
+2018-02-06 18:52:20,147 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-02-06 18:52:32,883 INFO  [Log] TS_11: Click on the Continue button 
+2018-02-06 18:52:32,883 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2018-02-06 18:52:42,944 INFO  [Log] TS_13: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-02-06 18:52:46,109 INFO  [Log] TS_14: Click on the Search icon 
+2018-02-06 18:52:46,109 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2018-02-06 18:52:56,174 INFO  [Log] TS_16: Capture the price of the product$62.18; Value has been stored in index: 0 
+2018-02-06 18:52:56,210 INFO  [Log] TS_17; Passed; Verify the part # of the product; Value: part#: rw200; Present in Page values: Part#: RW200,  
+2018-02-06 18:52:56,506 INFO  [Log] TS_18: Click on Add to cart button  
+2018-02-06 18:52:56,506 INFO  [Log] TS_19; Waited 5000 Milli seconds for Element 
+2018-02-06 18:53:01,529 INFO  [Log] TS_20: Capture value at my cart link intiallyMy Cart: 1 item(s), $62.18; Value has been stored in index: 1 
+2018-02-06 18:53:01,547 INFO  [Log] User specified value has been replaced at index1New Value is:  $62.18 
+2018-02-06 18:53:01,547 INFO  [Log] TS_22; Passed; null; Captured text1: $62.18; Captured text2:  $62.18 
+2018-02-06 18:53:01,629 INFO  [Log] TS_23: Click on the mini my cart link 
+2018-02-06 18:53:01,629 INFO  [Log] TS_24; Waited 10000 Milli seconds for Element 
+2018-02-06 18:53:11,708 INFO  [Log] TS_25: Capture the shipping address from the fulfillment section2406 TECH CENTER PKWY STE 200
+undefined, LAWRENCEVILLE GA
+300431353; Value has been stored in index: 2 
+2018-02-06 18:53:11,737 INFO  [Log] TS_26: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 3 
+2018-02-06 18:53:11,772 INFO  [Log] TS_27: Capture the qty in Home DCQTY in LAWRENCEVILLE: 861; Value has been stored in index: 4 
+2018-02-06 18:53:11,788 INFO  [Log] User specified value has been replaced at index4New Value is: ILLE: 861 
+2018-02-06 18:53:11,803 INFO  [Log] TS_29: Capture the qty in other DCQTY in other Locations: 1448; Value has been stored in index: 5 
+2018-02-06 18:53:11,803 INFO  [Log] User specified value has been replaced at index5New Value is: 1448 
+2018-02-06 18:53:11,819 INFO  [Log] TS_31: Capture the price of product on my cart page$62.18; Value has been stored in index: 6 
+2018-02-06 18:53:11,819 INFO  [Log] TS_32; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:53:11,833 INFO  [Log] TS_33: Capture the Subtotal price of the cart$62.18; Value has been stored in index: 7 
+2018-02-06 18:53:11,833 INFO  [Log] TS_34; Waited 5000 Milli seconds for Element 
+2018-02-06 18:53:17,097 INFO  [Log] TS_35: Click on the Proceed to Order Review  button 
+2018-02-06 18:53:17,100 INFO  [Log] TS_36; Waited 10000 Milli seconds for Element 
+2018-02-06 18:53:27,177 INFO  [Log] TS_37: Capture the Subtotal price on order review page$62.18; Value has been stored in index: 8 
+2018-02-06 18:53:27,177 INFO  [Log] TS_38; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:53:27,193 INFO  [Log] TS_39; Passed; Verify the shipping cost ; Value: 0.0; Present in Page values: $0.00,  
+2018-02-06 18:53:27,215 INFO  [Log] TS_40: Capture the grandtotal price on order review page$62.18; Value has been stored in index: 9 
+2018-02-06 18:53:27,477 INFO  [Log] TS_41: Click on the Proceed to Payment information  button 
+2018-02-06 18:53:27,477 INFO  [Log] TS_42; Waited 10000 Milli seconds for Element 
+2018-02-06 18:53:37,587 INFO  [Log] TS_43: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 18:53:37,871 INFO  [Log] TS_44: Click on invoice Order tab 
+2018-02-06 18:53:38,179 INFO  [Log] TS_45: Click on the Check box 
+2018-02-06 18:53:38,502 INFO  [Log] TS_46: Click on the Submit order button for Invoice tab 
+2018-02-06 18:53:38,502 INFO  [Log] TS_47; Waited 10000 Milli seconds for Element 
+2018-02-06 18:53:48,595 INFO  [Log] TS_48: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 10 
+2018-02-06 18:53:48,616 INFO  [Log] TS_49: Capture the will call address2406 TECH CENTER PKWY STE 200
+LAWRENCEVILLE , GA  300431353
+US; Value has been stored in index: 11 
+2018-02-06 18:53:48,648 INFO  [Log] TS_50; Passed; Verify the payment mode; Value: invoiced; Present in Page values: Invoiced,  
+2018-02-06 18:53:48,664 INFO  [Log] TS_51: Capture the Subtotal price on order confirmation page$62.18; Value has been stored in index: 12 
+2018-02-06 18:53:48,664 INFO  [Log] TS_52; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:53:48,680 INFO  [Log] TS_53; Passed; Verify the Shipping cost charge on order confirmation page; Value: 0.0; Present in Page values: $0.00,  
+2018-02-06 18:53:48,696 INFO  [Log] TS_54: Capture the grandtotal price on order confirmation page$62.18; Value has been stored in index: 13 
+2018-02-06 18:53:48,696 INFO  [Log] TS_55; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 18:53:48,711 INFO  [Log] TS_56: Capture the Home DC address2406 TECH CENTER PKWY STE 200 LAWRENCEVILLE GA 300431353; Value has been stored in index: 14 
+2018-02-06 18:53:48,711 INFO  [Log] TS_57; Waited 10000 Milli seconds for Element 
+2018-02-06 18:53:58,778 INFO  [Log] TS_58: Capture the Order no.Thank you for placing your order! Your order number is O-0000008368.
+Order Date: 2/6/2018; Value has been stored in index: 15 
+2018-02-06 18:53:58,792 INFO  [Log] User specified value has been replaced at index15New Value is: Thank you for placing your order! Your order number is O-0000008368. 
+2018-02-06 18:53:58,792 INFO  [Log] User specified value has been replaced at index15New Value is: O-0000008368. 
+2018-02-06 18:53:58,824 INFO  [Log] TS_61: Capture the Order no.Thank you for placing your order! Your order number is O-0000008368.
+Order Date: 2/6/2018; Value has been stored in index: 16 
+2018-02-06 18:53:58,824 INFO  [Log] User specified value has been replaced at index16New Value is: 2/6/2018 
+2018-02-06 18:54:03,831 INFO  [Log] closing test case  
+2018-02-06 18:54:04,415 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:54:04,477 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:54:04,546 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:54:04,561 INFO  [Log] ### Test case: E2E_Will_Call_invoice; Description: Blank; status Executed 
+2018-02-06 18:54:04,893 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:54:04,962 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:54:05,030 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:54:05,030 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:54:05,030 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:54:05,077 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:54:05,077 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Sales_Pack_E2E_normal_shipping -stored_CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:54:05,077 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:54:11,027 INFO  [Log] #### Executing Test case: Sales_Pack_E2E_normal_shipping -stored_CC; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:54:15,417 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:54:15,496 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:54:15,533 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:54:15,533 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:54:46,377 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:54:46,377 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:54:56,522 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: BRZ-62012HC 
+2018-02-06 18:55:00,161 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:55:00,161 INFO  [Log] TS_09; Waited 5000 Milli seconds for Element 
+2018-02-06 18:55:05,263 INFO  [Log] TS_10: Capture the price of the product$0.22; Value has been stored in index: 0 
+2018-02-06 18:55:05,287 INFO  [Log] TS_11; Passed; Verify the part # of the product; Value: part#: 62012hc; Present in Page values: Part#: 62012HC,  
+2018-02-06 18:55:05,393 INFO  [Log] TS_12: Capture the default Qty of the sales pack product on PLP page10; Value has been stored in index: 1 
+2018-02-06 18:55:05,409 INFO  [Log] TS_13: Capture the information message that appears on the PLP page for the Sales Pack product*This product only sells in increments of: 10; Value has been stored in index: 2 
+2018-02-06 18:55:05,409 INFO  [Log] User specified value has been replaced at index2New Value is: 10 
+2018-02-06 18:55:05,409 INFO  [Log] TS_15; Passed; null; Captured text1: 10; Captured text2: 10 
+2018-02-06 18:55:05,678 INFO  [Log] TS_16: Click on Add to cart button  
+2018-02-06 18:55:05,678 INFO  [Log] TS_17; Waited 5000 Milli seconds for Element 
+2018-02-06 18:55:10,744 INFO  [Log] TS_18: Capture value at my cart link intiallyMy Cart: 10 item(s), $2.20; Value has been stored in index: 3 
+2018-02-06 18:55:10,756 INFO  [Log] User specified value has been replaced at index3New Value is: , $2.20 
+2018-02-06 18:55:10,845 INFO  [Log] TS_20: Click on the mini my cart link 
+2018-02-06 18:55:10,845 INFO  [Log] TS_21; Waited 10000 Milli seconds for Element 
+2018-02-06 18:55:20,908 INFO  [Log] TS_22: Capture the shipping address from the fulfillment section1781 WESTFORK DR
+LITHIA SPRINGS, GA 30122
+undefined; Value has been stored in index: 4 
+2018-02-06 18:55:20,928 INFO  [Log] TS_23: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 5 
+2018-02-06 18:55:20,944 INFO  [Log] TS_24: Capture the qty in Home DCQTY in LAWRENCEVILLE: 338; Value has been stored in index: 6 
+2018-02-06 18:55:20,960 INFO  [Log] User specified value has been replaced at index6New Value is: ILLE: 338 
+2018-02-06 18:55:20,975 INFO  [Log] TS_26: Capture the qty in other DCQTY in other Locations: 1465; Value has been stored in index: 7 
+2018-02-06 18:55:20,975 INFO  [Log] User specified value has been replaced at index7New Value is: 1465 
+2018-02-06 18:55:20,991 INFO  [Log] TS_28: Capture the price of product on my cart page$0.22; Value has been stored in index: 8 
+2018-02-06 18:55:20,991 INFO  [Log] TS_29; Passed; null; Captured text1: $0.22; Captured text2: $0.22 
+2018-02-06 18:55:21,008 INFO  [Log] TS_30: Capture the Subtotal price of the cart$2.20; Value has been stored in index: 9 
+2018-02-06 18:55:21,008 INFO  [Log] TS_31; Waited 5000 Milli seconds for Element 
+2018-02-06 18:55:26,330 INFO  [Log] TS_32: Click on the Proceed to Order Review  button 
+2018-02-06 18:55:26,338 INFO  [Log] TS_33; Waited 10000 Milli seconds for Element 
+2018-02-06 18:55:36,423 INFO  [Log] TS_34: Capture the Subtotal price on order review page$2.20; Value has been stored in index: 10 
+2018-02-06 18:55:36,429 INFO  [Log] TS_35; Passed; null; Captured text1: $2.20; Captured text2: $2.20 
+2018-02-06 18:55:36,445 INFO  [Log] TS_36: Capture the shipping cost $8.04; Value has been stored in index: 11 
+2018-02-06 18:55:36,461 INFO  [Log] TS_37: Capture the grandtotal price on order review page$10.24; Value has been stored in index: 12 
+2018-02-06 18:55:36,723 INFO  [Log] TS_38: Click on the Proceed to Payment information  button 
+2018-02-06 18:55:36,723 INFO  [Log] TS_39; Waited 10000 Milli seconds for Element 
+2018-02-06 18:55:46,796 INFO  [Log] TS_40: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 18:55:47,049 INFO  [Log] TS_41: Click on Saved Credit Card tab 
+2018-02-06 18:55:47,296 INFO  [Log] TS_42: Click on Saved Credit Card checkbox 
+2018-02-06 18:55:47,612 INFO  [Log] TS_43: Click on Stored Payment button 
+2018-02-06 18:55:47,612 INFO  [Log] TS_44; Waited 10000 Milli seconds for Element 
+2018-02-06 18:55:57,687 INFO  [Log] TS_45: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 13 
+2018-02-06 18:55:57,738 INFO  [Log] TS_46: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 14 
+2018-02-06 18:55:57,740 INFO  [Log] TS_47: Capture the Subtotal price on order confirmation page$2.20; Value has been stored in index: 15 
+2018-02-06 18:55:57,740 INFO  [Log] TS_48; Passed; null; Captured text1: $2.20; Captured text2: $2.20 
+2018-02-06 18:55:57,756 INFO  [Log] TS_49: Capture the shipping cost on order confirmation page$8.04; Value has been stored in index: 16 
+2018-02-06 18:55:57,756 INFO  [Log] TS_50; Passed; null; Captured text1: $8.04; Captured text2: $8.04 
+2018-02-06 18:55:57,771 INFO  [Log] TS_51: Capture the grandtotal price on order confirmation page$10.24; Value has been stored in index: 17 
+2018-02-06 18:55:57,771 INFO  [Log] TS_52; Passed; null; Captured text1: $10.24; Captured text2: $10.24 
+2018-02-06 18:55:57,787 INFO  [Log] TS_53: Capture the Home DC address2406 TECH CENTER PKWY STE 200 LAWRENCEVILLE GA 300431353; Value has been stored in index: 18 
+2018-02-06 18:55:57,787 INFO  [Log] TS_54; Waited 10000 Milli seconds for Element 
+2018-02-06 18:56:07,813 INFO  [Log] TS_55: Capture the Order no.Thank you for placing your order! Your order number is O-0000008369.
+Order Date: 2/6/2018; Value has been stored in index: 19 
+2018-02-06 18:56:07,821 INFO  [Log] User specified value has been replaced at index19New Value is: Thank you for placing your order! Your order number is O-0000008369. 
+2018-02-06 18:56:07,821 INFO  [Log] User specified value has been replaced at index19New Value is: O-0000008369. 
+2018-02-06 18:56:07,849 INFO  [Log] TS_58: Capture the Order no.Thank you for placing your order! Your order number is O-0000008369.
+Order Date: 2/6/2018; Value has been stored in index: 20 
+2018-02-06 18:56:07,851 INFO  [Log] User specified value has been replaced at index20New Value is: 2/6/2018 
+2018-02-06 18:56:12,864 INFO  [Log] closing test case  
+2018-02-06 18:56:13,563 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:56:13,620 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:56:13,689 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:56:13,704 INFO  [Log] ### Test case: Sales_Pack_E2E_normal_shipping -stored_CC; Description: Blank; status Executed 
+2018-02-06 18:56:14,036 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:56:14,105 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:56:14,167 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:56:14,167 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:56:14,167 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:56:14,221 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:56:14,221 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Sales_Pack_E2E_normal_shipping -invoice; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:56:14,221 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:56:20,675 INFO  [Log] #### Executing Test case: Sales_Pack_E2E_normal_shipping -invoice; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:56:25,760 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:56:25,843 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:56:25,890 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:56:25,890 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:56:56,021 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:56:56,030 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:57:06,147 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: BRZ-62012HC 
+2018-02-06 18:57:09,597 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:57:09,597 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 18:57:19,689 INFO  [Log] TS_10: Capture the price of the product$0.22; Value has been stored in index: 0 
+2018-02-06 18:57:19,738 INFO  [Log] TS_11; Passed; Verify the part # of the product; Value: part#: 62012hc; Present in Page values: Part#: 62012HC,  
+2018-02-06 18:57:19,774 INFO  [Log] TS_12: Capture the default Qty of the sales pack product on PLP page10; Value has been stored in index: 1 
+2018-02-06 18:57:19,789 INFO  [Log] TS_13: Capture the information message that appears on the PLP page for the Sales Pack product*This product only sells in increments of: 10; Value has been stored in index: 2 
+2018-02-06 18:57:19,789 INFO  [Log] User specified value has been replaced at index2New Value is: 10 
+2018-02-06 18:57:19,789 INFO  [Log] TS_15; Passed; null; Captured text1: 10; Captured text2: 10 
+2018-02-06 18:57:20,058 INFO  [Log] TS_16: Click on Add to cart button  
+2018-02-06 18:57:20,058 INFO  [Log] TS_17; Waited 5000 Milli seconds for Element 
+2018-02-06 18:57:25,141 INFO  [Log] TS_18: Capture value at my cart link intiallyMy Cart: 10 item(s), $2.20; Value has been stored in index: 3 
+2018-02-06 18:57:25,157 INFO  [Log] User specified value has been replaced at index3New Value is: , $2.20 
+2018-02-06 18:57:25,216 INFO  [Log] TS_20: Click on the mini my cart link 
+2018-02-06 18:57:25,216 INFO  [Log] TS_21; Waited 10000 Milli seconds for Element 
+2018-02-06 18:57:35,286 INFO  [Log] TS_22: Capture the shipping address from the fulfillment section1781 WESTFORK DR
+LITHIA SPRINGS, GA 30122
+undefined; Value has been stored in index: 4 
+2018-02-06 18:57:35,329 INFO  [Log] TS_23: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 5 
+2018-02-06 18:57:35,369 INFO  [Log] TS_24: Capture the qty in Home DCQTY in LAWRENCEVILLE: 338; Value has been stored in index: 6 
+2018-02-06 18:57:35,371 INFO  [Log] User specified value has been replaced at index6New Value is: ILLE: 338 
+2018-02-06 18:57:35,386 INFO  [Log] TS_26: Capture the qty in other DCQTY in other Locations: 1465; Value has been stored in index: 7 
+2018-02-06 18:57:35,402 INFO  [Log] User specified value has been replaced at index7New Value is: 1465 
+2018-02-06 18:57:35,418 INFO  [Log] TS_28: Capture the price of product on my cart page$0.22; Value has been stored in index: 8 
+2018-02-06 18:57:35,418 INFO  [Log] TS_29; Passed; null; Captured text1: $0.22; Captured text2: $0.22 
+2018-02-06 18:57:35,433 INFO  [Log] TS_30: Capture the Subtotal price of the cart$2.20; Value has been stored in index: 9 
+2018-02-06 18:57:35,433 INFO  [Log] TS_31; Waited 5000 Milli seconds for Element 
+2018-02-06 18:57:40,691 INFO  [Log] TS_32: Click on the Proceed to Order Review  button 
+2018-02-06 18:57:40,699 INFO  [Log] TS_33; Waited 10000 Milli seconds for Element 
+2018-02-06 18:57:50,782 INFO  [Log] TS_34: Capture the Subtotal price on order review page$2.20; Value has been stored in index: 10 
+2018-02-06 18:57:50,782 INFO  [Log] TS_35; Passed; null; Captured text1: $2.20; Captured text2: $2.20 
+2018-02-06 18:57:50,799 INFO  [Log] TS_36: Capture the shipping cost $8.04; Value has been stored in index: 11 
+2018-02-06 18:57:50,815 INFO  [Log] TS_37: Capture the grandtotal price on order review page$10.24; Value has been stored in index: 12 
+2018-02-06 18:57:51,082 INFO  [Log] TS_38: Click on the Proceed to Payment information  button 
+2018-02-06 18:57:51,082 INFO  [Log] TS_39; Waited 10000 Milli seconds for Element 
+2018-02-06 18:58:01,124 INFO  [Log] TS_40: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 18:58:01,394 INFO  [Log] TS_41: Click on invoice Order tab 
+2018-02-06 18:58:01,693 INFO  [Log] TS_42: Click on the Check box 
+2018-02-06 18:58:02,010 INFO  [Log] TS_43: Click on the Submit order button for Invoice tab 
+2018-02-06 18:58:02,010 INFO  [Log] TS_44; Waited 10000 Milli seconds for Element 
+2018-02-06 18:58:12,108 INFO  [Log] TS_45: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 13 
+2018-02-06 18:58:12,142 INFO  [Log] TS_46: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 14 
+2018-02-06 18:58:12,158 INFO  [Log] TS_47: Capture the Subtotal price on order confirmation page$2.20; Value has been stored in index: 15 
+2018-02-06 18:58:12,158 INFO  [Log] TS_48; Passed; null; Captured text1: $2.20; Captured text2: $2.20 
+2018-02-06 18:58:12,174 INFO  [Log] TS_49: Capture the shipping cost on order confirmation page$8.04; Value has been stored in index: 16 
+2018-02-06 18:58:12,174 INFO  [Log] TS_50; Passed; null; Captured text1: $8.04; Captured text2: $8.04 
+2018-02-06 18:58:12,189 INFO  [Log] TS_51: Capture the grandtotal price on order confirmation page$10.24; Value has been stored in index: 17 
+2018-02-06 18:58:12,189 INFO  [Log] TS_52; Passed; null; Captured text1: $10.24; Captured text2: $10.24 
+2018-02-06 18:58:12,208 INFO  [Log] TS_53: Capture the Home DC address2406 TECH CENTER PKWY STE 200 LAWRENCEVILLE GA 300431353; Value has been stored in index: 18 
+2018-02-06 18:58:12,208 INFO  [Log] TS_54; Waited 10000 Milli seconds for Element 
+2018-02-06 18:58:22,277 INFO  [Log] TS_55: Capture the Order no.Thank you for placing your order! Your order number is O-0000008370.
+Order Date: 2/6/2018; Value has been stored in index: 19 
+2018-02-06 18:58:22,282 INFO  [Log] User specified value has been replaced at index19New Value is: Thank you for placing your order! Your order number is O-0000008370. 
+2018-02-06 18:58:22,282 INFO  [Log] User specified value has been replaced at index19New Value is: O-0000008370. 
+2018-02-06 18:58:22,330 INFO  [Log] TS_58: Capture the Order no.Thank you for placing your order! Your order number is O-0000008370.
+Order Date: 2/6/2018; Value has been stored in index: 20 
+2018-02-06 18:58:22,330 INFO  [Log] User specified value has been replaced at index20New Value is: 2/6/2018 
+2018-02-06 18:58:27,335 INFO  [Log] closing test case  
+2018-02-06 18:58:27,920 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:58:27,982 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:58:28,051 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:58:28,067 INFO  [Log] ### Test case: Sales_Pack_E2E_normal_shipping -invoice; Description: Blank; status Executed 
+2018-02-06 18:58:28,399 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 18:58:28,451 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 18:58:28,520 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 18:58:28,520 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:58:28,520 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 18:58:28,567 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:58:28,567 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PLP_Sales_Pack_E2E_normal_shipping -CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 18:58:28,567 INFO  [Log] **************************************************************************************** 
+2018-02-06 18:58:34,529 INFO  [Log] #### Executing Test case: PLP_Sales_Pack_E2E_normal_shipping -CC; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 18:58:40,665 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 18:58:40,781 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 18:58:40,818 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 18:58:40,818 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 18:59:16,352 INFO  [Log] TS_05: Click on login button 
+2018-02-06 18:59:16,352 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 18:59:26,468 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: BRZ-62012HC 
+2018-02-06 18:59:29,870 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 18:59:29,870 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 18:59:39,959 INFO  [Log] TS_10: Capture the price of the product$0.22; Value has been stored in index: 0 
+2018-02-06 18:59:39,980 INFO  [Log] TS_11; Passed; Verify the part # of the product; Value: part#: 62012hc; Present in Page values: Part#: 62012HC,  
+2018-02-06 18:59:39,996 INFO  [Log] TS_12: Capture the default Qty of the sales pack product on PLP page10; Value has been stored in index: 1 
+2018-02-06 18:59:40,027 INFO  [Log] TS_13: Capture the information message that appears on the PLP page for the Sales Pack product*This product only sells in increments of: 10; Value has been stored in index: 2 
+2018-02-06 18:59:40,027 INFO  [Log] User specified value has been replaced at index2New Value is: 10 
+2018-02-06 18:59:40,027 INFO  [Log] TS_15; Passed; null; Captured text1: 10; Captured text2: 10 
+2018-02-06 18:59:40,296 INFO  [Log] TS_16: Click on Add to cart button  
+2018-02-06 18:59:40,296 INFO  [Log] TS_17; Waited 5000 Milli seconds for Element 
+2018-02-06 18:59:45,349 INFO  [Log] TS_18: Capture value at my cart link intiallyMy Cart: 10 item(s), $2.20; Value has been stored in index: 3 
+2018-02-06 18:59:45,364 INFO  [Log] User specified value has been replaced at index3New Value is: , $2.20 
+2018-02-06 18:59:45,433 INFO  [Log] TS_20: Click on the mini my cart link 
+2018-02-06 18:59:45,433 INFO  [Log] TS_21; Waited 10000 Milli seconds for Element 
+2018-02-06 18:59:55,503 INFO  [Log] TS_22: Capture the shipping address from the fulfillment section1781 WESTFORK DR
+LITHIA SPRINGS, GA 30122
+undefined; Value has been stored in index: 4 
+2018-02-06 18:59:55,525 INFO  [Log] TS_23: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 5 
+2018-02-06 18:59:55,540 INFO  [Log] TS_24: Capture the qty in Home DCQTY in LAWRENCEVILLE: 338; Value has been stored in index: 6 
+2018-02-06 18:59:55,556 INFO  [Log] User specified value has been replaced at index6New Value is: ILLE: 338 
+2018-02-06 18:59:55,572 INFO  [Log] TS_26: Capture the qty in other DCQTY in other Locations: 1465; Value has been stored in index: 7 
+2018-02-06 18:59:55,572 INFO  [Log] User specified value has been replaced at index7New Value is: 1465 
+2018-02-06 18:59:55,587 INFO  [Log] TS_28: Capture the price of product on my cart page$0.22; Value has been stored in index: 8 
+2018-02-06 18:59:55,587 INFO  [Log] TS_29; Passed; null; Captured text1: $0.22; Captured text2: $0.22 
+2018-02-06 18:59:55,603 INFO  [Log] TS_30: Capture the Subtotal price of the cart$2.20; Value has been stored in index: 9 
+2018-02-06 18:59:55,603 INFO  [Log] TS_31; Waited 5000 Milli seconds for Element 
+2018-02-06 19:00:00,944 INFO  [Log] TS_32: Click on the Proceed to Order Review  button 
+2018-02-06 19:00:00,952 INFO  [Log] TS_33; Waited 10000 Milli seconds for Element 
+2018-02-06 19:00:11,016 INFO  [Log] TS_34: Capture the Subtotal price on order review page$2.20; Value has been stored in index: 10 
+2018-02-06 19:00:11,018 INFO  [Log] TS_35; Passed; null; Captured text1: $2.20; Captured text2: $2.20 
+2018-02-06 19:00:11,039 INFO  [Log] TS_36: Capture the shipping cost $8.04; Value has been stored in index: 11 
+2018-02-06 19:00:11,055 INFO  [Log] TS_37: Capture the grandtotal price on order review page$10.24; Value has been stored in index: 12 
+2018-02-06 19:00:11,319 INFO  [Log] TS_38: Click on the Proceed to Payment information  button 
+2018-02-06 19:00:11,319 INFO  [Log] TS_39; Waited 10000 Milli seconds for Element 
+2018-02-06 19:00:21,395 INFO  [Log] TS_40: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 19:00:21,409 INFO  [Log] TS_41; Waited 5000 Milli seconds for Element 
+2018-02-06 19:00:26,516 INFO  [Log] TS_42: Input name in the name field; Action: Submitted Value: Value: null 
+2018-02-06 19:00:26,532 INFO  [Log] TS_43; Waited 5000 Milli seconds for Element 
+2018-02-06 19:00:31,804 INFO  [Log] TS_44: Input card number in the field 
+2018-02-06 19:00:31,857 INFO  [Log] TS_45: Input card number in the field; Action: Submitted Value: Value: null 
+2018-02-06 19:00:31,857 INFO  [Log] TS_46; Waited 2000 Milli seconds for Element 
+2018-02-06 19:00:33,906 INFO  [Log] TS_47: Input exp. Date; Action: Submitted Value: Value: null 
+2018-02-06 19:00:33,920 INFO  [Log] TS_48; Waited 2000 Milli seconds for Element 
+2018-02-06 19:00:35,976 INFO  [Log] TS_49: Input CVV; Action: Submitted Value: Value: null 
+2018-02-06 19:00:36,277 INFO  [Log] TS_50: Click on "Submit Order" button 
+2018-02-06 19:00:36,277 INFO  [Log] TS_51; Waited 10000 Milli seconds for Element 
+2018-02-06 19:00:46,369 INFO  [Log] TS_52: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 13 
+2018-02-06 19:00:46,388 INFO  [Log] TS_53: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 14 
+2018-02-06 19:00:46,404 INFO  [Log] TS_54: Capture the Subtotal price on order confirmation page$2.20; Value has been stored in index: 15 
+2018-02-06 19:00:46,404 INFO  [Log] TS_55; Passed; null; Captured text1: $2.20; Captured text2: $2.20 
+2018-02-06 19:00:46,420 INFO  [Log] TS_56: Capture the shipping cost on order confirmation page$8.04; Value has been stored in index: 16 
+2018-02-06 19:00:46,420 INFO  [Log] TS_57; Passed; null; Captured text1: $8.04; Captured text2: $8.04 
+2018-02-06 19:00:46,435 INFO  [Log] TS_58: Capture the grandtotal price on order confirmation page$10.24; Value has been stored in index: 17 
+2018-02-06 19:00:46,435 INFO  [Log] TS_59; Passed; null; Captured text1: $10.24; Captured text2: $10.24 
+2018-02-06 19:00:46,451 INFO  [Log] TS_60: Capture the Home DC address2406 TECH CENTER PKWY STE 200 LAWRENCEVILLE GA 300431353; Value has been stored in index: 18 
+2018-02-06 19:00:46,451 INFO  [Log] TS_61; Waited 10000 Milli seconds for Element 
+2018-02-06 19:00:56,543 INFO  [Log] TS_62: Capture the Order no.Thank you for placing your order! Your order number is O-0000008371.
+Order Date: 2/6/2018; Value has been stored in index: 19 
+2018-02-06 19:00:56,547 INFO  [Log] User specified value has been replaced at index19New Value is: Thank you for placing your order! Your order number is O-0000008371. 
+2018-02-06 19:00:56,547 INFO  [Log] User specified value has been replaced at index19New Value is: O-0000008371. 
+2018-02-06 19:00:56,562 INFO  [Log] TS_65: Capture the Order no.Thank you for placing your order! Your order number is O-0000008371.
+Order Date: 2/6/2018; Value has been stored in index: 20 
+2018-02-06 19:00:56,562 INFO  [Log] User specified value has been replaced at index20New Value is: 2/6/2018 
+2018-02-06 19:01:01,565 INFO  [Log] closing test case  
+2018-02-06 19:01:02,169 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:01:02,235 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:01:02,288 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:01:02,304 INFO  [Log] ### Test case: PLP_Sales_Pack_E2E_normal_shipping -CC; Description: Blank; status Executed 
+2018-02-06 19:01:02,636 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:01:02,704 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:01:02,767 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:01:02,767 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:01:02,767 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:01:02,836 INFO  [Log] **************************************************************************************** 
+2018-02-06 19:01:02,836 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_normal_shipping -CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 19:01:02,836 INFO  [Log] **************************************************************************************** 
+2018-02-06 19:01:09,208 INFO  [Log] #### Executing Test case: E2E_normal_shipping -CC; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 19:01:14,357 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 19:01:14,457 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 19:01:14,495 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 19:01:14,495 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 19:01:45,933 INFO  [Log] TS_05: Click on login button 
+2018-02-06 19:01:45,933 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 19:01:56,076 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-02-06 19:01:59,462 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 19:01:59,462 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 19:02:09,539 INFO  [Log] TS_10: Capture the price of the product$62.18; Value has been stored in index: 0 
+2018-02-06 19:02:09,579 INFO  [Log] TS_11; Passed; Verify the part # of the product; Value: part#: rw200; Present in Page values: Part#: RW200,  
+2018-02-06 19:02:09,856 INFO  [Log] TS_12: Click on Add to cart button  
+2018-02-06 19:02:09,856 INFO  [Log] TS_13; Waited 5000 Milli seconds for Element 
+2018-02-06 19:02:14,926 INFO  [Log] TS_14: Capture value at my cart link intiallyMy Cart: 1 item(s), $62.18; Value has been stored in index: 1 
+2018-02-06 19:02:14,929 INFO  [Log] User specified value has been replaced at index1New Value is:  $62.18 
+2018-02-06 19:02:14,929 INFO  [Log] TS_16; Passed; null; Captured text1: $62.18; Captured text2:  $62.18 
+2018-02-06 19:02:14,976 INFO  [Log] TS_17: Click on the mini my cart link 
+2018-02-06 19:02:14,976 INFO  [Log] TS_18; Waited 10000 Milli seconds for Element 
+2018-02-06 19:02:25,067 INFO  [Log] TS_19: Capture the shipping address from the fulfillment section1781 WESTFORK DR
+LITHIA SPRINGS, GA 30122
+undefined; Value has been stored in index: 2 
+2018-02-06 19:02:25,088 INFO  [Log] TS_20: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 3 
+2018-02-06 19:02:25,104 INFO  [Log] TS_21: Capture the qty in Home DCQTY in LAWRENCEVILLE: 858; Value has been stored in index: 4 
+2018-02-06 19:02:25,123 INFO  [Log] User specified value has been replaced at index4New Value is: ILLE: 858 
+2018-02-06 19:02:25,135 INFO  [Log] TS_23: Capture the qty in other DCQTY in other Locations: 1448; Value has been stored in index: 5 
+2018-02-06 19:02:25,135 INFO  [Log] User specified value has been replaced at index5New Value is: 1448 
+2018-02-06 19:02:25,151 INFO  [Log] TS_25: Capture the price of product on my cart page$62.18; Value has been stored in index: 6 
+2018-02-06 19:02:25,151 INFO  [Log] TS_26; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 19:02:25,171 INFO  [Log] TS_27: Capture the Subtotal price of the cart$62.18; Value has been stored in index: 7 
+2018-02-06 19:02:25,171 INFO  [Log] TS_28; Waited 5000 Milli seconds for Element 
+2018-02-06 19:02:30,503 INFO  [Log] TS_29: Click on the Proceed to Order Review  button 
+2018-02-06 19:02:30,510 INFO  [Log] TS_30; Waited 10000 Milli seconds for Element 
+2018-02-06 19:02:40,580 INFO  [Log] TS_31: Capture the Subtotal price on order review page$62.18; Value has been stored in index: 8 
+2018-02-06 19:02:40,580 INFO  [Log] TS_32; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 19:02:40,604 INFO  [Log] TS_33: Capture the shipping cost $8.04; Value has been stored in index: 9 
+2018-02-06 19:02:40,620 INFO  [Log] TS_34: Capture the grandtotal price on order review page$70.22; Value has been stored in index: 10 
+2018-02-06 19:02:40,880 INFO  [Log] TS_35: Click on the Proceed to Payment information  button 
+2018-02-06 19:02:40,880 INFO  [Log] TS_36; Waited 10000 Milli seconds for Element 
+2018-02-06 19:02:50,955 INFO  [Log] TS_37: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 19:02:50,956 INFO  [Log] TS_38; Waited 5000 Milli seconds for Element 
+2018-02-06 19:02:56,062 INFO  [Log] TS_39: Input name in the name field; Action: Submitted Value: Value: null 
+2018-02-06 19:02:56,063 INFO  [Log] TS_40; Waited 5000 Milli seconds for Element 
+2018-02-06 19:03:01,301 INFO  [Log] TS_41: Input card number in the field 
+2018-02-06 19:03:01,370 INFO  [Log] TS_42: Input card number in the field; Action: Submitted Value: Value: null 
+2018-02-06 19:03:01,370 INFO  [Log] TS_43; Waited 2000 Milli seconds for Element 
+2018-02-06 19:03:03,403 INFO  [Log] TS_44: Input exp. Date; Action: Submitted Value: Value: null 
+2018-02-06 19:03:03,403 INFO  [Log] TS_45; Waited 2000 Milli seconds for Element 
+2018-02-06 19:03:05,474 INFO  [Log] TS_46: Input CVV; Action: Submitted Value: Value: null 
+2018-02-06 19:03:05,774 INFO  [Log] TS_47: Click on "Submit Order" button 
+2018-02-06 19:03:05,774 INFO  [Log] TS_48; Waited 10000 Milli seconds for Element 
+2018-02-06 19:03:31,233 INFO  [Log] E2ETS_49ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-02-06 19:03:31,478 WARN  [Log]  Browser instance is active 
+2018-02-06 19:03:32,094 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:03:32,167 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:03:32,231 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:03:32,231 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:03:32,231 FATAL [Log] E2ETS_49ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-02-06 19:03:32,231 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:03:32,278 INFO  [Log] **************************************************************************************** 
+2018-02-06 19:03:32,278 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_Will_Call -Ship_Remainder -CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 19:03:32,278 INFO  [Log] **************************************************************************************** 
+2018-02-06 19:03:38,221 INFO  [Log] #### Executing Test case: E2E_Will_Call -Ship_Remainder -CC; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 19:03:42,665 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 19:03:42,757 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 19:03:42,798 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 19:03:42,798 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 19:04:12,344 INFO  [Log] TS_05: Click on login button 
+2018-02-06 19:04:12,344 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 19:04:22,453 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: null 
+2018-02-06 19:04:30,498 INFO  [Log] TS_08: Click on the Search icon 
+2018-02-06 19:04:30,498 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-02-06 19:04:40,674 INFO  [Log] TS_10: Click on the Edit Fulfillment link 
+2018-02-06 19:04:40,686 INFO  [Log] TS_11; Waited 3000 Milli seconds for Element 
+2018-02-06 19:04:44,013 INFO  [Log] TS_12: Change the address to Will call 
+2018-02-06 19:04:44,792 INFO  [Log] TS_13: Click on the Will call -Ship Remainder radio button 
+2018-02-06 19:04:44,792 INFO  [Log] TS_14; Waited 3000 Milli seconds for Element 
+2018-02-06 19:04:50,997 INFO  [Log] TS_15: Click on the Continue button 
+2018-02-06 19:04:50,997 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2018-02-06 19:04:59,091 INFO  [Log] TS_17: Capture the price of the product$62.18; Value has been stored in index: 0 
+2018-02-06 19:04:59,111 INFO  [Log] TS_18; Passed; Verify the part # of the product; Value: part#: rw200; Present in Page values: Part#: RW200,  
+2018-02-06 19:04:59,376 INFO  [Log] TS_19: Click on Add to cart button  
+2018-02-06 19:04:59,376 INFO  [Log] TS_20; Waited 3000 Milli seconds for Element 
+2018-02-06 19:05:02,411 INFO  [Log] TS_21: Capture value at my cart link intiallyMy Cart: 1 item(s), $62.18; Value has been stored in index: 1 
+2018-02-06 19:05:02,431 INFO  [Log] User specified value has been replaced at index1New Value is:  $62.18 
+2018-02-06 19:05:02,431 INFO  [Log] TS_23; Passed; null; Captured text1: $62.18; Captured text2:  $62.18 
+2018-02-06 19:05:05,334 INFO  [Log] TS_24: Click on the mini my cart link 
+2018-02-06 19:05:05,334 INFO  [Log] TS_25; Waited 10000 Milli seconds for Element 
+2018-02-06 19:05:15,440 INFO  [Log] TS_26: Capture the address from the fulfillment section2406 TECH CENTER PKWY STE 200
+undefined, LAWRENCEVILLE GA
+300431353; Value has been stored in index: 2 
+2018-02-06 19:05:15,458 INFO  [Log] TS_27: Capture the Home DC as per the addressLAWRENCEVILLE:; Value has been stored in index: 3 
+2018-02-06 19:05:15,474 INFO  [Log] TS_28: Capture the qty in Home DCQTY in LAWRENCEVILLE: 858; Value has been stored in index: 4 
+2018-02-06 19:05:15,489 INFO  [Log] User specified value has been replaced at index4New Value is: ILLE: 858 
+2018-02-06 19:05:15,505 INFO  [Log] TS_30: Capture the qty in other DCQTY in other Locations: 1448; Value has been stored in index: 5 
+2018-02-06 19:05:15,505 INFO  [Log] User specified value has been replaced at index5New Value is: 1448 
+2018-02-06 19:05:15,521 INFO  [Log] TS_32: Capture the price of product on my cart page$62.18; Value has been stored in index: 6 
+2018-02-06 19:05:15,521 INFO  [Log] TS_33; Passed; null; Captured text1: $62.18; Captured text2: $62.18 
+2018-02-06 19:05:15,543 INFO  [Log] TS_34: Capture the Subtotal price of the cart$124.36; Value has been stored in index: 7 
+2018-02-06 19:05:15,543 INFO  [Log] TS_35; Waited 5000 Milli seconds for Element 
+2018-02-06 19:05:20,845 INFO  [Log] TS_36: Click on the Proceed to Order Review  button 
+2018-02-06 19:05:20,846 INFO  [Log] TS_37; Waited 10000 Milli seconds for Element 
+2018-02-06 19:05:30,921 INFO  [Log] TS_38: Capture the Subtotal price on order review page$124.36; Value has been stored in index: 8 
+2018-02-06 19:05:30,923 INFO  [Log] TS_39; Passed; null; Captured text1: $124.36; Captured text2: $124.36 
+2018-02-06 19:05:30,940 INFO  [Log] TS_40; Passed; Verify the shipping cost ; Value: 0.0; Present in Page values: $0.00,  
+2018-02-06 19:05:30,959 INFO  [Log] TS_41: Capture the grandtotal price on order review page$124.36; Value has been stored in index: 9 
+2018-02-06 19:05:31,222 INFO  [Log] TS_42: Click on the Proceed to Payment information  button 
+2018-02-06 19:05:31,222 INFO  [Log] TS_43; Waited 10000 Milli seconds for Element 
+2018-02-06 19:05:41,297 INFO  [Log] TS_44: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 19:05:41,298 INFO  [Log] TS_45; Waited 5000 Milli seconds for Element 
+2018-02-06 19:05:46,388 INFO  [Log] TS_46: Input name in the name field; Action: Submitted Value: Value: null 
+2018-02-06 19:05:46,390 INFO  [Log] TS_47; Waited 5000 Milli seconds for Element 
+2018-02-06 19:05:51,625 INFO  [Log] TS_48: Input card number in the field 
+2018-02-06 19:05:51,710 INFO  [Log] TS_49: Input card number in the field; Action: Submitted Value: Value: null 
+2018-02-06 19:05:51,710 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2018-02-06 19:05:53,743 INFO  [Log] TS_51: Input exp. Date; Action: Submitted Value: Value: null 
+2018-02-06 19:05:53,749 INFO  [Log] TS_52; Waited 2000 Milli seconds for Element 
+2018-02-06 19:05:55,830 INFO  [Log] TS_53: Input CVV; Action: Submitted Value: Value: null 
+2018-02-06 19:05:56,114 INFO  [Log] TS_54: Click on "Submit Order" button 
+2018-02-06 19:05:56,114 INFO  [Log] TS_55; Waited 10000 Milli seconds for Element 
+2018-02-06 19:06:06,181 INFO  [Log] TS_56: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 10 
+2018-02-06 19:06:06,190 INFO  [Log] TS_57: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 11 
+2018-02-06 19:06:06,221 INFO  [Log] TS_58: Capture the will call pick up  address2406 TECH CENTER PKWY STE 200
+LAWRENCEVILLE , GA  300431353
+US; Value has been stored in index: 12 
+2018-02-06 19:06:06,237 INFO  [Log] TS_59: Capture the Subtotal price on order confirmation page$124.36; Value has been stored in index: 13 
+2018-02-06 19:06:06,237 INFO  [Log] TS_60; Passed; null; Captured text1: $124.36; Captured text2: $124.36 
+2018-02-06 19:06:06,252 INFO  [Log] TS_61; Passed; Verify the Shipping cost charge on order confirmation page; Value: 0.0; Present in Page values: $0.00,  
+2018-02-06 19:06:06,268 INFO  [Log] TS_62: Capture the grandtotal price on order confirmation page$124.36; Value has been stored in index: 14 
+2018-02-06 19:06:06,268 INFO  [Log] TS_63; Passed; null; Captured text1: $124.36; Captured text2: $124.36 
+2018-02-06 19:06:06,290 INFO  [Log] TS_64: Capture the Home DC address2406 TECH CENTER PKWY STE 200 LAWRENCEVILLE GA 300431353; Value has been stored in index: 15 
+2018-02-06 19:06:06,290 INFO  [Log] TS_65; Waited 10000 Milli seconds for Element 
+2018-02-06 19:06:16,347 INFO  [Log] TS_66: Capture the Order no.Thank you for placing your order! Your order number is O-0000008372.
+Order Date: 2/6/2018; Value has been stored in index: 16 
+2018-02-06 19:06:16,354 INFO  [Log] User specified value has been replaced at index16New Value is: Thank you for placing your order! Your order number is O-0000008372. 
+2018-02-06 19:06:16,354 INFO  [Log] User specified value has been replaced at index16New Value is: O-0000008372. 
+2018-02-06 19:06:16,370 INFO  [Log] TS_69: Capture the Order no.Thank you for placing your order! Your order number is O-0000008372.
+Order Date: 2/6/2018; Value has been stored in index: 17 
+2018-02-06 19:06:16,386 INFO  [Log] User specified value has been replaced at index17New Value is: 2/6/2018 
+2018-02-06 19:06:21,399 INFO  [Log] closing test case  
+2018-02-06 19:06:21,953 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:06:22,022 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:06:22,101 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:06:22,106 INFO  [Log] ### Test case: E2E_Will_Call -Ship_Remainder -CC; Description: Blank; status Executed 
+2018-02-06 19:06:22,437 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:06:22,506 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:06:22,569 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:06:22,569 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:06:22,569 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:06:22,638 INFO  [Log] **************************************************************************************** 
+2018-02-06 19:06:22,638 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Product_Restriction_mycart_page.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 19:06:22,638 INFO  [Log] **************************************************************************************** 
+2018-02-06 19:06:29,026 INFO  [Log] #### Executing Test case: Product_Restriction_mycart_page.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 19:06:34,642 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 19:06:34,726 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: mragendra@ps.com 
+2018-02-06 19:06:34,769 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: @Friend#1 
+2018-02-06 19:06:34,769 INFO  [Log] TS_04; Waited 5000 Milli seconds for Element 
+2018-02-06 19:06:53,530 INFO  [Log] TS_05: Click on login button 
+2018-02-06 19:06:53,537 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 19:07:03,610 INFO  [Log] TS_07: Input restricted part number in the input box; Action: Submitted Value: Value: 10690-26A 
+2018-02-06 19:07:03,610 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-02-06 19:07:13,893 INFO  [Log] TS_09: Click on Add to cart button  
+2018-02-06 19:07:13,894 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-02-06 19:07:23,926 INFO  [Log] TS_11: Capture the validation message for the restricted productExhaust Elbow is restricted from being sold to your selected address.; Value has been stored in index: 0 
+2018-02-06 19:07:23,926 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2018-02-06 19:07:34,023 INFO  [Log] TS_13; Passed; Verify the validation message for the restricted product; Text is present for the given emement element :  
+2018-02-06 19:07:39,044 INFO  [Log] closing test case  
+2018-02-06 19:07:39,646 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:07:39,713 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:07:39,778 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:07:39,778 INFO  [Log] ### Test case: Product_Restriction_mycart_page.xlsx; Description: Blank; status Executed 
+2018-02-06 19:07:40,232 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:07:40,309 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:07:40,363 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:07:40,363 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:07:40,363 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:07:40,448 INFO  [Log] **************************************************************************************** 
+2018-02-06 19:07:40,448 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_Quick_Order_Home_Page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-06 19:07:40,448 INFO  [Log] **************************************************************************************** 
+2018-02-06 19:07:46,320 INFO  [Log] #### Executing Test case: E2E_Quick_Order_Home_Page; Description: Blank In Firefox Browser for TestData:1 
+2018-02-06 19:07:50,501 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-02-06 19:07:50,606 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.k.singhh@gmail.com 
+2018-02-06 19:07:50,659 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1 
+2018-02-06 19:07:50,660 INFO  [Log] TS_04; Waited 10000 Milli seconds for Element 
+2018-02-06 19:08:18,341 INFO  [Log] TS_05: Click on login button 
+2018-02-06 19:08:18,345 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-02-06 19:08:28,436 INFO  [Log] TS_07: Input restricted part number in the input box; Action: Submitted Value: Value: 10690-26A 
+2018-02-06 19:08:28,436 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-02-06 19:08:38,764 INFO  [Log] TS_09: Click on Add to cart button  
+2018-02-06 19:08:38,767 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-02-06 19:08:48,838 INFO  [Log] TS_11: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 0 
+2018-02-06 19:08:48,876 INFO  [Log] TS_12: Capture the qty in Home DCQTY in LAWRENCEVILLE: 0; Value has been stored in index: 1 
+2018-02-06 19:08:48,876 INFO  [Log] User specified value has been replaced at index1New Value is: ILLE: 0 
+2018-02-06 19:08:48,907 INFO  [Log] TS_14: Capture the qty in other DCQTY in other Locations: 8; Value has been stored in index: 2 
+2018-02-06 19:08:48,907 INFO  [Log] User specified value has been replaced at index2New Value is: 8 
+2018-02-06 19:08:48,923 INFO  [Log] TS_16: Capture the price of product on my cart page$63.42; Value has been stored in index: 3 
+2018-02-06 19:08:48,939 INFO  [Log] TS_17: Capture the Subtotal price of the cart$63.42; Value has been stored in index: 4 
+2018-02-06 19:08:48,939 INFO  [Log] TS_18; Waited 5000 Milli seconds for Element 
+2018-02-06 19:08:54,260 INFO  [Log] TS_19: Click on the Proceed to Order Review  button 
+2018-02-06 19:08:54,261 INFO  [Log] TS_20; Waited 10000 Milli seconds for Element 
+2018-02-06 19:09:04,336 INFO  [Log] TS_21: Capture the Subtotal price on order review page$63.42; Value has been stored in index: 5 
+2018-02-06 19:09:04,340 INFO  [Log] TS_22; Passed; null; Captured text1: $63.42; Captured text2: $63.42 
+2018-02-06 19:09:04,357 INFO  [Log] TS_23: Capture the shipping cost $29.50; Value has been stored in index: 6 
+2018-02-06 19:09:04,373 INFO  [Log] TS_24: Capture the grandtotal price on order review page$92.92; Value has been stored in index: 7 
+2018-02-06 19:09:04,636 INFO  [Log] TS_25: Click on the Proceed to Payment information  button 
+2018-02-06 19:09:04,636 INFO  [Log] TS_26; Waited 10000 Milli seconds for Element 
+2018-02-06 19:09:14,731 INFO  [Log] TS_27: Enter PO number; Action: Submitted Value: Value: null 
+2018-02-06 19:09:15,000 INFO  [Log] TS_28: Click on invoice Order tab 
+2018-02-06 19:09:15,285 INFO  [Log] TS_29: Click on the Check box 
+2018-02-06 19:09:15,585 INFO  [Log] TS_30: Click on the Submit order button for Invoice tab 
+2018-02-06 19:09:15,585 INFO  [Log] TS_31; Waited 10000 Milli seconds for Element 
+2018-02-06 19:09:25,660 INFO  [Log] TS_32: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 8 
+2018-02-06 19:09:25,691 INFO  [Log] TS_33: Capture the shipping address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122; Value has been stored in index: 9 
+2018-02-06 19:09:25,698 INFO  [Log] TS_34; Passed; Verify the payment mode; Value: invoiced; Present in Page values: Invoiced,  
+2018-02-06 19:09:25,714 INFO  [Log] TS_35: Capture the Subtotal price on order confirmation page$63.42; Value has been stored in index: 10 
+2018-02-06 19:09:25,714 INFO  [Log] TS_36; Passed; null; Captured text1: $63.42; Captured text2: $63.42 
+2018-02-06 19:09:25,729 INFO  [Log] TS_37: Capture the shipping cost on order confirmation page$29.50; Value has been stored in index: 11 
+2018-02-06 19:09:25,729 INFO  [Log] TS_38; Passed; null; Captured text1: $29.50; Captured text2: $29.50 
+2018-02-06 19:09:25,745 INFO  [Log] TS_39: Capture the grandtotal price on order confirmation page$92.92; Value has been stored in index: 12 
+2018-02-06 19:09:25,745 INFO  [Log] TS_40; Passed; null; Captured text1: $92.92; Captured text2: $92.92 
+2018-02-06 19:09:25,760 INFO  [Log] TS_41: Capture the Home DC address4050 CORPORATE DR STE 400 GRAPEVINE TX 760512308; Value has been stored in index: 13 
+2018-02-06 19:09:25,760 INFO  [Log] TS_42; Waited 1000 Milli seconds for Element 
+2018-02-06 19:09:26,793 INFO  [Log] TS_43: Capture the Order no.Thank you for placing your order! Your order number is O-0000008373.
+Order Date: 2/6/2018; Value has been stored in index: 14 
+2018-02-06 19:09:26,798 INFO  [Log] User specified value has been replaced at index14New Value is: Thank you for placing your order! Your order number is O-0000008373. 
+2018-02-06 19:09:26,798 INFO  [Log] User specified value has been replaced at index14New Value is: O-0000008373. 
+2018-02-06 19:09:26,814 INFO  [Log] TS_46: Capture the Order no.Thank you for placing your order! Your order number is O-0000008373.
+Order Date: 2/6/2018; Value has been stored in index: 15 
+2018-02-06 19:09:26,814 INFO  [Log] User specified value has been replaced at index15New Value is: 2/6/2018 
+2018-02-06 19:09:31,821 INFO  [Log] closing test case  
+2018-02-06 19:09:32,485 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:09:32,548 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:09:32,617 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:09:32,633 INFO  [Log] ### Test case: E2E_Quick_Order_Home_Page; Description: Blank; status Executed 
+2018-02-06 19:09:32,964 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-02-06 19:09:33,033 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-02-06 19:09:33,086 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-02-06 19:09:33,086 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:09:33,086 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:09:33,149 INFO  [Log] ####Closing Test Suite #### 
+2018-02-06 19:09:33,149 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-06 19:09:33,149 INFO  [Log] Creating Logs backup and storing for further reference 

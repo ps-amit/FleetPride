@@ -1,0 +1,94 @@
+2017-07-19 12:53:55,217 INFO  [Log] Test Scenario Configuration started 
+2017-07-19 12:53:55,232 INFO  [Log] Initialing HTML reporting 
+2017-07-19 12:53:55,403 INFO  [Log] Starting Test Suit Execution 
+2017-07-19 12:53:55,403 WARN  [Log] Browser instance value is null 
+2017-07-19 12:53:55,909 INFO  [Log] Object repository is created successfully 
+2017-07-19 12:53:55,976 INFO  [Log] Opt_01_inbox elements 
+2017-07-19 12:53:56,038 INFO  [Log] Opt_03_Price Threshold Breach on grid 
+2017-07-19 12:53:56,176 INFO  [Log] **************************************************************************************** 
+2017-07-19 12:53:56,177 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Opt_03; Description: Competitors Price Change For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-19 12:53:56,177 INFO  [Log] **************************************************************************************** 
+2017-07-19 12:54:03,163 INFO  [Log] #### Executing Test case: Opt_03; Description: Competitors Price Change In firefox Browser for TestData:1 
+2017-07-19 12:54:11,396 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-19 12:54:14,534 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-19 12:54:16,756 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-19 12:54:17,258 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-19 12:54:17,259 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-19 12:54:23,282 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-19 12:54:24,214 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-19 12:54:24,308 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-19 12:54:24,415 INFO  [Log] 19 Jul - 18 Aug, 2017; Value has been stored in index: 0 
+2017-07-19 12:54:24,504 INFO  [Log] TS_10: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-19 12:54:24,632 INFO  [Log] Price Threshold Breach : 11 Times; Value has been stored in index: 1 
+2017-07-19 12:54:24,714 INFO  [Log] User specified value has been replaced at index1New Value is: 11 
+2017-07-19 12:54:24,847 INFO  [Log] TS_13: verify price thrashold breach element present: Action click 
+2017-07-19 12:54:24,848 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-19 12:54:29,027 INFO  [Log] TS_15: verify that we are redirected to rates page on click of thrashold breach; Passed; ; Value from page: https://optima-demo.rategain.com/optima/rates; User Defined URL:https://optima-demo.rategain.com/optima/rates 
+2017-07-19 12:54:29,211 INFO  [Log] 07/19/2017 to 08/18/2017; Value has been stored in index: 2 
+2017-07-19 12:54:32,875 INFO  [Log] Wed
+19 Jul; Value has been stored in index: 3 
+2017-07-19 12:54:32,987 INFO  [Log] User specified value has been replaced at index3New Value is: 19 Jul 
+2017-07-19 12:54:33,171 INFO  [Log] TS_19: hover; Action: Mouse Hover 
+2017-07-19 12:54:33,171 INFO  [Log] TS_20; Waited 4000 Milli seconds for Element 
+2017-07-19 12:54:37,388 INFO  [Log] Fri
+18 Aug; Value has been stored in index: 4 
+2017-07-19 12:54:37,498 INFO  [Log] User specified value has been replaced at index4New Value is: 18 Aug 
+2017-07-19 12:54:37,499 INFO  [Log] TS_23; Passed; VerifyCapturewithCapture; Captured text1: 19 jul - 18 aug, 2017; Captured text2: 19 jul 
+2017-07-19 12:54:37,500 INFO  [Log] TS_24; Passed; VerifyCapturewithCapture; Captured text1: 19 jul - 18 aug, 2017; Captured text2: 18 aug 
+2017-07-19 12:54:37,500 INFO  [Log] closing test case  
+2017-07-19 12:54:37,507 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-19 12:54:37,522 INFO  [Log] ### Test case: Opt_03; Description: Competitors Price Change; status Executed 
+2017-07-19 12:54:38,767 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-19 12:54:38,886 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-19 12:54:39,006 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-19 12:54:39,007 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 12:54:45,040 INFO  [Log] #### Executing Test case: Opt_03; Description: Competitors Price Change In chrome Browser for TestData:1 
+2017-07-19 12:54:57,838 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-19 12:54:59,670 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-19 12:54:59,820 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-19 12:54:59,915 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-19 12:54:59,916 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-19 12:55:07,151 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-19 12:55:07,809 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-19 12:55:07,923 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-19 12:55:08,021 INFO  [Log] 19 Jul - 18 Aug, 2017; Value has been stored in index: 0 
+2017-07-19 12:55:08,100 INFO  [Log] TS_10: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-19 12:55:08,197 INFO  [Log] Price Threshold Breach : 11 Times; Value has been stored in index: 1 
+2017-07-19 12:55:08,241 INFO  [Log] User specified value has been replaced at index1New Value is: 11 
+2017-07-19 12:55:08,373 INFO  [Log] TS_13: verify price thrashold breach element present: Action click 
+2017-07-19 12:55:08,373 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-19 12:55:12,458 INFO  [Log] TS_15: verify that we are redirected to rates page on click of thrashold breach; Passed; ; Value from page: https://optima-demo.rategain.com/optima/rates; User Defined URL:https://optima-demo.rategain.com/optima/rates 
+2017-07-19 12:55:12,585 INFO  [Log] 07/19/2017 to 08/18/2017; Value has been stored in index: 2 
+2017-07-19 12:55:14,721 INFO  [Log] Wed
+19 Jul; Value has been stored in index: 3 
+2017-07-19 12:55:14,787 INFO  [Log] User specified value has been replaced at index3New Value is: 19 Jul 
+2017-07-19 12:55:14,931 INFO  [Log] TS_19: hover; Action: Mouse Hover 
+2017-07-19 12:55:14,931 INFO  [Log] TS_20; Waited 4000 Milli seconds for Element 
+2017-07-19 12:55:19,055 INFO  [Log] Fri
+18 Aug; Value has been stored in index: 4 
+2017-07-19 12:55:19,113 INFO  [Log] User specified value has been replaced at index4New Value is: 18 Aug 
+2017-07-19 12:55:19,114 INFO  [Log] TS_23; Passed; VerifyCapturewithCapture; Captured text1: 19 jul - 18 aug, 2017; Captured text2: 19 jul 
+2017-07-19 12:55:19,114 INFO  [Log] TS_24; Passed; VerifyCapturewithCapture; Captured text1: 19 jul - 18 aug, 2017; Captured text2: 18 aug 
+2017-07-19 12:55:19,115 INFO  [Log] closing test case  
+2017-07-19 12:55:21,460 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-19 12:55:21,515 INFO  [Log] ### Test case: Opt_03; Description: Competitors Price Change; status Executed 
+2017-07-19 12:55:22,644 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-19 12:55:22,761 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-19 12:55:22,878 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-19 12:55:22,878 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 12:55:22,878 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 12:55:23,265 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-19 12:55:23,307 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-19 12:55:23,340 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-19 12:55:23,368 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-19 12:55:23,400 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-19 12:55:23,430 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-19 12:55:23,458 INFO  [Log] RateGain-1_RateGain -1 
+2017-07-19 12:55:23,485 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-19 12:55:23,513 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-19 12:55:23,542 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-19 12:55:23,564 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-19 12:55:23,589 INFO  [Log] PostRequest_PostRequest 
+2017-07-19 12:55:23,620 INFO  [Log] ####Closing Test Suite #### 
+2017-07-19 12:55:23,620 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 12:55:23,620 INFO  [Log] Creating Logs backup and storing for further reference 

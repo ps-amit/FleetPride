@@ -1,0 +1,75 @@
+2017-07-27 16:07:53,518 INFO  [Log] Test Scenario Configuration started 
+2017-07-27 16:07:53,532 INFO  [Log] Initialing HTML reporting 
+2017-07-27 16:07:53,699 INFO  [Log] Starting Test Suit Execution 
+2017-07-27 16:07:53,700 WARN  [Log] No Browser instance is active 
+2017-07-27 16:07:54,286 INFO  [Log] Object repository is created successfully 
+2017-07-27 16:07:54,365 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-27 16:07:54,439 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-27 16:07:54,498 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-27 16:07:54,566 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-27 16:07:54,625 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-27 16:07:54,670 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-27 16:07:54,717 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-27 16:07:54,780 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-27 16:07:54,831 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-27 16:07:54,869 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-27 16:07:54,909 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-27 16:07:54,942 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-27 16:07:54,976 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-27 16:07:55,011 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-27 16:07:55,044 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-27 16:07:55,090 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-27 16:07:55,125 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-27 16:07:55,157 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-27 16:07:55,192 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-27 16:07:55,224 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-27 16:07:55,256 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-27 16:07:55,288 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-27 16:07:55,322 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-27 16:07:55,355 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-27 16:07:55,388 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-27 16:07:55,414 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-27 16:07:55,442 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-27 16:07:55,470 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-27 16:07:55,499 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-27 16:07:55,531 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-27 16:07:55,582 INFO  [Log] **************************************************************************************** 
+2017-07-27 16:07:55,582 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-27 16:07:55,583 INFO  [Log] **************************************************************************************** 
+2017-07-27 16:08:02,002 INFO  [Log] #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx In chrome Browser for TestData:1 
+2017-07-27 16:08:11,043 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-27 16:08:11,694 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-27 16:08:11,859 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-27 16:08:11,993 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-27 16:08:11,994 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-27 16:08:22,131 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-27 16:08:22,226 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-27 16:08:47,779 ERROR [Log] Error#: optima-66TS_09ObjectRepScrollToElement  org.openqa.selenium.WebDriverException: unknown error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir9180_17529}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 5566245c314b2a3490644eb7fae77078null:Exception is not handled 
+2017-07-27 16:08:49,229 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-27 16:08:49,367 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-27 16:08:49,492 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-27 16:08:49,492 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-27 16:08:49,493 FATAL [Log] optima-66TS_09ObjectRepScrollToElement  org.openqa.selenium.WebDriverException: unknown error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir9180_17529}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 5566245c314b2a3490644eb7fae77078null:Exception is not handled 
+2017-07-27 16:08:49,493 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-27 16:08:49,773 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-27 16:08:49,808 INFO  [Log] Rg_TC0070.xlsx_Rg_TC0070.xlsx 
+2017-07-27 16:08:49,829 INFO  [Log] Rg_TC0072.xlsx_Rg_TC0072.xlsx 
+2017-07-27 16:08:49,861 INFO  [Log] ####Closing Test Suite #### 
+2017-07-27 16:08:49,862 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-27 16:08:49,862 INFO  [Log] Creating Logs backup and storing for further reference 

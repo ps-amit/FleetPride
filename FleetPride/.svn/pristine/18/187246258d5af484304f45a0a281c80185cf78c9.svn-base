@@ -1,0 +1,42 @@
+2017-09-22 18:11:51,429 INFO  [Log] Test Scenario Configuration started 
+2017-09-22 18:11:51,444 INFO  [Log] Initialing HTML reporting 
+2017-09-22 18:11:51,693 INFO  [Log] Starting Test Suit Execution 
+2017-09-22 18:11:51,865 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 18:11:51,897 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 18:11:51,928 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 18:11:52,374 INFO  [Log] Object repository is created successfully 
+2017-09-22 18:11:52,436 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-22 18:11:52,499 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-22 18:11:52,530 INFO  [Log] RG_TC_012_Blank 
+2017-09-22 18:11:52,577 INFO  [Log] RG_TC_016_Blank 
+2017-09-22 18:11:52,639 INFO  [Log] **************************************************************************************** 
+2017-09-22 18:11:52,639 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_001; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-22 18:11:52,639 INFO  [Log] **************************************************************************************** 
+2017-09-22 18:11:58,724 INFO  [Log] #### Executing Test case: PGNG_1801_TC_001; Description: Blank In Chrome Browser for TestData:1 
+2017-09-22 18:12:11,358 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-22 18:12:11,691 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-22 18:12:11,837 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-22 18:12:11,923 INFO  [Log] TS_04: Click on login button 
+2017-09-22 18:12:24,387 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-22 18:12:24,513 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-22 18:12:24,639 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-22 18:12:25,890 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-22 18:12:26,022 INFO  [Log] TS_09: Click on property 
+2017-09-22 18:12:29,217 INFO  [Log] TS_10: Click on Settings 
+2017-09-22 18:12:32,520 INFO  [Log] TS_11: Click on Mapping 
+2017-09-22 18:12:40,995 INFO  [Log] TS_12: Click on Basic tab 
+2017-09-22 18:13:06,594 INFO  [Log] PGNG_TC_001TS_13XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-22 18:13:07,155 WARN  [Log]  Browser instance is active 
+2017-09-22 18:13:09,886 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 18:13:09,950 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 18:13:09,996 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 18:13:09,996 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 18:13:09,996 FATAL [Log] PGNG_TC_001TS_13XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-22 18:13:09,996 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 18:13:10,106 INFO  [Log] PGNG_1801_TC_002_Blank 
+2017-09-22 18:13:10,137 INFO  [Log] PGNG_1801_TC_028_Blank 
+2017-09-22 18:13:10,184 INFO  [Log] PGNG_1801_TC_003_Blank 
+2017-09-22 18:13:10,230 INFO  [Log] PGNG_1801_TC_006_Blank 
+2017-09-22 18:13:10,246 INFO  [Log] ####Closing Test Suite #### 
+2017-09-22 18:13:10,246 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 18:13:10,246 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,147 @@
+2017-08-30 17:59:00,885 INFO  [Log] Test Scenario Configuration started 
+2017-08-30 17:59:00,920 INFO  [Log] Initialing HTML reporting 
+2017-08-30 17:59:01,222 INFO  [Log] Starting Test Suit Execution 
+2017-08-30 17:59:01,223 WARN  [Log] No Browser instance is active 
+2017-08-30 17:59:01,938 INFO  [Log] Object repository is created successfully 
+2017-08-30 17:59:02,068 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-30 17:59:02,183 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 17:59:02,334 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-08-30 17:59:02,392 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:59:02,451 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-08-30 17:59:02,507 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:59:02,696 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-08-30 17:59:02,753 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:59:02,817 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-08-30 17:59:02,865 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:59:02,957 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-08-30 17:59:02,999 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:59:03,042 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-08-30 17:59:03,081 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-08-30 17:59:03,121 INFO  [Log] Rg_TC_61.xlsx_Rg_TC_61.xlsx 
+2017-08-30 17:59:03,181 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-30 17:59:03,247 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-30 17:59:03,311 INFO  [Log] **************************************************************************************** 
+2017-08-30 17:59:03,312 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_75.xlsx; Description: To verify Price Threshold Breach(Default Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-30 17:59:03,312 INFO  [Log] **************************************************************************************** 
+2017-08-30 17:59:10,544 INFO  [Log] #### Executing Test case: Rg_TC_75.xlsx; Description: To verify Price Threshold Breach(Default Filter) In firefox Browser for TestData:1 
+2017-08-30 17:59:17,173 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-30 17:59:17,482 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-30 17:59:17,711 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-30 17:59:17,894 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-30 17:59:17,895 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-08-30 17:59:30,362 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-30 17:59:30,540 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-30 17:59:30,589 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-30 17:59:31,774 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-30 17:59:31,774 INFO  [Log] TS_10; Waited 12000 Milli seconds for Element 
+2017-08-30 17:59:44,015 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-30 17:59:44,016 INFO  [Log] TS_12; Waited 12000 Milli seconds for Element 
+2017-08-30 17:59:56,149 INFO  [Log] TS_47: click on rates: Action click 
+2017-08-30 17:59:56,149 INFO  [Log] TS_48; Waited 12000 Milli seconds for Element 
+2017-08-30 18:00:08,700 INFO  [Log] TS_49: click on grid view: Action click 
+2017-08-30 18:00:08,700 INFO  [Log] TS_50; Waited 12000 Milli seconds for Element 
+2017-08-30 18:00:20,980 INFO  [Log] TS_51: clcik on rangefilter: Action click 
+2017-08-30 18:00:20,980 INFO  [Log] TS_52; Waited 4000 Milli seconds for Element 
+2017-08-30 18:00:25,680 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-30 18:00:28,086 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 18:00:30,474 INFO  [Log] TS_57: click on apply: Action click 
+2017-08-30 18:00:30,474 INFO  [Log] TS_58; Waited 4000 Milli seconds for Element 
+2017-08-30 18:00:34,953 INFO  [Log] TS_61; Waited 8000 Milli seconds for Element 
+2017-08-30 18:00:43,140 INFO  [Log] TS_62: click on calander view: Action click 
+2017-08-30 18:00:43,140 INFO  [Log] TS_63; Waited 8000 Milli seconds for Element 
+2017-08-30 18:00:51,333 INFO  [Log] TS_64: click on legends: Action click 
+2017-08-30 18:00:51,333 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 18:01:01,457 INFO  [Log] TS_65: click if threshold is not selected: Action Element is not present moving to next step 
+2017-08-30 18:01:01,457 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 18:01:03,519 INFO  [Log] TS_66: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: threshold: Type: Xpath 
+2017-08-30 18:01:03,537 INFO  [Log] TS_67; Passed; verify thresholdThreshold breach blue/yellow check  blue is true yellow is true 
+2017-08-30 18:01:08,538 INFO  [Log] closing test case  
+2017-08-30 18:01:08,832 INFO  [Log] Closing instance of Browser: firefox 
+2017-08-30 18:01:08,883 INFO  [Log] ### Test case: Rg_TC_75.xlsx; Description: To verify Price Threshold Breach(Default Filter); status Executed 
+2017-08-30 18:01:08,883 WARN  [Log] No Browser instance is active 
+2017-08-30 18:01:08,883 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 18:01:08,884 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 18:01:09,493 INFO  [Log] **************************************************************************************** 
+2017-08-30 18:01:09,493 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_76.xlsx; Description: Rg_TC_76.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-30 18:01:09,493 INFO  [Log] **************************************************************************************** 
+2017-08-30 18:01:15,970 INFO  [Log] #### Executing Test case: Rg_TC_76.xlsx; Description: Rg_TC_76.xlsx In firefox Browser for TestData:1 
+2017-08-30 18:01:34,355 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-30 18:01:35,169 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-30 18:01:35,288 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-30 18:01:35,383 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-30 18:01:35,383 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-08-30 18:01:47,692 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-30 18:01:47,928 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-30 18:01:48,176 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-30 18:01:49,666 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-30 18:01:49,666 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-08-30 18:01:57,929 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-30 18:01:57,931 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-30 18:02:06,107 INFO  [Log] TS_47: click on rates: Action click 
+2017-08-30 18:02:06,107 INFO  [Log] TS_48; Waited 8000 Milli seconds for Element 
+2017-08-30 18:02:14,422 INFO  [Log] TS_49: click on grid view: Action click 
+2017-08-30 18:02:14,422 INFO  [Log] TS_50; Waited 8000 Milli seconds for Element 
+2017-08-30 18:02:22,666 INFO  [Log] TS_51: clcik on rangefilter: Action click 
+2017-08-30 18:02:22,666 INFO  [Log] TS_52; Waited 4000 Milli seconds for Element 
+2017-08-30 18:02:27,520 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-30 18:02:29,929 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 18:02:32,470 INFO  [Log] TS_57: click on apply: Action click 
+2017-08-30 18:02:32,470 INFO  [Log] TS_58; Waited 4000 Milli seconds for Element 
+2017-08-30 18:02:37,043 INFO  [Log] TS_59: clcik on rate filter: Action click 
+2017-08-30 18:02:37,052 INFO  [Log] TS_60; Waited 4000 Milli seconds for Element 
+2017-08-30 18:02:41,302 INFO  [Log] TS_61: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-30 18:02:41,302 INFO  [Log] TS_62; Waited 2000 Milli seconds for Element 
+2017-08-30 18:02:43,607 INFO  [Log] TS_63: click on apply: Action click 
+2017-08-30 18:02:43,608 INFO  [Log] TS_64; Waited 4000 Milli seconds for Element 
+2017-08-30 18:02:47,723 INFO  [Log] TS_61; Waited 8000 Milli seconds for Element 
+2017-08-30 18:02:55,926 INFO  [Log] TS_62: click on calander view: Action click 
+2017-08-30 18:02:55,927 INFO  [Log] TS_63; Waited 8000 Milli seconds for Element 
+2017-08-30 18:03:04,215 INFO  [Log] TS_64: click on legends: Action click 
+2017-08-30 18:03:04,215 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 18:03:14,349 INFO  [Log] TS_65: click if threshold is not selected: Action Element is not present moving to next step 
+2017-08-30 18:03:14,349 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 18:03:16,391 INFO  [Log] TS_66: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: threshold: Type: Xpath 
+2017-08-30 18:03:16,393 INFO  [Log] optima_76TS_67ObjectRepHighestLowestRate  java.lang.NumberFormatException: For input string: "Blank"null:Exception is not handled 
+2017-08-30 18:03:18,051 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-30 18:03:18,470 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-30 18:03:18,904 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-30 18:03:18,904 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 18:03:18,904 FATAL [Log] optima_76TS_67ObjectRepHighestLowestRate  java.lang.NumberFormatException: For input string: "Blank"null:Exception is not handled 
+2017-08-30 18:03:18,904 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 18:03:18,949 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-08-30 18:03:18,967 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-08-30 18:03:19,019 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-08-30 18:03:19,109 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-08-30 18:03:19,153 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-30 18:03:19,183 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-30 18:03:19,212 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-30 18:03:19,241 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-30 18:03:19,270 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-30 18:03:19,343 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-30 18:03:19,373 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-30 18:03:19,404 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-30 18:03:19,432 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-30 18:03:19,459 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-30 18:03:19,501 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-30 18:03:19,531 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-30 18:03:19,562 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-30 18:03:19,611 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-30 18:03:19,637 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 18:03:19,664 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-30 18:03:19,689 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-30 18:03:19,717 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 18:03:19,745 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-30 18:03:19,785 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-30 18:03:19,812 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 18:03:19,843 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-30 18:03:19,881 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-30 18:03:19,908 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 18:03:19,994 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-30 18:03:20,028 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-30 18:03:20,093 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-30 18:03:20,119 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-30 18:03:20,146 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-30 18:03:20,172 INFO  [Log] Rg_TC_53_allfilyer_Rg_TC_53_allfilyer 
+2017-08-30 18:03:20,200 INFO  [Log] ####Closing Test Suite #### 
+2017-08-30 18:03:20,200 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 18:03:20,200 INFO  [Log] Creating Logs backup and storing for further reference 

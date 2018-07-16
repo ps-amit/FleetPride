@@ -1,0 +1,36 @@
+2017-10-12 15:38:03,907 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 15:38:03,930 INFO  [Log] Initialing HTML reporting 
+2017-10-12 15:38:04,109 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 15:38:04,279 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:38:04,313 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:38:04,346 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:38:04,801 INFO  [Log] Object repository is created successfully 
+2017-10-12 15:38:04,888 INFO  [Log] **************************************************************************************** 
+2017-10-12 15:38:04,888 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 15:38:04,888 INFO  [Log] **************************************************************************************** 
+2017-10-12 15:38:07,165 ERROR [Log] Error#: quick_order; Error in communicating with Browserorg.openqa.selenium.WebDriverException: Missing 'marionetteProtocol' field in handshake
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.3.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: stack backtrace:
+   0:           0x4bb74f - <no info>
+   1:           0x4bbea9 - <no info>
+   2:           0x443e0a - <no info>
+   3:           0x447acf - <no info>
+   4:           0x4203e1 - <no info>
+   5:           0x407dc7 - <no info>
+   6:           0x6d95b9 - <no info>
+   7:           0x4173a7 - <no info>
+   8:           0x6d38b3 - <no info>
+   9:         0x76d8652d - BaseThreadInitThunk 
+2017-10-12 15:38:07,165 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Firefox Browser for TestData:1 
+2017-10-12 15:38:13,207 INFO  [Log] quick_order_1TS_01ObjectRepOpenGivenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-10-12 15:38:13,870 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 15:38:13,902 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 15:38:13,934 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 15:38:13,934 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 15:38:13,934 FATAL [Log] quick_order_1TS_01ObjectRepOpenGivenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-10-12 15:38:13,934 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 15:38:14,012 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 15:38:14,012 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 15:38:14,013 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,63 @@
+2017-07-25 16:18:30,276 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 16:18:30,290 INFO  [Log] Initialing HTML reporting 
+2017-07-25 16:18:30,520 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 16:18:30,520 WARN  [Log] Browser instance value is null 
+2017-07-25 16:18:31,131 INFO  [Log] Object repository is created successfully 
+2017-07-25 16:18:31,195 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-25 16:18:31,262 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 16:18:31,318 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 16:18:31,372 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 16:18:31,425 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 16:18:31,478 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 16:18:31,520 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 16:18:31,577 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 16:18:31,617 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 16:18:31,655 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 16:18:31,699 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 16:18:31,737 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 16:18:31,773 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 16:18:31,801 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 16:18:31,833 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 16:18:31,860 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 16:18:31,894 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 16:18:31,938 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 16:18:31,962 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 16:18:31,990 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 16:18:32,024 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 16:18:32,050 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 16:18:32,097 INFO  [Log] **************************************************************************************** 
+2017-07-25 16:18:32,097 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0050.xlsx; Description: Rg_TC0050.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 16:18:32,097 INFO  [Log] **************************************************************************************** 
+2017-07-25 16:18:38,136 INFO  [Log] #### Executing Test case: Rg_TC0050.xlsx; Description: Rg_TC0050.xlsx In chrome Browser for TestData:1 
+2017-07-25 16:18:54,400 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 16:18:55,284 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 16:18:55,439 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 16:18:55,530 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 16:18:55,531 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 16:19:08,008 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-25 16:19:08,104 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-25 16:19:09,355 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-25 16:19:09,356 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-25 16:19:13,516 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-25 16:19:13,518 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-25 16:19:17,752 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-25 16:19:17,753 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-25 16:19:19,983 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-25 16:19:19,983 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-07-25 16:19:24,230 INFO  [Log] TS_17: verify Price changes (Y) from last reporting period is present; Passed; ; Element is present on the active page 
+2017-07-25 16:19:24,318 ERROR [Log] Error#: TS_18Element Location type is not defined 
+2017-07-25 16:19:24,318 ERROR [Log] Error#: optima-50TS_18BlankverifyElementCount: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-25 16:19:26,348 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 16:19:26,452 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 16:19:26,560 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 16:19:26,560 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 16:19:26,560 FATAL [Log] optima-50TS_18BlankverifyElementCount: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-25 16:19:26,560 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 16:19:26,974 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-25 16:19:27,002 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-25 16:19:27,025 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-25 16:19:27,054 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-25 16:19:27,077 INFO  [Log] PostRequest_PostRequest 
+2017-07-25 16:19:27,106 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 16:19:27,106 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 16:19:27,107 INFO  [Log] Creating Logs backup and storing for further reference 

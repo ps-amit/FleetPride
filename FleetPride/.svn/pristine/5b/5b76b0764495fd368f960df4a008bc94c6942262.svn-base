@@ -1,0 +1,37 @@
+2017-10-27 15:08:57,158 INFO  [Log] Test Scenario Configuration started 
+2017-10-27 15:08:57,168 INFO  [Log] Initialing HTML reporting 
+2017-10-27 15:08:57,328 INFO  [Log] Starting Test Suit Execution 
+2017-10-27 15:08:57,488 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 15:08:57,518 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 15:08:57,548 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 15:08:57,978 INFO  [Log] Object repository is created successfully 
+2017-10-27 15:08:58,019 INFO  [Log] product_search_script_Blank 
+2017-10-27 15:08:58,079 INFO  [Log] quick_order_Blank 
+2017-10-27 15:08:58,113 INFO  [Log] cart_Blank 
+2017-10-27 15:08:58,171 INFO  [Log] FP_home_page_search_productName_TC_13_Blank 
+2017-10-27 15:08:58,211 INFO  [Log] FP_home_page_search_productPartNumber_TC_01_Blank 
+2017-10-27 15:08:58,261 INFO  [Log] **************************************************************************************** 
+2017-10-27 15:08:58,261 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_home_page_search_invalid_data_TC_11; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-27 15:08:58,261 INFO  [Log] **************************************************************************************** 
+2017-10-27 15:09:04,091 INFO  [Log] #### Executing Test case: FP_home_page_search_invalid_data_TC_11; Description: Blank In Chrome Browser for TestData:1 
+2017-10-27 15:09:17,117 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-27 15:09:56,030 INFO  [Log] TS_02: Click on the login link 
+2017-10-27 15:10:31,597 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-27 15:11:07,149 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-27 15:11:50,983 INFO  [Log] TS_05: Click on login button 
+2017-10-27 15:12:26,648 INFO  [Log] TS_06: Enter product part number in the search box to be search; Action: Submited ValueValue: 34fgxgf 
+2017-10-27 15:13:06,483 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-27 15:13:41,961 INFO  [Log] TS_08; Passed; Verify error message appears on the page with invalid data being searched; Value: no results found; Present in Page values: No results found,  
+2017-10-27 15:13:46,964 INFO  [Log] closing test case  
+2017-10-27 15:13:49,516 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 15:13:49,547 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 15:13:49,587 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 15:13:49,607 INFO  [Log] ### Test case: FP_home_page_search_invalid_data_TC_11; Description: Blank; status Executed 
+2017-10-27 15:13:49,767 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 15:13:49,797 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 15:13:49,827 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 15:13:49,827 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 15:13:49,827 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 15:13:50,077 INFO  [Log] ####Closing Test Suite #### 
+2017-10-27 15:13:50,077 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 15:13:50,077 INFO  [Log] Creating Logs backup and storing for further reference 

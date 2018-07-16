@@ -1,0 +1,311 @@
+2018-04-12 17:04:13,920 INFO  [Log] Test Scenario Configuration started 
+2018-04-12 17:04:13,935 INFO  [Log] Initialing HTML reporting 
+2018-04-12 17:04:14,201 INFO  [Log] Starting Test Suit Execution 
+2018-04-12 17:04:14,555 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:04:14,626 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:04:14,688 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:04:15,293 INFO  [Log] Object repository is created successfully 
+2018-04-12 17:04:15,356 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:04:15,356 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:04:15,356 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:04:22,627 INFO  [Log] #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases In Firefox Browser for TestData:1 
+2018-04-12 17:04:30,459 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:04:30,594 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:04:30,641 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:04:30,641 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:05:03,791 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:05:03,791 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:05:13,953 INFO  [Log] TS_07: Click on the my account link 
+2018-04-12 17:05:13,953 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-04-12 17:05:24,062 INFO  [Log] TS_09: Click on the  My Carts link 
+2018-04-12 17:05:24,071 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-04-12 17:05:34,381 INFO  [Log] TS_11: Click on the delete button 
+2018-04-12 17:05:34,394 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-04-12 17:05:49,406 INFO  [Log] closing test case  
+2018-04-12 17:05:50,035 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:05:50,104 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:05:50,166 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:05:50,197 INFO  [Log] ### Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases; status Executed 
+2018-04-12 17:05:50,572 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:05:50,640 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:05:50,718 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:05:50,718 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:05:50,718 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:05:51,015 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:05:51,015 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-383 Price Mismatch; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:05:51,015 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:05:57,461 INFO  [Log] #### Executing Test case: PE-383 Price Mismatch; Description: Blank In Firefox Browser for TestData:1 
+2018-04-12 17:06:04,571 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:06:04,662 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:06:04,709 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:06:04,709 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:06:56,776 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:06:56,791 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:07:06,909 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: Y200 
+2018-04-12 17:07:16,872 INFO  [Log] TS_08: Click on the Search icon 
+2018-04-12 17:07:16,872 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-04-12 17:07:27,187 INFO  [Log] TS_10: Click on Add to cart button  
+2018-04-12 17:07:27,193 INFO  [Log] TS_11; Waited 5000 Milli seconds for Element 
+2018-04-12 17:07:32,256 INFO  [Log] TS_12: Capture value at my cart link intiallyMy Cart: 1 item(s), $64.38; Value has been stored in index: 0 
+2018-04-12 17:07:32,259 INFO  [Log] User specified value has been replaced at index0New Value is:  $64.38 
+2018-04-12 17:07:32,321 INFO  [Log] TS_14: Click on the mini my cart link 
+2018-04-12 17:07:32,321 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2018-04-12 17:07:42,401 INFO  [Log] TS_16: Capture the Subtotal price of the cart$64.38; Value has been stored in index: 1 
+2018-04-12 17:07:42,406 INFO  [Log] TS_17; Passed; null; Captured text1:  $64.38; Captured text2: $64.38 
+2018-04-12 17:07:47,420 INFO  [Log] closing test case  
+2018-04-12 17:07:48,049 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:07:48,112 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:07:48,190 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:07:48,205 INFO  [Log] ### Test case: PE-383 Price Mismatch; Description: Blank; status Executed 
+2018-04-12 17:07:48,577 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:07:48,645 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:07:48,723 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:07:48,723 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:07:48,723 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:07:48,816 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:07:48,816 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:07:48,816 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:07:55,431 INFO  [Log] #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases In Firefox Browser for TestData:1 
+2018-04-12 17:08:05,679 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:08:05,788 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:08:05,819 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:08:05,819 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:08:12,803 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:08:12,806 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:08:22,931 INFO  [Log] TS_07: Click on the my account link 
+2018-04-12 17:08:22,931 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-04-12 17:08:33,040 INFO  [Log] TS_09: Click on the  My Carts link 
+2018-04-12 17:08:33,052 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-04-12 17:08:43,341 INFO  [Log] TS_11: Click on the delete button 
+2018-04-12 17:08:43,350 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-04-12 17:08:58,359 INFO  [Log] closing test case  
+2018-04-12 17:08:59,033 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:08:59,095 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:08:59,183 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:08:59,202 INFO  [Log] ### Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases; status Executed 
+2018-04-12 17:08:59,561 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:08:59,632 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:08:59,711 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:08:59,711 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:08:59,711 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:08:59,779 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:08:59,779 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-411 Free Parcel Shipping Text; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:08:59,779 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:09:05,748 INFO  [Log] #### Executing Test case: PE-411 Free Parcel Shipping Text; Description: Blank In Firefox Browser for TestData:1 
+2018-04-12 17:09:16,509 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:09:16,624 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:09:16,656 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:09:16,656 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:09:24,676 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:09:24,676 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:09:34,786 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: Y200 
+2018-04-12 17:09:41,400 INFO  [Log] TS_08: Click on the Search icon 
+2018-04-12 17:09:41,400 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-04-12 17:09:51,707 INFO  [Log] TS_10: Click on Add to cart button  
+2018-04-12 17:09:51,716 INFO  [Log] TS_11; Waited 5000 Milli seconds for Element 
+2018-04-12 17:09:56,844 INFO  [Log] TS_12: Click on the mini my cart link 
+2018-04-12 17:09:56,858 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-04-12 17:10:06,923 INFO  [Log] TS_14; Passed; Verify that freight meter value is not achived; Captured text: 0; Value form page: 1735.62,   should not be same 
+2018-04-12 17:10:22,037 INFO  [Log] TS_15; Passed; Verify that'Free LTL Shipping' text does not appearif freight meter value is not achieved; Element is not present/dispayed on the page 
+2018-04-12 17:10:27,051 INFO  [Log] closing test case  
+2018-04-12 17:10:27,584 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:10:27,647 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:10:27,717 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:10:27,733 INFO  [Log] ### Test case: PE-411 Free Parcel Shipping Text; Description: Blank; status Executed 
+2018-04-12 17:10:28,099 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:10:28,163 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:10:28,242 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:10:28,242 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:10:28,242 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:10:28,304 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:10:28,304 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:10:28,304 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:10:34,536 INFO  [Log] #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases In Firefox Browser for TestData:1 
+2018-04-12 17:10:41,221 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:10:41,304 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:10:41,335 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:10:41,351 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:11:14,728 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:11:14,728 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:11:24,889 INFO  [Log] TS_07: Click on the my account link 
+2018-04-12 17:11:24,889 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-04-12 17:11:35,007 INFO  [Log] TS_09: Click on the  My Carts link 
+2018-04-12 17:11:35,013 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-04-12 17:11:45,337 INFO  [Log] TS_11: Click on the delete button 
+2018-04-12 17:11:45,345 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-04-12 17:12:00,360 INFO  [Log] closing test case  
+2018-04-12 17:12:01,003 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:12:01,062 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:12:01,140 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:12:01,156 INFO  [Log] ### Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases; status Executed 
+2018-04-12 17:12:01,521 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:12:01,592 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:12:01,651 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:12:01,651 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:12:01,651 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:12:01,729 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:12:01,729 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-482 Payment Credit Card; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:12:01,729 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:12:08,223 INFO  [Log] #### Executing Test case: PE-482 Payment Credit Card; Description: Blank In Firefox Browser for TestData:1 
+2018-04-12 17:12:16,223 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:12:16,340 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:12:16,371 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:12:16,371 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:12:24,045 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:12:24,052 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:12:34,134 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: Y200 
+2018-04-12 17:12:37,965 INFO  [Log] TS_08: Click on the Search icon 
+2018-04-12 17:12:37,966 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-04-12 17:12:48,303 INFO  [Log] TS_10: Click on Add to cart button  
+2018-04-12 17:12:48,312 INFO  [Log] TS_11; Waited 5000 Milli seconds for Element 
+2018-04-12 17:12:53,459 INFO  [Log] TS_12: Click on the mini my cart link 
+2018-04-12 17:12:53,471 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-04-12 17:13:03,809 INFO  [Log] TS_14: Click on the Proceed to Order Review  button 
+2018-04-12 17:13:03,812 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2018-04-12 17:13:14,151 INFO  [Log] TS_16: Click on the Proceed to Payment information  button 
+2018-04-12 17:13:14,160 INFO  [Log] TS_17; Waited 8000 Milli seconds for Element 
+2018-04-12 17:13:22,283 INFO  [Log] TS_18; Passed; Verify the presence of the text 'Credit Card'; Value: credit card; Present in Page values: Credit Card,  
+2018-04-12 17:13:27,298 INFO  [Log] closing test case  
+2018-04-12 17:13:27,922 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:13:28,003 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:13:28,070 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:13:28,085 INFO  [Log] ### Test case: PE-482 Payment Credit Card; Description: Blank; status Executed 
+2018-04-12 17:13:28,486 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:13:28,557 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:13:28,636 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:13:28,636 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:13:28,636 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:13:28,698 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:13:28,698 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:13:28,698 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:13:35,624 INFO  [Log] #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases In Firefox Browser for TestData:1 
+2018-04-12 17:13:42,435 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:13:42,533 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:13:42,564 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:13:42,564 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:13:50,374 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:13:50,374 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:14:00,527 INFO  [Log] TS_07: Click on the my account link 
+2018-04-12 17:14:00,527 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-04-12 17:14:10,578 INFO  [Log] TS_09: Click on the  My Carts link 
+2018-04-12 17:14:10,589 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-04-12 17:14:20,894 INFO  [Log] TS_11: Click on the delete button 
+2018-04-12 17:14:20,902 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-04-12 17:14:35,906 INFO  [Log] closing test case  
+2018-04-12 17:14:36,507 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:14:36,601 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:14:36,679 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:14:36,694 INFO  [Log] ### Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases; status Executed 
+2018-04-12 17:14:37,038 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:14:37,116 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:14:37,194 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:14:37,194 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:14:37,194 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:14:37,257 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:14:37,257 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-475 Incorrect Product Qty Order on Review Page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 17:14:37,257 INFO  [Log] **************************************************************************************** 
+2018-04-12 17:14:44,194 INFO  [Log] #### Executing Test case: PE-475 Incorrect Product Qty Order on Review Page; Description: Blank In Firefox Browser for TestData:1 
+2018-04-12 17:15:00,203 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 17:15:00,290 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 17:15:00,337 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 17:15:00,337 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 17:15:17,377 INFO  [Log] TS_05: Click on login button 
+2018-04-12 17:15:17,377 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 17:15:27,445 INFO  [Log] TS_07: Input first part number in the input box; Action: Submitted Value: Value: null 
+2018-04-12 17:15:27,450 INFO  [Log] TS_08; Waited 5000 Milli seconds for Element 
+2018-04-12 17:15:32,767 INFO  [Log] TS_11: Click on Add to cart button  
+2018-04-12 17:15:32,775 INFO  [Log] TS_12; Waited 13000 Milli seconds for Element 
+2018-04-12 17:15:45,854 INFO  [Log] TS_14: Capture the qty of the product on my cart page1; Value has been stored in index: 0 
+2018-04-12 17:15:45,862 INFO  [Log] TS_30; Waited 5000 Milli seconds for Element 
+2018-04-12 17:15:51,186 INFO  [Log] TS_31: Click on the Proceed to Order Review  button 
+2018-04-12 17:15:51,193 INFO  [Log] TS_32; Waited 15000 Milli seconds for Element 
+2018-04-12 17:16:07,334 INFO  [Log] TS_33: Capture the qty of the producton order review page1; Value has been stored in index: 1 
+2018-04-12 17:16:07,342 INFO  [Log] TS_34; Passed; null; Captured text1: 1; Captured text2: 1 
+2018-04-12 17:16:12,350 INFO  [Log] closing test case  
+2018-04-12 17:16:13,070 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:16:13,133 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:16:13,214 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:16:13,220 INFO  [Log] ### Test case: PE-475 Incorrect Product Qty Order on Review Page; Description: Blank; status Executed 
+2018-04-12 17:16:13,580 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 17:16:13,651 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 17:16:13,729 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 17:16:13,729 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:16:13,729 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:16:13,776 INFO  [Log] OrderID.xlsx_Blank 
+2018-04-12 17:16:13,807 INFO  [Log] Database-script.xlsx_Blank 
+2018-04-12 17:16:13,839 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-04-12 17:16:13,870 INFO  [Log] E2E_normal_shipping -CC_Blank 
+2018-04-12 17:16:13,901 INFO  [Log] Links_Home_Page.xlsx_Blank 
+2018-04-12 17:16:13,932 INFO  [Log] Sales_Force_Login.xlsx_Blank 
+2018-04-12 17:16:13,948 INFO  [Log] E2E_Core_charges-CC_Blank 
+2018-04-12 17:16:13,979 INFO  [Log] Jira_P1_Sales_Pack_qty_validation_Quick_Order_Home_Page.xlsx_Blank 
+2018-04-12 17:16:14,011 INFO  [Log] E2E_Multiple_DC_Products_Quick_Order_Blank 
+2018-04-12 17:16:14,042 INFO  [Log] E2E_Multiple_products_Quick_Order_Blank 
+2018-04-12 17:16:14,057 INFO  [Log] E2E_back_order -stored_CC_Blank 
+2018-04-12 17:16:14,089 INFO  [Log] E2E_back_order_invoice_Blank 
+2018-04-12 17:16:14,120 INFO  [Log] E2E_normal_shipping -stored_CC_Blank 
+2018-04-12 17:16:14,136 INFO  [Log] E2E_normal_shipping_invoice_Blank 
+2018-04-12 17:16:14,167 INFO  [Log] E2E_Will_Call - stored_CC_Blank 
+2018-04-12 17:16:14,183 INFO  [Log] E2E_Will_Call -Ship_Remainder - stored_CC_Blank 
+2018-04-12 17:16:14,217 INFO  [Log] E2E_Will_Call -Ship_Remainder_invoice_Blank 
+2018-04-12 17:16:14,231 INFO  [Log] E2E_Will_Call_invoice_Blank 
+2018-04-12 17:16:14,262 INFO  [Log] fetch_SP_qty_Blank 
+2018-04-12 17:16:14,293 INFO  [Log] Sales_Pack_E2E_normal_shipping -stored_CC_Blank 
+2018-04-12 17:16:14,309 INFO  [Log] Sales_Pack_E2E_normal_shipping -invoice_Blank 
+2018-04-12 17:16:14,340 INFO  [Log] PLP_Sales_Pack_E2E_normal_shipping -CC_Blank 
+2018-04-12 17:16:14,371 INFO  [Log] E2E_Will_Call -Ship_Remainder -CC_Blank 
+2018-04-12 17:16:14,402 INFO  [Log] E2E_Quick_Order_Home_Page_Blank 
+2018-04-12 17:16:14,418 INFO  [Log] E2E_Duplicate_Line_Item_Blank 
+2018-04-12 17:16:14,449 INFO  [Log] E2E_Quick_Order_Home_Page_Free_Shipping_Blank 
+2018-04-12 17:16:14,465 INFO  [Log] E2E_X_category_product_Blank 
+2018-04-12 17:16:14,496 INFO  [Log] E2E_CSV_Order_Upload_invoice_Blank 
+2018-04-12 17:16:14,527 INFO  [Log] Product_Restriction_mycart_page.xlsx_Blank 
+2018-04-12 17:16:14,559 INFO  [Log] FP_home_page_search_productName_Blank 
+2018-04-12 17:16:14,574 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2018-04-12 17:16:14,606 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2018-04-12 17:16:14,628 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2018-04-12 17:16:14,659 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2018-04-12 17:16:14,691 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2018-04-12 17:16:14,706 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2018-04-12 17:16:14,738 INFO  [Log] FP_Order_Upload_Blank 
+2018-04-12 17:16:14,753 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2018-04-12 17:16:14,784 INFO  [Log] FP_My_Account_TC_2_Blank 
+2018-04-12 17:16:14,800 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2018-04-12 17:16:14,831 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2018-04-12 17:16:14,863 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2018-04-12 17:16:14,878 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2018-04-12 17:16:14,909 INFO  [Log] FP_My_Cart_TC_09_Blank 
+2018-04-12 17:16:14,925 INFO  [Log] FP_My_Cart_TC_44_Blank 
+2018-04-12 17:16:14,941 INFO  [Log] FP_My_Cart_TC_47_Blank 
+2018-04-12 17:16:14,956 INFO  [Log] FP_My_Cart_TC_46_Blank 
+2018-04-12 17:16:14,972 INFO  [Log] FP_Payment_TC_02_Blank 
+2018-04-12 17:16:15,003 INFO  [Log] FP_Payment_TC_15_Blank 
+2018-04-12 17:16:15,019 INFO  [Log] Sales_Force_Blank 
+2018-04-12 17:16:15,034 INFO  [Log] Search_01_Blank 
+2018-04-12 17:16:15,050 INFO  [Log] Search_02_Blank 
+2018-04-12 17:16:15,066 INFO  [Log] Search_SO_Blank 
+2018-04-12 17:16:15,097 INFO  [Log] Filter_SO_Blank 
+2018-04-12 17:16:15,113 INFO  [Log] MA_Admin_Blank 
+2018-04-12 17:16:15,128 INFO  [Log] QO_Home_Blank 
+2018-04-12 17:16:15,144 INFO  [Log] Wishlist_PDP_Blank 
+2018-04-12 17:16:15,159 INFO  [Log] Wishlist_PLP_Blank 
+2018-04-12 17:16:15,191 INFO  [Log] QO_ShopOnline_Blank 
+2018-04-12 17:16:15,206 INFO  [Log] Upload_Blank 
+2018-04-12 17:16:15,234 INFO  [Log] Invalid_Quantity_Blank 
+2018-04-12 17:16:15,254 INFO  [Log] Invalid_Product_Blank 
+2018-04-12 17:16:15,270 INFO  [Log] Edit_Will_Call_Blank 
+2018-04-12 17:16:15,285 INFO  [Log] File_Verification_Blank 
+2018-04-12 17:16:15,301 INFO  [Log] Order_List_Account_Blank 
+2018-04-12 17:16:15,317 INFO  [Log] Saved_CC_Blank 
+2018-04-12 17:16:15,332 INFO  [Log] Backorder_Blank 
+2018-04-12 17:16:15,348 INFO  [Log] Backorder_Will_Call_Blank 
+2018-04-12 17:16:15,364 INFO  [Log] Blank_File_Blank 
+2018-04-12 17:16:15,379 INFO  [Log] UO_Del_Mor_Blank 
+2018-04-12 17:16:15,395 INFO  [Log] Search_Orders_Blank 
+2018-04-12 17:16:15,426 INFO  [Log] Shipping_Address_Blank 
+2018-04-12 17:16:15,426 INFO  [Log] PDP_Details_Blank 
+2018-04-12 17:16:15,442 INFO  [Log] Sales_Pack_QO_Home_Blank 
+2018-04-12 17:16:15,457 INFO  [Log] Sales_Pack_PDP_Blank 
+2018-04-12 17:16:15,473 INFO  [Log] ####Closing Test Suite #### 
+2018-04-12 17:16:15,473 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 17:16:15,473 INFO  [Log] Creating Logs backup and storing for further reference 

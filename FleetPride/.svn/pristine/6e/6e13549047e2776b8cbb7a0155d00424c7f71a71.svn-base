@@ -1,0 +1,47 @@
+2017-11-05 11:41:57,271 INFO  [Log] Test Scenario Configuration started 
+2017-11-05 11:41:57,299 INFO  [Log] Initialing HTML reporting 
+2017-11-05 11:41:57,796 INFO  [Log] Starting Test Suit Execution 
+2017-11-05 11:41:58,225 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-05 11:41:58,257 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-05 11:41:58,289 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-05 11:41:58,721 INFO  [Log] Object repository is created successfully 
+2017-11-05 11:41:58,787 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-05 11:41:58,854 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-05 11:41:58,901 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-05 11:41:58,941 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-05 11:41:58,987 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-05 11:41:59,025 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-05 11:41:59,063 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-05 11:41:59,111 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-05 11:41:59,146 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-05 11:41:59,176 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-05 11:41:59,209 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-05 11:41:59,244 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-05 11:41:59,281 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-05 11:41:59,307 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-05 11:41:59,353 INFO  [Log] Testing_Purpose_Blank 
+2017-11-05 11:41:59,379 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-05 11:41:59,400 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-05 11:41:59,424 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-05 11:41:59,451 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2017-11-05 11:41:59,474 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2017-11-05 11:41:59,511 INFO  [Log] **************************************************************************************** 
+2017-11-05 11:41:59,512 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_38; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-05 11:41:59,512 INFO  [Log] **************************************************************************************** 
+2017-11-05 11:42:00,877 ERROR [Log] Error#: FP_My_Cart_TC_38; Error in communicating with Browserorg.openqa.selenium.WebDriverException: unknown error: cannot find Opera binary
+  (Driver info: OperaDriver=2.30,platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 42 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.43.198', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: ChromeDriver 
+2017-11-05 11:42:00,877 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_38; Description: Blank In Opera Browser for TestData:1 
+2017-11-05 11:42:10,905 INFO  [Log] FP_My_Cart_TC_38TS_02ObjectRepClick  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-11-05 11:42:11,784 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-05 11:42:11,817 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-05 11:42:11,851 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-05 11:42:11,851 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-05 11:42:11,851 FATAL [Log] FP_My_Cart_TC_38TS_02ObjectRepClick  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-11-05 11:42:11,852 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-05 11:42:11,925 INFO  [Log] ####Closing Test Suite #### 
+2017-11-05 11:42:11,925 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-05 11:42:11,925 INFO  [Log] Creating Logs backup and storing for further reference 

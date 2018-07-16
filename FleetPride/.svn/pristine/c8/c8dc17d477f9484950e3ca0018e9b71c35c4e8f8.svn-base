@@ -1,0 +1,80 @@
+2017-07-28 11:34:25,860 INFO  [Log] Test Scenario Configuration started 
+2017-07-28 11:34:25,884 INFO  [Log] Initialing HTML reporting 
+2017-07-28 11:34:26,110 INFO  [Log] Starting Test Suit Execution 
+2017-07-28 11:34:26,110 WARN  [Log] No Browser instance is active 
+2017-07-28 11:34:26,719 INFO  [Log] Object repository is created successfully 
+2017-07-28 11:34:26,794 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-28 11:34:26,874 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-28 11:34:26,935 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-28 11:34:27,021 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-28 11:34:27,118 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-28 11:34:27,161 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-28 11:34:27,209 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-28 11:34:27,345 INFO  [Log] **************************************************************************************** 
+2017-07-28 11:34:27,345 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0016.xlsx; Description: Rg_TC0016.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-28 11:34:27,345 INFO  [Log] **************************************************************************************** 
+2017-07-28 11:34:33,839 INFO  [Log] #### Executing Test case: Rg_TC0016.xlsx; Description: Rg_TC0016.xlsx In chrome Browser for TestData:1 
+2017-07-28 11:34:47,180 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-28 11:34:48,214 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-28 11:34:48,411 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-28 11:34:48,545 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-28 11:34:48,546 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-28 11:35:02,845 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-28 11:35:02,956 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-28 11:35:04,410 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-28 11:35:04,410 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-28 11:35:12,564 INFO  [Log] TS_04: Click on property: Action click 
+2017-07-28 11:35:12,565 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-28 11:35:20,682 INFO  [Log] TS_07: click on trends: Action click 
+2017-07-28 11:35:20,682 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-28 11:35:28,818 INFO  [Log] TS_08: verify graph is present; Passed; ; Element is present on the active page 
+2017-07-28 11:35:28,820 INFO  [Log] closing test case  
+2017-07-28 11:35:29,245 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-28 11:35:29,275 INFO  [Log] ### Test case: Rg_TC0016.xlsx; Description: Rg_TC0016.xlsx; status Executed 
+2017-07-28 11:35:29,275 WARN  [Log] No Browser instance is active 
+2017-07-28 11:35:29,275 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-28 11:35:29,275 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-28 11:35:29,827 INFO  [Log] **************************************************************************************** 
+2017-07-28 11:35:29,828 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0024.xlsx; Description: Rg_TC0024.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-28 11:35:29,828 INFO  [Log] **************************************************************************************** 
+2017-07-28 11:35:35,323 INFO  [Log] #### Executing Test case: Rg_TC0024.xlsx; Description: Rg_TC0024.xlsx In chrome Browser for TestData:1 
+2017-07-28 11:35:49,602 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-28 11:35:50,490 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-28 11:35:50,830 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-28 11:35:50,946 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-28 11:35:50,949 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-28 11:36:04,488 INFO  [Log] TS_06: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/rates; User Defined URL:http://rg.hospi.qa.rategain.com/optima/rates 
+2017-07-28 11:36:04,549 INFO  [Log] TS_07: verify page tittle; Passed; Value from page: optima; User Defined title:optima 
+2017-07-28 11:36:04,549 INFO  [Log] closing test case  
+2017-07-28 11:36:06,792 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-28 11:36:06,802 INFO  [Log] ### Test case: Rg_TC0024.xlsx; Description: Rg_TC0024.xlsx; status Executed 
+2017-07-28 11:36:06,802 WARN  [Log] No Browser instance is active 
+2017-07-28 11:36:06,802 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-28 11:36:06,802 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-28 11:36:06,933 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-28 11:36:06,968 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-28 11:36:07,003 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-28 11:36:07,030 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-28 11:36:07,060 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-28 11:36:07,090 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-28 11:36:07,146 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-28 11:36:07,210 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-28 11:36:07,239 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-28 11:36:07,282 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-28 11:36:07,311 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-28 11:36:07,338 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-28 11:36:07,396 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-28 11:36:07,422 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-28 11:36:07,451 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-28 11:36:07,473 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-28 11:36:07,495 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-28 11:36:07,555 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-28 11:36:07,600 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-28 11:36:07,627 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-28 11:36:07,655 INFO  [Log] Rg_TC0065.xlsx_Rg_TC0065.xlsx 
+2017-07-28 11:36:07,675 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-28 11:36:07,695 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-07-28 11:36:07,721 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-28 11:36:07,745 INFO  [Log] ####Closing Test Suite #### 
+2017-07-28 11:36:07,745 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-28 11:36:07,745 INFO  [Log] Creating Logs backup and storing for further reference 

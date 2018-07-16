@@ -1,0 +1,127 @@
+2017-09-12 19:16:41,478 INFO  [Log] Test Scenario Configuration started 
+2017-09-12 19:16:41,494 INFO  [Log] Initialing HTML reporting 
+2017-09-12 19:16:41,681 INFO  [Log] Starting Test Suit Execution 
+2017-09-12 19:16:41,681 WARN  [Log] No Browser instance is active 
+2017-09-12 19:16:42,133 INFO  [Log] Object repository is created successfully 
+2017-09-12 19:16:42,244 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-12 19:16:42,322 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-12 19:16:42,384 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-12 19:16:42,446 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-12 19:16:42,509 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-12 19:16:42,556 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-12 19:16:42,602 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-12 19:16:42,665 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-12 19:16:42,712 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-12 19:16:42,758 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-12 19:16:42,790 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-12 19:16:42,836 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-12 19:16:42,868 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-12 19:16:42,914 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-12 19:16:42,946 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-12 19:16:42,992 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-12 19:16:43,008 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-12 19:16:43,055 INFO  [Log] **************************************************************************************** 
+2017-09-12 19:16:43,055 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_101.xlsx; Description: To Verify the data in Overview For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-12 19:16:43,055 INFO  [Log] **************************************************************************************** 
+2017-09-12 19:16:53,072 INFO  [Log] #### Executing Test case: Rg_TC_101.xlsx; Description: To Verify the data in Overview In IE Browser for TestData:1 
+2017-09-12 19:17:13,086 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-12 19:17:14,881 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-12 19:17:16,785 INFO  [Log] TS_04: Click on login button 
+2017-09-12 19:17:28,661 INFO  [Log] TS_06: click on user name  
+2017-09-12 19:17:30,659 INFO  [Log] TS_07: click on choose property 
+2017-09-12 19:17:32,875 INFO  [Log] TS_08: edit xpathNew Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-12 19:17:35,793 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-12 19:17:35,793 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-09-12 19:17:42,034 INFO  [Log] TS_11: Click on property 
+2017-09-12 19:17:49,017 INFO  [Log] TS_13: capture current propertyDoubleTree by Hilton Hotel London - Marble Arch; Value has been stored in index: 0 
+2017-09-12 19:17:51,015 INFO  [Log] TS_14: click on rates 
+2017-09-12 19:17:55,639 INFO  [Log] TS_16: GridView 
+2017-09-12 19:18:03,213 INFO  [Log] TS_18: clcik on rangefilter 
+2017-09-12 19:18:03,213 INFO  [Log] TS_19; Waited 4000 Milli seconds for Element 
+2017-09-12 19:18:13,978 INFO  [Log] TS_20: select start dateDate selected: 1 November 2017 
+2017-09-12 19:18:13,978 INFO  [Log] TS_21; Waited 2000 Milli seconds for Element 
+2017-09-12 19:18:22,325 INFO  [Log] TS_22: select end dateDate selected: 3 November 2017 
+2017-09-12 19:18:22,325 INFO  [Log] TS_23; Waited 2000 Milli seconds for Element 
+2017-09-12 19:18:28,020 INFO  [Log] TS_24: click on apply 
+2017-09-12 19:18:32,811 INFO  [Log] TS_26: RateFilter 
+2017-09-12 19:18:32,811 INFO  [Log] TS_27; Waited 4000 Milli seconds for Element 
+2017-09-12 19:18:39,286 INFO  [Log] TS_28: Qualification    Un-Qualified; Action: Drop Down Select 
+2017-09-12 19:18:41,455 INFO  [Log] TS_29: Restriction    Restricted; Action: Drop Down Select 
+2017-09-12 19:18:43,858 INFO  [Log] TS_30: Promotion    Promotional; Action: Drop Down Select 
+2017-09-12 19:18:46,402 INFO  [Log] TS_31: LOS    1; Action: Drop Down Select 
+2017-09-12 19:18:48,400 INFO  [Log] TS_32: GuestCount    2; Action: Drop Down Select 
+2017-09-12 19:18:51,037 INFO  [Log] TS_33: RoomType    All; Action: Drop Down Select 
+2017-09-12 19:19:06,670 INFO  [Log] TS_34: Channel; Action:  filter values 
+2017-09-12 19:19:18,464 INFO  [Log] TS_35: Compset; Action:  filter values 
+2017-09-12 19:19:24,300 INFO  [Log] TS_36: Compset; Action:  filter values 
+2017-09-12 19:19:24,300 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-12 19:19:28,560 INFO  [Log] TS_38: click on apply 
+2017-09-12 19:19:28,560 INFO  [Log] TS_39; Waited 4000 Milli seconds for Element 
+2017-09-12 19:19:34,785 INFO  [Log] List of following Values has been storedTS_40: capture all the values of all ; Action: Capture and stored value, 2940, NA, 8620, 2190 
+2017-09-12 19:19:36,486 INFO  [Log] User specified value has been replaced at index 
+2017-09-12 19:19:38,625 INFO  [Log] TS_43: click on download report 
+2017-09-12 19:19:38,625 INFO  [Log] TS_44; Waited 24000 Milli seconds for Element 
+2017-09-12 19:20:02,728 INFO  [Log] TS_46; Waited 2000 Milli seconds for Element 
+2017-09-12 19:20:04,780 INFO  [Log] TS_48; Waited 24000 Milli seconds for Element 
+2017-09-12 19:20:28,789 INFO  [Log] TS_49; Passed;  file   downloaded C:\Users\amit.singh\Downloads\Optima_16530_20170908_112542.xlsm 
+2017-09-12 19:20:31,161 INFO  [Log] optima_101TS_50BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-09-12 19:20:31,740 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-12 19:20:31,802 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-12 19:20:31,833 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-12 19:20:31,833 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-12 19:20:31,833 FATAL [Log] optima_101TS_50BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-09-12 19:20:31,849 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-12 19:20:31,958 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-12 19:20:31,989 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-12 19:20:32,052 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-12 19:20:32,083 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-12 19:20:32,114 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-12 19:20:32,161 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-12 19:20:32,192 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-12 19:20:32,208 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-12 19:20:32,240 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-12 19:20:32,271 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-12 19:20:32,302 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-12 19:20:32,333 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-12 19:20:32,349 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-12 19:20:32,380 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-12 19:20:32,411 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-12 19:20:32,443 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-12 19:20:32,474 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-12 19:20:32,505 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-12 19:20:32,567 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-12 19:20:32,599 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-12 19:20:32,630 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-12 19:20:32,645 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-12 19:20:32,661 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-12 19:20:32,692 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-12 19:20:32,708 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-12 19:20:32,723 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-12 19:20:32,755 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-12 19:20:32,770 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-12 19:20:32,801 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-12 19:20:32,817 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-12 19:20:32,848 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-12 19:20:32,879 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-12 19:20:32,911 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-12 19:20:32,926 INFO  [Log] Rg_TC_174.xlsx_To verify the rates grid view 
+2017-09-12 19:20:32,957 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-12 19:20:32,989 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-12 19:20:33,004 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-12 19:20:33,035 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-12 19:20:33,067 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-12 19:20:33,098 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-12 19:20:33,113 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-12 19:20:33,145 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-12 19:20:33,176 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-12 19:20:33,207 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-12 19:20:33,254 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-12 19:20:33,270 INFO  [Log] ####Closing Test Suite #### 
+2017-09-12 19:20:33,270 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-12 19:20:33,270 INFO  [Log] Creating Logs backup and storing for further reference 

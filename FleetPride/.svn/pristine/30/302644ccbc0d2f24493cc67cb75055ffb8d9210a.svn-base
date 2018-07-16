@@ -1,0 +1,66 @@
+2017-08-28 10:02:51,598 INFO  [Log] Test Scenario Configuration started 
+2017-08-28 10:02:51,616 INFO  [Log] Initialing HTML reporting 
+2017-08-28 10:02:51,764 INFO  [Log] Starting Test Suit Execution 
+2017-08-28 10:02:51,764 WARN  [Log] No Browser instance is active 
+2017-08-28 10:02:52,308 INFO  [Log] Object repository is created successfully 
+2017-08-28 10:02:52,457 INFO  [Log] Rg_TC_42.xlsx_Rg_TC_42.xlsx 
+2017-08-28 10:02:52,593 INFO  [Log] Rg_TC_43.xlsx_Rg_TC_43.xlsx 
+2017-08-28 10:02:52,716 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter  
+2017-08-28 10:02:52,822 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter  
+2017-08-28 10:02:52,861 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filter 
+2017-08-28 10:02:52,901 INFO  [Log] Rg_TC_59.xlsx_Rg_TC_59.xlsx 
+2017-08-28 10:02:52,947 INFO  [Log] Rg_TC_60.xlsx_Rg_TC_60.xlsx 
+2017-08-28 10:02:53,030 INFO  [Log] Rg_TC_62.xlsx_Rg_TC_62.xlsx 
+2017-08-28 10:02:53,095 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-28 10:02:53,159 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-28 10:02:53,206 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-28 10:02:53,246 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-28 10:02:53,281 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-28 10:02:53,340 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-28 10:02:53,529 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-28 10:02:53,580 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-28 10:02:53,637 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-28 10:02:53,672 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-28 10:02:53,706 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-28 10:02:53,748 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-28 10:02:53,805 INFO  [Log] **************************************************************************************** 
+2017-08-28 10:02:53,805 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_97.xlsx; Description: Rg_TC_97.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-28 10:02:53,805 INFO  [Log] **************************************************************************************** 
+2017-08-28 10:03:00,893 INFO  [Log] #### Executing Test case: Rg_TC_97.xlsx; Description: Rg_TC_97.xlsx In firefox Browser for TestData:1 
+2017-08-28 10:03:43,650 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-28 10:04:09,264 ERROR [Log] Error#: optima-compsetpercent_filterTS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-08-28 10:04:09,999 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-28 10:04:10,120 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-28 10:04:10,242 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-28 10:04:10,242 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-28 10:04:10,243 FATAL [Log] optima-compsetpercent_filterTS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-08-28 10:04:10,243 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-28 10:04:10,637 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-28 10:04:10,666 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-28 10:04:10,701 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-28 10:04:10,737 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-28 10:04:10,825 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-28 10:04:10,876 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-28 10:04:10,911 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-28 10:04:10,960 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-28 10:04:11,034 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-28 10:04:11,071 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-28 10:04:11,103 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-28 10:04:11,134 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-28 10:04:11,160 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-28 10:04:11,187 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-28 10:04:11,207 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-28 10:04:11,232 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-28 10:04:11,258 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-28 10:04:11,283 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-28 10:04:11,316 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-28 10:04:11,338 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-28 10:04:11,363 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-28 10:04:11,389 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-28 10:04:11,408 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-28 10:04:11,428 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-28 10:04:11,459 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-28 10:04:11,478 INFO  [Log] Rg_TC_107_parity_Rg_TC_107_parity 
+2017-08-28 10:04:11,494 INFO  [Log] ####Closing Test Suite #### 
+2017-08-28 10:04:11,494 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-28 10:04:11,494 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,54 @@
+2017-11-03 17:41:34,700 INFO  [Log] Test Scenario Configuration started 
+2017-11-03 17:41:34,718 INFO  [Log] Initialing HTML reporting 
+2017-11-03 17:41:34,892 INFO  [Log] Starting Test Suit Execution 
+2017-11-03 17:41:35,099 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 17:41:35,133 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 17:41:35,167 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 17:41:35,583 INFO  [Log] Object repository is created successfully 
+2017-11-03 17:41:35,646 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-03 17:41:35,702 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-03 17:41:35,750 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-03 17:41:35,799 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-03 17:41:35,839 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-03 17:41:35,876 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-03 17:41:35,912 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-03 17:41:35,950 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-03 17:41:35,987 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-03 17:41:36,017 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-03 17:41:36,041 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-03 17:41:36,073 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-03 17:41:36,098 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-03 17:41:36,124 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-03 17:41:36,149 INFO  [Log] Testing_Purpose_Blank 
+2017-11-03 17:41:36,198 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-03 17:41:36,222 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-03 17:41:36,248 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-03 17:41:36,273 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2017-11-03 17:41:36,311 INFO  [Log] **************************************************************************************** 
+2017-11-03 17:41:36,311 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_37; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-03 17:41:36,311 INFO  [Log] **************************************************************************************** 
+2017-11-03 17:41:42,108 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_37; Description: Blank In Chrome Browser for TestData:1 
+2017-11-03 17:42:00,071 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-03 17:42:38,465 INFO  [Log] TS_02: Click on the login link 
+2017-11-03 17:43:14,138 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-03 17:43:49,657 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-03 17:44:32,518 INFO  [Log] TS_05: Click on login button 
+2017-11-03 17:45:17,685 INFO  [Log] TS_06: Click on the product link 
+2017-11-03 17:45:53,292 INFO  [Log] TS_07: Click on "Add to cart" button. 
+2017-11-03 17:46:32,660 INFO  [Log] TS_08: Click on global my cart link from the header section 
+2017-11-03 17:47:08,131 INFO  [Log] TS_09: Capture the product nameHood Latch Assembly Gates-90350; Value has been stored in index: 0 
+2017-11-03 17:47:43,566 INFO  [Log] TS_10: Click on the delete buttton 
+2017-11-03 17:48:44,451 INFO  [Log] TS_11; Passed; Verify the deleted product do not appear on the page.; Element is not present/dispayed on the page 
+2017-11-03 17:48:49,453 INFO  [Log] closing test case  
+2017-11-03 17:48:51,943 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 17:48:51,977 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 17:48:52,008 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 17:48:52,017 INFO  [Log] ### Test case: FP_My_Cart_TC_37; Description: Blank; status Executed 
+2017-11-03 17:48:52,194 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 17:48:52,226 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 17:48:52,260 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 17:48:52,260 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 17:48:52,260 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 17:48:52,512 INFO  [Log] ####Closing Test Suite #### 
+2017-11-03 17:48:52,512 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 17:48:52,512 INFO  [Log] Creating Logs backup and storing for further reference 

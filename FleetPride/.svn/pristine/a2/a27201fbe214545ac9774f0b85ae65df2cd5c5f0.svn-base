@@ -1,0 +1,67 @@
+2017-07-25 14:48:26,333 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 14:48:26,349 INFO  [Log] Initialing HTML reporting 
+2017-07-25 14:48:26,607 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 14:48:26,607 WARN  [Log] Browser instance value is null 
+2017-07-25 14:48:27,116 INFO  [Log] Object repository is created successfully 
+2017-07-25 14:48:27,195 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-25 14:48:27,278 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 14:48:27,331 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 14:48:27,381 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 14:48:27,441 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 14:48:27,487 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 14:48:27,530 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 14:48:27,578 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 14:48:27,617 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 14:48:27,659 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 14:48:27,700 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 14:48:27,735 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 14:48:27,759 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 14:48:27,790 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 14:48:27,822 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 14:48:27,855 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 14:48:27,890 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 14:48:27,921 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 14:48:27,951 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 14:48:27,985 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 14:48:28,053 INFO  [Log] **************************************************************************************** 
+2017-07-25 14:48:28,053 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0046.xlsx; Description: Rg_TC0046.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 14:48:28,053 INFO  [Log] **************************************************************************************** 
+2017-07-25 14:48:34,431 INFO  [Log] #### Executing Test case: Rg_TC0046.xlsx; Description: Rg_TC0046.xlsx In chrome Browser for TestData:1 
+2017-07-25 14:48:47,025 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 14:48:47,941 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 14:48:48,090 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 14:48:48,186 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 14:48:48,186 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 14:49:00,721 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-25 14:49:00,822 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-25 14:49:02,147 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-25 14:49:02,148 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-25 14:49:06,312 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-25 14:49:06,313 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-25 14:49:10,427 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-25 14:49:10,429 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-25 14:49:12,576 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-25 14:49:12,698 INFO  [Log] TS_16; Passed; check by default pace is active; Value: active; Present in Page values: active,  
+2017-07-25 14:49:17,182 INFO  [Log] TS_17: verify pace graph is visible; Passed; ; Element is present on the active page 
+2017-07-25 14:49:17,291 INFO  [Log] TS_18: verify by default competation is inactive; Passed; ; Element is present on the active page 
+2017-07-25 14:49:17,381 INFO  [Log] TS_19: click on competation: Action click 
+2017-07-25 14:49:17,496 INFO  [Log] TS_20; Passed; verify competition is active; Value: active; Present in Page values: active,  
+2017-07-25 14:49:17,691 INFO  [Log] TS_21: verify competition graph is present; Passed; ; Element is present on the active page 
+2017-07-25 14:49:17,693 INFO  [Log] closing test case  
+2017-07-25 14:49:18,000 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-25 14:49:18,021 INFO  [Log] ### Test case: Rg_TC0046.xlsx; Description: Rg_TC0046.xlsx; status Executed 
+2017-07-25 14:49:19,385 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 14:49:19,489 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 14:49:19,593 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 14:49:19,593 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 14:49:19,593 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 14:49:19,991 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 14:49:20,018 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 14:49:20,045 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-25 14:49:20,071 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-25 14:49:20,096 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-25 14:49:20,119 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-25 14:49:20,139 INFO  [Log] PostRequest_PostRequest 
+2017-07-25 14:49:20,166 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 14:49:20,166 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 14:49:20,166 INFO  [Log] Creating Logs backup and storing for further reference 

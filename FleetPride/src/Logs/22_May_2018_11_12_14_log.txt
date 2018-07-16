@@ -1,0 +1,61 @@
+2018-05-22 11:10:59,737 INFO  [Log] Test Scenario Configuration started 
+2018-05-22 11:10:59,755 INFO  [Log] Initialing HTML reporting 
+2018-05-22 11:11:00,006 INFO  [Log] Starting Test Suit Execution 
+2018-05-22 11:11:00,459 INFO  [Log] PE-685TS_09XpathClick  org.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-05-22 11:11:00,491 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-22 11:11:00,591 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-22 11:11:00,698 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-22 11:11:01,392 INFO  [Log] Object repository is created successfully 
+2018-05-22 11:11:01,454 INFO  [Log] **************************************************************************************** 
+2018-05-22 11:11:01,454 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-685; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-22 11:11:01,454 INFO  [Log] **************************************************************************************** 
+2018-05-22 11:11:03,783 WARN  [Log]  Browser instance is active 
+2018-05-22 11:11:05,824 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:1985 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-05-22 11:11:05,824 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 11:11:05,824 FATAL [Log] PE-685TS_09XpathClick  org.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-05-22 11:11:05,824 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 11:11:05,909 INFO  [Log] Creating Logs backup and storing for further reference 
+2018-05-22 11:11:08,603 ERROR [Log] Error#: PE-685; Error in communicating with Browserorg.openqa.selenium.InvalidArgumentException: Invalid timeout type specified: page load
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:40357/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: f6fe8629-9e7a-482f-97ec-600c3dcb7fe0 
+2018-05-22 11:11:08,603 INFO  [Log] #### Executing Test case: PE-685; Description: Blank In IE Browser for TestData:1 
+2018-05-22 11:11:13,571 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-22 11:11:14,094 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-22 11:11:14,094 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-22 11:11:17,471 INFO  [Log] TS_05: Click on login button 
+2018-05-22 11:11:17,474 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-22 11:11:33,910 INFO  [Log] TS_07: Click on the "Upload Order" link from main menu 
+2018-05-22 11:11:34,277 INFO  [Log] PE-685TS_09XpathClick  org.openqa.selenium.WebDriverException: Element not clickable at point (486,283). Other element would receive the click: <div class="modal-backdrop fade in" id="overlay"></div>
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:40357/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: f6fe8629-9e7a-482f-97ec-600c3dcb7fe0null:Exception is not handled 
+2018-05-22 11:12:14,382 WARN  [Log]  Browser instance is active 
+2018-05-22 11:12:14,387 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.NoSuchWindowException: Unable to get browser
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:40357/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: f6fe8629-9e7a-482f-97ec-600c3dcb7fe0 
+2018-05-22 11:12:14,387 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 11:12:14,387 FATAL [Log] PE-685TS_09XpathClick  org.openqa.selenium.WebDriverException: Element not clickable at point (486,283). Other element would receive the click: <div class="modal-backdrop fade in" id="overlay"></div>
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:40357/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: f6fe8629-9e7a-482f-97ec-600c3dcb7fe0null:Exception is not handled 
+2018-05-22 11:12:14,387 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-22 11:12:14,470 INFO  [Log] Creating Logs backup and storing for further reference 

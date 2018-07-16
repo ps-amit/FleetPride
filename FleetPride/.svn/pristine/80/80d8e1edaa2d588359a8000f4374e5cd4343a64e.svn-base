@@ -1,0 +1,32 @@
+2017-10-13 12:43:02,849 INFO  [Log] Test Scenario Configuration started 
+2017-10-13 12:43:02,870 INFO  [Log] Initialing HTML reporting 
+2017-10-13 12:43:03,036 INFO  [Log] Starting Test Suit Execution 
+2017-10-13 12:43:03,229 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 12:43:03,262 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 12:43:03,295 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 12:43:03,900 INFO  [Log] Object repository is created successfully 
+2017-10-13 12:43:03,947 INFO  [Log] product_search_script_Blank 
+2017-10-13 12:43:04,000 INFO  [Log] quick_order_Blank 
+2017-10-13 12:43:04,076 INFO  [Log] **************************************************************************************** 
+2017-10-13 12:43:04,077 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: myAccount; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-13 12:43:04,077 INFO  [Log] **************************************************************************************** 
+2017-10-13 12:43:09,874 INFO  [Log] #### Executing Test case: myAccount; Description: Blank In Chrome Browser for TestData:1 
+2017-10-13 12:43:18,643 INFO  [Log] TS_01: Open dev url; Action: open URL 
+2017-10-13 12:43:56,725 INFO  [Log] TS_02: Click on the login link 
+2017-10-13 12:44:32,403 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-13 12:45:07,943 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing1 
+2017-10-13 12:45:48,883 INFO  [Log] TS_05: Click on login button 
+2017-10-13 12:46:25,145 INFO  [Log] Failed: TS_06: Verify that user lands on the Home Page; Value: logout user avionos; is Not Present in Page values: ,  
+2017-10-13 12:46:30,939 INFO  [Log] closing test case  
+2017-10-13 12:46:33,261 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 12:46:33,292 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 12:46:33,322 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 12:46:33,342 INFO  [Log] ### Test case: myAccount; Description: Blank; status Executed 
+2017-10-13 12:46:33,512 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-13 12:46:33,542 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-13 12:46:33,573 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-13 12:46:33,573 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 12:46:33,573 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 12:46:33,656 INFO  [Log] ####Closing Test Suite #### 
+2017-10-13 12:46:33,656 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-13 12:46:33,656 INFO  [Log] Creating Logs backup and storing for further reference 

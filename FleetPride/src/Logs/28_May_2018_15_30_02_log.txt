@@ -1,0 +1,100 @@
+2018-05-28 15:26:49,383 INFO  [Log] Test Scenario Configuration started 
+2018-05-28 15:26:49,401 INFO  [Log] Initialing HTML reporting 
+2018-05-28 15:26:49,682 INFO  [Log] Starting Test Suit Execution 
+2018-05-28 15:26:50,166 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 15:26:50,243 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 15:26:50,324 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 15:26:50,944 INFO  [Log] Object repository is created successfully 
+2018-05-28 15:26:51,059 INFO  [Log] fetch_SP_qty_Blank 
+2018-05-28 15:26:51,158 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-28 15:26:51,239 INFO  [Log] fetch_X_Category_Product_Pre-requisite  
+2018-05-28 15:26:51,326 INFO  [Log] E2E_X_category_product_Blank 
+2018-05-28 15:26:51,425 INFO  [Log] Reorder_Blank 
+2018-05-28 15:26:51,494 INFO  [Log] **************************************************************************************** 
+2018-05-28 15:26:51,494 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-28 15:26:51,494 INFO  [Log] **************************************************************************************** 
+2018-05-28 15:27:05,469 INFO  [Log] #### Executing Test case: Pre-requisite Delete Cart My Account; Description: Pre-requisite cases In Firefox Browser for TestData:1 
+2018-05-28 15:27:19,340 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-28 15:27:19,811 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-28 15:27:20,612 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1234 
+2018-05-28 15:27:20,615 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-28 15:27:21,976 INFO  [Log] TS_05: Click on login button 
+2018-05-28 15:27:21,978 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-28 15:27:32,385 INFO  [Log] TS_07: Click on the my account link 
+2018-05-28 15:27:32,385 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-05-28 15:27:42,483 INFO  [Log] TS_09: Click on the  My Carts link 
+2018-05-28 15:27:42,484 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-05-28 15:27:52,616 INFO  [Log] TS_11: Click on the delete button 
+2018-05-28 15:27:52,617 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-05-28 15:28:07,629 INFO  [Log] closing test case  
+2018-05-28 15:28:07,764 ERROR [Log] Error#: Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.82', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: ff34c38b-4509-4344-a94c-b624e51dffad 
+2018-05-28 15:28:24,531 WARN  [Log]  Browser instance is active 
+2018-05-28 15:28:24,534 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.82', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: ff34c38b-4509-4344-a94c-b624e51dffad 
+2018-05-28 15:28:24,534 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 15:28:24,534 FATAL [Log] Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.82', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: ff34c38b-4509-4344-a94c-b624e51dffad 
+2018-05-28 15:28:24,534 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 15:28:24,873 INFO  [Log] Fetch DSP from Sales Force-qty<100_Pre-requisite 
+2018-05-28 15:28:24,914 INFO  [Log] **************************************************************************************** 
+2018-05-28 15:28:24,914 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-28 15:28:24,914 INFO  [Log] **************************************************************************************** 
+2018-05-28 15:28:30,874 INFO  [Log] #### Executing Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank In Chrome Browser for TestData:1 
+2018-05-28 15:28:38,561 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-28 15:28:39,023 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-28 15:28:39,137 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1234 
+2018-05-28 15:28:39,137 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-28 15:28:41,942 INFO  [Log] TS_05: Click on login button 
+2018-05-28 15:28:41,945 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-28 15:28:52,238 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: YP518L 
+2018-05-28 15:28:57,044 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-28 15:28:57,048 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-05-28 15:29:07,423 INFO  [Log] TS_10: Click on the down arrow icon to select the already created order list 
+2018-05-28 15:29:07,563 INFO  [Log] TS_11: Select the first available order list from the drop down 
+2018-05-28 15:29:07,563 INFO  [Log] TS_12; Waited 2000 Milli seconds for Element 
+2018-05-28 15:29:13,655 INFO  [Log] TS_13: Navigate back to the home page 
+2018-05-28 15:29:13,655 INFO  [Log] TS_14; Waited 10000 Milli seconds for Element 
+2018-05-28 15:29:24,829 INFO  [Log] TS_15: Scroll to saved order list section: Action Scroll Down 
+2018-05-28 15:29:25,007 INFO  [Log] TS_16: Click on the drop down icon to select the order list 
+2018-05-28 15:29:25,204 INFO  [Log] TS_17: Select the first order list name from the drop down 
+2018-05-28 15:29:25,204 INFO  [Log] TS_18; Waited 10000 Milli seconds for Element 
+2018-05-28 15:29:35,434 INFO  [Log] TS_19: Clear the qty field; Action Clear 
+2018-05-28 15:29:35,568 INFO  [Log] TS_20: Input qty in the field; Action: Submitted Value: Value: null 
+2018-05-28 15:29:35,733 INFO  [Log] TS_21: Click on "Add To cart" button 
+2018-05-28 15:29:35,734 INFO  [Log] TS_22; Waited 10000 Milli seconds for Element 
+2018-05-28 15:29:46,022 INFO  [Log] TS_23; Passed; Verify the appearance of the 'Back Order' text in the pop up; Text is present for the given emement element :  
+2018-05-28 15:29:46,179 INFO  [Log] TS_24: Capture the back order textWe can ship 7 to you but 93 will be on backorder.; Value has been stored in index: 0 
+2018-05-28 15:29:46,201 INFO  [Log] User specified value has been replaced at index0New Value is: We can ship 7 
+2018-05-28 15:29:46,216 INFO  [Log] User specified value has been replaced at index0New Value is: 7 
+2018-05-28 15:29:46,410 INFO  [Log] TS_27: Click on the "Continue" button 
+2018-05-28 15:29:46,412 INFO  [Log] TS_28; Waited 10000 Milli seconds for Element 
+2018-05-28 15:29:57,576 INFO  [Log] TS_29: Scroll to the top of the page: Action Scroll Down 
+2018-05-28 15:29:57,750 INFO  [Log] TS_30: Capture the mini my cart link valueMy Cart: 7 item(s), $0.00; Value has been stored in index: 1 
+2018-05-28 15:29:57,783 INFO  [Log] User specified value has been replaced at index1New Value is: My Cart: 7 
+2018-05-28 15:29:57,827 INFO  [Log] User specified value has been replaced at index1New Value is: 7 
+2018-05-28 15:29:57,827 INFO  [Log] TS_33; Passed; null; Captured text1: 7; Captured text2: 7 
+2018-05-28 15:29:57,965 INFO  [Log] TS_34: Verify the price value not to be zeroMy Cart: 7 item(s), $0.00; Value has been stored in index: 2 
+2018-05-28 15:29:58,001 INFO  [Log] User specified value has been replaced at index2New Value is: My Cart: 7 item(s), $0.00 
+2018-05-28 15:29:58,029 INFO  [Log] User specified value has been replaced at index2New Value is:  $0.00 
+2018-05-28 15:29:58,167 INFO  [Log] PE-319TS_37XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-28 15:29:58,917 WARN  [Log]  Browser instance is active 
+2018-05-28 15:30:02,449 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 15:30:02,705 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 15:30:02,902 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 15:30:02,902 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 15:30:02,902 FATAL [Log] PE-319TS_37XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-28 15:30:02,902 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 15:30:02,991 INFO  [Log] Creating Logs backup and storing for further reference 

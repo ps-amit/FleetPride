@@ -1,0 +1,41 @@
+2017-10-27 17:15:03,287 INFO  [Log] Test Scenario Configuration started 
+2017-10-27 17:15:03,317 INFO  [Log] Initialing HTML reporting 
+2017-10-27 17:15:03,497 INFO  [Log] Starting Test Suit Execution 
+2017-10-27 17:15:03,687 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 17:15:03,717 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 17:15:03,747 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 17:15:04,157 INFO  [Log] Object repository is created successfully 
+2017-10-27 17:15:04,208 INFO  [Log] FP_home_page_search_productName_TC_13_Blank 
+2017-10-27 17:15:04,268 INFO  [Log] FP_home_page_search_productPartNumber_TC_01_Blank 
+2017-10-27 17:15:04,308 INFO  [Log] FP_home_page_search_invalid_data_TC_14_Blank 
+2017-10-27 17:15:04,358 INFO  [Log] FP_home_page_search_below_2_characters_TC_08_Blank 
+2017-10-27 17:15:04,388 INFO  [Log] FP_pdp_search_productPartNumber_TC_09_Blank 
+2017-10-27 17:15:04,428 INFO  [Log] FP_pdp_search_productName_TC_07_Blank 
+2017-10-27 17:15:04,458 INFO  [Log] FP_pdp_search_invalid_data_TC_08_Blank 
+2017-10-27 17:15:04,488 INFO  [Log] FP_pdp_search_below_2_characters_TC_10_Blank 
+2017-10-27 17:15:04,538 INFO  [Log] **************************************************************************************** 
+2017-10-27 17:15:04,538 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdp_quick_order_TC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-27 17:15:04,538 INFO  [Log] **************************************************************************************** 
+2017-10-27 17:15:10,327 INFO  [Log] #### Executing Test case: FP_pdp_quick_order_TC; Description: Blank In Chrome Browser for TestData:1 
+2017-10-27 17:15:23,352 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-27 17:16:01,828 INFO  [Log] TS_02: Click on the login link 
+2017-10-27 17:16:37,405 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-27 17:17:13,314 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-27 17:17:54,951 INFO  [Log] TS_05: Click on login button 
+2017-10-27 17:18:34,555 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-27 17:19:10,298 INFO  [Log] TS_07: Input the SKU value in first field; Action: Submited ValueValue: TMK-907257 
+2017-10-27 17:19:45,751 INFO  [Log] TS_08: Capture the product quantity; Value has been stored in index: 0 
+2017-10-27 17:20:21,214 INFO  [Log] TS_09: Click on add to cart button 
+2017-10-27 17:20:56,668 INFO  [Log] TS_10: Capture the product quantity from the my cart section that appears at the topMy Cart: 1 item, $8.00; Value has been stored in index: 1 
+2017-10-27 17:21:32,100 INFO  [Log] User specified value has been replaced at index1New Value is: My Cart: 1 
+2017-10-27 17:22:07,494 INFO  [Log] FP_pdp_quick_order_TCTS_12BlankEditValueCaptured  java.lang.StringIndexOutOfBoundsException: String index out of range: -9null:Exception is not handled 
+2017-10-27 17:22:08,499 WARN  [Log]  Browser instance is active 
+2017-10-27 17:22:11,068 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 17:22:11,099 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 17:22:11,129 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 17:22:11,129 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 17:22:11,129 FATAL [Log] FP_pdp_quick_order_TCTS_12BlankEditValueCaptured  java.lang.StringIndexOutOfBoundsException: String index out of range: -9null:Exception is not handled 
+2017-10-27 17:22:11,129 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 17:22:11,190 INFO  [Log] ####Closing Test Suite #### 
+2017-10-27 17:22:11,190 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 17:22:11,190 INFO  [Log] Creating Logs backup and storing for further reference 

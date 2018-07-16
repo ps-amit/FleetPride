@@ -1,0 +1,47 @@
+2017-11-01 16:40:18,556 INFO  [Log] Test Scenario Configuration started 
+2017-11-01 16:40:18,585 INFO  [Log] Initialing HTML reporting 
+2017-11-01 16:40:18,908 INFO  [Log] Starting Test Suit Execution 
+2017-11-01 16:40:19,291 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 16:40:19,361 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 16:40:19,411 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 16:40:19,963 INFO  [Log] Object repository is created successfully 
+2017-11-01 16:40:20,034 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-01 16:40:20,096 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-01 16:40:20,219 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-01 16:40:20,277 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-01 16:40:20,316 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-01 16:40:20,355 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-01 16:40:20,448 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-01 16:40:20,500 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-01 16:40:20,560 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-01 16:40:20,627 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-01 16:40:20,692 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-01 16:40:20,761 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-01 16:40:20,832 INFO  [Log] FP_contact_us_page_Blank 
+2017-11-01 16:40:20,858 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-01 16:40:20,883 INFO  [Log] Testing_Purpose_Blank 
+2017-11-01 16:40:20,999 INFO  [Log] **************************************************************************************** 
+2017-11-01 16:40:20,999 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_contact_us_page_after_login; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-01 16:40:20,999 INFO  [Log] **************************************************************************************** 
+2017-11-01 16:40:27,452 INFO  [Log] #### Executing Test case: FP_contact_us_page_after_login; Description: Blank In Chrome Browser for TestData:1 
+2017-11-01 16:40:36,900 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-01 16:41:15,118 INFO  [Log] TS_02: Click on the login link 
+2017-11-01 16:41:50,762 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-01 16:42:26,273 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-01 16:43:09,035 INFO  [Log] TS_05: Click on login button 
+2017-11-01 16:43:48,243 INFO  [Log] TS_06: Navigate to Contact us page 
+2017-11-01 16:44:23,759 INFO  [Log] TS_07: Capture the data appearing in Company Name field; Value has been stored in index: 0 
+2017-11-01 16:44:59,409 INFO  [Log] TS_08: Capture the data appearing in Your Name field; Value has been stored in index: 1 
+2017-11-01 16:45:34,811 INFO  [Log] TS_09: Capture the data appearing in Email: field; Value has been stored in index: 2 
+2017-11-01 16:46:10,139 ERROR [Log] Error#: TS_10Element Location type is not defined 
+2017-11-01 16:46:10,139 INFO  [Log] FP_contact_us_pageTS_10BlankVerifyCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-01 16:46:11,063 WARN  [Log]  Browser instance is active 
+2017-11-01 16:46:13,619 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 16:46:13,660 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 16:46:13,690 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 16:46:13,690 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 16:46:13,690 FATAL [Log] FP_contact_us_pageTS_10BlankVerifyCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-01 16:46:13,690 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 16:46:13,780 INFO  [Log] ####Closing Test Suite #### 
+2017-11-01 16:46:13,780 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 16:46:13,780 INFO  [Log] Creating Logs backup and storing for further reference 

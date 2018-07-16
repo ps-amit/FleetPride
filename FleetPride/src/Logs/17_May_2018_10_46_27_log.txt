@@ -1,0 +1,42 @@
+2018-05-17 10:45:27,498 INFO  [Log] Test Scenario Configuration started 
+2018-05-17 10:45:27,519 INFO  [Log] Initialing HTML reporting 
+2018-05-17 10:45:27,752 INFO  [Log] Starting Test Suit Execution 
+2018-05-17 10:45:28,844 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-17 10:45:28,926 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-17 10:45:29,011 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-17 10:45:29,600 INFO  [Log] Object repository is created successfully 
+2018-05-17 10:45:29,742 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-17 10:45:29,825 INFO  [Log] PE-259_Navigation_Link_Not_Working.xlsx_Blank 
+2018-05-17 10:45:29,886 INFO  [Log] PE-702_Address_Verification_After_Pacing_First_Order.xlsx_Blank 
+2018-05-17 10:45:29,940 INFO  [Log] PE-179_New_Address_Creation_Edit_Fulfillment_Blank 
+2018-05-17 10:45:30,004 INFO  [Log] PE-623_Check_PO_Data_Field_Blank 
+2018-05-17 10:45:30,050 INFO  [Log] PE-641_PO_Field_Limit_Help_Text_Validation_Blank 
+2018-05-17 10:45:30,141 INFO  [Log] **************************************************************************************** 
+2018-05-17 10:45:30,141 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-502_Incorrect_Label_Backorder_My_Account_Page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-17 10:45:30,142 INFO  [Log] **************************************************************************************** 
+2018-05-17 10:45:38,013 ERROR [Log] Error#: PE-502_Incorrect_Label_Backorder_My_Account_Page; Error in communicating with Browserorg.openqa.selenium.InvalidArgumentException: Invalid timeout type specified: page load
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:3324/, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=true}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=accept, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 3b3b9cb5-8267-4e0b-9dca-147200304c9b 
+2018-05-17 10:45:38,013 INFO  [Log] #### Executing Test case: PE-502_Incorrect_Label_Backorder_My_Account_Page; Description: Blank In IE Browser for TestData:1 
+2018-05-17 10:45:42,194 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-17 10:45:43,067 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-17 10:45:43,067 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-17 10:45:46,840 INFO  [Log] TS_05: Click on login button 
+2018-05-17 10:45:46,841 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-17 10:46:09,031 INFO  [Log] TS_07: Click on the my account link 
+2018-05-17 10:46:09,034 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-05-17 10:46:20,332 INFO  [Log] TS_09; Passed; Verify the appearance of text 'My Backorders'; Value: my backorders; Present in Page values: My Backorders,  
+2018-05-17 10:46:25,342 INFO  [Log] closing test case  
+2018-05-17 10:46:26,049 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-17 10:46:26,138 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-17 10:46:26,224 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-17 10:46:26,244 INFO  [Log] ### Test case: PE-502_Incorrect_Label_Backorder_My_Account_Page; Description: Blank; status Executed 
+2018-05-17 10:46:26,795 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-17 10:46:26,882 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-17 10:46:26,968 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-17 10:46:26,968 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-17 10:46:26,969 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-17 10:46:27,230 INFO  [Log] Creating Logs backup and storing for further reference 

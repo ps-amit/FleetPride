@@ -1,0 +1,106 @@
+2017-08-11 11:32:05,711 INFO  [Log] Test Scenario Configuration started 
+2017-08-11 11:32:05,735 INFO  [Log] Initialing HTML reporting 
+2017-08-11 11:32:05,928 INFO  [Log] Starting Test Suit Execution 
+2017-08-11 11:32:05,928 WARN  [Log] No Browser instance is active 
+2017-08-11 11:32:06,559 INFO  [Log] Object repository is created successfully 
+2017-08-11 11:32:06,653 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-08-11 11:32:06,723 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-08-11 11:32:06,775 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-08-11 11:32:06,848 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-08-11 11:32:06,900 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-08-11 11:32:06,944 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-08-11 11:32:07,028 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-08-11 11:32:07,083 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-08-11 11:32:07,161 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-08-11 11:32:07,197 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-08-11 11:32:07,250 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-08-11 11:32:07,302 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-08-11 11:32:07,334 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-08-11 11:32:07,391 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-08-11 11:32:07,437 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-08-11 11:32:07,471 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-08-11 11:32:07,500 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-08-11 11:32:07,543 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-08-11 11:32:07,573 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-08-11 11:32:07,602 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-08-11 11:32:07,641 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-08-11 11:32:07,687 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-08-11 11:32:07,718 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-08-11 11:32:07,752 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-08-11 11:32:07,780 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-08-11 11:32:07,810 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-08-11 11:32:07,838 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-08-11 11:32:07,872 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-08-11 11:32:07,909 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-08-11 11:32:07,981 INFO  [Log] **************************************************************************************** 
+2017-08-11 11:32:07,981 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-11 11:32:07,981 INFO  [Log] **************************************************************************************** 
+2017-08-11 11:32:14,606 INFO  [Log] #### Executing Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx In chrome Browser for TestData:1 
+2017-08-11 11:32:34,185 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-11 11:32:35,287 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-11 11:32:35,470 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-11 11:32:35,571 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-11 11:32:35,571 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-11 11:32:45,711 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-11 11:32:45,901 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-11 11:32:45,964 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-11 11:32:47,098 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-11 11:32:47,098 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-11 11:32:51,271 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-11 11:32:51,272 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-08-11 11:33:01,390 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-08-11 11:33:01,482 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-11 11:33:01,483 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2017-08-11 11:33:11,674 INFO  [Log] TS_16: GridView: Action click 
+2017-08-11 11:33:11,674 INFO  [Log] TS_17; Waited 10000 Milli seconds for Element 
+2017-08-11 11:33:22,572 INFO  [Log] List of following Values has been storedTS_18: capture all the values of all ; Action: Capture and stored value, 400, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 114 
+2017-08-11 11:33:22,638 INFO  [Log] Specified file is not deleted at location: ~$Optima_16506_20170811_053418.xlsmBecasue of java.nio.file.FileSystemException: C:\Users\vinayak.bansal\Downloads\~$Optima_16506_20170811_053418.xlsm: The process cannot access the file because it is being used by another process.
+ 
+2017-08-11 11:33:22,890 INFO  [Log] TS_20: click on download report: Action click 
+2017-08-11 11:33:22,891 INFO  [Log] TS_21; Waited 8000 Milli seconds for Element 
+2017-08-11 11:33:31,028 INFO  [Log] TS_23; Waited 1000 Milli seconds for Element 
+2017-08-11 11:33:32,068 INFO  [Log] TS_25; Waited 20000 Milli seconds for Element 
+2017-08-11 11:33:52,099 INFO  [Log] TS_26; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170811_060406.xlsm 
+2017-08-11 11:33:53,175 INFO  [Log] TS_27; Passed; verify excel values with ui valuesvalues from excel [400, --, NP, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, 114] and values from ui [400, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 114]are same 
+2017-08-11 11:33:53,182 INFO  [Log] closing test case  
+2017-08-11 11:33:53,283 INFO  [Log] Closing instance of Browser: chrome 
+2017-08-11 11:33:53,319 INFO  [Log] ### Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx; status Executed 
+2017-08-11 11:33:53,319 WARN  [Log] No Browser instance is active 
+2017-08-11 11:33:53,319 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 11:33:53,320 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 11:33:54,027 INFO  [Log] **************************************************************************************** 
+2017-08-11 11:33:54,027 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-11 11:33:54,027 INFO  [Log] **************************************************************************************** 
+2017-08-11 11:34:00,951 INFO  [Log] #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx In firefox Browser for TestData:1 
+2017-08-11 11:34:21,870 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-11 11:34:22,176 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-11 11:34:22,414 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-11 11:34:22,531 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-11 11:34:22,531 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-11 11:34:32,695 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-11 11:34:32,779 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-11 11:34:32,862 INFO  [Log] New Element Location is : Sun Safari Club HotelStored in ObjRep using element name: property: Type: Xpath 
+2017-08-11 11:34:34,055 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-11 11:34:34,069 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-11 11:34:38,207 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-11 11:34:38,208 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-11 11:34:46,306 INFO  [Log] Sun Safari Club Hotel; Value has been stored in index: 0 
+2017-08-11 11:34:46,414 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-11 11:34:46,415 INFO  [Log] TS_15; Waited 8000 Milli seconds for Element 
+2017-08-11 11:34:54,793 INFO  [Log] TS_16: GridView: Action click 
+2017-08-11 11:34:54,793 INFO  [Log] TS_17; Waited 8000 Milli seconds for Element 
+2017-08-11 11:35:28,011 ERROR [Log] Error#: optima-66TS_18XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-08-11 11:35:29,433 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-11 11:35:29,562 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-11 11:35:29,949 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-11 11:35:29,949 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 11:35:29,949 FATAL [Log] optima-66TS_18XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-08-11 11:35:29,949 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 11:35:30,057 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-08-11 11:35:30,086 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-08-11 11:35:30,110 INFO  [Log] Rg_TC0103.xlsx_Rg_TC0103.xlsx 
+2017-08-11 11:35:30,136 INFO  [Log] Rg_TC0104.xlsx_Rg_TC0104.xlsx 
+2017-08-11 11:35:30,166 INFO  [Log] Rg_TC01000.xlsx_Rg_TC01001.xlsx 
+2017-08-11 11:35:30,190 INFO  [Log] ####Closing Test Suite #### 
+2017-08-11 11:35:30,190 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 11:35:30,190 INFO  [Log] Creating Logs backup and storing for further reference 

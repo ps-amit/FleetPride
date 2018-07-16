@@ -1,0 +1,74 @@
+2017-07-25 16:58:35,081 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 16:58:35,094 INFO  [Log] Initialing HTML reporting 
+2017-07-25 16:58:35,292 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 16:58:35,292 WARN  [Log] Browser instance value is null 
+2017-07-25 16:58:35,791 INFO  [Log] Object repository is created successfully 
+2017-07-25 16:58:35,857 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-25 16:58:35,921 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 16:58:35,972 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 16:58:36,018 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 16:58:36,067 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 16:58:36,108 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 16:58:36,154 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 16:58:36,201 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 16:58:36,239 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 16:58:36,276 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 16:58:36,308 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 16:58:36,341 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 16:58:36,375 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 16:58:36,407 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 16:58:36,435 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 16:58:36,465 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 16:58:36,496 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 16:58:36,526 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 16:58:36,551 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 16:58:36,587 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 16:58:36,615 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 16:58:36,639 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 16:58:36,669 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 16:58:36,746 INFO  [Log] **************************************************************************************** 
+2017-07-25 16:58:36,746 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0052.xlsx; Description: Rg_TC0052.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 16:58:36,746 INFO  [Log] **************************************************************************************** 
+2017-07-25 16:58:42,933 INFO  [Log] #### Executing Test case: Rg_TC0052.xlsx; Description: Rg_TC0052.xlsx In chrome Browser for TestData:1 
+2017-07-25 16:58:56,968 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 16:58:57,492 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 16:58:57,692 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 16:58:57,786 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 16:58:57,788 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 16:59:11,276 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-25 16:59:11,380 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-25 16:59:12,620 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-25 16:59:12,621 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-25 16:59:16,781 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-25 16:59:16,782 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-25 16:59:21,018 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-25 16:59:21,019 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-25 16:59:23,218 INFO  [Log] TS_15: click on filters: Action click 
+2017-07-25 16:59:23,711 INFO  [Log] TS_16; Passed; check restriction; Value: all; Present in Page values: All,  
+2017-07-25 16:59:23,850 INFO  [Log] TS_17; Passed; check qualification; Value: all; Present in Page values: All,  
+2017-07-25 16:59:24,008 INFO  [Log] TS_18; Passed; check promotion; Value: all; Present in Page values: All,  
+2017-07-25 16:59:24,139 INFO  [Log] TS_19; Passed; check compset; Value: all; Present in Page values: All,  
+2017-07-25 16:59:24,243 INFO  [Log] TS_20; Passed; check room type; Value: all; Present in Page values: All,  
+2017-07-25 16:59:24,353 INFO  [Log] TS_21; Passed; check room type default; Value: all; Present in Page values: All,  
+2017-07-25 16:59:24,460 INFO  [Log] TS_22; Passed; check channel default; Value: all; Present in Page values: All,  
+2017-07-25 16:59:24,547 INFO  [Log] TS_23: click on filters to close filter: Action click 
+2017-07-25 16:59:24,547 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-07-25 16:59:26,722 INFO  [Log] TS_25: click on date rate : Action click 
+2017-07-25 16:59:26,723 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-07-25 16:59:31,181 INFO  [Log] TS_27: Lowest Rate; Passed; ; Element is present on the active page 
+2017-07-25 16:59:31,418 INFO  [Log] TS_28; Passed; verify that in each column there is only one value of low; Element count from page: 1; User Defined Value: 1 
+2017-07-25 16:59:31,420 INFO  [Log] closing test case  
+2017-07-25 16:59:31,751 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-25 16:59:31,777 INFO  [Log] ### Test case: Rg_TC0052.xlsx; Description: Rg_TC0052.xlsx; status Executed 
+2017-07-25 16:59:33,158 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 16:59:33,270 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 16:59:33,383 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 16:59:33,383 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 16:59:33,383 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 16:59:33,845 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-25 16:59:33,872 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-25 16:59:33,901 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-25 16:59:33,927 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-25 16:59:33,957 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 16:59:33,957 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 16:59:33,957 INFO  [Log] Creating Logs backup and storing for further reference 

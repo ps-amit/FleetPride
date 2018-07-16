@@ -1,0 +1,68 @@
+2017-07-19 10:21:43,486 INFO  [Log] Test Scenario Configuration started 
+2017-07-19 10:21:43,508 INFO  [Log] Initialing HTML reporting 
+2017-07-19 10:21:43,693 INFO  [Log] Starting Test Suit Execution 
+2017-07-19 10:21:43,693 WARN  [Log] Browser instance value is null 
+2017-07-19 10:21:44,198 INFO  [Log] Object repository is created successfully 
+2017-07-19 10:21:44,330 INFO  [Log] **************************************************************************************** 
+2017-07-19 10:21:44,330 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Opt_01; Description: inbox elements For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-19 10:21:44,330 INFO  [Log] **************************************************************************************** 
+2017-07-19 10:21:51,383 INFO  [Log] #### Executing Test case: Opt_01; Description: inbox elements In firefox Browser for TestData:1 
+2017-07-19 10:21:57,489 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-19 10:22:02,835 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-19 10:22:03,060 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-19 10:22:03,240 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-19 10:22:03,241 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-19 10:22:11,630 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-19 10:22:13,677 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:13,837 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:13,911 INFO  [Log] TS_09: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:13,999 INFO  [Log] TS_10; Passed; verify price thrashold breach text present; Value: price threshold breach; Present in Page values: Price Threshold Breach : 11 Times,  
+2017-07-19 10:22:14,114 INFO  [Log] TS_11: verify competitors price change element present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:14,234 INFO  [Log] TS_12; Passed; verify competitors price change text present; Value: competitors price change; Present in Page values: Competitors Price Change : 15 Times,  
+2017-07-19 10:22:14,309 INFO  [Log] TS_13: verify Price Watch  element present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:14,397 INFO  [Log] TS_14; Passed; verify Price Watch text present; Value: price watch; Present in Page values: Price Watch : 25% Times Lowest, 9% Times Highest,  
+2017-07-19 10:22:14,398 INFO  [Log] closing test case  
+2017-07-19 10:22:14,407 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-19 10:22:14,442 INFO  [Log] ### Test case: Opt_01; Description: inbox elements; status Executed 
+2017-07-19 10:22:15,761 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-19 10:22:15,874 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-19 10:22:15,988 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-19 10:22:15,988 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 10:22:21,646 INFO  [Log] #### Executing Test case: Opt_01; Description: inbox elements In chrome Browser for TestData:1 
+2017-07-19 10:22:37,141 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-19 10:22:38,849 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-19 10:22:39,008 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-19 10:22:39,102 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-19 10:22:39,103 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-19 10:22:48,083 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-19 10:22:48,692 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:48,773 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:48,864 INFO  [Log] TS_09: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:48,978 INFO  [Log] TS_10; Passed; verify price thrashold breach text present; Value: price threshold breach; Present in Page values: Price Threshold Breach : 11 Times,  
+2017-07-19 10:22:49,060 INFO  [Log] TS_11: verify competitors price change element present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:49,187 INFO  [Log] TS_12; Passed; verify competitors price change text present; Value: competitors price change; Present in Page values: Competitors Price Change : 15 Times,  
+2017-07-19 10:22:49,260 INFO  [Log] TS_13: verify Price Watch  element present; Passed; ; Element is present on the active page 
+2017-07-19 10:22:49,364 INFO  [Log] TS_14; Passed; verify Price Watch text present; Value: price watch; Present in Page values: Price Watch : 25% Times Lowest, 9% Times Highest,  
+2017-07-19 10:22:49,365 INFO  [Log] closing test case  
+2017-07-19 10:22:49,728 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-19 10:22:49,752 INFO  [Log] ### Test case: Opt_01; Description: inbox elements; status Executed 
+2017-07-19 10:22:50,981 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-19 10:22:51,107 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-19 10:22:51,227 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-19 10:22:51,227 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 10:22:51,227 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 10:22:51,685 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-19 10:22:51,720 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-19 10:22:51,805 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-19 10:22:51,840 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-19 10:22:51,868 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-19 10:22:51,928 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-19 10:22:51,995 INFO  [Log] RateGain-1_RateGain -1 
+2017-07-19 10:22:52,031 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-19 10:22:52,069 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-19 10:22:52,108 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-19 10:22:52,185 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-19 10:22:52,226 INFO  [Log] PostRequest_PostRequest 
+2017-07-19 10:22:52,286 INFO  [Log] ####Closing Test Suite #### 
+2017-07-19 10:22:52,286 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 10:22:52,286 INFO  [Log] Creating Logs backup and storing for further reference 

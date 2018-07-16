@@ -1,0 +1,69 @@
+2017-08-29 19:15:16,912 INFO  [Log] Test Scenario Configuration started 
+2017-08-29 19:15:17,017 INFO  [Log] Initialing HTML reporting 
+2017-08-29 19:15:17,264 INFO  [Log] Starting Test Suit Execution 
+2017-08-29 19:15:17,264 WARN  [Log] No Browser instance is active 
+2017-08-29 19:15:18,056 INFO  [Log] Object repository is created successfully 
+2017-08-29 19:15:18,185 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-29 19:15:18,251 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:15:18,541 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-08-29 19:15:18,613 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-08-29 19:15:18,715 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-08-29 19:15:18,812 INFO  [Log] **************************************************************************************** 
+2017-08-29 19:15:18,812 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_57.xlsx; Description: To verify Promotion filte For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-29 19:15:18,813 INFO  [Log] **************************************************************************************** 
+2017-08-29 19:15:23,162 INFO  [Log] #### Executing Test case: Rg_TC_57.xlsx; Description: To verify Promotion filte In html Browser for TestData:1 
+2017-08-29 19:15:55,951 INFO  [Log] optima_57TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-08-29 19:16:00,586 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-29 19:16:00,783 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-29 19:16:00,987 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-29 19:16:00,987 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 19:16:00,987 FATAL [Log] optima_57TS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-08-29 19:16:00,987 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 19:16:01,168 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-08-29 19:16:01,244 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-08-29 19:16:01,279 INFO  [Log] Rg_TC_62.xlsx_To verify Length of Stay filter 
+2017-08-29 19:16:01,314 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-29 19:16:01,351 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-29 19:16:01,385 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-29 19:16:01,420 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-29 19:16:01,455 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-29 19:16:01,490 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-29 19:16:01,579 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-29 19:16:01,635 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-29 19:16:01,674 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-29 19:16:01,759 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-29 19:16:01,816 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-29 19:16:01,853 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-29 19:16:01,901 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-29 19:16:01,939 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-29 19:16:01,982 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-29 19:16:02,012 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-29 19:16:02,042 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-29 19:16:02,083 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-29 19:16:02,117 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-29 19:16:02,153 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-29 19:16:02,186 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-29 19:16:02,216 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-29 19:16:02,256 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-29 19:16:02,306 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:16:02,538 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-29 19:16:02,573 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-29 19:16:02,601 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:16:02,627 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-29 19:16:02,652 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-29 19:16:02,676 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:16:02,700 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-29 19:16:02,732 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-29 19:16:02,764 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 19:16:02,796 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-29 19:16:02,821 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-29 19:16:02,857 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-29 19:16:02,908 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-29 19:16:02,933 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-29 19:16:02,957 FATAL [Log] Not able to open File: D:\workspace\Puresoftware_Automation\Automation\Automation_Framework_Puresoftware\src\DataEngine\Testsuit.xlsx: java.io.FileNotFoundException: D:\workspace\Puresoftware_Automation\Automation\Automation_Framework_Puresoftware\src\DataEngine\Testsuit.xlsx (The process cannot access the file because it is being used by another process) 
+2017-08-29 19:16:02,957 INFO  [Log] Rg_TC_53_multipleCAse_Rg_TC_53_multipleCAse 
+2017-08-29 19:16:02,957 FATAL [Log] Not able to open File: D:\workspace\Puresoftware_Automation\Automation\Automation_Framework_Puresoftware\src\DataEngine\Testsuit.xlsx: java.io.FileNotFoundException: D:\workspace\Puresoftware_Automation\Automation\Automation_Framework_Puresoftware\src\DataEngine\Testsuit.xlsx (The process cannot access the file because it is being used by another process) 
+2017-08-29 19:16:02,958 FATAL [Log] Not able to open File: D:\workspace\Puresoftware_Automation\Automation\Automation_Framework_Puresoftware\src\DataEngine\Testsuit.xlsx: java.io.FileNotFoundException: D:\workspace\Puresoftware_Automation\Automation\Automation_Framework_Puresoftware\src\DataEngine\Testsuit.xlsx (The process cannot access the file because it is being used by another process) 
+2017-08-29 19:16:02,958 INFO  [Log] ####Closing Test Suite #### 
+2017-08-29 19:16:02,958 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 19:16:02,958 INFO  [Log] Creating Logs backup and storing for further reference 

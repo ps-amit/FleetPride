@@ -1,0 +1,49 @@
+2018-05-23 17:30:23,054 INFO  [Log] Test Scenario Configuration started 
+2018-05-23 17:30:23,073 INFO  [Log] Initialing HTML reporting 
+2018-05-23 17:30:23,396 INFO  [Log] Starting Test Suit Execution 
+2018-05-23 17:30:23,888 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-23 17:30:23,960 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-23 17:30:24,035 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-23 17:30:24,773 INFO  [Log] Object repository is created successfully 
+2018-05-23 17:30:24,843 INFO  [Log] **************************************************************************************** 
+2018-05-23 17:30:24,843 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Fetch DSP from Sales Force; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-23 17:30:24,843 INFO  [Log] **************************************************************************************** 
+2018-05-23 17:30:26,885 INFO  [Log] #### Executing Test case: Fetch DSP from Sales Force; Description: Blank In No Browser Browser for TestData:1 
+2018-05-23 17:30:48,814 INFO  [Log] TS_01: fetch value form SF;Column Name is not provided, Please provide column name in ActionSupportValue 
+2018-05-23 17:30:53,814 INFO  [Log] closing test case  
+2018-05-23 17:30:54,350 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-23 17:30:54,425 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-23 17:30:54,500 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-23 17:30:54,536 INFO  [Log] ### Test case: Fetch DSP from Sales Force; Description: Blank; status Executed 
+2018-05-23 17:30:54,942 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-23 17:30:55,020 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-23 17:30:55,097 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-23 17:30:55,097 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-23 17:30:55,097 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-23 17:30:55,517 INFO  [Log] **************************************************************************************** 
+2018-05-23 17:30:55,517 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_normal_shipping -CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-23 17:30:55,517 INFO  [Log] **************************************************************************************** 
+2018-05-23 17:31:07,660 INFO  [Log] #### Executing Test case: E2E_normal_shipping -CC; Description: Blank In Firefox Browser for TestData:1 
+2018-05-23 17:31:15,274 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-23 17:31:15,734 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-23 17:31:17,124 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-23 17:31:17,124 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-23 17:31:18,374 INFO  [Log] TS_05: Click on login button 
+2018-05-23 17:31:18,375 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-23 17:31:28,534 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: Y200 
+2018-05-23 17:31:28,667 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-23 17:31:28,667 INFO  [Log] TS_09; Waited 20000 Milli seconds for Element 
+2018-05-23 17:31:48,722 FATAL [Log] Framework is not able to find Object defination in ObjRep for the Keynew_price_plp 
+2018-05-23 17:31:48,725 INFO  [Log] E2ETS_10ObjectRepValueCapture  java.lang.NullPointerExceptionnull:Exception is not handled 
+2018-05-23 17:31:48,969 WARN  [Log]  Browser instance is active 
+2018-05-23 17:31:48,987 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.12.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: fd126fcb-b318-40a0-9ff4-a5f8c2221fea 
+2018-05-23 17:31:48,987 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-23 17:31:48,987 FATAL [Log] E2ETS_10ObjectRepValueCapture  java.lang.NullPointerExceptionnull:Exception is not handled 
+2018-05-23 17:31:48,987 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-23 17:31:49,079 INFO  [Log] PE-685_Blank 
+2018-05-23 17:31:49,101 INFO  [Log] Creating Logs backup and storing for further reference 

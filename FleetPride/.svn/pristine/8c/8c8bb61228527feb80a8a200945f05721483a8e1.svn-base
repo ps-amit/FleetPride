@@ -1,0 +1,66 @@
+2017-11-03 11:38:16,369 INFO  [Log] Test Scenario Configuration started 
+2017-11-03 11:38:16,389 INFO  [Log] Initialing HTML reporting 
+2017-11-03 11:38:16,609 INFO  [Log] Starting Test Suit Execution 
+2017-11-03 11:38:16,829 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 11:38:16,869 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 11:38:16,899 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 11:38:17,329 INFO  [Log] Object repository is created successfully 
+2017-11-03 11:38:17,400 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-03 11:38:17,460 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-03 11:38:17,510 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-03 11:38:17,534 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-03 11:38:17,582 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-03 11:38:17,622 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-03 11:38:17,664 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-03 11:38:17,704 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-03 11:38:17,746 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-03 11:38:17,776 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-03 11:38:17,806 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-03 11:38:17,836 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-03 11:38:17,856 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-03 11:38:17,887 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-03 11:38:17,928 INFO  [Log] Testing_Purpose_Blank 
+2017-11-03 11:38:17,954 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-03 11:38:17,981 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-03 11:38:18,040 INFO  [Log] **************************************************************************************** 
+2017-11-03 11:38:18,040 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_01; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-03 11:38:18,040 INFO  [Log] **************************************************************************************** 
+2017-11-03 11:38:24,180 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_01; Description: Blank In Chrome Browser for TestData:1 
+2017-11-03 11:38:33,495 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-03 11:39:12,139 INFO  [Log] TS_02: Click on the login link 
+2017-11-03 11:39:47,973 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-03 11:40:23,748 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-03 11:41:06,911 INFO  [Log] TS_05: Click on login button 
+2017-11-03 11:41:42,623 INFO  [Log] TS_06: Capture value at my cart link intiallyMy Cart: 7 item(s), $300.00; Value has been stored in index: 0 
+2017-11-03 11:42:18,410 INFO  [Log] User specified value has been replaced at index0New Value is: My Cart: 7 
+2017-11-03 11:42:54,038 INFO  [Log] User specified value has been replaced at index0New Value is: 7 
+2017-11-03 11:43:29,846 INFO  [Log] TS_09: Capture value at my cart linkMy Cart: 7 item(s), $300.00; Value has been stored in index: 1 
+2017-11-03 11:44:05,831 INFO  [Log] User specified value has been replaced at index1New Value is:  $300.00 
+2017-11-03 11:44:41,609 INFO  [Log] TS_11: Capture the product part number90350; Value has been stored in index: 2 
+2017-11-03 11:45:17,122 INFO  [Log] TS_12: Capture the product price$50.00; Value has been stored in index: 3 
+2017-11-03 11:46:02,953 INFO  [Log] TS_13: Click on the product link 
+2017-11-03 11:46:38,789 INFO  [Log] TS_14: Capture the product initial quantity1; Value has been stored in index: 4 
+2017-11-03 11:47:14,438 INFO  [Log] TS_15: Click on the '+' icon to change product quantity 
+2017-11-03 11:47:49,996 INFO  [Log] TS_16: Capture the quantity after clicking on '+' icon2; Value has been stored in index: 5 
+2017-11-03 11:47:49,996 INFO  [Log] TS_17; Passed; Compare both the quantity(quantity should not match); Captured text1: 1; Captured text2: 2 
+2017-11-03 11:48:25,614 INFO  [Log] TS_18: Click on "Add to cart" button. 
+2017-11-03 11:49:01,305 INFO  [Log] TS_19: Capture value at my cart linkMy Cart: 9 item(s), $400.00; Value has been stored in index: 6 
+2017-11-03 11:49:36,839 INFO  [Log] User specified value has been replaced at index6New Value is: My Cart: 9 
+2017-11-03 11:50:12,415 INFO  [Log] User specified value has been replaced at index6New Value is: 9 
+2017-11-03 11:50:48,079 INFO  [Log] TS_22: Capture value at my cart linkMy Cart: 9 item(s), $400.00; Value has been stored in index: 7 
+2017-11-03 11:51:23,573 INFO  [Log] User specified value has been replaced at index7New Value is:  $400.00 
+2017-11-03 11:51:23,573 INFO  [Log] TS_24; Passed; Compare the product quantity before and after adding to cart; Captured text1: 7; Captured text2: 9 
+2017-11-03 11:51:23,573 INFO  [Log] TS_25; Passed; Compare the product price before and after adding to cart; Captured text1:  $300.00; Captured text2:  $400.00 
+2017-11-03 11:51:28,574 INFO  [Log] closing test case  
+2017-11-03 11:51:31,405 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 11:51:31,466 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 11:51:31,516 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 11:51:31,526 INFO  [Log] ### Test case: FP_My_Cart_TC_01; Description: Blank; status Executed 
+2017-11-03 11:51:31,726 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 11:51:31,766 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 11:51:31,796 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 11:51:31,796 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 11:51:31,796 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 11:51:32,086 INFO  [Log] ####Closing Test Suite #### 
+2017-11-03 11:51:32,086 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 11:51:32,086 INFO  [Log] Creating Logs backup and storing for further reference 

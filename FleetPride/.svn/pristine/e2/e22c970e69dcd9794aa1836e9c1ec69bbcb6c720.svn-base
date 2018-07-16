@@ -1,0 +1,115 @@
+2017-08-30 17:20:07,219 INFO  [Log] Test Scenario Configuration started 
+2017-08-30 17:20:07,252 INFO  [Log] Initialing HTML reporting 
+2017-08-30 17:20:07,442 INFO  [Log] Starting Test Suit Execution 
+2017-08-30 17:20:07,442 WARN  [Log] No Browser instance is active 
+2017-08-30 17:20:08,093 INFO  [Log] Object repository is created successfully 
+2017-08-30 17:20:08,192 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-30 17:20:08,424 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 17:20:08,559 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-08-30 17:20:08,606 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:20:08,655 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-08-30 17:20:08,708 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:20:08,750 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-08-30 17:20:08,839 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:20:08,893 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-08-30 17:20:08,963 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:20:09,018 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-08-30 17:20:09,090 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Restriction filter on compset 
+2017-08-30 17:20:09,139 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-08-30 17:20:09,193 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-08-30 17:20:09,240 INFO  [Log] Rg_TC_61.xlsx_Rg_TC_61.xlsx 
+2017-08-30 17:20:09,333 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-30 17:20:09,368 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-30 17:20:09,420 INFO  [Log] **************************************************************************************** 
+2017-08-30 17:20:09,421 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_75.xlsx; Description: To verify Price Threshold Breach(Default Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-30 17:20:09,421 INFO  [Log] **************************************************************************************** 
+2017-08-30 17:20:16,679 INFO  [Log] #### Executing Test case: Rg_TC_75.xlsx; Description: To verify Price Threshold Breach(Default Filter) In firefox Browser for TestData:1 
+2017-08-30 17:20:23,566 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-30 17:20:23,996 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-30 17:20:24,211 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-30 17:20:24,345 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-30 17:20:24,347 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-08-30 17:20:36,583 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-30 17:20:36,845 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-30 17:20:37,061 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-30 17:20:38,536 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-30 17:20:38,536 INFO  [Log] TS_10; Waited 12000 Milli seconds for Element 
+2017-08-30 17:20:50,768 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-30 17:20:50,769 INFO  [Log] TS_12; Waited 12000 Milli seconds for Element 
+2017-08-30 17:21:02,912 INFO  [Log] TS_47: click on rates: Action click 
+2017-08-30 17:21:02,912 INFO  [Log] TS_48; Waited 12000 Milli seconds for Element 
+2017-08-30 17:21:15,429 INFO  [Log] TS_49: click on grid view: Action click 
+2017-08-30 17:21:15,430 INFO  [Log] TS_50; Waited 12000 Milli seconds for Element 
+2017-08-30 17:21:27,721 INFO  [Log] TS_51: clcik on rangefilter: Action click 
+2017-08-30 17:21:27,722 INFO  [Log] TS_52; Waited 4000 Milli seconds for Element 
+2017-08-30 17:21:32,409 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-30 17:21:34,825 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 17:21:37,205 INFO  [Log] TS_57: click on apply: Action click 
+2017-08-30 17:21:37,207 INFO  [Log] TS_58; Waited 4000 Milli seconds for Element 
+2017-08-30 17:21:41,618 INFO  [Log] TS_61; Waited 8000 Milli seconds for Element 
+2017-08-30 17:21:49,791 INFO  [Log] TS_62: click on calander view: Action click 
+2017-08-30 17:21:49,792 INFO  [Log] TS_63; Waited 8000 Milli seconds for Element 
+2017-08-30 17:21:57,942 INFO  [Log] TS_64: click on legends: Action click 
+2017-08-30 17:21:57,943 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 17:22:08,143 INFO  [Log] TS_65: click if threshold is not selected: Action Element is not present moving to next step 
+2017-08-30 17:22:08,143 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-30 17:22:10,207 INFO  [Log] TS_66: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: threshold: Type: Xpath 
+2017-08-30 17:22:10,233 INFO  [Log] optima_75TS_67ObjectRepVerifyPriceThresholdBreach  org.openqa.selenium.NoSuchElementException: Unable to locate element: //*[@id='monthCalendarTable']/table/tbody/tr/td/div/div/span[contains(text(),'1') or em[text()='1'] ]/following-sibling::span[@class='both']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.GncGPaJjk58c, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=3116.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 79911874-f6b5-4f32-a6af-dc19c144ab54
+*** Element info: {Using=xpath, value=//*[@id='monthCalendarTable']/table/tbody/tr/td/div/div/span[contains(text(),'1') or em[text()='1'] ]/following-sibling::span[@class='both']}null:Exception is not handled 
+2017-08-30 17:22:15,249 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-30 17:22:15,528 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-30 17:22:15,841 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-30 17:22:15,841 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 17:22:15,842 FATAL [Log] optima_75TS_67ObjectRepVerifyPriceThresholdBreach  org.openqa.selenium.NoSuchElementException: Unable to locate element: //*[@id='monthCalendarTable']/table/tbody/tr/td/div/div/span[contains(text(),'1') or em[text()='1'] ]/following-sibling::span[@class='both']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.GncGPaJjk58c, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=3116.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 79911874-f6b5-4f32-a6af-dc19c144ab54
+*** Element info: {Using=xpath, value=//*[@id='monthCalendarTable']/table/tbody/tr/td/div/div/span[contains(text(),'1') or em[text()='1'] ]/following-sibling::span[@class='both']}null:Exception is not handled 
+2017-08-30 17:22:15,842 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 17:22:16,009 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-30 17:22:16,054 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-08-30 17:22:16,087 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-08-30 17:22:16,170 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-08-30 17:22:16,208 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-08-30 17:22:16,244 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-30 17:22:16,275 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-30 17:22:16,309 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-30 17:22:16,346 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-30 17:22:16,378 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-30 17:22:16,415 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-30 17:22:16,463 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-30 17:22:16,494 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-30 17:22:16,527 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-30 17:22:16,554 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-30 17:22:16,625 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-30 17:22:16,659 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-30 17:22:16,688 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-30 17:22:16,784 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-30 17:22:16,811 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 17:22:16,836 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-30 17:22:16,862 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-30 17:22:16,897 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 17:22:16,928 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-30 17:22:16,958 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-30 17:22:16,986 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 17:22:17,012 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-30 17:22:17,046 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-30 17:22:17,073 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-30 17:22:17,125 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-30 17:22:17,176 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-30 17:22:17,261 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-30 17:22:17,288 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-30 17:22:17,332 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-30 17:22:17,363 INFO  [Log] Rg_TC_53_allfilyer_Rg_TC_53_allfilyer 
+2017-08-30 17:22:17,388 INFO  [Log] ####Closing Test Suite #### 
+2017-08-30 17:22:17,388 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-30 17:22:17,388 INFO  [Log] Creating Logs backup and storing for further reference 

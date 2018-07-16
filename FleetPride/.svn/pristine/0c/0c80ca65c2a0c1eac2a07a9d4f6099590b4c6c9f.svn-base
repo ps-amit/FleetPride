@@ -1,0 +1,91 @@
+2017-07-25 23:34:01,649 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 23:34:01,664 INFO  [Log] Initialing HTML reporting 
+2017-07-25 23:34:01,827 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 23:34:01,828 WARN  [Log] No Browser instance is active 
+2017-07-25 23:34:02,349 INFO  [Log] Object repository is created successfully 
+2017-07-25 23:34:02,417 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-25 23:34:02,501 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:34:02,502 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 23:34:02,502 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:34:09,487 INFO  [Log] #### Executing Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx In firefox Browser for TestData:1 
+2017-07-25 23:34:18,127 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:34:18,416 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:34:18,596 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:34:18,730 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 23:34:18,732 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-25 23:34:23,801 INFO  [Log] TS_06: verify property name is in the header section; Passed; ; Element is present on the active page 
+2017-07-25 23:34:23,858 INFO  [Log] TS_07: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/login; User Defined URL:http://rg.hospi.qa.rategain.com/optima 
+2017-07-25 23:34:23,933 INFO  [Log] TS_08: click on user name : Action click 
+2017-07-25 23:34:24,025 INFO  [Log] TS_09: click on choose property: Action click 
+2017-07-25 23:34:24,093 INFO  [Log] TS_10: verify choose property dialog is appearing; Passed; ; Element is present on the active page 
+2017-07-25 23:34:25,297 ERROR [Log] Error#: optimaTS_11XpathverifyElementCount  org.openqa.selenium.StaleElementReferenceException: The element reference of <a id="PropertyMob" class="proList ng-pristine ng-untouched ng-valid ng-binding ng-scope ng-not-empty"> stale: either the element is no longer attached to the DOM or the page has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.yoWhzIYklmyC, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=8148.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: a6b765ec-a0d4-4162-9f6e-f15a9cefe86enull:Exception is not handled 
+2017-07-25 23:34:26,122 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 23:34:26,236 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 23:34:26,357 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 23:34:26,357 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:34:26,357 FATAL [Log] optimaTS_11XpathverifyElementCount  org.openqa.selenium.StaleElementReferenceException: The element reference of <a id="PropertyMob" class="proList ng-pristine ng-untouched ng-valid ng-binding ng-scope ng-not-empty"> stale: either the element is no longer attached to the DOM or the page has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.yoWhzIYklmyC, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=8148.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: a6b765ec-a0d4-4162-9f6e-f15a9cefe86enull:Exception is not handled 
+2017-07-25 23:34:31,784 INFO  [Log] #### Executing Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx In chrome Browser for TestData:1 
+2017-07-25 23:34:49,256 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:34:50,119 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:34:50,307 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:34:50,441 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 23:34:50,445 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-25 23:34:56,017 INFO  [Log] TS_06: verify property name is in the header section; Passed; ; Element is present on the active page 
+2017-07-25 23:34:56,071 INFO  [Log] TS_07: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/login; User Defined URL:http://rg.hospi.qa.rategain.com/optima 
+2017-07-25 23:34:56,154 INFO  [Log] TS_08: click on user name : Action click 
+2017-07-25 23:34:56,252 INFO  [Log] TS_09: click on choose property: Action click 
+2017-07-25 23:34:56,341 INFO  [Log] TS_10: verify choose property dialog is appearing; Passed; ; Element is present on the active page 
+2017-07-25 23:35:17,677 INFO  [Log] TS_11; Passed; verifying multiple elements to verify that there are more then one property; Element count from page: 459; User Defined Value: 1 
+2017-07-25 23:35:17,679 INFO  [Log] closing test case  
+2017-07-25 23:35:19,897 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-25 23:35:19,945 INFO  [Log] ### Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx; status Executed 
+2017-07-25 23:35:19,945 WARN  [Log] No Browser instance is active 
+2017-07-25 23:35:19,945 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:35:19,945 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:35:20,384 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 23:35:20,419 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 23:35:20,450 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 23:35:20,488 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 23:35:20,520 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 23:35:20,551 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 23:35:20,579 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 23:35:20,606 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 23:35:20,631 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 23:35:20,659 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 23:35:20,690 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 23:35:20,741 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 23:35:20,776 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 23:35:20,803 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 23:35:20,827 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 23:35:20,851 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 23:35:20,877 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 23:35:20,902 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 23:35:20,929 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 23:35:20,957 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 23:35:20,993 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 23:35:21,027 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-25 23:35:21,058 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-25 23:35:21,089 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-25 23:35:21,125 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-25 23:35:21,153 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-25 23:35:21,181 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-25 23:35:21,206 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-25 23:35:21,234 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-25 23:35:21,281 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-25 23:35:21,313 INFO  [Log] Rg_TC0070.xlsx_Rg_TC0070.xlsx 
+2017-07-25 23:35:21,344 INFO  [Log] Rg_TC0072.xlsx_Rg_TC0072.xlsx 
+2017-07-25 23:35:21,371 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 23:35:21,371 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:35:21,371 INFO  [Log] Creating Logs backup and storing for further reference 

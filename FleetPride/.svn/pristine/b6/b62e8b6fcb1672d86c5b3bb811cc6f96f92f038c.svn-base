@@ -1,0 +1,226 @@
+2017-09-14 10:46:45,803 INFO  [Log] Test Scenario Configuration started 
+2017-09-14 10:46:45,819 INFO  [Log] Initialing HTML reporting 
+2017-09-14 10:46:46,006 INFO  [Log] Starting Test Suit Execution 
+2017-09-14 10:46:46,193 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 10:46:46,225 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 10:46:46,271 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 10:46:46,724 INFO  [Log] Object repository is created successfully 
+2017-09-14 10:46:46,834 INFO  [Log] TC_101_To verify compset average value 
+2017-09-14 10:46:46,896 INFO  [Log] TC_93_Blank 
+2017-09-14 10:46:46,943 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-14 10:46:47,006 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-14 10:46:47,068 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-14 10:46:47,115 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-14 10:46:47,162 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-14 10:46:47,208 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-14 10:46:47,255 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-14 10:46:47,286 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-14 10:46:47,333 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-14 10:46:47,364 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-14 10:46:47,396 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-14 10:46:47,427 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-14 10:46:47,474 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-14 10:46:47,505 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-14 10:46:47,536 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-14 10:46:47,583 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-14 10:46:47,614 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-14 10:46:47,645 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-14 10:46:47,676 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-14 10:46:47,708 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-14 10:46:47,739 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-14 10:46:47,770 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-14 10:46:47,864 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-14 10:46:47,895 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-14 10:46:47,926 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-14 10:46:47,942 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-14 10:46:47,973 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-14 10:46:48,004 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-14 10:46:48,035 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-14 10:46:48,066 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-14 10:46:48,098 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-14 10:46:48,129 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-14 10:46:48,160 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-14 10:46:48,191 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-14 10:46:48,222 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-14 10:46:48,255 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-14 10:46:48,286 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-14 10:46:48,317 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-14 10:46:48,348 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-14 10:46:48,379 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-14 10:46:48,395 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-14 10:46:48,426 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-14 10:46:48,442 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-14 10:46:48,457 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-14 10:46:48,489 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-14 10:46:48,504 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-14 10:46:48,535 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-14 10:46:48,567 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-14 10:46:48,582 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-14 10:46:48,613 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-14 10:46:48,629 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-14 10:46:48,660 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-14 10:46:48,676 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-14 10:46:48,707 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-14 10:46:48,723 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-14 10:46:48,754 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-14 10:46:48,769 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-14 10:46:48,785 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-14 10:46:48,801 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-14 10:46:48,832 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-14 10:46:48,847 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-14 10:46:48,887 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-14 10:46:48,909 INFO  [Log] PGNG1030_TC_012.xlsx_Blank 
+2017-09-14 10:46:48,924 INFO  [Log] PGNG1030_TC_076.xlsx_Blank 
+2017-09-14 10:46:48,940 INFO  [Log] RG_TC_014.xlsx_Blank 
+2017-09-14 10:46:48,971 INFO  [Log] RG_TC_041.xlsx_Blank 
+2017-09-14 10:46:48,987 INFO  [Log] RG_TC_103.xlsx_Blank 
+2017-09-14 10:46:49,018 INFO  [Log] RG_TC_104.xlsx_Blank 
+2017-09-14 10:46:49,033 INFO  [Log] RG_TC_110.xlsx_Blank 
+2017-09-14 10:46:49,049 INFO  [Log] RG_TC_113.xlsx_Blank 
+2017-09-14 10:46:49,065 INFO  [Log] RG_TC_114_Blank 
+2017-09-14 10:46:49,080 INFO  [Log] RG_TC_166_Blank 
+2017-09-14 10:46:49,096 INFO  [Log] RG_TC_176_Blank 
+2017-09-14 10:46:49,127 INFO  [Log] **************************************************************************************** 
+2017-09-14 10:46:49,127 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_051.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-14 10:46:49,127 INFO  [Log] **************************************************************************************** 
+2017-09-14 10:47:00,553 INFO  [Log] #### Executing Test case: PGNG1030_TC_051.xlsx; Description: Blank In IE Browser for TestData:1 
+2017-09-14 10:47:19,687 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 10:47:21,482 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 10:47:23,277 INFO  [Log] TS_04: Click on login button 
+2017-09-14 10:47:36,641 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-14 10:47:38,530 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-14 10:47:40,715 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 10:47:43,664 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 10:47:45,849 INFO  [Log] TS_09: Click on property 
+2017-09-14 10:47:50,874 INFO  [Log] TS_10: Click on settings 
+2017-09-14 10:47:55,679 INFO  [Log] TS_11: Click on Competitor 
+2017-09-14 10:48:00,470 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 10:48:03,460 INFO  [Log] TS_13: Capture the First ResultLondon Apart Hotel; Value has been stored in index: 0 
+2017-09-14 10:48:05,411 INFO  [Log] TS_14: Click on Search Competitor; Action Clear 
+2017-09-14 10:48:07,518 INFO  [Log] TS_15: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 10:48:07,582 INFO  [Log] TS_17; Waited 10000 Milli seconds for Element 
+2017-09-14 10:48:19,375 INFO  [Log] TS_18; Passed; Verify Compititor is added successfully; Captured text: london apart hotel; Value form page: London Apart Hotel,  
+2017-09-14 10:48:21,311 INFO  [Log] TS_19: Click on Optima Logo 
+2017-09-14 10:48:21,311 INFO  [Log] TS_20; Waited 8000 Milli seconds for Element 
+2017-09-14 10:48:48,528 INFO  [Log] TS_21: Click on Rates > Calender View 
+2017-09-14 10:48:50,526 INFO  [Log] TS_22: Click on Rate Filters 
+2017-09-14 10:48:52,602 INFO  [Log] TS_23: Click on Select  Compset from list 
+2017-09-14 10:48:55,598 INFO  [Log] TS_24: Scroll to the Last Competitor: Action Scroll Down 
+2017-09-14 10:48:57,331 INFO  [Log] TS_25: Edit Xpath to Check Added CompetitorNew Element Location is : London Apart HotelStored in ObjRep using element name: Comp: Type: Xpath 
+2017-09-14 10:48:59,182 INFO  [Log] TS_26: Verify the Competitor is Added in Compset List on calender View; Passed; ; Element is present on the active page 
+2017-09-14 10:49:01,243 INFO  [Log] TS_27: Click on Rates Grid View 
+2017-09-14 10:49:06,131 INFO  [Log] TS_28: Click on Select  Compset from list 
+2017-09-14 10:49:09,174 INFO  [Log] TS_29: Scroll to the Last Competitor: Action Scroll Down 
+2017-09-14 10:49:11,047 INFO  [Log] TS_30: Verify the Competitor is Added in Compset List on Grid View; Passed; ; Element is present on the active page 
+2017-09-14 10:49:13,123 INFO  [Log] TS_31: Click on Rates Chart View 
+2017-09-14 10:49:15,090 INFO  [Log] TS_32: Click on Select  Compset from list 
+2017-09-14 10:49:17,883 INFO  [Log] TS_33: Scroll to the Last Competitor: Action Scroll Down 
+2017-09-14 10:49:19,444 INFO  [Log] TS_34: Verify the Competitor is Added in Compset List on Chart View; Passed; ; Element is present on the active page 
+2017-09-14 10:49:21,364 INFO  [Log] TS_35: Click on settings 
+2017-09-14 10:49:24,500 INFO  [Log] TS_36: Click on Competitor 
+2017-09-14 10:49:27,782 INFO  [Log] TS_37: Delete the Added Record 
+2017-09-14 10:49:30,029 INFO  [Log] TS_38: click on delete button to delete the record 
+2017-09-14 10:49:36,179 INFO  [Log] TS_39: Edit Xpath to Verify Competitor is Deleted New Element Location is : London Apart HotelStored in ObjRep using element name: DeletedComp: Type: Xpath 
+2017-09-14 10:50:03,637 INFO  [Log] TS_40; Passed; Verify Competitor is Deleted ; Element is not present/dispayed on the page 
+2017-09-14 10:50:05,573 INFO  [Log] TS_41: Click on Optima Logo 
+2017-09-14 10:50:12,999 INFO  [Log] TS_42: Click on Rates > Calender View 
+2017-09-14 10:50:14,981 INFO  [Log] TS_43: Click on Rate Filters 
+2017-09-14 10:50:17,151 INFO  [Log] TS_44: Click on Select  Compset from list 
+2017-09-14 10:50:44,618 INFO  [Log] TS_45; Passed; Verify Competitor is deleted and not present in the List from Rates>>Calender View; Element is not present/dispayed on the page 
+2017-09-14 10:50:46,818 INFO  [Log] TS_46: Click on Rates Grid View 
+2017-09-14 10:50:52,943 INFO  [Log] TS_47: Click on Select  Compset from list 
+2017-09-14 10:51:19,682 INFO  [Log] TS_48; Passed; Verify Competitor is deleted and not present in the List from Rates>>Grid View; Element is not present/dispayed on the page 
+2017-09-14 10:51:21,742 INFO  [Log] TS_49: Click on Rates Chart View 
+2017-09-14 10:51:23,787 INFO  [Log] TS_50: Click on Select  Compset from list 
+2017-09-14 10:51:50,583 INFO  [Log] TS_51; Passed; Verify Competitor is deleted and not present in the List from Rates >> Chart View; Element is not present/dispayed on the page 
+2017-09-14 10:51:55,592 INFO  [Log] closing test case  
+2017-09-14 10:51:55,905 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 10:51:55,936 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 10:51:55,983 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 10:51:55,998 INFO  [Log] ### Test case: PGNG1030_TC_051.xlsx; Description: Blank; status Executed 
+2017-09-14 10:51:56,232 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 10:51:56,263 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 10:51:56,310 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 10:51:56,310 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 10:52:01,490 INFO  [Log] #### Executing Test case: PGNG1030_TC_051.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2017-09-14 10:52:25,611 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-14 10:53:27,082 INFO  [Log] PGNG1030_051TS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-14 10:54:53,548 WARN  [Log]  Browser instance is active 
+2017-09-14 10:54:55,940 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 10:54:55,972 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 10:54:56,003 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 10:54:56,003 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 10:54:56,003 FATAL [Log] PGNG1030_051TS_02ObjectRepSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-14 10:55:01,859 INFO  [Log] #### Executing Test case: PGNG1030_TC_051.xlsx; Description: Blank In Firefox Browser for TestData:1 
+2017-09-14 10:55:46,863 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-14 10:55:47,305 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 10:55:47,539 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 10:55:47,695 INFO  [Log] TS_04: Click on login button 
+2017-09-14 10:56:03,054 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-14 10:56:03,133 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-14 10:56:03,195 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 10:56:04,272 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 10:56:04,491 INFO  [Log] TS_09: Click on property 
+2017-09-14 10:56:08,817 INFO  [Log] TS_10: Click on settings 
+2017-09-14 10:56:11,205 INFO  [Log] TS_11: Click on Competitor 
+2017-09-14 10:56:12,797 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 10:56:14,578 INFO  [Log] TS_13: Capture the First ResultLondon Apart Hotel; Value has been stored in index: 0 
+2017-09-14 10:56:14,657 INFO  [Log] TS_14: Click on Search Competitor; Action Clear 
+2017-09-14 10:56:14,766 INFO  [Log] TS_15: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 10:56:14,813 INFO  [Log] TS_17; Waited 10000 Milli seconds for Element 
+2017-09-14 10:56:25,077 INFO  [Log] Fail; TS_18: Verify Compititor is added successfully; Captured text: london apart hotel; Value form page: Novotel London Waterloo,  
+2017-09-14 10:56:25,405 INFO  [Log] TS_19: Click on Optima Logo 
+2017-09-14 10:56:25,405 INFO  [Log] TS_20; Waited 8000 Milli seconds for Element 
+2017-09-14 10:56:33,611 INFO  [Log] TS_21: Click on Rates > Calender View 
+2017-09-14 10:56:33,737 INFO  [Log] TS_22: Click on Rate Filters 
+2017-09-14 10:56:34,376 INFO  [Log] TS_23: Click on Select  Compset from list 
+2017-09-14 10:56:35,453 INFO  [Log] TS_24: Scroll to the Last Competitor: Action Scroll Down 
+2017-09-14 10:56:35,547 INFO  [Log] TS_25: Edit Xpath to Check Added CompetitorNew Element Location is : London Apart HotelStored in ObjRep using element name: Comp: Type: Xpath 
+2017-09-14 10:57:01,329 INFO  [Log] TS_26; Failed; Sepcified Element is not present on the page; Verify the Competitor is Added in Compset List on calender View 
+2017-09-14 10:57:01,720 INFO  [Log] TS_27: Click on Rates Grid View 
+2017-09-14 10:57:07,075 INFO  [Log] TS_28: Click on Select  Compset from list 
+2017-09-14 10:57:08,278 INFO  [Log] TS_29: Scroll to the Last Competitor: Action Scroll Down 
+2017-09-14 10:57:33,984 INFO  [Log] TS_30; Failed; Sepcified Element is not present on the page; Verify the Competitor is Added in Compset List on Grid View 
+2017-09-14 10:57:34,312 INFO  [Log] TS_31: Click on Rates Chart View 
+2017-09-14 10:57:34,453 INFO  [Log] TS_32: Click on Select  Compset from list 
+2017-09-14 10:57:35,542 INFO  [Log] TS_33: Scroll to the Last Competitor: Action Scroll Down 
+2017-09-14 10:58:01,264 INFO  [Log] TS_34; Failed; Sepcified Element is not present on the page; Verify the Competitor is Added in Compset List on Chart View 
+2017-09-14 10:58:01,468 INFO  [Log] TS_35: Click on settings 
+2017-09-14 10:58:06,779 INFO  [Log] TS_36: Click on Competitor 
+2017-09-14 10:58:09,011 INFO  [Log] TS_37: Delete the Added Record 
+2017-09-14 10:58:09,106 INFO  [Log] TS_38: click on delete button to delete the record 
+2017-09-14 10:58:13,526 INFO  [Log] TS_39: Edit Xpath to Verify Competitor is Deleted New Element Location is : London Apart HotelStored in ObjRep using element name: DeletedComp: Type: Xpath 
+2017-09-14 10:58:39,162 INFO  [Log] TS_40; Passed; Verify Competitor is Deleted ; Element is not present/dispayed on the page 
+2017-09-14 10:58:39,345 INFO  [Log] TS_41: Click on Optima Logo 
+2017-09-14 10:58:44,997 INFO  [Log] TS_42: Click on Rates > Calender View 
+2017-09-14 10:58:45,154 INFO  [Log] TS_43: Click on Rate Filters 
+2017-09-14 10:58:45,716 INFO  [Log] TS_44: Click on Select  Compset from list 
+2017-09-14 10:59:11,062 INFO  [Log] TS_45; Passed; Verify Competitor is deleted and not present in the List from Rates>>Calender View; Element is not present/dispayed on the page 
+2017-09-14 10:59:11,406 INFO  [Log] TS_46: Click on Rates Grid View 
+2017-09-14 10:59:14,968 INFO  [Log] TS_47: Click on Select  Compset from list 
+2017-09-14 10:59:40,469 INFO  [Log] TS_48; Passed; Verify Competitor is deleted and not present in the List from Rates>>Grid View; Element is not present/dispayed on the page 
+2017-09-14 10:59:40,751 INFO  [Log] TS_49: Click on Rates Chart View 
+2017-09-14 10:59:40,969 INFO  [Log] TS_50: Click on Select  Compset from list 
+2017-09-14 11:00:06,501 INFO  [Log] TS_51; Passed; Verify Competitor is deleted and not present in the List from Rates >> Chart View; Element is not present/dispayed on the page 
+2017-09-14 11:00:11,509 INFO  [Log] closing test case  
+2017-09-14 11:00:11,823 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:00:11,855 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:00:11,901 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:00:11,901 INFO  [Log] ### Test case: PGNG1030_TC_051.xlsx; Description: Blank; status Executed 
+2017-09-14 11:00:12,073 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 11:00:12,104 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 11:00:12,135 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 11:00:12,135 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 11:00:12,135 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 11:00:12,198 FATAL [Log] Test script Location/sheet name is not provided for PGNG1030_TC_062.xlsx 
+2017-09-14 11:00:12,229 FATAL [Log] Test script Location/sheet name is not provided for PGNG1030_TC_076.xlsx 
+2017-09-14 11:00:12,276 INFO  [Log] Rg_TC_174_To verify the rates grid view 
+2017-09-14 11:00:12,291 INFO  [Log] ####Closing Test Suite #### 
+2017-09-14 11:00:12,291 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 11:00:12,291 INFO  [Log] Creating Logs backup and storing for further reference 

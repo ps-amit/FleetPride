@@ -1,0 +1,169 @@
+2017-08-11 13:14:18,196 INFO  [Log] Test Scenario Configuration started 
+2017-08-11 13:14:18,215 INFO  [Log] Initialing HTML reporting 
+2017-08-11 13:14:18,454 INFO  [Log] Starting Test Suit Execution 
+2017-08-11 13:14:18,454 WARN  [Log] No Browser instance is active 
+2017-08-11 13:14:19,119 INFO  [Log] Object repository is created successfully 
+2017-08-11 13:14:19,216 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-08-11 13:14:19,339 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-08-11 13:14:19,435 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-08-11 13:14:19,561 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-08-11 13:14:19,643 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-08-11 13:14:19,712 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-08-11 13:14:19,783 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-08-11 13:14:19,849 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-08-11 13:14:19,916 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-08-11 13:14:19,987 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-08-11 13:14:20,035 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-08-11 13:14:20,073 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-08-11 13:14:20,116 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-08-11 13:14:20,172 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-08-11 13:14:20,232 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-08-11 13:14:20,261 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-08-11 13:14:20,303 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-08-11 13:14:20,363 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-08-11 13:14:20,401 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-08-11 13:14:20,471 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-08-11 13:14:20,513 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-08-11 13:14:20,567 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-08-11 13:14:20,605 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-08-11 13:14:20,648 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-08-11 13:14:20,704 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-08-11 13:14:20,732 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-08-11 13:14:20,776 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-08-11 13:14:20,806 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-08-11 13:14:20,882 INFO  [Log] **************************************************************************************** 
+2017-08-11 13:14:20,884 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-11 13:14:20,885 INFO  [Log] **************************************************************************************** 
+2017-08-11 13:14:28,814 INFO  [Log] #### Executing Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx In chrome Browser for TestData:1 
+2017-08-11 13:14:45,157 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-11 13:14:45,929 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-11 13:14:46,095 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-11 13:14:46,216 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-11 13:14:46,219 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-11 13:14:56,334 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-11 13:14:56,536 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-11 13:14:56,600 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-11 13:14:57,826 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-11 13:14:57,826 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-11 13:15:01,931 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-11 13:15:01,932 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-08-11 13:15:06,040 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-08-11 13:15:06,212 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-11 13:15:06,213 INFO  [Log] TS_15; Waited 2000 Milli seconds for Element 
+2017-08-11 13:15:08,334 INFO  [Log] Specified file is not deleted at location: ~$Optima_16506_20170811_072308.xlsmBecasue of java.nio.file.FileSystemException: C:\Users\vinayak.bansal\Downloads\~$Optima_16506_20170811_072308.xlsm: The process cannot access the file because it is being used by another process.
+ 
+2017-08-11 13:15:08,515 INFO  [Log] TS_17: click on download report: Action click 
+2017-08-11 13:15:08,517 INFO  [Log] TS_18; Waited 20000 Milli seconds for Element 
+2017-08-11 13:15:28,882 INFO  [Log] TS_20; Waited 1000 Milli seconds for Element 
+2017-08-11 13:15:29,922 INFO  [Log] TS_22; Waited 35000 Milli seconds for Element 
+2017-08-11 13:16:04,966 INFO  [Log] TS_23; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170811_074551.xlsm 
+2017-08-11 13:16:04,967 INFO  [Log] closing test case  
+2017-08-11 13:16:07,121 INFO  [Log] Closing instance of Browser: chrome 
+2017-08-11 13:16:07,128 INFO  [Log] ### Test case: Rg_TC0064.xlsx; Description: Rg_TC0064.xlsx; status Executed 
+2017-08-11 13:16:07,128 WARN  [Log] No Browser instance is active 
+2017-08-11 13:16:07,128 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:16:07,128 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:16:07,524 INFO  [Log] **************************************************************************************** 
+2017-08-11 13:16:07,524 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-11 13:16:07,524 INFO  [Log] **************************************************************************************** 
+2017-08-11 13:16:12,978 INFO  [Log] #### Executing Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx In chrome Browser for TestData:1 
+2017-08-11 13:16:28,045 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-11 13:16:29,048 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-11 13:16:29,214 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-11 13:16:29,331 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-11 13:16:29,331 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-11 13:16:39,429 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-11 13:16:39,592 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-11 13:16:39,671 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-11 13:16:40,825 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-11 13:16:40,825 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-11 13:16:44,986 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-11 13:16:44,986 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-08-11 13:16:55,101 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-08-11 13:16:55,196 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-11 13:16:55,196 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2017-08-11 13:17:05,400 INFO  [Log] TS_16: GridView: Action click 
+2017-08-11 13:17:05,400 INFO  [Log] TS_17; Waited 10000 Milli seconds for Element 
+2017-08-11 13:17:16,137 INFO  [Log] List of following Values has been storedTS_18: capture all the values of all ; Action: Capture and stored value, 400, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 114 
+2017-08-11 13:17:16,438 INFO  [Log] TS_20: click on download report: Action click 
+2017-08-11 13:17:16,439 INFO  [Log] TS_21; Waited 8000 Milli seconds for Element 
+2017-08-11 13:17:24,520 INFO  [Log] TS_23; Waited 1000 Milli seconds for Element 
+2017-08-11 13:17:25,563 INFO  [Log] TS_25; Waited 20000 Milli seconds for Element 
+2017-08-11 13:17:45,620 INFO  [Log] TS_26; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170811_074759.xlsm 
+2017-08-11 13:17:47,206 INFO  [Log] TS_27; Passed; verify excel values with ui valuesvalues from excel [400, --, NP, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, 114] and values from ui [400, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 114]are same 
+2017-08-11 13:17:47,207 INFO  [Log] closing test case  
+2017-08-11 13:17:47,334 INFO  [Log] Closing instance of Browser: chrome 
+2017-08-11 13:17:47,352 INFO  [Log] ### Test case: Rg_TC0065.xlsx; Description: Rg_TC0065.xlsx; status Executed 
+2017-08-11 13:17:47,352 WARN  [Log] No Browser instance is active 
+2017-08-11 13:17:47,352 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:17:47,352 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:17:47,581 INFO  [Log] **************************************************************************************** 
+2017-08-11 13:17:47,581 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-11 13:17:47,581 INFO  [Log] **************************************************************************************** 
+2017-08-11 13:17:53,458 INFO  [Log] #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx In chrome Browser for TestData:1 
+2017-08-11 13:18:10,679 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-11 13:18:11,551 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-11 13:18:11,706 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-11 13:18:11,797 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-11 13:18:11,798 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-11 13:18:21,937 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-11 13:18:22,154 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-11 13:18:22,225 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-11 13:18:23,391 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-11 13:18:23,391 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-11 13:18:27,508 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-11 13:18:27,508 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-11 13:18:35,675 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-08-11 13:18:35,774 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-11 13:18:35,774 INFO  [Log] TS_15; Waited 8000 Milli seconds for Element 
+2017-08-11 13:18:43,907 INFO  [Log] TS_16: GridView: Action click 
+2017-08-11 13:18:43,908 INFO  [Log] TS_17; Waited 8000 Milli seconds for Element 
+2017-08-11 13:18:51,973 INFO  [Log] New Element Location is : ExpediaStored in ObjRep using element name: channel: Type: Xpath 
+2017-08-11 13:18:51,974 INFO  [Log] TS_19; Waited 8000 Milli seconds for Element 
+2017-08-11 13:19:00,136 INFO  [Log] TS_20: click on channel: Action click 
+2017-08-11 13:19:00,136 INFO  [Log] TS_21; Waited 8000 Milli seconds for Element 
+2017-08-11 13:19:08,270 INFO  [Log] New Element Location is : ExpediaStored in ObjRep using element name: channelvalue: Type: Xpath 
+2017-08-11 13:19:09,074 INFO  [Log] List of following Values has been storedTS_23: capture all the values of brand ; Action: Capture and stored value, RF, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, RF 
+2017-08-11 13:19:09,378 INFO  [Log] TS_25: click on download report: Action click 
+2017-08-11 13:19:09,378 INFO  [Log] TS_26; Waited 30000 Milli seconds for Element 
+2017-08-11 13:19:39,459 INFO  [Log] TS_28; Waited 1000 Milli seconds for Element 
+2017-08-11 13:19:40,499 INFO  [Log] TS_30; Waited 30000 Milli seconds for Element 
+2017-08-11 13:20:10,536 INFO  [Log] TS_31; Passed;  file   downloaded C:\Users\vinayak.bansal\Downloads\Optima_16506_20170811_074952.xlsm 
+2017-08-11 13:20:11,046 INFO  [Log] TS_32; Passed; verify excel value against UI valuesvalues from excel [RF, --, NP, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, --, RF] and values from ui [RF, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, RF]are same 
+2017-08-11 13:20:11,046 INFO  [Log] closing test case  
+2017-08-11 13:20:13,463 INFO  [Log] Closing instance of Browser: chrome 
+2017-08-11 13:20:13,475 INFO  [Log] ### Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx; status Executed 
+2017-08-11 13:20:13,475 WARN  [Log] No Browser instance is active 
+2017-08-11 13:20:13,475 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:20:13,475 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:20:13,679 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-08-11 13:20:13,705 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-08-11 13:20:13,730 INFO  [Log] Rg_TC0103.xlsx_Rg_TC0103.xlsx 
+2017-08-11 13:20:13,751 INFO  [Log] Rg_TC0104.xlsx_Rg_TC0104.xlsx 
+2017-08-11 13:20:13,815 INFO  [Log] **************************************************************************************** 
+2017-08-11 13:20:13,816 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC01000.xlsx; Description: Rg_TC01001.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-11 13:20:13,816 INFO  [Log] **************************************************************************************** 
+2017-08-11 13:20:20,696 INFO  [Log] #### Executing Test case: Rg_TC01000.xlsx; Description: Rg_TC01001.xlsx In firefox Browser for TestData:1 
+2017-08-11 13:20:29,626 ERROR [Log] Error#: optima-1000TS_01ObjectRepOpenGivenURL  org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.GYqnvi6CzXGx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=10408.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 151511a0-aa4c-45d0-8705-18a975e000a0null:Exception is not handled 
+2017-08-11 13:20:30,192 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.GYqnvi6CzXGx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=10408.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 151511a0-aa4c-45d0-8705-18a975e000a0 
+2017-08-11 13:20:30,192 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:20:30,192 FATAL [Log] optima-1000TS_01ObjectRepOpenGivenURL  org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.GYqnvi6CzXGx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=10408.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 151511a0-aa4c-45d0-8705-18a975e000a0null:Exception is not handled 
+2017-08-11 13:20:30,192 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:20:30,314 INFO  [Log] ####Closing Test Suite #### 
+2017-08-11 13:20:30,314 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 13:20:30,314 INFO  [Log] Creating Logs backup and storing for further reference 

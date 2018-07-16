@@ -1,0 +1,41 @@
+2017-10-27 18:53:46,526 INFO  [Log] Test Scenario Configuration started 
+2017-10-27 18:53:46,546 INFO  [Log] Initialing HTML reporting 
+2017-10-27 18:53:46,708 INFO  [Log] Starting Test Suit Execution 
+2017-10-27 18:53:46,908 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 18:53:46,948 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 18:53:46,978 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 18:53:47,408 INFO  [Log] Object repository is created successfully 
+2017-10-27 18:53:47,449 INFO  [Log] FP_home_page_search_productName_TC_13_Blank 
+2017-10-27 18:53:47,519 INFO  [Log] FP_home_page_search_productPartNumber_TC_01_Blank 
+2017-10-27 18:53:47,561 INFO  [Log] FP_home_page_search_invalid_data_TC_14_Blank 
+2017-10-27 18:53:47,589 INFO  [Log] FP_home_page_search_below_2_characters_TC_08_Blank 
+2017-10-27 18:53:47,628 INFO  [Log] FP_pdp_search_productPartNumber_TC_09_Blank 
+2017-10-27 18:53:47,673 INFO  [Log] FP_pdp_search_productName_TC_07_Blank 
+2017-10-27 18:53:47,698 INFO  [Log] FP_pdp_search_invalid_data_TC_08_Blank 
+2017-10-27 18:53:47,755 INFO  [Log] FP_pdp_search_below_2_characters_TC_10_Blank 
+2017-10-27 18:53:47,795 INFO  [Log] **************************************************************************************** 
+2017-10-27 18:53:47,795 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdp_quick_order_TC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-27 18:53:47,795 INFO  [Log] **************************************************************************************** 
+2017-10-27 18:53:53,641 INFO  [Log] #### Executing Test case: FP_pdp_quick_order_TC; Description: Blank In Chrome Browser for TestData:1 
+2017-10-27 18:54:03,207 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-27 18:54:41,362 INFO  [Log] TS_02: Click on the login link 
+2017-10-27 18:55:16,897 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-27 18:55:52,324 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-27 18:56:34,630 INFO  [Log] TS_05: Click on login button 
+2017-10-27 18:57:14,208 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-27 18:57:49,906 INFO  [Log] TS_07: Input the SKU value in first field; Action: Submited ValueValue: TMK-907257 
+2017-10-27 18:58:25,520 INFO  [Log] TS_09: Click on add to cart button 
+2017-10-27 18:59:00,957 INFO  [Log] TS_10: Capture the product quantity from the my cart section that appears at the topMy Cart: 1 item, $8.00; Value has been stored in index: 0 
+2017-10-27 18:59:36,360 INFO  [Log] User specified value has been replaced at index0New Value is: My Cart: 1 
+2017-10-27 19:00:12,152 INFO  [Log] User specified value has been replaced at index0New Value is: 1 
+2017-10-27 19:00:12,153 INFO  [Log] FP_pdp_quick_order_TCTS_13BlankVerifyCapturewithCapture  java.lang.IndexOutOfBoundsException: Index: 1, Size: 1null:Exception is not handled 
+2017-10-27 19:00:14,445 WARN  [Log]  Browser instance is active 
+2017-10-27 19:00:17,083 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 19:00:17,164 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 19:00:17,254 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 19:00:17,254 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 19:00:17,254 FATAL [Log] FP_pdp_quick_order_TCTS_13BlankVerifyCapturewithCapture  java.lang.IndexOutOfBoundsException: Index: 1, Size: 1null:Exception is not handled 
+2017-10-27 19:00:17,254 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 19:00:17,451 INFO  [Log] ####Closing Test Suite #### 
+2017-10-27 19:00:17,451 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 19:00:17,451 INFO  [Log] Creating Logs backup and storing for further reference 

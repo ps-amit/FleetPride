@@ -1,0 +1,50 @@
+2017-11-03 16:03:51,540 INFO  [Log] Test Scenario Configuration started 
+2017-11-03 16:03:51,559 INFO  [Log] Initialing HTML reporting 
+2017-11-03 16:03:51,744 INFO  [Log] Starting Test Suit Execution 
+2017-11-03 16:03:51,948 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 16:03:51,982 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 16:03:52,015 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 16:03:52,449 INFO  [Log] Object repository is created successfully 
+2017-11-03 16:03:52,518 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-03 16:03:52,576 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-03 16:03:52,620 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-03 16:03:52,668 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-03 16:03:52,713 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-03 16:03:52,752 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-03 16:03:52,788 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-03 16:03:52,832 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-03 16:03:52,870 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-03 16:03:52,895 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-03 16:03:52,925 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-03 16:03:52,959 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-03 16:03:52,987 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-03 16:03:53,016 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-03 16:03:53,041 INFO  [Log] Testing_Purpose_Blank 
+2017-11-03 16:03:53,081 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-03 16:03:53,109 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-03 16:03:53,134 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-03 16:03:53,167 INFO  [Log] **************************************************************************************** 
+2017-11-03 16:03:53,167 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_07; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-03 16:03:53,167 INFO  [Log] **************************************************************************************** 
+2017-11-03 16:03:59,028 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_07; Description: Blank In Chrome Browser for TestData:1 
+2017-11-03 16:04:14,583 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-03 16:04:53,300 INFO  [Log] TS_02: Click on the login link 
+2017-11-03 16:05:28,963 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-03 16:06:04,461 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-03 16:06:48,885 INFO  [Log] TS_05: Click on login button 
+2017-11-03 16:07:28,546 INFO  [Log] TS_08: Click on global my cart link from the header section 
+2017-11-03 16:08:04,017 INFO  [Log] TS_09: Clear the quantity field; Action Clear 
+2017-11-03 16:08:04,018 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-11-03 16:08:13,020 INFO  [Log] closing test case  
+2017-11-03 16:08:15,571 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 16:08:15,602 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 16:08:15,635 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 16:08:15,644 INFO  [Log] ### Test case: FP_My_Cart_TC_07; Description: Blank; status Executed 
+2017-11-03 16:08:15,864 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-03 16:08:15,896 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-03 16:08:15,928 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-03 16:08:15,928 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 16:08:15,928 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 16:08:16,161 INFO  [Log] ####Closing Test Suite #### 
+2017-11-03 16:08:16,161 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-03 16:08:16,161 INFO  [Log] Creating Logs backup and storing for further reference 

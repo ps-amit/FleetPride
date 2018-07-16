@@ -1,0 +1,29 @@
+2017-10-12 17:51:18,604 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 17:51:18,624 INFO  [Log] Initialing HTML reporting 
+2017-10-12 17:51:18,786 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 17:51:18,996 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 17:51:19,026 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 17:51:19,066 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 17:51:19,509 INFO  [Log] Object repository is created successfully 
+2017-10-12 17:51:19,607 INFO  [Log] **************************************************************************************** 
+2017-10-12 17:51:19,607 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 17:51:19,607 INFO  [Log] **************************************************************************************** 
+2017-10-12 17:51:25,518 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 17:51:54,924 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 17:52:30,760 INFO  [Log] TS_02: Click on the Searc box; Action: Submited ValueValue: Additives 
+2017-10-12 17:53:14,374 INFO  [Log] TS_03: Click on the search icon 
+2017-10-12 17:53:14,377 INFO  [Log] TS_04; Waited 5000 Milli seconds for Element 
+2017-10-12 17:53:55,221 INFO  [Log] Blank; Passed; Verify the screen having text 'Search Results' in breadcrumb; Value: search results; Present in Page values: Search Results,  
+2017-10-12 17:54:00,239 INFO  [Log] closing test case  
+2017-10-12 17:54:02,660 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 17:54:02,711 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 17:54:02,761 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 17:54:02,771 INFO  [Log] ### Test case: quick_order; Description: Blank; status Executed 
+2017-10-12 17:54:03,021 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 17:54:03,061 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 17:54:03,111 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 17:54:03,111 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 17:54:03,111 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 17:54:03,401 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 17:54:03,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 17:54:03,401 INFO  [Log] Creating Logs backup and storing for further reference 

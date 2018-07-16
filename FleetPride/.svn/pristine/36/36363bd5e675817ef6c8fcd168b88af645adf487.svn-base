@@ -1,0 +1,67 @@
+2017-11-07 10:57:18,241 INFO  [Log] Test Scenario Configuration started 
+2017-11-07 10:57:18,258 INFO  [Log] Initialing HTML reporting 
+2017-11-07 10:57:18,431 INFO  [Log] Starting Test Suit Execution 
+2017-11-07 10:57:18,597 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-07 10:57:18,628 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-07 10:57:18,712 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-07 10:57:19,145 INFO  [Log] Object repository is created successfully 
+2017-11-07 10:57:19,213 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-07 10:57:19,271 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-07 10:57:19,333 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-07 10:57:19,390 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-07 10:57:19,431 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-07 10:57:19,467 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-07 10:57:19,508 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-07 10:57:19,560 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-07 10:57:19,591 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-07 10:57:19,622 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-07 10:57:19,650 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-07 10:57:19,681 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-07 10:57:19,732 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-07 10:57:19,759 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-07 10:57:19,796 INFO  [Log] Testing_Purpose_Blank 
+2017-11-07 10:57:19,823 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-07 10:57:19,849 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-07 10:57:19,874 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-07 10:57:19,898 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2017-11-07 10:57:19,920 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2017-11-07 10:57:19,946 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2017-11-07 10:57:19,973 INFO  [Log] FP_My_Cart_TC_09_Blank 
+2017-11-07 10:57:20,011 INFO  [Log] **************************************************************************************** 
+2017-11-07 10:57:20,011 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_44; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-07 10:57:20,011 INFO  [Log] **************************************************************************************** 
+2017-11-07 10:57:25,919 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_44; Description: Blank In Chrome Browser for TestData:1 
+2017-11-07 10:57:59,308 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-07 10:58:27,924 INFO  [Log] TS_02: Click on the login link 
+2017-11-07 10:58:53,764 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-07 10:59:19,388 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-07 10:59:51,663 INFO  [Log] TS_05: Click on login button 
+2017-11-07 11:00:24,083 INFO  [Log] TS_06: Click on the product link 
+2017-11-07 11:00:49,799 INFO  [Log] TS_07: Click on "Add to cart" button. 
+2017-11-07 11:01:25,502 INFO  [Log] FP_My_Cart_TC_44TS_08ObjectRepClick  org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.219', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir1572_17855}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 717a4ca1747d0975dd3b95bd246668a8null:Exception is not handled 
+2017-11-07 11:01:26,079 WARN  [Log]  Browser instance is active 
+2017-11-07 11:01:28,611 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-07 11:01:28,642 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-07 11:01:28,673 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-07 11:01:28,673 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-07 11:01:28,674 FATAL [Log] FP_My_Cart_TC_44TS_08ObjectRepClick  org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.219', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir1572_17855}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 717a4ca1747d0975dd3b95bd246668a8null:Exception is not handled 
+2017-11-07 11:01:28,674 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-07 11:01:28,732 INFO  [Log] ####Closing Test Suite #### 
+2017-11-07 11:01:28,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-07 11:01:28,732 INFO  [Log] Creating Logs backup and storing for further reference 

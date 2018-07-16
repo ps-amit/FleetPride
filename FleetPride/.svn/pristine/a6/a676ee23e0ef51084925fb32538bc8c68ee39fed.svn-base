@@ -1,0 +1,93 @@
+2017-11-01 16:26:10,745 INFO  [Log] Test Scenario Configuration started 
+2017-11-01 16:26:10,751 INFO  [Log] Initialing HTML reporting 
+2017-11-01 16:26:10,981 INFO  [Log] Starting Test Suit Execution 
+2017-11-01 16:26:11,172 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 16:26:11,211 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 16:26:11,241 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 16:26:11,631 INFO  [Log] Object repository is created successfully 
+2017-11-01 16:26:11,682 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-01 16:26:11,742 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-01 16:26:11,784 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-01 16:26:11,831 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-01 16:26:11,871 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-01 16:26:11,913 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-01 16:26:11,952 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-01 16:26:12,000 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-01 16:26:12,042 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-01 16:26:12,082 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-01 16:26:12,112 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-01 16:26:12,142 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-01 16:26:12,172 INFO  [Log] FP_contact_us_page_Blank 
+2017-11-01 16:26:12,192 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-01 16:26:12,232 INFO  [Log] **************************************************************************************** 
+2017-11-01 16:26:12,232 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Testing_Purpose; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-01 16:26:12,232 INFO  [Log] **************************************************************************************** 
+2017-11-01 16:26:18,096 INFO  [Log] #### Executing Test case: Testing_Purpose; Description: Blank In Chrome Browser for TestData:1 
+2017-11-01 16:26:35,652 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-01 16:26:40,671 INFO  [Log] closing test case  
+2017-11-01 16:26:43,072 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 16:26:43,103 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 16:26:43,133 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 16:26:43,143 INFO  [Log] ### Test case: Testing_Purpose; Description: Blank; status Executed 
+2017-11-01 16:26:43,323 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 16:26:43,353 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 16:26:43,393 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 16:26:43,393 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 16:26:48,090 INFO  [Log] #### Executing Test case: Testing_Purpose; Description: Blank In Firefox Browser for TestData:1 
+2017-11-01 16:26:52,762 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-01 16:26:52,915 INFO  [Log] FP_pdp_FP_brand_code_TC_11TS_01ObjectRepOpenGivenURL  org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.214', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\amit.singh\AppData\Local\Temp\rust_mozprofile.8FEN5gsDtLSQ, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0.2, platformVersion=6.1, moz:processID=6060.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 33d324c7-3e09-4a9c-91cf-efd07f95e60enull:Exception is not handled 
+2017-11-01 16:26:53,537 WARN  [Log]  Browser instance is active 
+2017-11-01 16:26:53,547 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.214', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\amit.singh\AppData\Local\Temp\rust_mozprofile.8FEN5gsDtLSQ, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0.2, platformVersion=6.1, moz:processID=6060.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 33d324c7-3e09-4a9c-91cf-efd07f95e60e 
+2017-11-01 16:26:53,547 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 16:26:53,547 FATAL [Log] FP_pdp_FP_brand_code_TC_11TS_01ObjectRepOpenGivenURL  org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.214', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\amit.singh\AppData\Local\Temp\rust_mozprofile.8FEN5gsDtLSQ, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0.2, platformVersion=6.1, moz:processID=6060.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 33d324c7-3e09-4a9c-91cf-efd07f95e60enull:Exception is not handled 
+2017-11-01 16:26:59,839 ERROR [Log] Error#: Testing_Purpose; Error in communicating with Browserorg.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.214', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:28269/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: b49d4cb5-20c0-4346-9a95-3d5f1b06c813 
+2017-11-01 16:26:59,839 INFO  [Log] #### Executing Test case: Testing_Purpose; Description: Blank In IE Browser for TestData:1 
+2017-11-01 16:27:05,934 INFO  [Log] FP_pdp_FP_brand_code_TC_11TS_01ObjectRep; Browser Window is Closed: org.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.214', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:28269/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: b49d4cb5-20c0-4346-9a95-3d5f1b06c813 
+2017-11-01 16:27:06,252 WARN  [Log]  Browser instance is active 
+2017-11-01 16:27:06,262 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.214', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:28269/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: b49d4cb5-20c0-4346-9a95-3d5f1b06c813 
+2017-11-01 16:27:06,262 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 16:27:06,262 FATAL [Log] FP_pdp_FP_brand_code_TC_11TS_01ObjectRep; Browser Window is Closed: org.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.214', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:28269/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: b49d4cb5-20c0-4346-9a95-3d5f1b06c813 
+2017-11-01 16:27:06,262 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 16:27:06,312 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-01 16:27:06,332 INFO  [Log] ####Closing Test Suite #### 
+2017-11-01 16:27:06,332 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 16:27:06,332 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,51 @@
+2017-10-31 12:49:51,642 INFO  [Log] Test Scenario Configuration started 
+2017-10-31 12:49:51,662 INFO  [Log] Initialing HTML reporting 
+2017-10-31 12:49:51,832 INFO  [Log] Starting Test Suit Execution 
+2017-10-31 12:49:52,034 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 12:49:52,064 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 12:49:52,104 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 12:49:52,516 INFO  [Log] Object repository is created successfully 
+2017-10-31 12:49:52,577 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-10-31 12:49:52,637 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-10-31 12:49:52,670 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-10-31 12:49:52,732 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-10-31 12:49:52,775 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-10-31 12:49:52,827 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-10-31 12:49:52,857 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-10-31 12:49:52,890 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-10-31 12:49:52,949 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-10-31 12:49:52,979 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-10-31 12:49:53,009 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-10-31 12:49:53,039 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-10-31 12:49:53,079 INFO  [Log] **************************************************************************************** 
+2017-10-31 12:49:53,079 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_contact_us_page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 12:49:53,079 INFO  [Log] **************************************************************************************** 
+2017-10-31 12:49:58,970 INFO  [Log] #### Executing Test case: FP_contact_us_page; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 12:50:08,590 INFO  [Log] Step1: Open Contact Us page URL; Action: open URL 
+2017-10-31 12:50:44,250 INFO  [Log] Step3; Passed; Verifying the fields on the page.
+1.Company Name; Value: company name:; Present in Page values: Company name:,  
+2017-10-31 12:51:20,176 INFO  [Log] Step4; Passed; 2.Your Name; Value: your name:; Present in Page values: Your Name:,  
+2017-10-31 12:51:56,080 INFO  [Log] Step5; Passed; 3.Email; Value: email:; Present in Page values: Email:,  
+2017-10-31 12:52:31,517 INFO  [Log] Step6; Passed; 4.Phone; Value: phone:; Present in Page values: Phone:,  
+2017-10-31 12:53:07,393 INFO  [Log] Step7; Passed; 5.Choose Contact Reason; Value: choose contact reason:; Present in Page values: Choose Contact Reason:,  
+2017-10-31 12:53:43,182 INFO  [Log] Failed: Step8: 6.Message; Value: message: ; is Not Present in Page values: Message:,  
+2017-10-31 12:54:19,078 INFO  [Log] Step9: Choose contact us region dropdown 
+2017-10-31 12:54:54,899 INFO  [Log] Step10: Selecting the request a catalog option from the dropdown. 
+2017-10-31 12:55:31,091 INFO  [Log] Failed: Step11: Verifying the first fields added after choosing the option.; Value: address 1:; is Not Present in Page values: ,  
+2017-10-31 12:56:07,156 INFO  [Log] Failed: Step12: Verifying the second field.; Value: address 2:; is Not Present in Page values: ,  
+2017-10-31 12:56:43,605 INFO  [Log] Failed: Step13: Verifying the third field.; Value: state:; is Not Present in Page values: ,  
+2017-10-31 12:57:19,993 INFO  [Log] Failed: Step14: Verifying the fourth field.; Value: zipcode:; is Not Present in Page values: ,  
+2017-10-31 12:57:56,240 INFO  [Log] Failed: Step15: Verifying the fifth field.; Value: country:; is Not Present in Page values: ,  
+2017-10-31 12:58:01,594 INFO  [Log] closing test case  
+2017-10-31 12:58:04,163 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 12:58:04,204 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 12:58:04,234 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 12:58:04,244 INFO  [Log] ### Test case: FP_contact_us_page; Description: Blank; status Executed 
+2017-10-31 12:58:04,454 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 12:58:04,484 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 12:58:04,514 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 12:58:04,514 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 12:58:04,514 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 12:58:04,604 INFO  [Log] ####Closing Test Suite #### 
+2017-10-31 12:58:04,604 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 12:58:04,604 INFO  [Log] Creating Logs backup and storing for further reference 

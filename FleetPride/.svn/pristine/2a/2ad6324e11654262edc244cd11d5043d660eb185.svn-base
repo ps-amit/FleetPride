@@ -1,0 +1,46 @@
+2017-07-17 17:46:11,389 INFO  [Log] Test Scenario Configuration started 
+2017-07-17 17:46:11,430 INFO  [Log] Initialing HTML reporting 
+2017-07-17 17:46:11,655 INFO  [Log] Starting Test Suit Execution 
+2017-07-17 17:46:11,655 WARN  [Log] Browser instance value is null 
+2017-07-17 17:46:12,253 INFO  [Log] Object repository is created successfully 
+2017-07-17 17:46:12,326 INFO  [Log] AlertRateKart_1_AlertRateKart_1 
+2017-07-17 17:46:12,391 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-17 17:46:12,452 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-17 17:46:12,508 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-17 17:46:12,558 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-17 17:46:12,615 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-17 17:46:12,656 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-17 17:46:12,726 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:46:12,726 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:46:12,726 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:46:19,220 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In firefox Browser for TestData:1 
+2017-07-17 17:46:26,852 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-07-17 17:46:26,879 INFO  [Log] RG-02; Waited 5000 Milli seconds for Element 
+2017-07-17 17:46:32,104 INFO  [Log] RG-03: Enter User ID; Action: Submited Value 
+2017-07-17 17:46:32,301 INFO  [Log] RG-04: Enter Password; Action: Submited Value 
+2017-07-17 17:46:32,411 INFO  [Log] RG-05: Click on Login: Action click 
+2017-07-17 17:46:32,412 INFO  [Log] RG-06; Waited 5000 Milli seconds for Element 
+2017-07-17 17:46:37,720 INFO  [Log] RG-07; Passed; Verify Button; Value: enterprise view; Present in Page values: ENTERPRISE VIEW,  
+2017-07-17 17:46:37,853 INFO  [Log] RG-08; Passed; Verify Button; Value: property view; Present in Page values: PROPERTY VIEW,  
+2017-07-17 17:46:37,960 INFO  [Log] RG-09: Clickon left header: Action click 
+2017-07-17 17:46:37,961 INFO  [Log] RG-10; Waited 5000 Milli seconds for Element 
+2017-07-17 17:46:43,129 INFO  [Log] RG-11: Clickon Logout: Action click 
+2017-07-17 17:46:43,130 INFO  [Log] RG-12; Waited 5000 Milli seconds for Element 
+2017-07-17 17:46:48,283 INFO  [Log] RG-13: Click logout: Action click 
+2017-07-17 17:47:09,324 INFO  [Log] Alert detected: {}Logging out from here will log you out from all the products. Still want to logout? 
+2017-07-17 17:47:10,601 INFO  [Log] closing test case  
+2017-07-17 17:47:10,637 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:47:10,681 INFO  [Log] ### Test case: RateGain-1; Description: RateGain -1; status Executed 
+2017-07-17 17:47:11,795 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:47:11,898 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:47:12,001 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:47:12,001 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:47:12,001 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:47:12,417 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-17 17:47:12,445 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-17 17:47:12,473 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-17 17:47:12,498 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-17 17:47:12,529 INFO  [Log] PostRequest_PostRequest 
+2017-07-17 17:47:12,559 INFO  [Log] ####Closing Test Suite #### 
+2017-07-17 17:47:12,559 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:47:12,560 INFO  [Log] Creating Logs backup and storing for further reference 

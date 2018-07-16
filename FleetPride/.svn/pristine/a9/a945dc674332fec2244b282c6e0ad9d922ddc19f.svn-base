@@ -1,0 +1,71 @@
+2017-07-25 15:20:36,951 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 15:20:36,965 INFO  [Log] Initialing HTML reporting 
+2017-07-25 15:20:37,169 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 15:20:37,169 WARN  [Log] Browser instance value is null 
+2017-07-25 15:20:37,701 INFO  [Log] Object repository is created successfully 
+2017-07-25 15:20:37,776 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-25 15:20:37,852 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 15:20:37,903 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 15:20:37,953 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 15:20:38,000 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 15:20:38,049 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 15:20:38,093 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 15:20:38,137 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 15:20:38,175 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 15:20:38,213 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 15:20:38,251 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 15:20:38,287 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 15:20:38,320 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 15:20:38,351 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 15:20:38,384 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 15:20:38,415 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 15:20:38,448 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 15:20:38,479 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 15:20:38,508 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 15:20:38,532 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 15:20:38,563 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 15:20:38,599 INFO  [Log] **************************************************************************************** 
+2017-07-25 15:20:38,599 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 15:20:38,599 INFO  [Log] **************************************************************************************** 
+2017-07-25 15:20:44,795 INFO  [Log] #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx In chrome Browser for TestData:1 
+2017-07-25 15:20:56,667 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 15:20:57,183 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 15:20:57,322 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 15:20:57,415 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 15:20:57,416 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 15:21:10,587 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-25 15:21:10,678 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-25 15:21:11,936 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-25 15:21:11,936 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-25 15:21:16,099 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-25 15:21:16,100 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-25 15:21:20,284 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-25 15:21:20,284 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-25 15:21:22,470 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-25 15:21:23,001 INFO  [Log] Failed: TS_16: verify by default competation is inactive; Value: blank; is Not Present in Page values: ,  
+2017-07-25 15:21:23,840 INFO  [Log] TS_17: click on competation: Action click 
+2017-07-25 15:21:23,918 INFO  [Log] TS_18; Passed; verify competition is active; Value: active; Present in Page values: active,  
+2017-07-25 15:21:25,154 INFO  [Log] TS_19: verify competition graph is present; Passed; ; Element is present on the active page 
+2017-07-25 15:21:25,860 INFO  [Log] TS_20: hover on bar chart: ToolTipNavigation 
+2017-07-25 15:21:27,049 INFO  [Log] Compset Avg. Supply : 100; Value has been stored in index: 0 
+2017-07-25 15:21:27,104 INFO  [Log] User specified value has been replaced at index0New Value is: 100 
+2017-07-25 15:21:27,104 ERROR [Log] Error#: optima-48TS_23BlankVerifyNumberOrOtherExist  java.lang.Error: Unresolved compilation problem: 
+	onstant cannot be resolved
+null:Exception is not handled 
+2017-07-25 15:21:29,586 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 15:21:29,689 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 15:21:29,793 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 15:21:29,793 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:21:29,793 FATAL [Log] optima-48TS_23BlankVerifyNumberOrOtherExist  java.lang.Error: Unresolved compilation problem: 
+	onstant cannot be resolved
+null:Exception is not handled 
+2017-07-25 15:21:29,793 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:21:29,854 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 15:21:29,875 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-25 15:21:29,895 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-25 15:21:29,925 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-25 15:21:29,952 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-25 15:21:29,991 INFO  [Log] PostRequest_PostRequest 
+2017-07-25 15:21:30,019 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 15:21:30,019 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:21:30,019 INFO  [Log] Creating Logs backup and storing for further reference 

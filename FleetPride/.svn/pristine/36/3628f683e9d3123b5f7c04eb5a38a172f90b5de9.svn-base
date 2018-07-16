@@ -1,0 +1,65 @@
+2017-07-25 15:49:51,273 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 15:49:51,328 INFO  [Log] Initialing HTML reporting 
+2017-07-25 15:49:51,536 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 15:49:51,536 WARN  [Log] Browser instance value is null 
+2017-07-25 15:49:52,163 INFO  [Log] Object repository is created successfully 
+2017-07-25 15:49:52,236 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-25 15:49:52,311 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 15:49:52,369 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 15:49:52,421 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 15:49:52,482 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 15:49:52,528 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 15:49:52,574 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 15:49:52,624 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 15:49:52,663 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 15:49:52,702 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 15:49:52,742 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 15:49:52,771 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 15:49:52,802 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 15:49:52,834 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 15:49:52,866 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 15:49:52,902 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 15:49:52,934 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 15:49:52,966 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 15:49:52,999 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 15:49:53,026 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 15:49:53,059 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 15:49:53,102 INFO  [Log] **************************************************************************************** 
+2017-07-25 15:49:53,103 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 15:49:53,103 INFO  [Log] **************************************************************************************** 
+2017-07-25 15:49:59,275 INFO  [Log] #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx In chrome Browser for TestData:1 
+2017-07-25 15:50:13,225 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 15:50:14,139 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 15:50:14,296 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 15:50:14,403 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 15:50:14,404 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 15:50:26,606 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-25 15:50:26,711 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-25 15:50:27,985 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-25 15:50:27,989 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-25 15:50:32,132 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-25 15:50:32,132 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-25 15:50:36,360 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-25 15:50:36,361 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-25 15:50:38,493 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-25 15:50:38,987 INFO  [Log] Failed: TS_16: verify by default competation is inactive; Value: blank; is Not Present in Page values: ,  
+2017-07-25 15:50:39,909 INFO  [Log] TS_17: click on competation: Action click 
+2017-07-25 15:50:40,007 INFO  [Log] TS_18; Passed; verify competition is active; Value: active; Present in Page values: active,  
+2017-07-25 15:50:41,694 INFO  [Log] TS_19: verify competition graph is present; Passed; ; Element is present on the active page 
+2017-07-25 15:50:41,813 INFO  [Log] TS_20: hover on bar chart: ToolTipNavigation 
+2017-07-25 15:51:07,254 ERROR [Log] Error#: optima-48TS_21XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-25 15:51:09,669 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 15:51:09,825 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 15:51:09,943 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 15:51:09,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:51:09,943 FATAL [Log] optima-48TS_21XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-25 15:51:09,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:51:10,067 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 15:51:10,106 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-25 15:51:10,133 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-25 15:51:10,170 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-25 15:51:10,199 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-25 15:51:10,227 INFO  [Log] PostRequest_PostRequest 
+2017-07-25 15:51:10,256 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 15:51:10,256 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:51:10,256 INFO  [Log] Creating Logs backup and storing for further reference 

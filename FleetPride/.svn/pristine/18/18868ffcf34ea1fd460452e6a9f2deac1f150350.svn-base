@@ -1,0 +1,41 @@
+2017-10-30 16:28:48,046 INFO  [Log] Test Scenario Configuration started 
+2017-10-30 16:28:48,067 INFO  [Log] Initialing HTML reporting 
+2017-10-30 16:28:48,285 INFO  [Log] Starting Test Suit Execution 
+2017-10-30 16:28:48,479 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-30 16:28:48,510 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-30 16:28:48,541 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-30 16:28:48,953 INFO  [Log] Object repository is created successfully 
+2017-10-30 16:28:49,008 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-10-30 16:28:49,067 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-10-30 16:28:49,112 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-10-30 16:28:49,151 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-10-30 16:28:49,189 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-10-30 16:28:49,225 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-10-30 16:28:49,259 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-10-30 16:28:49,299 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-10-30 16:28:49,343 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-10-30 16:28:49,376 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-10-30 16:28:49,420 INFO  [Log] **************************************************************************************** 
+2017-10-30 16:28:49,420 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdp_FP_brand_code_TC_11; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-30 16:28:49,420 INFO  [Log] **************************************************************************************** 
+2017-10-30 16:28:55,305 INFO  [Log] #### Executing Test case: FP_pdp_FP_brand_code_TC_11; Description: Blank In Chrome Browser for TestData:1 
+2017-10-30 16:29:19,433 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-30 16:29:57,892 INFO  [Log] TS_02: Click on the login link 
+2017-10-30 16:30:33,457 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-30 16:31:08,993 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-30 16:31:49,817 INFO  [Log] TS_05: Click on login button 
+2017-10-30 16:32:29,643 INFO  [Log] TS_06: Click on the product name link that appears on the home page. 
+2017-10-30 16:33:05,294 INFO  [Log] TS_07; Passed; Verify brand name appears before the product part number on PDP page.; Value: timken; Present in Page values: Timken,  
+2017-10-30 16:33:10,296 INFO  [Log] closing test case  
+2017-10-30 16:33:12,594 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-30 16:33:12,625 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-30 16:33:12,657 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-30 16:33:12,671 INFO  [Log] ### Test case: FP_pdp_FP_brand_code_TC_11; Description: Blank; status Executed 
+2017-10-30 16:33:12,844 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-30 16:33:12,878 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-30 16:33:12,911 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-30 16:33:12,911 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-30 16:33:12,911 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-30 16:33:13,163 INFO  [Log] ####Closing Test Suite #### 
+2017-10-30 16:33:13,163 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-30 16:33:13,163 INFO  [Log] Creating Logs backup and storing for further reference 

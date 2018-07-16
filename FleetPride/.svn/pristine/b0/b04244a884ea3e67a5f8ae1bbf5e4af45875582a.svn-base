@@ -1,0 +1,62 @@
+2017-07-25 22:49:45,437 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 22:49:45,451 INFO  [Log] Initialing HTML reporting 
+2017-07-25 22:49:45,658 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 22:49:45,658 WARN  [Log] Browser instance value is null 
+2017-07-25 22:49:46,298 INFO  [Log] Object repository is created successfully 
+2017-07-25 22:49:46,402 INFO  [Log] **************************************************************************************** 
+2017-07-25 22:49:46,402 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 22:49:46,402 INFO  [Log] **************************************************************************************** 
+2017-07-25 22:49:53,602 INFO  [Log] #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx In chrome Browser for TestData:1 
+2017-07-25 22:50:01,721 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 22:50:02,114 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 22:50:02,265 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 22:50:02,363 INFO  [Log] TS_04: click on forget password: Action click 
+2017-07-25 22:50:02,549 INFO  [Log] TS_05: verify forget password screen appear; Passed; ; Element is present on the active page 
+2017-07-25 22:50:02,922 INFO  [Log] TS_06: enter eamil; Action: Submited Value 
+2017-07-25 22:50:03,117 INFO  [Log] TS_07: click on recovery email button: Action click 
+2017-07-25 22:50:03,118 INFO  [Log] TS_08; Waited 2000 Milli seconds for Element 
+2017-07-25 22:50:05,881 INFO  [Log] Failed: TS_09: verify reset email has been sent; Value: a password recovery email has been sent to your email id, please check!; is Not Present in Page values: Invalid email format!,  
+2017-07-25 22:50:06,823 INFO  [Log] closing test case  
+2017-07-25 22:50:07,150 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-25 22:50:07,197 INFO  [Log] ### Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx; status Executed 
+2017-07-25 22:50:08,501 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 22:50:08,612 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 22:50:08,732 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 22:50:08,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 22:50:08,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 22:50:08,877 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 22:50:08,967 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 22:50:09,014 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 22:50:09,055 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 22:50:09,101 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 22:50:09,139 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 22:50:09,177 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 22:50:09,210 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 22:50:09,251 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 22:50:09,292 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 22:50:09,323 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 22:50:09,372 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 22:50:09,407 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 22:50:09,436 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 22:50:09,465 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 22:50:09,494 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 22:50:09,515 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 22:50:09,543 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 22:50:09,581 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 22:50:09,611 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 22:50:09,642 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 22:50:09,669 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 22:50:09,709 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-25 22:50:09,735 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-25 22:50:09,762 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-25 22:50:09,783 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-25 22:50:09,806 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-25 22:50:09,833 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-25 22:50:09,860 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-25 22:50:09,888 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-25 22:50:09,908 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-25 22:50:09,931 INFO  [Log] Rg_TC0070.xlsx_Rg_TC0070.xlsx 
+2017-07-25 22:50:09,955 INFO  [Log] Rg_TC0072.xlsx_Rg_TC0072.xlsx 
+2017-07-25 22:50:09,984 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 22:50:09,985 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 22:50:09,985 INFO  [Log] Creating Logs backup and storing for further reference 

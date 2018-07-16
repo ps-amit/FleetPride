@@ -1,0 +1,28 @@
+2017-10-12 12:34:05,420 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 12:34:05,440 INFO  [Log] Initialing HTML reporting 
+2017-10-12 12:34:05,650 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 12:34:05,860 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 12:34:05,890 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 12:34:05,920 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 12:34:06,388 INFO  [Log] Object repository is created successfully 
+2017-10-12 12:34:06,479 INFO  [Log] **************************************************************************************** 
+2017-10-12 12:34:06,479 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_001_C; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 12:34:06,479 INFO  [Log] **************************************************************************************** 
+2017-10-12 12:34:12,362 INFO  [Log] #### Executing Test case: PGNG_1801_TC_001_C; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 12:34:19,041 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 12:34:55,040 INFO  [Log] TS_02: Click on "Blank Order Template" button 
+2017-10-12 12:34:55,040 INFO  [Log] TS_03; Waited 3000 Milli seconds for Element 
+2017-10-12 12:34:58,048 INFO  [Log] Failed: TS_04: Verify file download and its extension in the download section file extension is not same C:\Users\amit.singh\Downloads\desktop.ini  as defined csv 
+2017-10-12 12:35:03,667 INFO  [Log] closing test case  
+2017-10-12 12:35:05,916 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 12:35:05,947 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 12:35:05,969 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 12:35:06,021 INFO  [Log] ### Test case: PGNG_1801_TC_001_C; Description: Blank; status Executed 
+2017-10-12 12:35:06,201 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 12:35:06,231 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 12:35:06,271 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 12:35:06,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 12:35:06,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 12:35:06,351 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 12:35:06,351 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 12:35:06,351 INFO  [Log] Creating Logs backup and storing for further reference 

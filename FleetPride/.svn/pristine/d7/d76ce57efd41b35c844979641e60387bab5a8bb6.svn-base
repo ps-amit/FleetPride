@@ -1,0 +1,135 @@
+2017-09-21 12:14:59,440 INFO  [Log] Test Scenario Configuration started 
+2017-09-21 12:14:59,455 INFO  [Log] Initialing HTML reporting 
+2017-09-21 12:14:59,674 INFO  [Log] Starting Test Suit Execution 
+2017-09-21 12:14:59,832 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-21 12:14:59,863 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-21 12:14:59,894 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-21 12:15:00,331 INFO  [Log] Object repository is created successfully 
+2017-09-21 12:15:00,457 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-21 12:15:00,519 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-21 12:15:00,581 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-21 12:15:00,659 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-21 12:15:00,706 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-21 12:15:00,771 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-21 12:15:00,820 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-21 12:15:00,877 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-21 12:15:00,924 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-21 12:15:00,971 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-21 12:15:01,002 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-21 12:15:01,049 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-21 12:15:01,095 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-21 12:15:01,142 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-21 12:15:01,173 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-21 12:15:01,220 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-21 12:15:01,251 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-21 12:15:01,283 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-21 12:15:01,314 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-21 12:15:01,345 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-21 12:15:01,439 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-21 12:15:01,471 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-21 12:15:01,502 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-21 12:15:01,533 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-21 12:15:01,570 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-21 12:15:01,602 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-21 12:15:01,630 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-21 12:15:01,646 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-21 12:15:01,677 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-21 12:15:01,709 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-21 12:15:01,740 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-21 12:15:01,771 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-21 12:15:01,818 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-21 12:15:01,865 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-21 12:15:01,896 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-21 12:15:01,940 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-21 12:15:01,967 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-21 12:15:01,997 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-21 12:15:02,026 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-21 12:15:02,034 INFO  [Log] RG_TC_012TS_02ObjectRepSubmitValue  org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:30732 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2017-09-21 12:15:02,053 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-21 12:15:02,071 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-21 12:15:02,097 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-21 12:15:02,122 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-21 12:15:02,140 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-21 12:15:02,159 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-21 12:15:02,175 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-21 12:15:02,222 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-21 12:15:02,269 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-21 12:15:02,347 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-21 12:15:02,378 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-21 12:15:02,409 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-21 12:15:02,440 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-21 12:15:02,471 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-21 12:15:02,487 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-21 12:15:02,518 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-21 12:15:02,549 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-21 12:15:02,579 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-21 12:15:02,597 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-21 12:15:02,628 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-21 12:15:02,643 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-21 12:15:02,690 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-21 12:15:02,706 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-21 12:15:02,737 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-21 12:15:02,768 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-21 12:15:02,799 INFO  [Log] PGNG1030_TC_012.xlsx_Blank 
+2017-09-21 12:15:02,815 INFO  [Log] PGNG1030_TC_076.xlsx_Blank 
+2017-09-21 12:15:02,846 INFO  [Log] RG_TC_014.xlsx_Blank 
+2017-09-21 12:15:02,877 INFO  [Log] RG_TC_041.xlsx_Blank 
+2017-09-21 12:15:02,893 INFO  [Log] RG_TC_103.xlsx_Blank 
+2017-09-21 12:15:02,924 INFO  [Log] RG_TC_104.xlsx_Blank 
+2017-09-21 12:15:02,968 INFO  [Log] RG_TC_110.xlsx_Blank 
+2017-09-21 12:15:02,980 INFO  [Log] RG_TC_113.xlsx_Blank 
+2017-09-21 12:15:03,012 INFO  [Log] RG_TC_114_Blank 
+2017-09-21 12:15:03,043 INFO  [Log] RG_TC_166_Blank 
+2017-09-21 12:15:03,058 INFO  [Log] RG_TC_176_Blank 
+2017-09-21 12:15:03,090 INFO  [Log] PGNG1030_TC_051.xlsx_Blank 
+2017-09-21 12:15:03,121 INFO  [Log] Rg_TC_174_Blank 
+2017-09-21 12:15:03,152 INFO  [Log] PGNG1030_TC_053_Blank 
+2017-09-21 12:15:03,168 INFO  [Log] PGNG1030_TC_054_Blank 
+2017-09-21 12:15:03,183 INFO  [Log] PGNG1030_TC_062_Blank 
+2017-09-21 12:15:03,199 INFO  [Log] PGNG1030_TC_005_Blank 
+2017-09-21 12:15:03,214 INFO  [Log] PGNG1030_TC_006_Blank 
+2017-09-21 12:15:03,230 INFO  [Log] PGNG1030_TC_013_Blank 
+2017-09-21 12:15:03,246 INFO  [Log] PGNG1030_TC_015_Blank 
+2017-09-21 12:15:03,261 INFO  [Log] PGNG1030_TC_017_Blank 
+2017-09-21 12:15:03,277 INFO  [Log] PGNG1030_TC_019_Blank 
+2017-09-21 12:15:03,292 INFO  [Log] PGNG1030_TC_022_Blank 
+2017-09-21 12:15:03,308 INFO  [Log] PGNG1030_TC_038_Blank 
+2017-09-21 12:15:03,324 INFO  [Log] PGNG1030_TC_039_Blank 
+2017-09-21 12:15:03,339 INFO  [Log] PGNG1030_TC_040_Blank 
+2017-09-21 12:15:03,355 INFO  [Log] PGNG1030_TC_045_Blank 
+2017-09-21 12:15:03,370 INFO  [Log] PGNG1030_TC_048_Blank 
+2017-09-21 12:15:03,386 INFO  [Log] PGNG1030_TC_075_Blank 
+2017-09-21 12:15:03,417 INFO  [Log] PGNG1030_TC_078_Blank 
+2017-09-21 12:15:03,433 INFO  [Log] PGNG1030_TC_079_Blank 
+2017-09-21 12:15:03,449 INFO  [Log] PGNG1030_TC_105_Blank 
+2017-09-21 12:15:03,465 INFO  [Log] PGNG1030_TC_106_Blank 
+2017-09-21 12:15:03,481 INFO  [Log] PGNG1030_TC_107_Blank 
+2017-09-21 12:15:03,496 INFO  [Log] PGNG1030_TC_111_Blank 
+2017-09-21 12:15:03,512 INFO  [Log] PGNG1030_TC_120_Blank 
+2017-09-21 12:15:03,543 INFO  [Log] PGNG1030_TC_116_Blank 
+2017-09-21 12:15:03,574 INFO  [Log] **************************************************************************************** 
+2017-09-21 12:15:03,574 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_012; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-21 12:15:03,574 INFO  [Log] **************************************************************************************** 
+2017-09-21 12:15:05,242 WARN  [Log]  Browser instance is active 
+2017-09-21 12:15:07,300 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:30732 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2017-09-21 12:15:07,300 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-21 12:15:07,300 FATAL [Log] RG_TC_012TS_02ObjectRepSubmitValue  org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:30732 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2017-09-21 12:15:07,300 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-21 12:15:07,394 INFO  [Log] ####Closing Test Suite #### 
+2017-09-21 12:15:07,394 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-21 12:15:07,394 INFO  [Log] Creating Logs backup and storing for further reference 

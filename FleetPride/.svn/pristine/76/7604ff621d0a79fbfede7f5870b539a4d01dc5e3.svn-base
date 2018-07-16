@@ -1,0 +1,76 @@
+2017-07-14 12:10:12,391 INFO  [Log] Test Scenario Configuration started 
+2017-07-14 12:10:12,411 INFO  [Log] Initialing HTML reporting 
+2017-07-14 12:10:12,620 INFO  [Log] Starting Test Suit Execution 
+2017-07-14 12:10:12,620 WARN  [Log] Browser instance value is null 
+2017-07-14 12:10:13,213 INFO  [Log] Object repository is created successfully 
+2017-07-14 12:10:13,321 INFO  [Log] **************************************************************************************** 
+2017-07-14 12:10:13,321 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain123.xlsx; Description: RateGain123.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-14 12:10:13,321 INFO  [Log] **************************************************************************************** 
+2017-07-14 12:11:03,785 ERROR [Log] Error#: RateGain123.xlsx; Error in communicating with Browserorg.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+-7e08-4474-a285-3208198ce6fd}
+1500014418408	addons.xpi	DEBUG	New add-on automation3@ranorex.com installed in winreg-app-global
+1500014418427	DeferredSave.extensions.json	DEBUG	Starting write
+1500014418511	addons.xpi	WARN	Disabling foreign installed add-on automation3@ranorex.com in winreg-app-global
+1500014418511	addons.xpi-utils	DEBUG	Make addon winreg-app-global:automation3@ranorex.com visible
+1500014418511	DeferredSave.extensions.json	DEBUG	Save changes
+1500014418511	DeferredSave.extensions.json	DEBUG	Data changed while write in progress
+1500014418511	DeferredSave.extensions.json	DEBUG	Save changes
+1500014418512	addons.xpi	DEBUG	Updating XPIState for {"id":"automation3@ranorex.com","syncGUID":"DN_Bkf8oPbxl","location":"winreg-app-global","version":"6.0.0.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://ranorexautomation3/content/about.xul","iconURL":"chrome://ranorexautomation3/content/ranorexautomation.png","icon64URL":null,"defaultLocale":{"name":"Ranorex Automation","description":"Enables Ranorex Automation for Firefox web documents","creator":"Ranorex","homepageURL":null},"visible":true,"active":false,"userDisabled":true,"appDisabled":true,"descriptor":"C:\\Program Files (x86)\\Ranorex 6.0\\Ranorex Firefox Extension","installDate":1473154692603,"updateDate":1473154692603,"applyBackgroundUpdates":1,"bootstrap":false,"size":1634634,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":true,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"2.0","maxVersion":"39.9"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":0}
+1500014418512	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1500014418512	addons.xpi-utils	DEBUG	Updating add-on states
+1500014418514	addons.xpi-utils	DEBUG	Writing add-ons list
+1500014418523	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1500014418523	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1500014418523	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1500014418523	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1500014418523	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1500014418524	addons.manager	DEBUG	Starting provider: GMPProvider
+1500014418530	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1500014418530	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1500014418530	addons.manager	DEBUG	Starting provider: PluginProvider
+1500014418531	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1500014418531	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1500014418531	addons.manager	DEBUG	Completed startup sequence
+1500014420696	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1500014420696	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1500014420696	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1500014422030	DeferredSave.extensions.json	DEBUG	Write succeeded
+1500014422030	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1500014422030	DeferredSave.extensions.json	DEBUG	Starting timer
+1500014422041	addons.repository	DEBUG	No addons.json found.
+1500014422042	DeferredSave.addons.json	DEBUG	Save changes
+1500014422044	DeferredSave.addons.json	DEBUG	Starting timer
+1500014422056	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1500014422056	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1500014422056	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1500014422059	DeferredSave.extensions.json	DEBUG	Starting write
+1500014422147	DeferredSave.addons.json	DEBUG	Starting write
+1500014422382	DeferredSave.extensions.json	DEBUG	Write succeeded
+1500014422403	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'Vinayak-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: driver.version: FirefoxDriver 
+2017-07-14 12:11:03,785 INFO  [Log] #### Executing Test case: RateGain123.xlsx; Description: RateGain123.xlsx In firefox Browser for TestData:1 
+2017-07-14 12:11:03,852 ERROR [Log] Error#: RateGain-4RG_4-01URLOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-07-14 12:11:04,575 WARN  [Log] Browser instance value is null 
+2017-07-14 12:11:04,575 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-14 12:11:04,575 FATAL [Log] RateGain-4RG_4-01URLOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-07-14 12:11:04,575 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-14 12:11:04,949 INFO  [Log] AlertRateKart_1_AlertRateKart_1 
+2017-07-14 12:11:05,034 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-14 12:11:05,096 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-14 12:11:05,156 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-14 12:11:05,189 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-14 12:11:05,225 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-14 12:11:05,259 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-14 12:11:05,328 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-14 12:11:05,373 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-14 12:11:05,443 INFO  [Log] RateGain-4_Testing  
+2017-07-14 12:11:05,487 INFO  [Log] RateGain-5_RateGain -5 
+2017-07-14 12:11:05,537 INFO  [Log] RateGain-6_RateGain -6 
+2017-07-14 12:11:05,588 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-14 12:11:05,654 INFO  [Log] PostRequest_PostRequest 
+2017-07-14 12:11:05,682 INFO  [Log] ####Closing Test Suite #### 
+2017-07-14 12:11:05,682 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-14 12:11:05,682 INFO  [Log] Creating Logs backup and storing for further reference 

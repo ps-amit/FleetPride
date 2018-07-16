@@ -1,0 +1,56 @@
+2018-06-05 17:19:29,737 INFO  [Log] Test Scenario Configuration started 
+2018-06-05 17:19:29,755 INFO  [Log] Initialing HTML reporting 
+2018-06-05 17:19:30,045 INFO  [Log] Starting Test Suit Execution 
+2018-06-05 17:19:30,456 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-05 17:19:30,527 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-05 17:19:30,605 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-05 17:19:31,317 INFO  [Log] Object repository is created successfully 
+2018-06-05 17:19:31,461 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-05 17:19:31,583 INFO  [Log] **************************************************************************************** 
+2018-06-05 17:19:31,583 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-658_PO_Field_Incorrect_Validation_Character_Limit; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-05 17:19:31,583 INFO  [Log] **************************************************************************************** 
+2018-06-05 17:19:38,034 INFO  [Log] #### Executing Test case: PE-658_PO_Field_Incorrect_Validation_Character_Limit; Description: Blank In Chrome Browser for TestData:1 
+2018-06-05 17:19:45,669 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-06-05 17:19:45,837 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-06-05 17:19:45,974 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1234 
+2018-06-05 17:19:45,975 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-06-05 17:19:48,297 INFO  [Log] TS_05: Click on login button 
+2018-06-05 17:19:48,298 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-06-05 17:19:58,495 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: XB-LG0085 
+2018-06-05 17:20:02,035 INFO  [Log] TS_08: Click on the Search icon 
+2018-06-05 17:20:02,035 INFO  [Log] TS_09; Waited 20000 Milli seconds for Element 
+2018-06-05 17:20:22,147 INFO  [Log] TS_10: Click on Add to cart button  
+2018-06-05 17:20:22,147 INFO  [Log] TS_11; Waited 10000 Milli seconds for Element 
+2018-06-05 17:20:35,012 INFO  [Log] TS_12: Click on the mini my cart link 
+2018-06-05 17:20:35,013 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-06-05 17:20:45,100 INFO  [Log] TS_14: Click on the Proceed to Order Review  button 
+2018-06-05 17:20:45,101 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2018-06-05 17:20:55,179 INFO  [Log] TS_16: Click on the Proceed to Payment information  button 
+2018-06-05 17:20:55,180 INFO  [Log] TS_17; Waited 8000 Milli seconds for Element 
+2018-06-05 17:21:03,297 INFO  [Log] TS_18; Passed; Verify the help text for the PO field; Text is present for the given emement element :  
+2018-06-05 17:21:08,298 INFO  [Log] closing test case  
+2018-06-05 17:21:11,126 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-05 17:21:11,195 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-05 17:21:11,269 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-05 17:21:11,299 INFO  [Log] ### Test case: PE-658_PO_Field_Incorrect_Validation_Character_Limit; Description: Blank; status Executed 
+2018-06-05 17:21:11,670 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-05 17:21:11,738 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-05 17:21:11,812 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-05 17:21:11,812 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-05 17:21:11,812 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-05 17:21:12,151 INFO  [Log] **************************************************************************************** 
+2018-06-05 17:21:12,151 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: fetch_dsp_CA_Restricted; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-05 17:21:12,151 INFO  [Log] **************************************************************************************** 
+2018-06-05 17:21:14,183 INFO  [Log] #### Executing Test case: fetch_dsp_CA_Restricted; Description: Blank In No Browser Browser for TestData:1 
+2018-06-05 17:21:17,053 INFO  [Log] TS_01: fetch 'CA'  restricted DSP;Column Name is not provided, Please provide column name in ActionSupportValue 
+2018-06-05 17:21:22,054 INFO  [Log] closing test case  
+2018-06-05 17:21:22,410 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-05 17:21:22,481 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-05 17:21:22,552 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-05 17:21:22,574 INFO  [Log] ### Test case: fetch_dsp_CA_Restricted; Description: Blank; status Executed 
+2018-06-05 17:21:22,957 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-05 17:21:23,030 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-05 17:21:23,105 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-05 17:21:23,105 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-05 17:21:23,105 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-05 17:21:23,217 INFO  [Log] Creating Logs backup and storing for further reference 

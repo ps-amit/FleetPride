@@ -1,0 +1,102 @@
+2017-11-06 10:51:39,137 INFO  [Log] Test Scenario Configuration started 
+2017-11-06 10:51:39,154 INFO  [Log] Initialing HTML reporting 
+2017-11-06 10:51:39,314 INFO  [Log] Starting Test Suit Execution 
+2017-11-06 10:51:39,479 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-06 10:51:39,510 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-06 10:51:39,542 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-06 10:51:39,951 INFO  [Log] Object repository is created successfully 
+2017-11-06 10:51:40,019 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-06 10:51:40,075 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-06 10:51:40,123 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-06 10:51:40,166 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-06 10:51:40,205 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-06 10:51:40,252 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-06 10:51:40,486 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-06 10:51:40,787 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-06 10:51:40,814 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-06 10:51:40,842 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-06 10:51:40,868 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-06 10:51:40,915 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-06 10:51:40,945 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-06 10:51:40,973 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-06 10:51:41,326 INFO  [Log] Testing_Purpose_Blank 
+2017-11-06 10:51:41,487 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-06 10:51:41,541 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-06 10:51:41,605 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-06 10:51:41,676 INFO  [Log] **************************************************************************************** 
+2017-11-06 10:51:41,676 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_07; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-06 10:51:41,676 INFO  [Log] **************************************************************************************** 
+2017-11-06 10:51:49,711 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_07; Description: Blank In Chrome Browser for TestData:1 
+2017-11-06 10:52:23,168 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-06 10:53:08,311 INFO  [Log] TS_02: Click on the login link 
+2017-11-06 10:53:44,355 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-06 10:54:19,898 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-06 10:55:09,066 INFO  [Log] TS_05: Click on login button 
+2017-11-06 10:55:56,593 INFO  [Log] TS_06: Click on the product link 
+2017-11-06 10:56:32,216 INFO  [Log] TS_07: Click on "Add to cart" button. 
+2017-11-06 10:57:12,427 INFO  [Log] TS_08: Click on global my cart link from the header section 
+2017-11-06 10:57:48,464 INFO  [Log] TS_09: Capture the original field quantity value.1; Value has been stored in index: 0 
+2017-11-06 10:58:26,833 INFO  [Log] TS_10: Clear the quantity field: Copy and store following value:Info# Starting Automation framework
+Info# Cleaning Logs
+Info# Test Scenario Configuration started
+Info# Initialing HTML reporting
+Info# Starting Test Suit Execution
+Info# Quiting all instance of Browser(Firefox)
+Info# Quiting all instance of Browser(Chrome)
+Info# Quiting all instance of Browser(Internet explorer)
+Info# Object repository is created successfully
+Info#Skip test case# FP_home_page_search_productName_Blank
+Info#Skip test case# FP_home_page_search_productPartNumber_Blank
+Info#Skip test case# FP_home_page_search_invalid_data_Blank
+Info#Skip test case# FP_home_page_search_below_2_characters_Blank
+Info#Skip test case# FP_pdc_search_productPartNumber_Blank
+Info#Skip test case# FP_pdc_search_productName_Blank
+Info#Skip test case# FP_pdc_search_invalid_data_Blank
+Info#Skip test case# FP_pdc_search_below_2_characters_Blank
+Info#Skip test case# FP_pdc_quick_order_Blank
+Info#Skip test case# FP_pdp_Add_To_Cart_TC_06_Blank
+Info#Skip test case# FP_pdp_FP_brand_code_TC_11_Blank
+Info#Skip test case# FP_pdp_Add_To_Cart_TC_19_Blank
+Info#Skip test case# FP_contact_us_page_before_login_Blank
+Info#Skip test case# FP_Order_Upload_Blank
+Info#Skip test case# Testing_Purpose_Blank
+Info#Skip test case# FP_contact_us_page_after_login_Blank
+Info#Skip test case# FP_My_Account_TC_2_Blank
+Info#Skip test case# FP_My_Cart_TC_01_Blank
+#### Executing Test case: FP_My_Cart_TC_07; Description: Blank For Data: 1
+Starting ChromeDriver 2.29.461591 (62ebf098771772160f391d75e589dc567915b233) on port 30118
+Only local connections are allowed.
+Nov 06, 2017 10:51:46 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Info# #### Executing Test case: FP_My_Cart_TC_07; Description: Blank In Chrome Browser for TestData:1
+loc in open given url is    devURL
+url in open url method  https://masterdev-pdc-dev.cs23.force.com/pdc
+[26.900][SEVERE]: Timed out receiving message from renderer: 14.852
+[26.904][SEVERE]: Timed out receiving message from renderer: -0.003
+ we are in js executer
+ complete state successfull
+Info# TS_01: Open url; Action: open URL
+Info#Pass# TS_02: Click on the login link
+Info#Pass# TS_03: Enter username; Action: Submited ValueValue: User@avionos.com
+Info#Pass# TS_04: Enter Password; Action: Submited ValueValue: Testing12
+Info#Pass# TS_05: Click on login button
+Info#Pass# TS_06: Click on the product link
+Info#Pass# TS_07: Click on "Add to cart" button.
+Info#Pass# TS_08: Click on global my cart link from the header section
+Info# TS_09: Capture the original field quantity value.1; Value has been stored in index: 0
+At index no: 1 
+2017-11-06 10:59:02,343 INFO  [Log] TS_11: Input '0' in the quantity field; Action: Submited ValueValue: null 
+2017-11-06 10:59:37,780 INFO  [Log] TS_12: Click on the screen 
+2017-11-06 11:00:38,364 INFO  [Log] FP_My_Cart_TC_07TS_13XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-06 11:00:39,330 WARN  [Log]  Browser instance is active 
+2017-11-06 11:00:41,918 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-06 11:00:41,956 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-06 11:00:41,993 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-06 11:00:41,993 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-06 11:00:41,994 FATAL [Log] FP_My_Cart_TC_07TS_13XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-06 11:00:41,994 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-06 11:00:42,063 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2017-11-06 11:00:42,090 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2017-11-06 11:00:42,119 INFO  [Log] ####Closing Test Suite #### 
+2017-11-06 11:00:42,119 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-06 11:00:42,119 INFO  [Log] Creating Logs backup and storing for further reference 

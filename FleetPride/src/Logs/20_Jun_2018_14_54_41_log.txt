@@ -1,0 +1,30 @@
+2018-06-20 14:54:33,231 INFO  [Log] Test Scenario Configuration started 
+2018-06-20 14:54:33,250 INFO  [Log] Initialing HTML reporting 
+2018-06-20 14:54:33,523 INFO  [Log] Starting Test Suit Execution 
+2018-06-20 14:54:33,780 INFO  [RetryExec] I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:11383: Connection reset 
+2018-06-20 14:54:33,780 INFO  [RetryExec] Retrying request to {}->http://localhost:11383 
+2018-06-20 14:54:33,968 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-20 14:54:34,047 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-20 14:54:34,129 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-20 14:54:34,774 INFO  [Log] Object repository is created successfully 
+2018-06-20 14:54:34,852 INFO  [Log] **************************************************************************************** 
+2018-06-20 14:54:34,852 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-20 14:54:34,852 INFO  [Log] **************************************************************************************** 
+2018-06-20 14:54:38,089 WARN  [Log]  Browser instance is active 
+2018-06-20 14:54:40,093 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:11383 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.12.250', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-06-20 14:54:40,093 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 14:54:40,093 FATAL [Log] Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.12.250', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 91ce1c71-cea2-4154-8b57-5470d3b42e4b 
+2018-06-20 14:54:40,093 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 14:54:41,357 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-20 14:54:41,583 INFO  [Log] Simple_Login_Blank 
+2018-06-20 14:54:41,637 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-20 14:54:41,709 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-20 14:54:41,744 INFO  [Log] Creating Logs backup and storing for further reference 

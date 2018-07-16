@@ -1,0 +1,64 @@
+2017-11-02 13:27:26,300 INFO  [Log] Test Scenario Configuration started 
+2017-11-02 13:27:26,320 INFO  [Log] Initialing HTML reporting 
+2017-11-02 13:27:26,500 INFO  [Log] Starting Test Suit Execution 
+2017-11-02 13:27:26,772 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 13:27:26,802 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 13:27:26,832 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 13:27:27,252 INFO  [Log] Object repository is created successfully 
+2017-11-02 13:27:27,323 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-02 13:27:27,373 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-02 13:27:27,411 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-02 13:27:27,455 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-02 13:27:27,504 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-02 13:27:27,631 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-02 13:27:27,705 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-02 13:27:27,775 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-02 13:27:27,930 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-02 13:27:27,957 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-02 13:27:27,999 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-02 13:27:28,029 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-02 13:27:28,049 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-02 13:27:28,069 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-02 13:27:28,099 INFO  [Log] Testing_Purpose_Blank 
+2017-11-02 13:27:28,129 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-02 13:27:28,169 INFO  [Log] **************************************************************************************** 
+2017-11-02 13:27:28,169 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Account; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-02 13:27:28,169 INFO  [Log] **************************************************************************************** 
+2017-11-02 13:27:34,004 INFO  [Log] #### Executing Test case: FP_My_Account; Description: Blank In Chrome Browser for TestData:1 
+2017-11-02 13:28:07,707 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 13:28:50,404 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 13:29:25,934 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 13:30:01,419 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 13:30:45,653 INFO  [Log] TS_05: Click on login button 
+2017-11-02 13:31:29,707 INFO  [Log] TS_06: Click on the My Account link 
+2017-11-02 13:32:05,209 INFO  [Log] TS_07; Passed; Verify the text 'Account Information' on the section; Value: account information; Present in Page values: Account Information,  
+2017-11-02 13:32:41,060 INFO  [Log] TS_08; Passed; Verify the text 'Contact Information' on the section; Value: contact information; Present in Page values: Contact Information,  
+2017-11-02 13:33:16,390 INFO  [Log] TS_09; Passed; Verify the text 'User Information' on the section; Value: user information; Present in Page values: User Information,  
+2017-11-02 13:33:52,231 INFO  [Log] TS_10: Click on "Edit" profile button. 
+2017-11-02 13:34:28,073 INFO  [Log] TS_11: Clear the 'First Name *' field; Action Clear 
+2017-11-02 13:35:03,597 INFO  [Log] TS_12: Clear the 'Last Name *' field; Action Clear 
+2017-11-02 13:35:39,063 INFO  [Log] TS_13: Clear the 'Phone' field; Action Clear 
+2017-11-02 13:36:14,977 INFO  [Log] TS_14: Clear the 'Username' field; Action Clear 
+2017-11-02 13:36:50,361 INFO  [Log] TS_15: Clear the 'Email' field; Action Clear 
+2017-11-02 13:37:25,872 INFO  [Log] TS_16: Input 'First Name *' field; Action: Submited ValueValue: null 
+2017-11-02 13:38:01,439 INFO  [Log] TS_17: Input 'Last Name *' field; Action: Submited ValueValue: null 
+2017-11-02 13:38:37,019 INFO  [Log] TS_18: Input 'Phone' field; Action: Submited ValueValue: null 
+2017-11-02 13:39:12,639 INFO  [Log] TS_19: Input 'Username' field; Action: Submited ValueValue: null 
+2017-11-02 13:39:48,307 INFO  [Log] TS_20: Input 'Email' field; Action: Submited ValueValue: null 
+2017-11-02 13:40:23,637 INFO  [Log] TS_21: Click on "Save" button. 
+2017-11-02 13:41:04,106 INFO  [Log] Failed: TS_22: Verify the Username data after saving; Value: user avionos; is Not Present in Page values: user@avionos.com,  
+2017-11-02 13:41:40,408 INFO  [Log] Failed: TS_23: Verify the Phone data after saving; Value: 5.3425435e7; is Not Present in Page values: 5342535,  
+2017-11-02 13:42:16,107 INFO  [Log] TS_24; Passed; Verify the Email data after saving; Value: hameed.bello@avionos.com; Present in Page values: hameed.bello@avionos.com,  
+2017-11-02 13:42:21,109 INFO  [Log] closing test case  
+2017-11-02 13:42:23,744 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 13:42:23,775 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 13:42:23,815 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 13:42:23,825 INFO  [Log] ### Test case: FP_My_Account; Description: Blank; status Executed 
+2017-11-02 13:42:24,035 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 13:42:24,075 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 13:42:24,105 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 13:42:24,105 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 13:42:24,105 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 13:42:24,155 INFO  [Log] ####Closing Test Suite #### 
+2017-11-02 13:42:24,155 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 13:42:24,155 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,96 @@
+2017-08-29 17:30:54,128 INFO  [Log] Test Scenario Configuration started 
+2017-08-29 17:30:54,148 INFO  [Log] Initialing HTML reporting 
+2017-08-29 17:30:54,319 INFO  [Log] Starting Test Suit Execution 
+2017-08-29 17:30:54,319 WARN  [Log] No Browser instance is active 
+2017-08-29 17:30:54,969 INFO  [Log] Object repository is created successfully 
+2017-08-29 17:30:55,071 INFO  [Log] Rg_TC_42.xlsx_Rg_TC_42.xlsx 
+2017-08-29 17:30:55,206 INFO  [Log] **************************************************************************************** 
+2017-08-29 17:30:55,206 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_43.xlsx; Description: Rg_TC_43.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-29 17:30:55,206 INFO  [Log] **************************************************************************************** 
+2017-08-29 17:31:01,414 INFO  [Log] #### Executing Test case: Rg_TC_43.xlsx; Description: Rg_TC_43.xlsx In Chrome Browser for TestData:1 
+2017-08-29 17:31:25,604 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-29 17:31:55,155 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-29 17:31:55,471 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-29 17:31:55,584 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-29 17:31:55,586 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-29 17:32:05,689 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-29 17:32:05,834 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-29 17:32:06,084 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-29 17:32:19,507 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-29 17:32:19,507 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-08-29 17:32:29,696 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-29 17:32:29,697 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-08-29 17:32:39,836 INFO  [Log] TS_13: click on settings: Action click 
+2017-08-29 17:32:39,837 INFO  [Log] TS_14; Waited 10000 Milli seconds for Element 
+2017-08-29 17:32:49,936 INFO  [Log] TS_15: select toggle on: Action click 
+2017-08-29 17:32:49,936 INFO  [Log] TS_16; Waited 10000 Milli seconds for Element 
+2017-08-29 17:33:00,035 INFO  [Log] TS_17: click on save: Action click 
+2017-08-29 17:33:00,166 INFO  [Log] TS_18: capture period30; Value has been stored in index: 0 
+2017-08-29 17:33:00,264 INFO  [Log] TS_19: click on optima logo: Action click 
+2017-08-29 17:33:00,266 INFO  [Log] TS_20; Waited 10000 Milli seconds for Element 
+2017-08-29 17:33:10,377 INFO  [Log] TS_21: clcik on download report: Action click 
+2017-08-29 17:33:10,378 INFO  [Log] TS_22; Waited 15000 Milli seconds for Element 
+2017-08-29 17:33:25,480 INFO  [Log] TS_23: capture length of stay----; Value has been stored in index: 1 
+2017-08-29 17:33:25,608 INFO  [Log] TS_24: capture Occupancy----; Value has been stored in index: 2 
+2017-08-29 17:33:25,609 INFO  [Log] TS_25; Waited 10000 Milli seconds for Element 
+2017-08-29 17:33:35,829 INFO  [Log] TS_26: click on rates: Action click 
+2017-08-29 17:33:35,829 INFO  [Log] TS_27; Waited 10000 Milli seconds for Element 
+2017-08-29 17:33:46,246 INFO  [Log] TS_28: click on grid view: Action click 
+2017-08-29 17:33:46,247 INFO  [Log] TS_29; Waited 10000 Milli seconds for Element 
+2017-08-29 17:33:56,333 INFO  [Log] TS_30: capture start value; Passed; Value: 30; and value 30are same 
+2017-08-29 17:33:56,448 INFO  [Log] Fail; TS_31: verify no of guest; Captured text: ----; Value form page: 1,  
+2017-08-29 17:33:57,411 INFO  [Log] Fail; TS_32: verify length of stay; Captured text: ----; Value form page: 1,  
+2017-08-29 17:34:02,886 INFO  [Log] closing test case  
+2017-08-29 17:34:03,327 INFO  [Log] Closing instance of Browser: Chrome 
+2017-08-29 17:34:03,373 INFO  [Log] ### Test case: Rg_TC_43.xlsx; Description: Rg_TC_43.xlsx; status Executed 
+2017-08-29 17:34:03,373 WARN  [Log] No Browser instance is active 
+2017-08-29 17:34:03,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 17:34:03,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 17:34:03,512 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter  
+2017-08-29 17:34:03,595 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter  
+2017-08-29 17:34:03,647 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filter 
+2017-08-29 17:34:03,710 INFO  [Log] Rg_TC_59.xlsx_Rg_TC_59.xlsx 
+2017-08-29 17:34:03,749 INFO  [Log] Rg_TC_60.xlsx_Rg_TC_60.xlsx 
+2017-08-29 17:34:03,830 INFO  [Log] Rg_TC_62.xlsx_Rg_TC_62.xlsx 
+2017-08-29 17:34:03,886 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-29 17:34:03,934 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-29 17:34:03,964 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-29 17:34:04,007 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-29 17:34:04,050 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-29 17:34:04,108 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-29 17:34:04,144 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-29 17:34:04,185 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-29 17:34:04,227 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-29 17:34:04,259 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-29 17:34:04,340 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-29 17:34:04,386 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-29 17:34:04,429 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-29 17:34:04,469 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-29 17:34:04,497 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-29 17:34:04,542 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-29 17:34:04,571 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-29 17:34:04,599 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-29 17:34:04,624 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-29 17:34:04,649 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-29 17:34:04,802 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-29 17:34:04,841 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-29 17:34:04,868 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-29 17:34:04,891 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 17:34:04,919 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-29 17:34:04,942 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-29 17:34:04,965 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 17:34:05,003 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-29 17:34:05,034 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-29 17:34:05,057 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 17:34:05,080 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-29 17:34:05,107 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-29 17:34:05,137 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-29 17:34:05,163 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-29 17:34:05,225 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-29 17:34:05,247 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-29 17:34:05,311 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-29 17:34:05,336 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-29 17:34:05,359 INFO  [Log] Rg_TC_53_multipleCAse_Rg_TC_53_multipleCAse 
+2017-08-29 17:34:05,394 INFO  [Log] ####Closing Test Suite #### 
+2017-08-29 17:34:05,394 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-29 17:34:05,394 INFO  [Log] Creating Logs backup and storing for further reference 

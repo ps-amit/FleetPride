@@ -1,0 +1,54 @@
+2018-05-28 14:34:43,914 INFO  [Log] Test Scenario Configuration started 
+2018-05-28 14:34:43,932 INFO  [Log] Initialing HTML reporting 
+2018-05-28 14:34:44,186 INFO  [Log] Starting Test Suit Execution 
+2018-05-28 14:34:45,080 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 14:34:45,304 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 14:34:45,465 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 14:34:46,224 INFO  [Log] Object repository is created successfully 
+2018-05-28 14:34:46,307 INFO  [Log] fetch_SP_qty_Blank 
+2018-05-28 14:34:46,376 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-28 14:34:46,439 INFO  [Log] fetch_X_Category_Product_Pre-requisite  
+2018-05-28 14:34:46,488 INFO  [Log] E2E_X_category_product_Blank 
+2018-05-28 14:34:46,548 INFO  [Log] Reorder_Blank 
+2018-05-28 14:34:46,589 INFO  [Log] Fetch DSP from Sales Force-qty<100_Pre-requisite 
+2018-05-28 14:34:46,624 INFO  [Log] **************************************************************************************** 
+2018-05-28 14:34:46,624 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-28 14:34:46,624 INFO  [Log] **************************************************************************************** 
+2018-05-28 14:34:53,313 INFO  [Log] #### Executing Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank In Chrome Browser for TestData:1 
+2018-05-28 14:35:02,178 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-28 14:35:02,561 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-28 14:35:02,663 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1234 
+2018-05-28 14:35:02,664 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-28 14:35:05,515 INFO  [Log] TS_05: Click on login button 
+2018-05-28 14:35:05,517 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-28 14:35:15,802 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: YP518L 
+2018-05-28 14:35:25,761 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-28 14:35:25,763 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-05-28 14:35:36,110 INFO  [Log] TS_10: Click on the down arrow icon to select the already created order list 
+2018-05-28 14:35:36,266 INFO  [Log] TS_11: Select the first available order list from the drop down 
+2018-05-28 14:35:36,266 INFO  [Log] TS_12; Waited 2000 Milli seconds for Element 
+2018-05-28 14:35:43,312 INFO  [Log] TS_13: Navigate back to the home page 
+2018-05-28 14:35:43,313 INFO  [Log] TS_14; Waited 10000 Milli seconds for Element 
+2018-05-28 14:35:54,534 INFO  [Log] TS_15: Scroll to saved order list section: Action Scroll Down 
+2018-05-28 14:35:54,781 INFO  [Log] TS_16: Click on the drop down icon to select the order list 
+2018-05-28 14:35:55,028 INFO  [Log] TS_17: Select the first order list name from the drop down 
+2018-05-28 14:35:55,029 INFO  [Log] TS_18; Waited 10000 Milli seconds for Element 
+2018-05-28 14:36:05,220 INFO  [Log] TS_19: Clear the qty field; Action Clear 
+2018-05-28 14:36:05,356 INFO  [Log] TS_20: Input qty in the field; Action: Submitted Value: Value: null 
+2018-05-28 14:36:05,519 INFO  [Log] TS_21: Click on "Add To cart" button 
+2018-05-28 14:36:05,520 INFO  [Log] TS_22; Waited 10000 Milli seconds for Element 
+2018-05-28 14:36:15,749 INFO  [Log] TS_23; Passed; Verify the appearance of the 'Back Order' text in the pop up; Text is present for the given emement element :  
+2018-05-28 14:36:15,914 INFO  [Log] TS_24: Capture the back order textWe can ship 7 to you but 93 will be on backorder.; Value has been stored in index: 0 
+2018-05-28 14:36:15,938 INFO  [Log] User specified value has been replaced at index0New Value is: We can ship 
+2018-05-28 14:36:15,966 INFO  [Log] User specified value has been replaced at index0New Value is: p 
+2018-05-28 14:36:20,981 INFO  [Log] closing test case  
+2018-05-28 14:36:22,041 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 14:36:22,120 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 14:36:22,205 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 14:36:22,227 INFO  [Log] ### Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank; status Executed 
+2018-05-28 14:36:22,642 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 14:36:22,722 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 14:36:22,798 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 14:36:22,798 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 14:36:22,798 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 14:36:23,068 INFO  [Log] Creating Logs backup and storing for further reference 

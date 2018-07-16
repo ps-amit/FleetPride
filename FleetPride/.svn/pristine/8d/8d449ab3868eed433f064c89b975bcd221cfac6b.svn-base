@@ -1,0 +1,56 @@
+2017-08-08 14:30:42,090 INFO  [Log] Test Scenario Configuration started 
+2017-08-08 14:30:42,109 INFO  [Log] Initialing HTML reporting 
+2017-08-08 14:30:42,458 INFO  [Log] Starting Test Suit Execution 
+2017-08-08 14:30:42,458 WARN  [Log] No Browser instance is active 
+2017-08-08 14:30:43,321 INFO  [Log] Object repository is created successfully 
+2017-08-08 14:30:43,428 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-08-08 14:30:43,495 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-08-08 14:30:43,584 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-08-08 14:30:43,682 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-08-08 14:30:43,746 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-08-08 14:30:43,793 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-08-08 14:30:43,850 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-08-08 14:30:43,951 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-08-08 14:30:44,006 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-08-08 14:30:44,084 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-08-08 14:30:44,125 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-08-08 14:30:44,165 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-08-08 14:30:44,205 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-08-08 14:30:44,245 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-08-08 14:30:44,325 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-08-08 14:30:44,363 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-08-08 14:30:44,399 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-08-08 14:30:44,435 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-08-08 14:30:44,471 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-08-08 14:30:44,511 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-08-08 14:30:44,553 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-08-08 14:30:44,659 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-08-08 14:30:44,691 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-08-08 14:30:44,726 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-08-08 14:30:44,763 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-08-08 14:30:44,793 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-08-08 14:30:44,822 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-08-08 14:30:44,851 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-08-08 14:30:44,886 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-08-08 14:30:44,935 INFO  [Log] Rg_TC0065.xlsx_Rg_TC0065.xlsx 
+2017-08-08 14:30:44,963 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-08-08 14:30:44,990 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-08-08 14:30:45,016 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-08-08 14:30:45,046 INFO  [Log] Rg_TC0103.xlsx_Rg_TC0103.xlsx 
+2017-08-08 14:30:45,082 INFO  [Log] Rg_TC0104.xlsx_Rg_TC0104.xlsx 
+2017-08-08 14:30:45,123 INFO  [Log] **************************************************************************************** 
+2017-08-08 14:30:45,123 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0105.xlsx; Description: Rg_TC0105.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-08 14:30:45,123 INFO  [Log] **************************************************************************************** 
+2017-08-08 14:31:05,757 ERROR [Log] Error#: Rg_TC0105.xlsx; Error in communicating with Browserorg.openqa.selenium.WebDriverException: Timed out waiting for driver server to start.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: driver.version: InternetExplorerDriver 
+2017-08-08 14:31:05,757 INFO  [Log] #### Executing Test case: Rg_TC0105.xlsx; Description: Rg_TC0105.xlsx In IE Browser for TestData:1 
+2017-08-08 14:31:05,779 ERROR [Log] Error#: optima-68TS_02XpathSubmitValue  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-08 14:31:06,865 WARN  [Log] No Browser instance is active 
+2017-08-08 14:31:06,865 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-08 14:31:06,865 FATAL [Log] optima-68TS_02XpathSubmitValue  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-08 14:31:06,865 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-08 14:31:07,611 INFO  [Log] ####Closing Test Suite #### 
+2017-08-08 14:31:07,611 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-08 14:31:07,611 INFO  [Log] Creating Logs backup and storing for further reference 

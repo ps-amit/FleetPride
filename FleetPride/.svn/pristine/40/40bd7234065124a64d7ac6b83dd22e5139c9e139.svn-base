@@ -1,0 +1,20 @@
+2017-10-27 14:41:18,421 INFO  [Log] Test Scenario Configuration started 
+2017-10-27 14:41:18,441 INFO  [Log] Initialing HTML reporting 
+2017-10-27 14:41:18,601 INFO  [Log] Starting Test Suit Execution 
+2017-10-27 14:41:18,791 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 14:41:18,821 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 14:41:18,851 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 14:41:19,251 INFO  [Log] Object repository is created successfully 
+2017-10-27 14:41:19,302 INFO  [Log] product_search_script_Blank 
+2017-10-27 14:41:19,352 INFO  [Log] quick_order_Blank 
+2017-10-27 14:41:19,392 INFO  [Log] cart_Blank 
+2017-10-27 14:41:19,412 FATAL [Log] Not able to open File: D:\Automation_Framework_Puresoftware_New\src\DataEngine\FP_home_page_search_productPartNumber_TC_01.xlsx
+: java.io.FileNotFoundException: D:\Automation_Framework_Puresoftware_New\src\DataEngine\FP_home_page_search_productPartNumber_TC_01.xlsx
+ (The filename, directory name, or volume label syntax is incorrect) 
+2017-10-27 14:41:19,412 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2017-10-27 14:41:19,412 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation_Framework_Puresoftware_New\src\DataEngine\FP_home_page_search_productPartNumber_TC_01.xlsx
+ 
+2017-10-27 14:41:19,712 INFO  [Log] FP_home_page_search_productName_TC_13_Blank 
+2017-10-27 14:41:19,752 INFO  [Log] ####Closing Test Suite #### 
+2017-10-27 14:41:19,752 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 14:41:19,752 INFO  [Log] Creating Logs backup and storing for further reference 

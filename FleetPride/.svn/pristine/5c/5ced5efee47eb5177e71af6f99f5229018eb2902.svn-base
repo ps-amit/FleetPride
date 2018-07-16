@@ -1,0 +1,29 @@
+2017-10-12 16:26:16,995 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 16:26:17,012 INFO  [Log] Initialing HTML reporting 
+2017-10-12 16:26:17,183 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 16:26:17,387 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 16:26:17,420 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 16:26:17,452 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 16:26:18,008 INFO  [Log] Object repository is created successfully 
+2017-10-12 16:26:18,097 INFO  [Log] **************************************************************************************** 
+2017-10-12 16:26:18,097 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 16:26:18,097 INFO  [Log] **************************************************************************************** 
+2017-10-12 16:26:23,476 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Firefox Browser for TestData:1 
+2017-10-12 16:26:34,404 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 16:27:09,957 INFO  [Log] TS_02: Click on "Top 100 Parts Template" button 
+2017-10-12 16:27:10,032 INFO  [Log] TS_04; Waited 5000 Milli seconds for Element 
+2017-10-12 16:27:15,037 INFO  [Log] Failed: TS_05: Verify file download and its extension in the download section after clicking on "Top 100 Parts Template" button. file extension is not same C:\Users\amit.singh\Downloads\desktop.ini  as defined csv 
+2017-10-12 16:27:50,895 INFO  [Log] TS_06: Click on "Blank Order Template" button 
+2017-10-12 16:27:50,936 INFO  [Log] TS_08; Waited 5000 Milli seconds for Element 
+2017-10-12 16:27:55,938 INFO  [Log] Failed: TS_09: Verify file download and its extension in the download section after clicking on "Blank Order Template" button. file extension is not same C:\Users\amit.singh\Downloads\desktop.ini  as defined csv 
+2017-10-12 16:27:56,094 FATAL [Log] BlankBlank:Action Keyword is not defined. Please defined Action Keyword 
+2017-10-12 16:27:56,094 WARN  [Log]  Browser instance is active 
+2017-10-12 16:27:56,436 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 16:27:56,468 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 16:27:56,512 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 16:27:56,513 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 16:27:56,513 FATAL [Log]  
+2017-10-12 16:27:56,513 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 16:27:56,599 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 16:27:56,599 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 16:27:56,599 INFO  [Log] Creating Logs backup and storing for further reference 

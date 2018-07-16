@@ -1,0 +1,90 @@
+2018-05-25 14:39:11,125 INFO  [Log] Test Scenario Configuration started 
+2018-05-25 14:39:11,145 INFO  [Log] Initialing HTML reporting 
+2018-05-25 14:39:11,408 INFO  [Log] Starting Test Suit Execution 
+2018-05-25 14:39:12,271 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-25 14:39:12,344 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-25 14:39:12,418 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-25 14:39:13,050 INFO  [Log] Object repository is created successfully 
+2018-05-25 14:39:13,127 INFO  [Log] fetch_SP_qty_Blank 
+2018-05-25 14:39:13,198 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-25 14:39:13,250 INFO  [Log] **************************************************************************************** 
+2018-05-25 14:39:13,250 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: fetch_X_Category_Product; Description: Pre-requisite cases For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-25 14:39:13,250 INFO  [Log] **************************************************************************************** 
+2018-05-25 14:39:15,306 INFO  [Log] #### Executing Test case: fetch_X_Category_Product; Description: Pre-requisite cases In No Browser Browser for TestData:1 
+2018-05-25 14:39:23,275 INFO  [Log] TS_01: fetch value form SF for X category product;Column Name is not provided, Please provide column name in ActionSupportValue 
+2018-05-25 14:39:28,285 INFO  [Log] closing test case  
+2018-05-25 14:39:28,933 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-25 14:39:29,004 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-25 14:39:29,080 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-25 14:39:29,099 INFO  [Log] ### Test case: fetch_X_Category_Product; Description: Pre-requisite cases; status Executed 
+2018-05-25 14:39:29,505 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-25 14:39:29,583 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-25 14:39:29,655 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-25 14:39:29,655 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-25 14:39:29,655 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-25 14:39:29,994 INFO  [Log] **************************************************************************************** 
+2018-05-25 14:39:29,994 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_X_category_product; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-25 14:39:29,994 INFO  [Log] **************************************************************************************** 
+2018-05-25 14:39:41,439 INFO  [Log] #### Executing Test case: E2E_X_category_product; Description: Blank In Firefox Browser for TestData:1 
+2018-05-25 14:39:55,695 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-25 14:39:56,292 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-25 14:39:57,134 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-25 14:39:57,134 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-25 14:39:58,447 INFO  [Log] TS_05: Click on login button 
+2018-05-25 14:39:58,449 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-25 14:40:08,642 INFO  [Log] TS_07: Input  part number in the input box; Action: Submitted Value: Value: HT230TA17-001 
+2018-05-25 14:40:08,900 INFO  [Log] TS_08: Clear the qty field ; Action Clear 
+2018-05-25 14:40:09,037 INFO  [Log] TS_09: Input value in the  qty field ; Action: Submitted Value: Value: null 
+2018-05-25 14:40:09,037 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-05-25 14:40:19,209 INFO  [Log] TS_11: Click on Add to cart button  
+2018-05-25 14:40:19,210 INFO  [Log] TS_12; Waited 20000 Milli seconds for Element 
+2018-05-25 14:40:39,308 INFO  [Log] TS_13: Capture the Home DC as per the Shipping addressLAWRENCEVILLE:; Value has been stored in index: 0 
+2018-05-25 14:40:39,353 INFO  [Log] TS_14: Capture the qty in Home DCQTY in LAWRENCEVILLE: 0; Value has been stored in index: 1 
+2018-05-25 14:40:39,365 INFO  [Log] User specified value has been replaced at index1New Value is: LAWRENCEVILLE: 0 
+2018-05-25 14:40:39,411 INFO  [Log] TS_16: Capture the qty in other DCQTY in other Locations: 15; Value has been stored in index: 2 
+2018-05-25 14:40:39,431 INFO  [Log] User specified value has been replaced at index2New Value is: other Locations: 15 
+2018-05-25 14:40:39,463 INFO  [Log] TS_18: Capture the price of product on my cart page$1,355.87; Value has been stored in index: 3 
+2018-05-25 14:40:39,496 INFO  [Log] TS_19: Capture the Subtotal price of the cart$4,067.61; Value has been stored in index: 4 
+2018-05-25 14:40:39,539 INFO  [Log] TS_20; Passed; Capture the freight meter text; Value: 1800; Present in Page values: 1800.00,  
+2018-05-25 14:40:54,615 INFO  [Log] TS_21; Passed; Verify the free parcel text; Element is not present/dispayed on the page 
+2018-05-25 14:40:54,617 INFO  [Log] TS_22; Waited 5000 Milli seconds for Element 
+2018-05-25 14:40:59,866 INFO  [Log] TS_23: Click on the Proceed to Order Review  button 
+2018-05-25 14:40:59,866 INFO  [Log] TS_24; Waited 10000 Milli seconds for Element 
+2018-05-25 14:41:13,171 INFO  [Log] TS_25: Capture the Subtotal price on order review page$0.00; Value has been stored in index: 5 
+2018-05-25 14:41:13,173 INFO  [Log] Fail; TS_26: Verify subtotal price on order review pageVerify subtotal price on order review page; Captured text1: $4,067.61; Captured text2: $0.00 
+2018-05-25 14:41:13,618 INFO  [Log] TS_27: Capture the shipping cost $0.00; Value has been stored in index: 6 
+2018-05-25 14:41:13,643 INFO  [Log] TS_28: Capture the grandtotal price on order review page$0.00; Value has been stored in index: 7 
+2018-05-25 14:41:13,726 INFO  [Log] TS_29: Click on the Proceed to Payment information  button 
+2018-05-25 14:41:13,726 INFO  [Log] TS_30; Waited 10000 Milli seconds for Element 
+2018-05-25 14:41:23,925 INFO  [Log] TS_31: Enter PO number; Action: Submitted Value: Value: null 
+2018-05-25 14:41:24,013 INFO  [Log] TS_32: Click on invoice Order tab 
+2018-05-25 14:41:24,108 INFO  [Log] TS_33: Click on the Check box 
+2018-05-25 14:41:24,325 INFO  [Log] TS_34: Click on the Submit order button for Invoice tab 
+2018-05-25 14:41:24,325 INFO  [Log] TS_35; Waited 10000 Milli seconds for Element 
+2018-05-25 14:41:36,986 INFO  [Log] TS_36: Capture the billing address1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122-1584
+US; Value has been stored in index: 8 
+2018-05-25 14:41:37,068 INFO  [Log] TS_37: Capture the shipping addressfirstname  lastname
+1781 WESTFORK DR
+LITHIA SPRINGS , GA  30122
+US; Value has been stored in index: 9 
+2018-05-25 14:41:37,690 INFO  [Log] TS_38; Passed; Verify the payment mode; Value: invoiced; Present in Page values: Invoiced,  
+2018-05-25 14:41:37,788 INFO  [Log] TS_39: Capture the Subtotal price on order confirmation page$0.00; Value has been stored in index: 10 
+2018-05-25 14:41:37,788 INFO  [Log] TS_40; Passed; null; Captured text1: $0.00; Captured text2: $0.00 
+2018-05-25 14:41:37,818 INFO  [Log] TS_41: Capture the shipping cost on order confirmation page$0.00; Value has been stored in index: 11 
+2018-05-25 14:41:37,819 INFO  [Log] TS_42; Passed; null; Captured text1: $0.00; Captured text2: $0.00 
+2018-05-25 14:41:37,848 INFO  [Log] TS_43: Capture the grandtotal price on order confirmation page$0.00; Value has been stored in index: 12 
+2018-05-25 14:41:37,848 INFO  [Log] TS_44; Passed; null; Captured text1: $0.00; Captured text2: $0.00 
+2018-05-25 14:41:53,183 INFO  [Log] E2ETS_45ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-25 14:41:53,387 WARN  [Log]  Browser instance is active 
+2018-05-25 14:41:53,478 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 5970100e-defb-46e4-93b5-e719add14254 
+2018-05-25 14:41:53,478 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-25 14:41:53,478 FATAL [Log] E2ETS_45ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-25 14:41:53,478 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-25 14:41:53,560 INFO  [Log] Reorder_Blank 
+2018-05-25 14:41:53,584 INFO  [Log] Creating Logs backup and storing for further reference 

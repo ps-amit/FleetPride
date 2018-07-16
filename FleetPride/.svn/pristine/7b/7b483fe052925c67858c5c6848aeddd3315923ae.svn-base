@@ -1,0 +1,26 @@
+2017-10-12 13:05:08,067 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 13:05:08,087 INFO  [Log] Initialing HTML reporting 
+2017-10-12 13:05:08,299 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 13:05:08,489 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 13:05:08,519 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 13:05:08,559 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 13:05:09,019 INFO  [Log] Object repository is created successfully 
+2017-10-12 13:05:09,110 INFO  [Log] **************************************************************************************** 
+2017-10-12 13:05:09,110 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 13:05:09,110 INFO  [Log] **************************************************************************************** 
+2017-10-12 13:05:14,926 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 13:05:20,709 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 13:05:56,186 INFO  [Log] TS_02: Click on "Top 100 Parts Template" button 
+2017-10-12 13:05:56,186 INFO  [Log] TS_03; Waited 3000 Milli seconds for Element 
+2017-10-12 13:05:59,191 INFO  [Log] TS_03; Waited 3000 Milli seconds for Element 
+2017-10-12 13:05:59,191 FATAL [Log] BlankBlank:Action Keyword is not defined. Please defined Action Keyword 
+2017-10-12 13:05:59,191 WARN  [Log]  Browser instance is active 
+2017-10-12 13:06:01,709 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 13:06:01,740 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 13:06:01,780 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 13:06:01,780 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 13:06:01,780 FATAL [Log]  
+2017-10-12 13:06:01,780 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 13:06:02,022 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 13:06:02,022 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 13:06:02,022 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,36 @@
+2017-10-30 17:53:57,575 INFO  [Log] Test Scenario Configuration started 
+2017-10-30 17:53:57,594 INFO  [Log] Initialing HTML reporting 
+2017-10-30 17:53:57,810 INFO  [Log] Starting Test Suit Execution 
+2017-10-30 17:53:57,982 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-30 17:53:58,016 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-30 17:53:58,047 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-30 17:53:58,462 INFO  [Log] Object repository is created successfully 
+2017-10-30 17:53:58,516 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-10-30 17:53:58,575 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-10-30 17:53:58,622 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-10-30 17:53:58,664 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-10-30 17:53:58,701 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-10-30 17:53:58,741 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-10-30 17:53:58,781 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-10-30 17:53:58,819 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-10-30 17:53:58,909 INFO  [Log] **************************************************************************************** 
+2017-10-30 17:53:58,909 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdc_quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-30 17:53:58,909 INFO  [Log] **************************************************************************************** 
+2017-10-30 17:54:04,790 INFO  [Log] #### Executing Test case: FP_pdc_quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-30 17:54:18,027 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-30 17:54:53,709 INFO  [Log] TS_02: PDC path1; Value has been stored in index: 0 
+2017-10-30 17:54:58,712 INFO  [Log] closing test case  
+2017-10-30 17:55:01,216 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-30 17:55:01,248 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-30 17:55:01,279 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-30 17:55:01,291 INFO  [Log] ### Test case: FP_pdc_quick_order; Description: Blank; status Executed 
+2017-10-30 17:55:01,469 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-30 17:55:01,501 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-30 17:55:01,535 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-30 17:55:01,535 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-30 17:55:01,535 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-30 17:55:01,785 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-10-30 17:55:01,810 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-10-30 17:55:01,842 INFO  [Log] ####Closing Test Suite #### 
+2017-10-30 17:55:01,842 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-30 17:55:01,842 INFO  [Log] Creating Logs backup and storing for further reference 

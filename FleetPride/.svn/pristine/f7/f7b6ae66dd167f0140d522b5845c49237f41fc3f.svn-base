@@ -1,0 +1,234 @@
+2017-09-21 16:14:36,480 INFO  [Log] Test Scenario Configuration started 
+2017-09-21 16:14:36,495 INFO  [Log] Initialing HTML reporting 
+2017-09-21 16:14:36,698 INFO  [Log] Starting Test Suit Execution 
+2017-09-21 16:14:36,885 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-21 16:14:36,917 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-21 16:14:36,948 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-21 16:14:37,400 INFO  [Log] Object repository is created successfully 
+2017-09-21 16:14:37,510 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-21 16:14:37,588 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-21 16:14:37,651 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-21 16:14:37,729 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-21 16:14:37,791 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-21 16:14:37,838 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-21 16:14:37,885 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-21 16:14:37,978 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-21 16:14:38,025 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-21 16:14:38,072 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-21 16:14:38,103 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-21 16:14:38,150 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-21 16:14:38,181 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-21 16:14:38,244 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-21 16:14:38,275 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-21 16:14:38,306 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-21 16:14:38,337 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-21 16:14:38,368 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-21 16:14:38,400 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-21 16:14:38,446 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-21 16:14:38,495 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-21 16:14:38,522 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-21 16:14:38,549 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-21 16:14:38,565 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-21 16:14:38,612 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-21 16:14:38,658 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-21 16:14:38,690 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-21 16:14:38,721 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-21 16:14:38,752 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-21 16:14:38,783 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-21 16:14:38,830 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-21 16:14:38,861 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-21 16:14:38,877 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-21 16:14:38,908 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-21 16:14:38,955 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-21 16:14:38,970 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-21 16:14:39,002 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-21 16:14:39,033 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-21 16:14:39,064 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-21 16:14:39,095 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-21 16:14:39,126 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-21 16:14:39,158 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-21 16:14:39,189 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-21 16:14:39,220 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-21 16:14:39,251 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-21 16:14:39,282 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-21 16:14:39,298 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-21 16:14:39,329 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-21 16:14:39,360 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-21 16:14:39,392 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-21 16:14:39,407 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-21 16:14:39,438 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-21 16:14:39,470 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-21 16:14:39,486 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-21 16:14:39,502 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-21 16:14:39,533 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-21 16:14:39,564 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-21 16:14:39,580 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-21 16:14:39,611 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-21 16:14:39,627 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-21 16:14:39,658 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-21 16:14:39,673 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-21 16:14:39,705 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-21 16:14:39,720 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-21 16:14:39,751 INFO  [Log] PGNG1030_TC_012.xlsx_Blank 
+2017-09-21 16:14:39,767 INFO  [Log] PGNG1030_TC_076.xlsx_Blank 
+2017-09-21 16:14:39,783 INFO  [Log] RG_TC_014.xlsx_Blank 
+2017-09-21 16:14:39,798 INFO  [Log] RG_TC_041.xlsx_Blank 
+2017-09-21 16:14:39,814 INFO  [Log] RG_TC_103.xlsx_Blank 
+2017-09-21 16:14:39,845 INFO  [Log] RG_TC_104.xlsx_Blank 
+2017-09-21 16:14:39,861 INFO  [Log] RG_TC_110.xlsx_Blank 
+2017-09-21 16:14:39,892 INFO  [Log] RG_TC_113.xlsx_Blank 
+2017-09-21 16:14:39,923 INFO  [Log] RG_TC_114_Blank 
+2017-09-21 16:14:39,939 INFO  [Log] RG_TC_166_Blank 
+2017-09-21 16:14:39,970 INFO  [Log] RG_TC_176_Blank 
+2017-09-21 16:14:39,985 INFO  [Log] PGNG1030_TC_051.xlsx_Blank 
+2017-09-21 16:14:40,001 INFO  [Log] Rg_TC_174_Blank 
+2017-09-21 16:14:40,017 INFO  [Log] PGNG1030_TC_053_Blank 
+2017-09-21 16:14:40,048 INFO  [Log] PGNG1030_TC_054_Blank 
+2017-09-21 16:14:40,063 INFO  [Log] PGNG1030_TC_062_Blank 
+2017-09-21 16:14:40,079 INFO  [Log] PGNG1030_TC_005_Blank 
+2017-09-21 16:14:40,110 INFO  [Log] PGNG1030_TC_006_Blank 
+2017-09-21 16:14:40,126 INFO  [Log] PGNG1030_TC_013_Blank 
+2017-09-21 16:14:40,141 INFO  [Log] PGNG1030_TC_015_Blank 
+2017-09-21 16:14:40,157 INFO  [Log] PGNG1030_TC_017_Blank 
+2017-09-21 16:14:40,188 INFO  [Log] PGNG1030_TC_019_Blank 
+2017-09-21 16:14:40,204 INFO  [Log] PGNG1030_TC_022_Blank 
+2017-09-21 16:14:40,219 INFO  [Log] PGNG1030_TC_038_Blank 
+2017-09-21 16:14:40,235 INFO  [Log] PGNG1030_TC_039_Blank 
+2017-09-21 16:14:40,251 INFO  [Log] PGNG1030_TC_040_Blank 
+2017-09-21 16:14:40,282 INFO  [Log] PGNG1030_TC_045_Blank 
+2017-09-21 16:14:40,297 INFO  [Log] PGNG1030_TC_048_Blank 
+2017-09-21 16:14:40,313 INFO  [Log] PGNG1030_TC_075_Blank 
+2017-09-21 16:14:40,344 INFO  [Log] PGNG1030_TC_078_Blank 
+2017-09-21 16:14:40,360 INFO  [Log] PGNG1030_TC_079_Blank 
+2017-09-21 16:14:40,391 INFO  [Log] PGNG1030_TC_105_Blank 
+2017-09-21 16:14:40,407 INFO  [Log] PGNG1030_TC_106_Blank 
+2017-09-21 16:14:40,422 INFO  [Log] PGNG1030_TC_107_Blank 
+2017-09-21 16:14:40,438 INFO  [Log] PGNG1030_TC_111_Blank 
+2017-09-21 16:14:40,453 INFO  [Log] PGNG1030_TC_120_Blank 
+2017-09-21 16:14:40,486 INFO  [Log] PGNG1030_TC_116_Blank 
+2017-09-21 16:14:40,501 INFO  [Log] RG_TC_012_Blank 
+2017-09-21 16:14:40,532 INFO  [Log] **************************************************************************************** 
+2017-09-21 16:14:40,532 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_028; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-21 16:14:40,532 INFO  [Log] **************************************************************************************** 
+2017-09-21 16:14:50,151 INFO  [Log] #### Executing Test case: PGNG_1801_TC_028; Description: Blank In IE Browser for TestData:1 
+2017-09-21 16:15:06,992 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-21 16:15:08,612 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-21 16:15:10,131 INFO  [Log] TS_04: Click on login button 
+2017-09-21 16:15:22,354 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-21 16:15:24,025 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-21 16:15:26,092 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-21 16:15:28,729 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-21 16:15:30,513 INFO  [Log] TS_09: Click on property 
+2017-09-21 16:15:34,984 INFO  [Log] TS_10: Click on Settings 
+2017-09-21 16:15:39,150 INFO  [Log] TS_11: Click on Mapping 
+2017-09-21 16:15:46,605 INFO  [Log] TS_12: Click on Advanced tab(if not clicked): Action click If 
+2017-09-21 16:15:56,447 INFO  [Log] TS_13: Click on Yes button(if appeared): Action Element is not present moving to next step 
+2017-09-21 16:15:58,102 INFO  [Log] TS_14: Click on Room type 
+2017-09-21 16:15:59,977 INFO  [Log] TS_15: Click on input text box under Add New Room Type 
+2017-09-21 16:16:01,717 INFO  [Log] TS_16: Input room type name to be added; Action: Submited ValueValue: Sharing 
+2017-09-21 16:16:03,277 INFO  [Log] TS_17: Click on the Add button from pop up 
+2017-09-21 16:16:06,349 INFO  [Log] New Element Location is : SharingStored in ObjRep using element name: roomType: Type: Xpath 
+2017-09-21 16:16:07,958 INFO  [Log] TS_19: Verify room type which is added; Passed; ; Element is present on the active page 
+2017-09-21 16:16:09,543 INFO  [Log] TS_20: Click on the action key to display the delete button 
+2017-09-21 16:16:11,104 INFO  [Log] TS_21: Click on the delete button to delete the added room type 
+2017-09-21 16:16:11,104 INFO  [Log] TS_22; Waited 3000 Milli seconds for Element 
+2017-09-21 16:16:17,247 INFO  [Log] Action: jMouse Hover performed on Element.//*[@id='YesButton'] 
+2017-09-21 16:16:19,136 INFO  [Log] Fail; TS_24: Verify that added room type is deleted; Element is present/displayed on the page 
+2017-09-21 16:16:24,441 INFO  [Log] closing test case  
+2017-09-21 16:16:24,818 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-21 16:16:24,850 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-21 16:16:24,896 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-21 16:16:24,912 INFO  [Log] ### Test case: PGNG_1801_TC_028; Description: Blank; status Executed 
+2017-09-21 16:16:25,068 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-21 16:16:25,099 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-21 16:16:25,130 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-21 16:16:25,130 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-21 16:16:30,222 INFO  [Log] #### Executing Test case: PGNG_1801_TC_028; Description: Blank In Chrome Browser for TestData:1 
+2017-09-21 16:16:45,397 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-21 16:16:45,697 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-21 16:16:45,830 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-21 16:16:45,910 INFO  [Log] TS_04: Click on login button 
+2017-09-21 16:16:58,511 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-21 16:16:58,661 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-21 16:16:58,744 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-21 16:16:59,909 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-21 16:17:00,079 INFO  [Log] TS_09: Click on property 
+2017-09-21 16:17:03,268 INFO  [Log] TS_10: Click on Settings 
+2017-09-21 16:17:05,447 INFO  [Log] TS_11: Click on Mapping 
+2017-09-21 16:17:10,762 INFO  [Log] TS_12: Click on Advanced tab(if not clicked): Action click If 
+2017-09-21 16:17:19,108 INFO  [Log] TS_13: Click on Yes button(if appeared): Action Element is not present moving to next step 
+2017-09-21 16:17:19,232 INFO  [Log] TS_14: Click on Room type 
+2017-09-21 16:17:19,361 INFO  [Log] TS_15: Click on input text box under Add New Room Type 
+2017-09-21 16:17:19,546 INFO  [Log] TS_16: Input room type name to be added; Action: Submited ValueValue: Sharing 
+2017-09-21 16:17:19,637 INFO  [Log] TS_17: Click on the Add button from pop up 
+2017-09-21 16:17:29,693 INFO  [Log] PGNG_TC_028TS_18XpathEditElementlocation  org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Room Type already exists!}
+  (Session info: chrome=61.0.3163.91)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds: null
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir168_5165}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.91, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e1855e28ce04122a0516e378bbf125fenull:Exception is not handled 
+2017-09-21 16:17:30,018 WARN  [Log]  Browser instance is active 
+2017-09-21 16:17:32,327 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-21 16:17:32,359 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-21 16:17:32,390 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-21 16:17:32,390 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-21 16:17:32,390 FATAL [Log] PGNG_TC_028TS_18XpathEditElementlocation  org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Room Type already exists!}
+  (Session info: chrome=61.0.3163.91)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds: null
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir168_5165}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.91, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e1855e28ce04122a0516e378bbf125fenull:Exception is not handled 
+2017-09-21 16:17:38,236 INFO  [Log] #### Executing Test case: PGNG_1801_TC_028; Description: Blank In Firefox Browser for TestData:1 
+2017-09-21 16:17:56,546 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-21 16:17:56,843 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-21 16:17:57,108 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-21 16:17:57,171 INFO  [Log] TS_04: Click on login button 
+2017-09-21 16:18:05,084 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-21 16:18:08,616 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-21 16:18:08,664 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-21 16:18:09,757 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-21 16:18:09,867 INFO  [Log] TS_09: Click on property 
+2017-09-21 16:18:13,037 INFO  [Log] TS_10: Click on Settings 
+2017-09-21 16:18:15,206 INFO  [Log] TS_11: Click on Mapping 
+2017-09-21 16:18:20,620 INFO  [Log] TS_12: Click on Advanced tab(if not clicked): Action click If 
+2017-09-21 16:18:28,842 INFO  [Log] TS_13: Click on Yes button(if appeared): Action Element is not present moving to next step 
+2017-09-21 16:18:28,968 INFO  [Log] TS_14: Click on Room type 
+2017-09-21 16:18:29,046 INFO  [Log] TS_15: Click on input text box under Add New Room Type 
+2017-09-21 16:18:29,249 INFO  [Log] TS_16: Input room type name to be added; Action: Submited ValueValue: Sharing 
+2017-09-21 16:18:29,327 INFO  [Log] TS_17: Click on the Add button from pop up 
+2017-09-21 16:18:39,454 INFO  [Log] PGNG_TC_028TS_18XpathEditElementlocation  org.openqa.selenium.UnhandledAlertException: : 
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.Fp4G6u6JlNO3, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=5336.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 50311895-80af-4088-b2f4-5b63a3ecb446null:Exception is not handled 
+2017-09-21 16:18:39,626 WARN  [Log]  Browser instance is active 
+2017-09-21 16:18:39,642 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.UnhandledAlertException: : 
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.Fp4G6u6JlNO3, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=5336.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 50311895-80af-4088-b2f4-5b63a3ecb446 
+2017-09-21 16:18:39,642 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-21 16:18:39,642 FATAL [Log] PGNG_TC_028TS_18XpathEditElementlocation  org.openqa.selenium.UnhandledAlertException: : 
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '172.16.15.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AMIT~1.SIN\AppData\Local\Temp\rust_mozprofile.Fp4G6u6JlNO3, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=6.1, moz:processID=5336.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 50311895-80af-4088-b2f4-5b63a3ecb446null:Exception is not handled 
+2017-09-21 16:18:39,642 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-21 16:18:39,673 INFO  [Log] ####Closing Test Suite #### 
+2017-09-21 16:18:39,673 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-21 16:18:39,673 INFO  [Log] Creating Logs backup and storing for further reference 

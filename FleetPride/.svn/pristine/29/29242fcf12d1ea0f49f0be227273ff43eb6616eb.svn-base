@@ -1,0 +1,24 @@
+2017-10-12 17:34:33,021 INFO  [Log] Test Scenario Configuration started 
+2017-10-12 17:34:33,041 INFO  [Log] Initialing HTML reporting 
+2017-10-12 17:34:33,201 INFO  [Log] Starting Test Suit Execution 
+2017-10-12 17:34:33,384 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 17:34:33,414 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 17:34:33,454 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 17:34:33,934 INFO  [Log] Object repository is created successfully 
+2017-10-12 17:34:34,035 INFO  [Log] **************************************************************************************** 
+2017-10-12 17:34:34,035 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-12 17:34:34,035 INFO  [Log] **************************************************************************************** 
+2017-10-12 17:34:39,987 INFO  [Log] #### Executing Test case: quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-12 17:34:49,586 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-12 17:35:25,352 INFO  [Log] TS_02: Click on the Searc box; Action: Submited ValueValue: null 
+2017-10-12 17:35:25,356 FATAL [Log] BlankBlank:Action Keyword is not defined. Please defined Action Keyword 
+2017-10-12 17:35:25,358 WARN  [Log]  Browser instance is active 
+2017-10-12 17:35:27,802 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-12 17:35:27,853 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-12 17:35:27,903 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-12 17:35:27,903 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 17:35:27,903 FATAL [Log]  
+2017-10-12 17:35:27,903 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 17:35:28,143 INFO  [Log] ####Closing Test Suite #### 
+2017-10-12 17:35:28,143 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-12 17:35:28,143 INFO  [Log] Creating Logs backup and storing for further reference 

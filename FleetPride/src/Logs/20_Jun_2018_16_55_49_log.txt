@@ -1,0 +1,43 @@
+2018-06-20 16:54:14,226 INFO  [Log] Test Scenario Configuration started 
+2018-06-20 16:54:14,243 INFO  [Log] Initialing HTML reporting 
+2018-06-20 16:54:14,521 INFO  [Log] Starting Test Suit Execution 
+2018-06-20 16:54:14,905 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-20 16:54:14,982 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-20 16:54:15,059 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-20 16:54:15,682 INFO  [Log] Object repository is created successfully 
+2018-06-20 16:54:15,766 INFO  [Log] **************************************************************************************** 
+2018-06-20 16:54:15,766 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-20 16:54:15,766 INFO  [Log] **************************************************************************************** 
+2018-06-20 16:54:21,813 INFO  [Log] #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2018-06-20 16:54:30,717 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-06-20 16:54:30,729 INFO  [Log] TS_02; Waited 5000 Milli seconds for Element 
+2018-06-20 16:54:35,883 INFO  [Log] TS_03: Enter Email ID; Action: Submitted Value: Value: null 
+2018-06-20 16:54:35,957 INFO  [Log] TS_04: Enter Password; Action: Submitted Value: Value: null 
+2018-06-20 16:54:36,042 INFO  [Log] TS_05: Click on Login 
+2018-06-20 16:54:36,043 INFO  [Log] TS_06; Waited 5000 Milli seconds for Element 
+2018-06-20 16:54:41,812 INFO  [Log] TS_07: Click on Vendor name dropdown 
+2018-06-20 16:54:41,918 INFO  [Log] TS_08: Select Vendor 
+2018-06-20 16:54:42,047 INFO  [Log] TS_09: Enter Task name; Action: Submitted Value: Value: null 
+2018-06-20 16:54:42,186 INFO  [Log] TS_10: Select Task type as cost update 
+2018-06-20 16:54:42,281 INFO  [Log] TS_11: Click 
+2018-06-20 16:54:42,371 INFO  [Log] TS_12: Click on Create task button 
+2018-06-20 16:54:42,372 INFO  [Log] TS_13; Waited 20000 Milli seconds for Element 
+2018-06-20 16:55:02,524 INFO  [Log] TS_14: Clicking on upload order button to upload xls 
+2018-06-20 16:55:02,525 INFO  [Log] TS_15; Waited 2000 Milli seconds for Element 
+2018-06-20 16:55:04,623 INFO  [Log] TS_16: Input file path in the window pop up screen 
+2018-06-20 16:55:04,624 INFO  [Log] TS_17; Waited 30000 Milli seconds for Element 
+2018-06-20 16:55:39,630 INFO  [Log] closing test case  
+2018-06-20 16:55:42,774 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-20 16:55:43,415 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-20 16:55:45,271 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-20 16:55:45,618 INFO  [Log] ### Test case: Cost_Update_Task_Creation.xlsx; Description: Blank; status Executed 
+2018-06-20 16:55:47,249 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-20 16:55:47,500 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-20 16:55:47,754 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-20 16:55:47,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 16:55:47,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 16:55:48,993 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-20 16:55:49,233 INFO  [Log] Simple_Login_Blank 
+2018-06-20 16:55:49,421 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-20 16:55:49,622 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-20 16:55:49,690 INFO  [Log] Creating Logs backup and storing for further reference 

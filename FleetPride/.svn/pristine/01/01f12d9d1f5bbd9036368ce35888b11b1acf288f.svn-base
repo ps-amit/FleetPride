@@ -1,0 +1,529 @@
+2017-09-03 18:22:12,766 INFO  [Log] Test Scenario Configuration started 
+2017-09-03 18:22:12,785 INFO  [Log] Initialing HTML reporting 
+2017-09-03 18:22:12,943 INFO  [Log] Starting Test Suit Execution 
+2017-09-03 18:22:12,943 WARN  [Log] No Browser instance is active 
+2017-09-03 18:22:13,469 INFO  [Log] Object repository is created successfully 
+2017-09-03 18:22:13,615 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-03 18:22:13,708 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-03 18:22:13,782 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-03 18:22:13,857 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-03 18:22:13,919 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-03 18:22:13,981 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-03 18:22:14,041 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-03 18:22:14,112 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-03 18:22:14,173 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-03 18:22:14,224 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-03 18:22:14,280 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-03 18:22:14,331 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-03 18:22:14,394 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-03 18:22:14,456 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-03 18:22:14,514 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-03 18:22:14,566 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-03 18:22:14,621 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-03 18:22:14,678 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-03 18:22:14,729 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-03 18:22:14,775 INFO  [Log] Rg_TC_53_allfilter.xlsx_All filter multiple dates 
+2017-09-03 18:22:14,825 INFO  [Log] Rg_TC_53_allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-03 18:22:14,879 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-03 18:22:14,930 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-03 18:22:15,010 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-03 18:22:15,058 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-03 18:22:15,105 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-03 18:22:15,156 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-03 18:22:15,210 INFO  [Log] RG_TC_001_To verify 'Optima Login Problem? 
+2017-09-03 18:22:15,258 INFO  [Log] RG_TC_002_To verify 'Forgot Password' 
+2017-09-03 18:22:15,314 INFO  [Log] RG_TC_003_To verify login of existing user 
+2017-09-03 18:22:15,376 INFO  [Log] RG_TC_007_To verify "May Be Later" functionality 
+2017-09-03 18:22:15,421 INFO  [Log] RG_TC_008_To verify 'Cancel' Notification Funcitonality 
+2017-09-03 18:22:15,462 INFO  [Log] RG_TC_009_To verify 'Show me How'notification functionality and instructions 
+2017-09-03 18:22:15,520 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:22:15,520 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_065; Description: To verify Events on all rates views For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:22:15,520 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:22:21,772 INFO  [Log] #### Executing Test case: RG_TC_065; Description: To verify Events on all rates views In Chrome Browser for TestData:1 
+2017-09-03 18:22:32,771 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:22:33,140 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:22:33,282 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:22:33,369 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:22:33,370 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:22:46,039 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:22:46,165 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:22:46,228 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:22:47,374 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:22:47,375 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:22:55,479 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:22:55,480 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:23:00,657 INFO  [Log] TS_13: Click on Trends 
+2017-09-03 18:23:00,657 INFO  [Log] TS_14; Waited 15000 Milli seconds for Element 
+2017-09-03 18:23:15,777 INFO  [Log] TS_15: Click on Events 
+2017-09-03 18:23:15,777 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-03 18:23:25,269 INFO  [Log] TS_17: Verify  Date Range is of 1 Year from Starting Date; Passed; Value: 365; and value 365are same 
+2017-09-03 18:23:25,269 INFO  [Log] TS_18; Waited 5000 Milli seconds for Element 
+2017-09-03 18:23:30,480 INFO  [Log] TS_19: Click on add Custom event button 
+2017-09-03 18:23:30,481 INFO  [Log] TS_20; Waited 3000 Milli seconds for Element 
+2017-09-03 18:23:33,857 INFO  [Log] TS_21: Add Event Name; Action: Submit Random Value: Sl64; Index No at ValueCaptured list is0 
+2017-09-03 18:23:34,177 INFO  [Log] TS_22: Add Event Address; Action: Submited ValueValue: India 
+2017-09-03 18:23:34,373 INFO  [Log] TS_23: Click on Event Start Date 
+2017-09-03 18:23:34,484 INFO  [Log] TS_25; Waited 1000 Milli seconds for Element 
+2017-09-03 18:23:35,681 INFO  [Log] TS_26: Click on Event End Date 
+2017-09-03 18:23:35,791 INFO  [Log] TS_28; Waited 1000 Milli seconds for Element 
+2017-09-03 18:23:37,166 INFO  [Log] TS_29: Add Event Category; Action: Submited ValueValue: Public 
+2017-09-03 18:23:37,451 INFO  [Log] TS_30: Select Event Charge    Free; Action: Drop Down Select 
+2017-09-03 18:23:37,773 INFO  [Log] TS_31: Add Event Description; Action: Submited ValueValue: Delhi 
+2017-09-03 18:23:37,956 INFO  [Log] TS_32: Save the Custom Event 
+2017-09-03 18:23:37,956 INFO  [Log] TS_33; Waited 8000 Milli seconds for Element 
+2017-09-03 18:23:47,025 INFO  [Log] TS_34: Click on Filter for Custom Events 
+2017-09-03 18:23:47,026 INFO  [Log] TS_35; Waited 5000 Milli seconds for Element 
+2017-09-03 18:23:52,305 INFO  [Log] TS_36: Select Custom Events    null; Action: Drop Down Select 
+2017-09-03 18:23:52,471 INFO  [Log] TS_37: Click on Apply Button 
+2017-09-03 18:23:52,471 INFO  [Log] TS_38; Waited 8000 Milli seconds for Element 
+2017-09-03 18:24:00,677 INFO  [Log] TS_39: Search the Custom event; Action: Submited stored value 
+2017-09-03 18:24:00,738 INFO  [Log] TS_40: Insert Value for the EventNew Element Location is : Sl64Stored in ObjRep using element name: event: Type: Xpath 
+2017-09-03 18:24:00,828 INFO  [Log] TS_41: Verify If custom Event is added; Passed; ; Element is present on the active page 
+2017-09-03 18:24:00,914 INFO  [Log] TS_42: Click on Rates 
+2017-09-03 18:24:00,915 INFO  [Log] TS_43; Waited 5000 Milli seconds for Element 
+2017-09-03 18:24:22,280 INFO  [Log] TS_44: Change the Month and Year : Action month changed to user defind month 
+2017-09-03 18:24:22,281 INFO  [Log] TS_45; Waited 5000 Milli seconds for Element 
+2017-09-03 18:24:27,428 INFO  [Log] TS_46: Edit xpath for eventdateNew Element Location is : 1Stored in ObjRep using element name: eventdate: Type: Xpath 
+2017-09-03 18:24:27,896 INFO  [Log] Failed: TS_47: Insert Value for the Eventdate; Value: sl64; is Not Present in Page values: 119u | It40 | YzB6,  
+2017-09-03 18:24:28,630 INFO  [Log] TS_48: Click on eventdate 
+2017-09-03 18:24:28,630 INFO  [Log] TS_49; Waited 5000 Milli seconds for Element 
+2017-09-03 18:24:34,065 INFO  [Log] Failed: TS_50: Verify Event is present on Pace Graph; Value: sl64; is Not Present in Page values: 119u | It40 | YzB6,  
+2017-09-03 18:24:35,573 INFO  [Log] TS_51: scroll to Grid View: Action Scroll Down 
+2017-09-03 18:24:35,727 INFO  [Log] TS_52: click on Grid View 
+2017-09-03 18:24:35,727 INFO  [Log] TS_53; Waited 8000 Milli seconds for Element 
+2017-09-03 18:24:43,833 INFO  [Log] TS_54: Edit xpath for Element Name and specific DateNew Element Location is : Sl64Stored in ObjRep using element name: event: Type: Xpath 
+2017-09-03 18:25:09,348 INFO  [Log] TS_55; Failed; Sepcified Element is not present on the page; Verify Event is Present on the Given Date on the Grid View 
+2017-09-03 18:25:10,656 INFO  [Log] TS_56: Click on Graph View 
+2017-09-03 18:25:10,656 INFO  [Log] TS_57; Waited 5000 Milli seconds for Element 
+2017-09-03 18:25:15,861 INFO  [Log] TS_58: Click on Date Range 
+2017-09-03 18:25:15,861 INFO  [Log] TS_59; Waited 2000 Milli seconds for Element 
+2017-09-03 18:25:18,129 INFO  [Log] TS_60: Select Start Date Date selected: 1 November 
+2017-09-03 18:25:18,375 INFO  [Log] TS_61: Select Start Date Date selected: 5 November 
+2017-09-03 18:25:18,520 INFO  [Log] TS_62: Click on Apply Button 
+2017-09-03 18:25:18,521 INFO  [Log] TS_63; Waited 5000 Milli seconds for Element 
+2017-09-03 18:25:23,659 INFO  [Log] TS_64: Hover on the Graph View: ToolTipNavigation 
+2017-09-03 18:25:23,781 INFO  [Log] TS_65: Edot Xpath to check event is present on GraphNew Element Location is : Sl64Stored in ObjRep using element name: Graph: Type: Xpath 
+2017-09-03 18:25:49,226 INFO  [Log] TS_66; Failed; Sepcified Element is not present on the page; Verify Event is Present on Graph 
+2017-09-03 18:25:49,824 INFO  [Log] TS_67: Click on Trends 
+2017-09-03 18:25:49,824 INFO  [Log] TS_68; Waited 15000 Milli seconds for Element 
+2017-09-03 18:26:04,943 INFO  [Log] TS_69: Click on Events 
+2017-09-03 18:26:04,944 INFO  [Log] TS_70; Waited 8000 Milli seconds for Element 
+2017-09-03 18:26:13,068 INFO  [Log] TS_71: Click on Filter for Custom Events 
+2017-09-03 18:26:13,069 INFO  [Log] TS_72; Waited 3000 Milli seconds for Element 
+2017-09-03 18:26:16,260 INFO  [Log] TS_73: Select Custom Events    null; Action: Drop Down Select 
+2017-09-03 18:26:16,356 INFO  [Log] TS_74: Click on Apply Button 
+2017-09-03 18:26:16,356 INFO  [Log] TS_75; Waited 8000 Milli seconds for Element 
+2017-09-03 18:26:24,569 INFO  [Log] TS_76: Search the Custom event; Action: Submited stored value 
+2017-09-03 18:26:24,663 INFO  [Log] TS_77: Click on edit event button 
+2017-09-03 18:26:24,663 INFO  [Log] TS_78; Waited 1000 Milli seconds for Element 
+2017-09-03 18:26:25,785 INFO  [Log] TS_79: click on Delete button 
+2017-09-03 18:26:25,785 INFO  [Log] TS_80; Waited 1000 Milli seconds for Element 
+2017-09-03 18:26:26,897 INFO  [Log] TS_81: Click on Yes button to confirm deletion of event 
+2017-09-03 18:26:31,898 INFO  [Log] closing test case  
+2017-09-03 18:26:32,315 INFO  [Log] ### Test case: RG_TC_065; Description: To verify Events on all rates views; status Executed 
+2017-09-03 18:26:32,315 WARN  [Log] No Browser instance is active 
+2017-09-03 18:26:32,315 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:26:32,315 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:26:32,482 INFO  [Log] RG_TC_111_To verify the download Excel (Parity) 
+2017-09-03 18:26:32,604 INFO  [Log] RG_TC_118_To verify the Trends Excel download  
+2017-09-03 18:26:32,642 INFO  [Log] RG_TC_140_To verify Rank Excel is Downloading  
+2017-09-03 18:26:32,678 INFO  [Log] RG_TC_163_To verify information on manage scheduled report page 
+2017-09-03 18:26:32,716 INFO  [Log] RG_TC_167_To Verify the general settings section 
+2017-09-03 18:26:32,752 INFO  [Log] RG_TC_168_Verify the Market section 
+2017-09-03 18:26:32,790 INFO  [Log] RG_TC_176_To verify the Parity grid view(OTA/TRIPADVISOR/TRIVAGO 
+2017-09-03 18:26:32,923 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:26:32,923 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_177; Description: To verify user should be able to selected from basic and advance mapping options For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:26:32,923 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:26:38,387 INFO  [Log] #### Executing Test case: RG_TC_177; Description: To verify user should be able to selected from basic and advance mapping options In Chrome Browser for TestData:1 
+2017-09-03 18:26:48,557 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:26:48,854 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:26:48,979 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:26:49,061 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:26:49,062 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:27:01,810 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:27:01,979 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:27:02,100 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:27:03,517 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:27:03,517 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:27:11,650 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:27:11,651 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:27:16,833 INFO  [Log] TS_13: generalsetting 
+2017-09-03 18:27:16,833 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-09-03 18:27:20,912 INFO  [Log] TS_15: click on mapping 
+2017-09-03 18:27:20,912 INFO  [Log] TS_16; Waited 5000 Milli seconds for Element 
+2017-09-03 18:27:51,489 INFO  [Log] optima177TS_17XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-03 18:27:54,456 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-03 18:27:54,586 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-03 18:27:54,713 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-03 18:27:54,713 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:27:54,714 FATAL [Log] optima177TS_17XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-09-03 18:27:54,714 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:27:54,782 INFO  [Log] RG_TC_184_To verify user is able to search compititor 
+2017-09-03 18:27:54,816 INFO  [Log] RG_TC_185_To verify User is able to see all competitors on the screen with competitive pressure, threshold value 
+2017-09-03 18:27:54,841 INFO  [Log] RG_TC_186_To verify User should be able to delete any competitor from the bucket 
+2017-09-03 18:27:54,893 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:27:54,893 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RG_TC_187; Description: to verify User should be able to edit competitive pressure and threshold value for each competitor For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:27:54,893 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:28:00,353 INFO  [Log] #### Executing Test case: RG_TC_187; Description: to verify User should be able to edit competitive pressure and threshold value for each competitor In Chrome Browser for TestData:1 
+2017-09-03 18:28:10,194 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:28:10,558 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:28:10,690 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:28:10,766 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:28:10,766 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:28:24,341 INFO  [Log] TS_06: click on user name  
+2017-09-03 18:28:24,463 INFO  [Log] TS_07: click on choose property 
+2017-09-03 18:28:24,517 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:28:25,596 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:28:25,596 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:28:33,805 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:28:33,806 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-09-03 18:28:41,943 INFO  [Log] TS_13: generalsetting 
+2017-09-03 18:28:41,943 INFO  [Log] TS_14; Waited 5000 Milli seconds for Element 
+2017-09-03 18:28:47,053 INFO  [Log] TS_15: click on Competitor 
+2017-09-03 18:28:47,054 INFO  [Log] TS_16; Waited 4000 Milli seconds for Element 
+2017-09-03 18:28:51,164 INFO  [Log] TS_17: Click on Edit Competitors Values 
+2017-09-03 18:28:51,165 INFO  [Log] TS_18; Waited 8000 Milli seconds for Element 
+2017-09-03 18:28:59,311 INFO  [Log] TS_19: Click on Low Input; Action Clear 
+2017-09-03 18:28:59,312 INFO  [Log] TS_20; Waited 5000 Milli seconds for Element 
+2017-09-03 18:29:04,461 INFO  [Log] TS_21: Submit Low Input Value; Action: Submited ValueValue: 42 
+2017-09-03 18:29:04,461 INFO  [Log] TS_22; Waited 4000 Milli seconds for Element 
+2017-09-03 18:29:08,636 INFO  [Log] TS_23: Clear high Input; Action Clear 
+2017-09-03 18:29:08,637 INFO  [Log] TS_24; Waited 5000 Milli seconds for Element 
+2017-09-03 18:29:13,792 INFO  [Log] TS_25: Submit High input Value; Action: Submited ValueValue: 55 
+2017-09-03 18:29:13,792 INFO  [Log] TS_26; Waited 8000 Milli seconds for Element 
+2017-09-03 18:29:21,903 INFO  [Log] optima_187TS_27XpathSlider  java.lang.ClassCastException: org.openqa.selenium.interactions.Actions$BuiltAction cannot be cast to javax.swing.Actionnull:Exception is not handled 
+2017-09-03 18:29:24,849 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-03 18:29:25,042 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-03 18:29:25,187 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-03 18:29:25,187 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:29:25,187 FATAL [Log] optima_187TS_27XpathSlider  java.lang.ClassCastException: org.openqa.selenium.interactions.Actions$BuiltAction cannot be cast to javax.swing.Actionnull:Exception is not handled 
+2017-09-03 18:29:25,187 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:29:25,256 INFO  [Log] RG_TC_188_To verify User should be able to change the order of any competitor 
+2017-09-03 18:29:25,290 INFO  [Log] RG_TC_189_To verify User should be able to send a request to add competitor in the bucket which is not find in the search 
+2017-09-03 18:29:25,327 INFO  [Log] PGNG1030_TC_005_To verify that user is allowed to modify search keyword on every additional char typed after 2 char 
+2017-09-03 18:29:25,361 INFO  [Log] PGNG1030_TC_006_To verify the search logic when search keyword is more than one 
+2017-09-03 18:29:25,396 INFO  [Log] PGNG1030_TC_012_To verify the functionality of First property selection from the result set 
+2017-09-03 18:29:25,434 INFO  [Log] PGNG1030_TC_013_To verify the search functionality when user do not found any property in the search result 
+2017-09-03 18:29:25,471 INFO  [Log] PGNG1030_TC_015_To verify the functionality of "Can't find hotel" link 
+2017-09-03 18:29:25,509 INFO  [Log] PGNG1030_TC_017_To verify the validation if mandatory information is missing and click on "Send Request button " in "Can't find your Competitor " pop up 
+2017-09-03 18:29:25,542 INFO  [Log] PGNG1030_TC_019_To verify the functionality of Cancel button in "Can't find your Competitor " pop up 
+2017-09-03 18:29:25,575 INFO  [Log] PGNG1030_TC_022_To verify the email id and resolution time in Acknowledgement pop up 
+2017-09-03 18:29:25,631 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:29:25,631 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_038; Description: To verify the Wightage for newly added competitor when property select from the search result For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:29:25,631 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:29:31,089 INFO  [Log] #### Executing Test case: PGNG1030_TC_038; Description: To verify the Wightage for newly added competitor when property select from the search result In Chrome Browser for TestData:1 
+2017-09-03 18:29:40,924 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:29:41,244 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:29:41,370 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:29:41,448 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:29:41,449 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:29:57,273 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:29:57,401 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:29:57,468 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:29:58,608 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:29:58,608 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:30:06,717 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:30:06,717 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:30:11,874 INFO  [Log] TS_13: Click on settings 
+2017-09-03 18:30:11,874 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-09-03 18:30:19,994 INFO  [Log] TS_15: Click on Competitor 
+2017-09-03 18:30:19,994 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-03 18:30:28,238 INFO  [Log] TS_17: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-03 18:30:28,238 INFO  [Log] TS_18; Waited 8000 Milli seconds for Element 
+2017-09-03 18:30:36,378 INFO  [Log] TS_19: Capture the First ResultUber London Kensington House; Value has been stored in index: 0 
+2017-09-03 18:30:36,455 INFO  [Log] TS_20: Click on Search Competitor; Action Clear 
+2017-09-03 18:30:36,598 INFO  [Log] TS_21: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-03 18:30:36,598 INFO  [Log] TS_22; Waited 8000 Milli seconds for Element 
+2017-09-03 18:30:44,970 INFO  [Log] TS_24; Waited 12000 Milli seconds for Element 
+2017-09-03 18:30:57,084 INFO  [Log] TS_25; Passed; Verify property is added at the last; Captured text: uber london kensington house; Value form page: Uber London Kensington House,  
+2017-09-03 18:30:57,129 INFO  [Log] TS_26: Edit the Xpath to verify the weightage of the added propertyNew Element Location is : Uber London Kensington HouseStored in ObjRep using element name: weightage: Type: Xpath 
+2017-09-03 18:30:57,222 INFO  [Log] TS_27; Passed; Verify the Weightage of newly added property is 5; Value: 5; Present in Page values: 5,  
+2017-09-03 18:30:57,340 INFO  [Log] TS_28: Delete the Added Record 
+2017-09-03 18:30:57,341 INFO  [Log] TS_29; Waited 5000 Milli seconds for Element 
+2017-09-03 18:31:02,457 INFO  [Log] TS_30: click on delete button to delete the record 
+2017-09-03 18:31:02,457 INFO  [Log] TS_31; Waited 8000 Milli seconds for Element 
+2017-09-03 18:31:15,458 INFO  [Log] closing test case  
+2017-09-03 18:31:15,889 INFO  [Log] ### Test case: PGNG1030_TC_038; Description: To verify the Wightage for newly added competitor when property select from the search result; status Executed 
+2017-09-03 18:31:15,889 WARN  [Log] No Browser instance is active 
+2017-09-03 18:31:15,890 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:31:15,890 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:31:15,974 INFO  [Log] PGNG1030_TC_039_To verify the Threshold Value for newly added competitor(Absolute) 
+2017-09-03 18:31:16,017 INFO  [Log] PGNG1030_TC_040_To verify the Threshold Value for newly added competitor(Percentage) 
+2017-09-03 18:31:16,073 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:31:16,073 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_045; Description: To verify that on adding a newly competitor in the bucket should add in all relevant screens For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:31:16,073 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:31:21,566 INFO  [Log] #### Executing Test case: PGNG1030_TC_045; Description: To verify that on adding a newly competitor in the bucket should add in all relevant screens In Chrome Browser for TestData:1 
+2017-09-03 18:31:30,526 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:31:30,889 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:31:31,017 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:31:31,095 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:31:31,096 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:31:43,684 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:31:43,822 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:31:43,889 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:31:45,032 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:31:45,034 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:31:53,203 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:31:53,203 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:31:58,338 INFO  [Log] TS_13: Click on settings 
+2017-09-03 18:31:58,338 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-09-03 18:32:06,457 INFO  [Log] TS_15: Click on Competitor 
+2017-09-03 18:32:06,457 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-03 18:32:14,722 INFO  [Log] TS_17: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-03 18:32:14,722 INFO  [Log] TS_18; Waited 8000 Milli seconds for Element 
+2017-09-03 18:32:22,866 INFO  [Log] TS_19: Capture the First ResultUber London Kensington House; Value has been stored in index: 0 
+2017-09-03 18:32:22,866 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-09-03 18:32:25,025 INFO  [Log] TS_20: Click on Search Competitor; Action Clear 
+2017-09-03 18:32:25,254 INFO  [Log] TS_21: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-03 18:32:25,255 INFO  [Log] TS_22; Waited 8000 Milli seconds for Element 
+2017-09-03 18:32:33,295 INFO  [Log] TS_24; Waited 15000 Milli seconds for Element 
+2017-09-03 18:32:48,445 INFO  [Log] TS_25; Passed; Verify Compititor is added successfully; Captured text: uber london kensington house; Value form page: Uber London Kensington House,  
+2017-09-03 18:32:48,445 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-03 18:32:50,553 INFO  [Log] TS_27: Capture the Last Added competitorUber London Kensington House; Value has been stored in index: 1 
+2017-09-03 18:32:50,601 INFO  [Log] User specified value has been replaced at index1New Value is: Uber London Kensingt 
+2017-09-03 18:32:50,601 INFO  [Log] TS_29; Waited 2000 Milli seconds for Element 
+2017-09-03 18:32:52,741 INFO  [Log] TS_30: Click on Optima Logo 
+2017-09-03 18:32:52,741 INFO  [Log] TS_31; Waited 10000 Milli seconds for Element 
+2017-09-03 18:33:02,868 INFO  [Log] TS_32: Click on Rates 
+2017-09-03 18:33:02,873 INFO  [Log] TS_33; Waited 10000 Milli seconds for Element 
+2017-09-03 18:33:13,019 INFO  [Log] TS_34: Click on any date in a calender 
+2017-09-03 18:33:13,021 INFO  [Log] TS_35; Waited 8000 Milli seconds for Element 
+2017-09-03 18:33:21,122 INFO  [Log] TS_36: Click on Competitive Graph 
+2017-09-03 18:33:21,123 INFO  [Log] TS_37; Waited 8000 Milli seconds for Element 
+2017-09-03 18:33:29,185 INFO  [Log] TS_38: Edit Xpath for Competitve Graph Verification of compititorNew Element Location is : Uber London KensingtStored in ObjRep using element name: Competitive: Type: Xpath 
+2017-09-03 18:33:29,264 INFO  [Log] TS_39: Verify Compititor is added successfully; Passed; ; Element is present on the active page 
+2017-09-03 18:33:29,264 INFO  [Log] TS_40; Waited 3000 Milli seconds for Element 
+2017-09-03 18:33:32,396 INFO  [Log] TS_41: Click on settings 
+2017-09-03 18:33:32,396 INFO  [Log] TS_42; Waited 10000 Milli seconds for Element 
+2017-09-03 18:33:42,523 INFO  [Log] TS_43: Click on Competitor 
+2017-09-03 18:33:42,523 INFO  [Log] TS_44; Waited 10000 Milli seconds for Element 
+2017-09-03 18:33:52,680 INFO  [Log] TS_45: Delete the Added Record 
+2017-09-03 18:33:52,680 INFO  [Log] TS_46; Waited 5000 Milli seconds for Element 
+2017-09-03 18:33:57,796 INFO  [Log] TS_47: click on delete button to delete the record 
+2017-09-03 18:33:57,796 INFO  [Log] TS_48; Waited 8000 Milli seconds for Element 
+2017-09-03 18:34:10,797 INFO  [Log] closing test case  
+2017-09-03 18:34:12,942 INFO  [Log] ### Test case: PGNG1030_TC_045; Description: To verify that on adding a newly competitor in the bucket should add in all relevant screens; status Executed 
+2017-09-03 18:34:12,942 WARN  [Log] No Browser instance is active 
+2017-09-03 18:34:12,942 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:34:12,942 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:34:13,008 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:34:13,008 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_048; Description: To verify Newly added property should available on the Rates Graphical View hover For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:34:13,008 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:34:18,477 INFO  [Log] #### Executing Test case: PGNG1030_TC_048; Description: To verify Newly added property should available on the Rates Graphical View hover In Chrome Browser for TestData:1 
+2017-09-03 18:34:27,587 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:34:27,906 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:34:28,027 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:34:28,100 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:34:28,100 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:34:41,728 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:34:41,855 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:34:41,909 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:34:43,045 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:34:43,045 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:34:51,175 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:34:51,175 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:34:56,352 INFO  [Log] TS_13: Click on settings 
+2017-09-03 18:34:56,352 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-09-03 18:35:04,437 INFO  [Log] TS_15: Click on Competitor 
+2017-09-03 18:35:04,438 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-03 18:35:12,861 INFO  [Log] TS_17: Click on Search Competitor; Action: Submited ValueValue: The Queens Gate Hotel 
+2017-09-03 18:35:37,940 INFO  [Log] TS_18; Passed; verify propert is not shown for this selected keyword; Element is not present/dispayed on the page 
+2017-09-03 18:35:37,940 INFO  [Log] TS_19; Waited 8000 Milli seconds for Element 
+2017-09-03 18:35:46,048 INFO  [Log] TS_20: Edit Xpath to delete a compititor which is already mapped New Element Location is : The Queens Gate HotelStored in ObjRep using element name: hotel: Type: Xpath 
+2017-09-03 18:35:46,188 INFO  [Log] TS_21: click on  Delete the Mapped Compititor 
+2017-09-03 18:35:46,188 INFO  [Log] TS_22; Waited 12000 Milli seconds for Element 
+2017-09-03 18:35:58,303 INFO  [Log] TS_23: Delete the Mapped Compititor 
+2017-09-03 18:35:58,304 INFO  [Log] TS_24; Waited 8000 Milli seconds for Element 
+2017-09-03 18:36:06,685 INFO  [Log] TS_25: Click on Search Competitor; Action: Submited ValueValue: The Queens Gate Hotel 
+2017-09-03 18:36:06,685 INFO  [Log] TS_26; Waited 8000 Milli seconds for Element 
+2017-09-03 18:36:14,789 INFO  [Log] TS_27: Capture the First ResultThe Queens Gate Hotel; Value has been stored in index: 0 
+2017-09-03 18:36:14,832 INFO  [Log] User specified value has been replaced at index0New Value is: The Queens  
+2017-09-03 18:36:14,872 INFO  [Log] TS_30; Waited 15000 Milli seconds for Element 
+2017-09-03 18:36:29,995 INFO  [Log] TS_31; Passed; Verify Compititor is added successfully; Captured text: the queens ; Value form page: The Queens Gate Hotel,  
+2017-09-03 18:36:29,995 INFO  [Log] TS_32; Waited 2000 Milli seconds for Element 
+2017-09-03 18:36:32,116 INFO  [Log] TS_33: Click on Optima Logo 
+2017-09-03 18:36:32,116 INFO  [Log] TS_34; Waited 10000 Milli seconds for Element 
+2017-09-03 18:36:42,256 INFO  [Log] TS_35: Click on Rates 
+2017-09-03 18:36:42,256 INFO  [Log] TS_36; Waited 10000 Milli seconds for Element 
+2017-09-03 18:36:52,433 INFO  [Log] TS_37: Click 
+2017-09-03 18:36:52,434 INFO  [Log] TS_38; Waited 10000 Milli seconds for Element 
+2017-09-03 18:37:02,787 INFO  [Log] TS_39: Click on Date Range 
+2017-09-03 18:37:02,787 INFO  [Log] TS_40; Waited 5000 Milli seconds for Element 
+2017-09-03 18:37:08,524 INFO  [Log] TS_41: select start dateDate selected: 1 November 
+2017-09-03 18:37:08,524 INFO  [Log] TS_42; Waited 1000 Milli seconds for Element 
+2017-09-03 18:37:09,843 INFO  [Log] TS_43: select end dateDate selected: 5 November 
+2017-09-03 18:37:09,843 INFO  [Log] TS_44; Waited 1000 Milli seconds for Element 
+2017-09-03 18:37:11,741 INFO  [Log] TS_45: click on apply 
+2017-09-03 18:37:11,741 INFO  [Log] TS_46; Waited 10000 Milli seconds for Element 
+2017-09-03 18:37:21,810 INFO  [Log] TS_47: Edit Grid Value for CompititorNew Element Location is : The QueensStored in ObjRep using element name: grid: Type: Xpath 
+2017-09-03 18:37:21,906 INFO  [Log] TS_48: Verify Compititor is added in Grid view; Passed; ; Element is present on the active page 
+2017-09-03 18:37:22,107 INFO  [Log] TS_49: Click on Chart View 
+2017-09-03 18:37:22,108 INFO  [Log] TS_50; Waited 10000 Milli seconds for Element 
+2017-09-03 18:37:32,280 INFO  [Log] TS_51: Hover on the Graph: ToolTipNavigation 
+2017-09-03 18:37:32,429 INFO  [Log] TS_52: BlankNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: chart: Type: Xpath 
+2017-09-03 18:37:58,366 INFO  [Log] TS_53; Failed; Sepcified Element is not present on the page; Blank 
+2017-09-03 18:38:03,748 INFO  [Log] closing test case  
+2017-09-03 18:38:05,923 INFO  [Log] ### Test case: PGNG1030_TC_048; Description: To verify Newly added property should available on the Rates Graphical View hover; status Executed 
+2017-09-03 18:38:05,923 WARN  [Log] No Browser instance is active 
+2017-09-03 18:38:05,923 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:38:05,923 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:38:05,994 INFO  [Log] PGNG1030_TC_075_To verify competitor property in Channel Info under Tax page when property select from the search result in Competitor page 
+2017-09-03 18:38:06,031 INFO  [Log] PGNG1030_TC_078_To verify order of the properties in Properties list box in Tax Value popup 
+2017-09-03 18:38:06,073 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:38:06,073 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_079; Description: To verify order of the properties in Channel Info section in Tax Value popup For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:38:06,073 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:38:11,505 INFO  [Log] #### Executing Test case: PGNG1030_TC_079; Description: To verify order of the properties in Channel Info section in Tax Value popup In Chrome Browser for TestData:1 
+2017-09-03 18:38:21,305 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:38:21,622 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:38:21,751 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:38:21,831 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:38:21,831 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:38:35,663 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:38:35,805 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:38:35,866 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:38:37,197 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:38:37,197 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:38:45,333 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:38:45,333 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:38:50,447 INFO  [Log] TS_13: Click on settings 
+2017-09-03 18:38:50,447 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-09-03 18:38:58,573 INFO  [Log] TS_15: Click on TAX page 
+2017-09-03 18:38:58,573 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-03 18:39:12,397 INFO  [Log] TS_17: Click on Check Info 
+2017-09-03 18:39:12,397 INFO  [Log] TS_18; Waited 8000 Milli seconds for Element 
+2017-09-03 18:39:21,373 INFO  [Log] List of following Values has been storedTS_19: Capture all Competitor from Tax Page; Action: Capture and stored value, Sayang House, Fifty Four Boutique ..., London Apart Hotel, London Marriott Hote..., The Park City Grand ..., Holiday Inn London -..., Best Western John Ho..., Kensington London, London Perfect - Mid..., Royal Garden Hotel, Hyatt Regency Birmin..., Hyatt Place London H..., Baglioni Hotel Londo..., London Perfect-Cornw..., Novotel London Water..., Citadines South Kens..., Apartment London 2, Andaz Liverpool Stre..., Copthorne Tara Hotel..., London Perfect - Que..., Kensington Close Hot..., Copthorne Tara Hotel..., The Queens Gate Hote... 
+2017-09-03 18:39:21,475 INFO  [Log] TS_21; Waited 3000 Milli seconds for Element 
+2017-09-03 18:39:24,739 INFO  [Log] TS_22: Click on Compititors 
+2017-09-03 18:39:24,740 INFO  [Log] TS_23; Waited 10000 Milli seconds for Element 
+2017-09-03 18:39:35,573 INFO  [Log] List of following Values has been storedTS_24: Capture all Competitor from Compititor Page; Action: Capture and stored value, Sayang House, Fifty Four Boutique Hotel, London Apart Hotel, London Marriott Hotel Kensington, The Park City Grand Plaza Kensington Hotel, Holiday Inn London - Kensington Forum, Best Western John Howard Hotel London, Kensington London, London Perfect - Middleton, Royal Garden Hotel, Hyatt Regency Birmingham, Hyatt Place London Heathrow Hayes, Baglioni Hotel London - The Leading Hotels of the World, London Perfect-Cornwall, Novotel London Waterloo, Citadines South Kensington London, Apartment London 2, Andaz Liverpool Street London - A Concept by Hyatt, Copthorne Tara Hotel London Kensington Feed, London Perfect - Queensgate Studio Loft, Kensington Close Hotel And Spa, Copthorne Tara Hotel London Kensington, The Queens Gate Hotel 
+2017-09-03 18:39:35,921 INFO  [Log] Failed: TS_25 captured value [[Sayang, Fifty Four Boutiq, London Apart, London Marriott H, The Park City Gra, Holiday Inn Londo, Best Western John, Kensington , London Perfect - , Royal Garden, Hyatt Regency Bir, Hyatt Place Londo, Baglioni Hotel Lo, London Perfect-Co, Novotel London Wa, Citadines South K, Apartment Lo, Andaz Liverpool S, Copthorne Tara Ho, London Perfect - , Kensington Close , Copthorne Tara Ho, The Queens Gate H]  ] and captured value [[Sayang House, Fifty Four Boutique Hotel, London Apart Hotel, London Marriott Hotel Kensington, The Park City Grand Plaza Kensington Hotel, Holiday Inn London - Kensington Forum, Best Western John Howard Hotel London, Kensington London, London Perfect - Middleton, Royal Garden Hotel, Hyatt Regency Birmingham, Hyatt Place London Heathrow Hayes, Baglioni Hotel London - The Leading Hotels of the World, London Perfect-Cornwall, Novotel London Waterloo, Citadines South Kensington London, Apartment London 2, Andaz Liverpool Street London - A Concept by Hyatt, Copthorne Tara Hotel London Kensington Feed, London Perfect - Queensgate Studio Loft, Kensington Close Hotel And Spa, Copthorne Tara Hotel London Kensington, The Queens Gate Hotel]  ] are not same 
+2017-09-03 18:39:41,295 INFO  [Log] closing test case  
+2017-09-03 18:39:43,677 INFO  [Log] ### Test case: PGNG1030_TC_079; Description: To verify order of the properties in Channel Info section in Tax Value popup; status Executed 
+2017-09-03 18:39:43,677 WARN  [Log] No Browser instance is active 
+2017-09-03 18:39:43,677 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:39:43,677 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:39:43,768 INFO  [Log] PGNG1030_TC_105_To verify that user is able to edit competitors in compset bucket 
+2017-09-03 18:39:43,810 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:39:43,810 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_106; Description: To verify that updated value of "Weightage" and "Threshold" for a competitor should reflect in compset bucket when click on Save icon For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:39:43,810 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:39:49,180 INFO  [Log] #### Executing Test case: PGNG1030_TC_106; Description: To verify that updated value of "Weightage" and "Threshold" for a competitor should reflect in compset bucket when click on Save icon In Chrome Browser for TestData:1 
+2017-09-03 18:40:03,895 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:40:04,232 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:40:04,356 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:40:04,431 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:40:04,431 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:40:17,417 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:40:17,545 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:40:17,612 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:40:18,765 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:40:18,765 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:40:26,953 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:40:26,953 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:40:32,081 INFO  [Log] TS_13: Click on settings 
+2017-09-03 18:40:32,082 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-09-03 18:40:40,215 INFO  [Log] TS_15: Click on Competitor 
+2017-09-03 18:40:40,218 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-03 18:40:48,277 INFO  [Log] TS_17: Edit Weightage of Mapped CompititorNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: weightage: Type: Xpath 
+2017-09-03 18:40:48,277 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-09-03 18:40:52,398 INFO  [Log] TS_19: Capture Weightage of Mapped Compititor5; Value has been stored in index: 0 
+2017-09-03 18:40:52,398 INFO  [Log] TS_20; Waited 4000 Milli seconds for Element 
+2017-09-03 18:40:56,467 INFO  [Log] TS_21: Edit Xpath for Low ThresholdNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: LowLabel: Type: Xpath 
+2017-09-03 18:40:56,467 INFO  [Log] TS_22; Waited 3000 Milli seconds for Element 
+2017-09-03 18:40:59,602 INFO  [Log] TS_23: CaptureLow Threshold Value10; Value has been stored in index: 1 
+2017-09-03 18:40:59,602 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-09-03 18:41:01,658 INFO  [Log] TS_25: Edit Xpath for High ThresholdNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: HighLabel: Type: Xpath 
+2017-09-03 18:41:01,658 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-03 18:41:03,778 INFO  [Log] TS_27: Capture High Threshold Value10; Value has been stored in index: 2 
+2017-09-03 18:41:03,778 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-03 18:41:05,861 INFO  [Log] TS_29: Edit the Weightage of Mapped CompititorNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: hotel: Type: Xpath 
+2017-09-03 18:41:05,861 INFO  [Log] TS_30; Waited 2000 Milli seconds for Element 
+2017-09-03 18:41:07,993 INFO  [Log] TS_31: Click on Edit  
+2017-09-03 18:41:07,993 INFO  [Log] TS_32; Waited 2000 Milli seconds for Element 
+2017-09-03 18:41:10,067 INFO  [Log] TS_33: Edit Slider PathNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: slider: Type: Xpath 
+2017-09-03 18:41:10,067 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-09-03 18:41:12,186 INFO  [Log] PGNG1030_106TS_35ObjectRepSlider  java.lang.ClassCastException: org.openqa.selenium.interactions.Actions$BuiltAction cannot be cast to javax.swing.Actionnull:Exception is not handled 
+2017-09-03 18:41:15,147 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-03 18:41:15,272 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-03 18:41:15,401 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-03 18:41:15,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:41:15,401 FATAL [Log] PGNG1030_106TS_35ObjectRepSlider  java.lang.ClassCastException: org.openqa.selenium.interactions.Actions$BuiltAction cannot be cast to javax.swing.Actionnull:Exception is not handled 
+2017-09-03 18:41:15,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:41:15,480 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:41:15,480 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_107; Description: To verify that updated value of "Weightage" and "Threshold" for a competitor should NOTreflect in compset bucket if click on Cancel icon For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:41:15,480 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:41:20,912 INFO  [Log] #### Executing Test case: PGNG1030_TC_107; Description: To verify that updated value of "Weightage" and "Threshold" for a competitor should NOTreflect in compset bucket if click on Cancel icon In Chrome Browser for TestData:1 
+2017-09-03 18:41:29,126 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:41:29,445 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:41:29,570 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:41:29,644 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:41:29,644 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:41:42,248 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:41:42,376 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:41:42,443 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:41:43,519 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:41:43,519 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:41:51,653 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:41:51,654 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:41:56,761 INFO  [Log] TS_13: Click on settings 
+2017-09-03 18:41:56,762 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-09-03 18:42:04,872 INFO  [Log] TS_15: Click on Competitor 
+2017-09-03 18:42:04,872 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-03 18:42:12,945 INFO  [Log] TS_17: Edit Weightage of Mapped CompititorNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: weightage: Type: Xpath 
+2017-09-03 18:42:12,945 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-09-03 18:42:17,060 INFO  [Log] TS_19: Capture Weightage of Mapped Compititor5; Value has been stored in index: 0 
+2017-09-03 18:42:17,060 INFO  [Log] TS_20; Waited 4000 Milli seconds for Element 
+2017-09-03 18:42:21,164 INFO  [Log] TS_21: Edit Xpath for Low ThresholdNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: LowLabel: Type: Xpath 
+2017-09-03 18:42:21,164 INFO  [Log] TS_22; Waited 3000 Milli seconds for Element 
+2017-09-03 18:42:24,301 INFO  [Log] TS_23: CaptureLow Threshold Value10; Value has been stored in index: 1 
+2017-09-03 18:42:24,301 INFO  [Log] TS_24; Waited 2000 Milli seconds for Element 
+2017-09-03 18:42:26,388 INFO  [Log] TS_25: Edit Xpath for High ThresholdNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: HighLabel: Type: Xpath 
+2017-09-03 18:42:26,389 INFO  [Log] TS_26; Waited 2000 Milli seconds for Element 
+2017-09-03 18:42:28,513 INFO  [Log] TS_27: Capture High Threshold Value10; Value has been stored in index: 2 
+2017-09-03 18:42:28,515 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-03 18:42:30,568 INFO  [Log] TS_29: Edit the Weightage of Mapped CompititorNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: hotel: Type: Xpath 
+2017-09-03 18:42:30,569 INFO  [Log] TS_30; Waited 2000 Milli seconds for Element 
+2017-09-03 18:42:32,683 INFO  [Log] TS_31: Click on Edit  
+2017-09-03 18:42:32,683 INFO  [Log] TS_32; Waited 2000 Milli seconds for Element 
+2017-09-03 18:42:34,796 INFO  [Log] TS_33: Edit Slider PathNew Element Location is : The Queens Gate HotelStored in ObjRep using element name: slider: Type: Xpath 
+2017-09-03 18:42:34,797 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-09-03 18:42:36,901 INFO  [Log] PGNG1030_107TS_35ObjectRepSlider  java.lang.ClassCastException: org.openqa.selenium.interactions.Actions$BuiltAction cannot be cast to javax.swing.Actionnull:Exception is not handled 
+2017-09-03 18:42:39,768 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-03 18:42:39,893 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-03 18:42:40,021 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-03 18:42:40,021 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:42:40,021 FATAL [Log] PGNG1030_107TS_35ObjectRepSlider  java.lang.ClassCastException: org.openqa.selenium.interactions.Actions$BuiltAction cannot be cast to javax.swing.Actionnull:Exception is not handled 
+2017-09-03 18:42:40,021 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:42:40,082 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:42:40,082 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_111; Description: To verify Comepetitors on Rate >> Competitiveness Graph For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 18:42:40,082 INFO  [Log] **************************************************************************************** 
+2017-09-03 18:42:45,522 INFO  [Log] #### Executing Test case: PGNG1030_TC_111; Description: To verify Comepetitors on Rate >> Competitiveness Graph In Chrome Browser for TestData:1 
+2017-09-03 18:42:57,419 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 18:42:57,715 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 18:42:57,834 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 18:42:57,910 INFO  [Log] TS_04: Click on login button 
+2017-09-03 18:42:57,910 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-09-03 18:43:10,727 INFO  [Log] TS_06: Click on UserName Icon 
+2017-09-03 18:43:10,920 INFO  [Log] TS_07: Click on Choose Property 
+2017-09-03 18:43:10,999 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 18:43:12,347 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 18:43:12,347 INFO  [Log] TS_10; Waited 8000 Milli seconds for Element 
+2017-09-03 18:43:20,513 INFO  [Log] TS_11: Click on property 
+2017-09-03 18:43:20,520 INFO  [Log] TS_12; Waited 5000 Milli seconds for Element 
+2017-09-03 18:43:25,630 INFO  [Log] TS_13: Click on Rates 
+2017-09-03 18:43:25,631 INFO  [Log] TS_14; Waited 5000 Milli seconds for Element 
+2017-09-03 18:43:30,765 INFO  [Log] TS_15: Click on Any Date in Calender 
+2017-09-03 18:43:30,766 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-09-03 18:43:38,891 INFO  [Log] TS_17: Click on Competitive Graph 
+2017-09-03 18:43:38,891 INFO  [Log] TS_18; Waited 8000 Milli seconds for Element 
+2017-09-03 18:43:47,469 INFO  [Log] List of following Values has been storedTS_19: Capture All Compititor Values before position change on On Demand Page; Action: Capture and stored value, Sayang House, Fifty Four Boutique ..., London Apart Hotel, London Marriott Hote..., The Park City Grand ..., Holiday Inn London -..., Best Western John Ho..., Kensington London, London Perfect - Mid..., Royal Garden Hotel, Hyatt Regency Birmin..., Hyatt Place London H..., Baglioni Hotel Londo..., London Perfect-Cornw..., Novotel London Water..., Citadines South Kens..., Apartment London 2, Andaz Liverpool Stre..., Copthorne Tara Hotel..., London Perfect - Que..., Kensington Close Hot..., Copthorne Tara Hotel..., The Queens Gate Hote... 
+2017-09-03 18:43:47,546 INFO  [Log] PGNG1030_111TS_20BlankEditValuesCaptured  java.lang.ArrayIndexOutOfBoundsException: -1null:Exception is not handled 
+2017-09-03 18:43:50,433 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-03 18:43:50,559 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-03 18:43:50,687 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-03 18:43:50,688 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:43:50,688 FATAL [Log] PGNG1030_111TS_20BlankEditValuesCaptured  java.lang.ArrayIndexOutOfBoundsException: -1null:Exception is not handled 
+2017-09-03 18:43:50,688 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:43:50,737 INFO  [Log] PGNG1030_TC_120_to verify order of the property in Download Report page if same property is available 
+2017-09-03 18:43:50,758 INFO  [Log] ####Closing Test Suite #### 
+2017-09-03 18:43:50,758 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 18:43:50,758 INFO  [Log] Creating Logs backup and storing for further reference 

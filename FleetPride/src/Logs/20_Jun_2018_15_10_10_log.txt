@@ -1,0 +1,30 @@
+2018-06-20 15:10:02,876 INFO  [Log] Test Scenario Configuration started 
+2018-06-20 15:10:02,922 INFO  [Log] Initialing HTML reporting 
+2018-06-20 15:10:03,297 INFO  [Log] Starting Test Suit Execution 
+2018-06-20 15:10:03,873 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-06-20 15:10:03,960 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-06-20 15:10:04,058 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-06-20 15:10:04,738 INFO  [Log] Object repository is created successfully 
+2018-06-20 15:10:04,820 INFO  [Log] **************************************************************************************** 
+2018-06-20 15:10:04,820 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Cost_Update_Task_Creation.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-20 15:10:04,820 INFO  [Log] **************************************************************************************** 
+2018-06-20 15:10:05,525 INFO  [Log] CostUpdateTaskCreationTS_01URLOpenGivenURL  org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:32929 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-06-20 15:10:08,147 WARN  [Log]  Browser instance is active 
+2018-06-20 15:10:10,152 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:32929 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver 
+2018-06-20 15:10:10,152 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 15:10:10,152 FATAL [Log] CostUpdateTaskCreationTS_01URLOpenGivenURL  org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to localhost:32929 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDrivernull:Exception is not handled 
+2018-06-20 15:10:10,152 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-20 15:10:10,403 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-06-20 15:10:10,504 INFO  [Log] Simple_Login_Blank 
+2018-06-20 15:10:10,578 INFO  [Log] PE-658_PO_Field_Incorrect_Validation_Character_Limit_Blank 
+2018-06-20 15:10:10,672 INFO  [Log] fetch_dsp_CA_Restricted_Blank 
+2018-06-20 15:10:10,722 INFO  [Log] Creating Logs backup and storing for further reference 

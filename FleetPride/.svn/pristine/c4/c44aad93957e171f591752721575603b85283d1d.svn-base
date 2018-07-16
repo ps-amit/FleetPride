@@ -1,0 +1,91 @@
+2017-07-19 12:36:03,957 INFO  [Log] Test Scenario Configuration started 
+2017-07-19 12:36:03,976 INFO  [Log] Initialing HTML reporting 
+2017-07-19 12:36:04,167 INFO  [Log] Starting Test Suit Execution 
+2017-07-19 12:36:04,167 WARN  [Log] Browser instance value is null 
+2017-07-19 12:36:04,684 INFO  [Log] Object repository is created successfully 
+2017-07-19 12:36:04,754 INFO  [Log] Opt_01_inbox elements 
+2017-07-19 12:36:04,854 INFO  [Log] **************************************************************************************** 
+2017-07-19 12:36:04,855 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Opt_03; Description: Price Threshold Breach on grid For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-19 12:36:04,855 INFO  [Log] **************************************************************************************** 
+2017-07-19 12:36:12,871 INFO  [Log] #### Executing Test case: Opt_03; Description: Price Threshold Breach on grid In firefox Browser for TestData:1 
+2017-07-19 12:36:29,506 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-19 12:36:34,866 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-19 12:36:35,124 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-19 12:36:35,330 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-19 12:36:35,332 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-19 12:36:42,132 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-19 12:36:43,099 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-19 12:36:43,202 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-19 12:36:43,327 INFO  [Log] 19 Jul - 18 Aug, 2017; Value has been stored in index: 0 
+2017-07-19 12:36:43,448 INFO  [Log] TS_10: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-19 12:36:43,620 INFO  [Log] Price Threshold Breach : 11 Times; Value has been stored in index: 1 
+2017-07-19 12:36:43,707 INFO  [Log] User specified value has been replaced at index1New Value is: 11 
+2017-07-19 12:36:43,901 INFO  [Log] TS_13: verify price thrashold breach element present: Action click 
+2017-07-19 12:36:43,904 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-19 12:36:48,174 INFO  [Log] 07/19/2017 to 08/18/2017; Value has been stored in index: 2 
+2017-07-19 12:36:52,000 INFO  [Log] Wed
+19 Jul; Value has been stored in index: 3 
+2017-07-19 12:36:52,102 INFO  [Log] User specified value has been replaced at index3New Value is: 19 Jul 
+2017-07-19 12:36:52,275 INFO  [Log] TS_18: hover; Action: Mouse Hover 
+2017-07-19 12:36:52,275 INFO  [Log] TS_19; Waited 4000 Milli seconds for Element 
+2017-07-19 12:36:56,459 INFO  [Log] Fri
+18 Aug; Value has been stored in index: 4 
+2017-07-19 12:36:56,572 INFO  [Log] User specified value has been replaced at index4New Value is: 18 Aug 
+2017-07-19 12:36:56,573 INFO  [Log] TS_22; Passed; VerifyCapturewithCapture; Captured text1: 19 jul - 18 aug, 2017; Captured text2: 19 jul 
+2017-07-19 12:36:56,573 INFO  [Log] TS_23; Passed; VerifyCapturewithCapture; Captured text1: 19 jul - 18 aug, 2017; Captured text2: 18 aug 
+2017-07-19 12:36:56,574 INFO  [Log] closing test case  
+2017-07-19 12:36:56,581 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-19 12:36:56,613 INFO  [Log] ### Test case: Opt_03; Description: Price Threshold Breach on grid; status Executed 
+2017-07-19 12:36:57,902 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-19 12:36:58,024 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-19 12:36:58,140 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-19 12:36:58,140 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 12:37:03,848 INFO  [Log] #### Executing Test case: Opt_03; Description: Price Threshold Breach on grid In chrome Browser for TestData:1 
+2017-07-19 12:37:09,522 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-19 12:37:11,234 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-19 12:37:11,372 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-19 12:37:11,474 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-19 12:37:11,477 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-19 12:37:19,406 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-19 12:37:20,705 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-19 12:37:20,799 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-19 12:37:20,901 INFO  [Log] 19 Jul - 18 Aug, 2017; Value has been stored in index: 0 
+2017-07-19 12:37:20,973 INFO  [Log] TS_10: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-19 12:37:21,089 INFO  [Log] Price Threshold Breach : 11 Times; Value has been stored in index: 1 
+2017-07-19 12:37:21,212 INFO  [Log] User specified value has been replaced at index1New Value is: 11 
+2017-07-19 12:37:21,304 INFO  [Log] TS_13: verify price thrashold breach element present: Action click 
+2017-07-19 12:37:21,305 INFO  [Log] TS_14; Waited 4000 Milli seconds for Element 
+2017-07-19 12:37:25,420 INFO  [Log] 07/19/2017 to 08/18/2017; Value has been stored in index: 2 
+2017-07-19 12:37:27,077 INFO  [Log] Wed
+19 Jul; Value has been stored in index: 3 
+2017-07-19 12:37:27,135 INFO  [Log] User specified value has been replaced at index3New Value is: 19 Jul 
+2017-07-19 12:37:27,271 INFO  [Log] TS_18: hover; Action: Mouse Hover 
+2017-07-19 12:37:27,271 INFO  [Log] TS_19; Waited 4000 Milli seconds for Element 
+2017-07-19 12:37:31,403 INFO  [Log] Fri
+18 Aug; Value has been stored in index: 4 
+2017-07-19 12:37:31,471 INFO  [Log] User specified value has been replaced at index4New Value is: 18 Aug 
+2017-07-19 12:37:31,473 INFO  [Log] TS_22; Passed; VerifyCapturewithCapture; Captured text1: 19 jul - 18 aug, 2017; Captured text2: 19 jul 
+2017-07-19 12:37:31,473 INFO  [Log] TS_23; Passed; VerifyCapturewithCapture; Captured text1: 19 jul - 18 aug, 2017; Captured text2: 18 aug 
+2017-07-19 12:37:31,474 INFO  [Log] closing test case  
+2017-07-19 12:37:31,927 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-19 12:37:31,966 INFO  [Log] ### Test case: Opt_03; Description: Price Threshold Breach on grid; status Executed 
+2017-07-19 12:37:33,068 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-19 12:37:33,205 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-19 12:37:33,337 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-19 12:37:33,337 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 12:37:33,337 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 12:37:33,733 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-19 12:37:33,765 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-19 12:37:33,802 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-19 12:37:33,844 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-19 12:37:33,888 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-19 12:37:33,923 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-19 12:37:33,950 INFO  [Log] RateGain-1_RateGain -1 
+2017-07-19 12:37:33,980 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-19 12:37:34,005 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-19 12:37:34,032 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-19 12:37:34,065 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-19 12:37:34,094 INFO  [Log] PostRequest_PostRequest 
+2017-07-19 12:37:34,122 INFO  [Log] ####Closing Test Suite #### 
+2017-07-19 12:37:34,122 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 12:37:34,122 INFO  [Log] Creating Logs backup and storing for further reference 

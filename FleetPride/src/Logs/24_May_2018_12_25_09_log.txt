@@ -1,0 +1,34 @@
+2018-05-24 12:24:19,404 INFO  [Log] Test Scenario Configuration started 
+2018-05-24 12:24:19,431 INFO  [Log] Initialing HTML reporting 
+2018-05-24 12:24:19,696 INFO  [Log] Starting Test Suit Execution 
+2018-05-24 12:24:20,141 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-24 12:24:20,212 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-24 12:24:20,288 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-24 12:24:20,925 INFO  [Log] Object repository is created successfully 
+2018-05-24 12:24:21,010 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-24 12:24:21,113 INFO  [Log] **************************************************************************************** 
+2018-05-24 12:24:21,113 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: E2E_normal_shipping -CC; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-24 12:24:21,114 INFO  [Log] **************************************************************************************** 
+2018-05-24 12:24:29,001 INFO  [Log] #### Executing Test case: E2E_normal_shipping -CC; Description: Blank In Firefox Browser for TestData:1 
+2018-05-24 12:24:37,232 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-24 12:24:37,446 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: null 
+2018-05-24 12:24:37,514 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: null 
+2018-05-24 12:24:37,515 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-24 12:24:38,630 INFO  [Log] TS_05: Click on login button 
+2018-05-24 12:24:38,631 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-24 12:24:48,775 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: XK5204707QP 
+2018-05-24 12:24:48,864 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-24 12:24:48,864 INFO  [Log] TS_09; Waited 20000 Milli seconds for Element 
+2018-05-24 12:25:08,916 INFO  [Log] E2ETS_10ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-24 12:25:09,445 WARN  [Log]  Browser instance is active 
+2018-05-24 12:25:09,464 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '10.20.13.65', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 5102023a-50fe-45c3-9e7f-64047bce46db 
+2018-05-24 12:25:09,464 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-24 12:25:09,465 FATAL [Log] E2ETS_10ObjectRepValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-24 12:25:09,465 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-24 12:25:09,634 INFO  [Log] PE-685_Blank 
+2018-05-24 12:25:09,695 INFO  [Log] Creating Logs backup and storing for further reference 

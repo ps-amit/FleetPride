@@ -1,0 +1,60 @@
+2017-07-19 10:19:45,562 INFO  [Log] Test Scenario Configuration started 
+2017-07-19 10:19:45,578 INFO  [Log] Initialing HTML reporting 
+2017-07-19 10:19:45,777 INFO  [Log] Starting Test Suit Execution 
+2017-07-19 10:19:45,777 WARN  [Log] Browser instance value is null 
+2017-07-19 10:19:46,288 INFO  [Log] Object repository is created successfully 
+2017-07-19 10:19:46,404 INFO  [Log] **************************************************************************************** 
+2017-07-19 10:19:46,404 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Opt_01; Description: inbox elements For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-19 10:19:46,404 INFO  [Log] **************************************************************************************** 
+2017-07-19 10:19:53,462 INFO  [Log] #### Executing Test case: Opt_01; Description: inbox elements In firefox Browser for TestData:1 
+2017-07-19 10:20:01,206 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-19 10:20:02,936 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-19 10:20:03,143 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-19 10:20:03,476 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-19 10:20:03,476 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-19 10:20:11,740 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-19 10:20:13,504 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-19 10:20:13,691 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-19 10:20:13,783 INFO  [Log] TS_09: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-19 10:20:13,920 INFO  [Log] TS_10; Passed; verify price thrashold breach text present; Value: price threshold breach; Present in Page values: Price Threshold Breach : 11 Times,  
+2017-07-19 10:20:14,050 INFO  [Log] TS_11: verify competitors price change element present; Passed; ; Element is present on the active page 
+2017-07-19 10:20:39,392 ERROR [Log] Error#: optimaTS_12XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-19 10:20:40,919 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-19 10:20:41,032 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-19 10:20:41,147 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-19 10:20:41,147 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 10:20:41,148 FATAL [Log] optimaTS_12XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-19 10:20:47,729 INFO  [Log] #### Executing Test case: Opt_01; Description: inbox elements In chrome Browser for TestData:1 
+2017-07-19 10:20:58,602 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-19 10:21:01,131 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-19 10:21:01,582 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-19 10:21:01,753 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-19 10:21:01,754 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-19 10:21:10,061 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-19 10:21:10,759 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-19 10:21:10,891 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-19 10:21:10,959 INFO  [Log] TS_09: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-19 10:21:11,113 INFO  [Log] TS_10; Passed; verify price thrashold breach text present; Value: price threshold breach; Present in Page values: Price Threshold Breach : 11 Times,  
+2017-07-19 10:21:11,194 INFO  [Log] TS_11: verify competitors price change element present; Passed; ; Element is present on the active page 
+2017-07-19 10:21:36,561 ERROR [Log] Error#: optimaTS_12XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-19 10:21:38,633 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-19 10:21:38,750 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-19 10:21:38,866 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-19 10:21:38,866 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 10:21:38,867 FATAL [Log] optimaTS_12XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-19 10:21:38,867 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 10:21:39,377 INFO  [Log] AlertRateKart_07_AlertRateKart_07 
+2017-07-19 10:21:39,423 INFO  [Log] AlertRateKart_12_AlertRateKart_12 
+2017-07-19 10:21:39,458 INFO  [Log] AlertRateKart_13_AlertRateKart_13 
+2017-07-19 10:21:39,544 INFO  [Log] AlertRateKart_14_AlertRateKart_14 
+2017-07-19 10:21:39,590 INFO  [Log] AlertRateKart_23_AlertRateKart_23 
+2017-07-19 10:21:39,624 INFO  [Log] RateGain123.xlsx_RateGain123.xlsx 
+2017-07-19 10:21:39,664 INFO  [Log] RateGain-1_RateGain -1 
+2017-07-19 10:21:39,698 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-19 10:21:39,731 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-19 10:21:39,769 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-19 10:21:39,798 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-19 10:21:39,833 INFO  [Log] PostRequest_PostRequest 
+2017-07-19 10:21:39,877 INFO  [Log] ####Closing Test Suite #### 
+2017-07-19 10:21:39,878 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-19 10:21:39,878 INFO  [Log] Creating Logs backup and storing for further reference 

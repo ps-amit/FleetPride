@@ -1,0 +1,169 @@
+2017-09-01 10:36:37,474 INFO  [Log] Test Scenario Configuration started 
+2017-09-01 10:36:37,505 INFO  [Log] Initialing HTML reporting 
+2017-09-01 10:36:37,749 INFO  [Log] Starting Test Suit Execution 
+2017-09-01 10:36:37,749 WARN  [Log] No Browser instance is active 
+2017-09-01 10:36:38,506 INFO  [Log] Object repository is created successfully 
+2017-09-01 10:36:38,609 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-01 10:36:38,709 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-01 10:36:38,775 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-01 10:36:38,868 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-01 10:36:38,918 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-01 10:36:38,974 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Restriction filter on compset 
+2017-09-01 10:36:39,038 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-01 10:36:39,145 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Restriction filter on compset 
+2017-09-01 10:36:39,205 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-01 10:36:39,277 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Restriction filter on compset 
+2017-09-01 10:36:39,319 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-01 10:36:39,379 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Restriction filter on compset 
+2017-09-01 10:36:39,417 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-01 10:36:39,457 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-01 10:36:39,496 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-01 10:36:39,580 INFO  [Log] **************************************************************************************** 
+2017-09-01 10:36:39,580 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_68.xlsx; Description: To verify  Compset Avg Supply on calander (All  Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-01 10:36:39,580 INFO  [Log] **************************************************************************************** 
+2017-09-01 10:36:46,513 INFO  [Log] #### Executing Test case: Rg_TC_68.xlsx; Description: To verify  Compset Avg Supply on calander (All  Filter) In Chrome Browser for TestData:1 
+2017-09-01 10:37:02,972 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-01 10:37:03,516 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-09-01 10:37:03,677 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-09-01 10:37:03,776 INFO  [Log] TS_04: Click on login button: Action click 
+2017-09-01 10:37:03,777 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-09-01 10:37:13,964 INFO  [Log] TS_06: click on user name : Action click 
+2017-09-01 10:37:14,075 INFO  [Log] TS_07: click on choose property: Action click 
+2017-09-01 10:37:14,134 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-01 10:37:28,256 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-01 10:37:28,256 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-09-01 10:37:38,529 INFO  [Log] TS_11: Click on property: Action click 
+2017-09-01 10:37:38,530 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-09-01 10:37:48,652 INFO  [Log] TS_13: click on rates: Action click 
+2017-09-01 10:37:48,652 INFO  [Log] TS_14; Waited 12000 Milli seconds for Element 
+2017-09-01 10:38:00,846 INFO  [Log] TS_15: click on grid view: Action click 
+2017-09-01 10:38:00,846 INFO  [Log] TS_16; Waited 12000 Milli seconds for Element 
+2017-09-01 10:38:13,137 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-09-01 10:38:13,137 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-09-01 10:38:17,759 INFO  [Log] TS_19: select start dateDate selected: 1 November 
+2017-09-01 10:38:17,759 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-01 10:38:20,068 INFO  [Log] TS_21: select end dateDate selected: 5 November 
+2017-09-01 10:38:20,068 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-01 10:38:22,499 INFO  [Log] TS_23: click on apply: Action click 
+2017-09-01 10:38:22,500 INFO  [Log] TS_24; Waited 8000 Milli seconds for Element 
+2017-09-01 10:38:30,711 INFO  [Log] TS_25: RateFilter: Action click 
+2017-09-01 10:38:30,712 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-09-01 10:38:34,965 INFO  [Log] TS_27: Qualification; Action: Drop Down Select 
+2017-09-01 10:38:35,229 INFO  [Log] TS_28: Restriction; Action: Drop Down Select 
+2017-09-01 10:38:35,455 INFO  [Log] TS_29: Promotion; Action: Drop Down Select 
+2017-09-01 10:38:35,732 INFO  [Log] TS_30: LOS; Action: Drop Down Select 
+2017-09-01 10:38:36,002 INFO  [Log] TS_31: GuestCount; Action: Drop Down Select 
+2017-09-01 10:38:36,263 INFO  [Log] TS_32: RoomType; Action: Drop Down Select 
+2017-09-01 10:39:03,478 INFO  [Log] TS_33: Channel; Action:  filter values 
+2017-09-01 10:39:19,974 INFO  [Log] TS_34: Compset; Action:  filter values 
+2017-09-01 10:39:25,243 INFO  [Log] TS_35: Compset; Action:  filter values 
+2017-09-01 10:39:25,243 INFO  [Log] TS_36; Waited 2000 Milli seconds for Element 
+2017-09-01 10:39:27,502 INFO  [Log] TS_37: click on apply: Action click 
+2017-09-01 10:39:27,503 INFO  [Log] TS_38; Waited 4000 Milli seconds for Element 
+2017-09-01 10:39:31,725 INFO  [Log] TS_39: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Sun Nov 05 00:00:00 IST 2017] 
+2017-09-01 10:39:31,726 INFO  [Log] TS_40; Waited 10000 Milli seconds for Element 
+2017-09-01 10:39:41,874 INFO  [Log] TS_41: capture average rate100; Value has been stored in index: 0 
+2017-09-01 10:39:41,875 INFO  [Log] TS_42; Waited 8000 Milli seconds for Element 
+2017-09-01 10:39:49,993 INFO  [Log] TS_43: click on calander view: Action click 
+2017-09-01 10:39:49,993 INFO  [Log] TS_44; Waited 8000 Milli seconds for Element 
+2017-09-01 10:39:58,109 INFO  [Log] TS_45: click on legends: Action click 
+2017-09-01 10:39:58,110 INFO  [Log] TS_46; Waited 2000 Milli seconds for Element 
+2017-09-01 10:40:08,395 INFO  [Log] TS_47: click on Compset Avg. Supply if not clicked: Action Element is not present moving to next step 
+2017-09-01 10:40:08,396 INFO  [Log] TS_48; Waited 2000 Milli seconds for Element 
+2017-09-01 10:40:10,474 INFO  [Log] TS_49: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-01 10:40:10,610 INFO  [Log] TS_50: capture rate434
++128
++256; Value has been stored in index: 1 
+2017-09-01 10:40:10,724 INFO  [Log] TS_51: click on selected date: Action click 
+2017-09-01 10:40:10,724 INFO  [Log] TS_52; Waited 2000 Milli seconds for Element 
+2017-09-01 10:40:15,973 INFO  [Log] TS_53: click on Competition: Action click If 
+2017-09-01 10:40:16,687 INFO  [Log] TS_54: hover on subscriber property: ToolTipNavigation 
+2017-09-01 10:40:16,688 INFO  [Log] TS_55; Waited 4000 Milli seconds for Element 
+2017-09-01 10:40:20,810 INFO  [Log] TS_56: capture rate in competition graphCompset Avg. Supply : 100; Value has been stored in index: 2 
+2017-09-01 10:40:20,867 INFO  [Log] User specified value has been replaced at index2New Value is: 100 
+2017-09-01 10:40:20,867 INFO  [Log] Fail; TS_58: verify Compset Avg Supply with calanderverify Compset Avg Supply with calander; Captured text1: 100; Captured text2: 434
++128
++256 
+2017-09-01 10:40:21,761 INFO  [Log] TS_59; Passed; verify Compset Avg Supply with graph; Captured text1: 100; Captured text2: 100 
+2017-09-01 10:40:26,761 INFO  [Log] closing test case  
+2017-09-01 10:40:28,959 INFO  [Log] Closing instance of Browser: Chrome 
+2017-09-01 10:40:28,974 INFO  [Log] ### Test case: Rg_TC_68.xlsx; Description: To verify  Compset Avg Supply on calander (All  Filter); status Executed 
+2017-09-01 10:40:28,974 WARN  [Log] No Browser instance is active 
+2017-09-01 10:40:28,974 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-01 10:40:28,974 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-01 10:40:29,078 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-01 10:40:29,136 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-01 10:40:29,167 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-01 10:40:29,268 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-01 10:40:29,299 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-01 10:40:29,349 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-09-01 10:40:29,385 INFO  [Log] Rg_TC_61.xlsx_Rg_TC_61.xlsx 
+2017-09-01 10:40:29,436 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-09-01 10:40:29,467 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-09-01 10:40:29,496 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-09-01 10:40:29,526 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-09-01 10:40:29,554 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-09-01 10:40:29,587 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-09-01 10:40:29,614 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-09-01 10:40:29,642 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-09-01 10:40:29,671 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-09-01 10:40:29,720 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-09-01 10:40:29,750 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-09-01 10:40:29,808 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-01 10:40:29,836 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-09-01 10:40:29,864 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-09-01 10:40:29,893 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-01 10:40:29,921 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-01 10:40:29,948 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-01 10:40:29,976 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-01 10:40:30,006 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-09-01 10:40:30,034 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-01 10:40:30,060 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-01 10:40:30,091 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-09-01 10:40:30,120 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-09-01 10:40:30,190 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-09-01 10:40:30,241 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-09-01 10:40:30,285 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-09-01 10:40:30,363 INFO  [Log] **************************************************************************************** 
+2017-09-01 10:40:30,363 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_53_allfilter.xlsx; Description: All finter multiple dates For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-01 10:40:30,363 INFO  [Log] **************************************************************************************** 
+2017-09-01 10:40:38,625 INFO  [Log] #### Executing Test case: Rg_TC_53_allfilter.xlsx; Description: All finter multiple dates In firefox Browser for TestData:1 
+2017-09-01 10:40:58,222 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-01 10:40:58,531 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-09-01 10:40:58,708 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-09-01 10:40:58,856 INFO  [Log] TS_04: Click on login button: Action click 
+2017-09-01 10:40:58,856 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-09-01 10:41:09,047 INFO  [Log] TS_06: click on user name : Action click 
+2017-09-01 10:41:09,172 INFO  [Log] TS_07: click on choose property: Action click 
+2017-09-01 10:41:10,157 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-01 10:41:11,339 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-01 10:41:11,339 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-09-01 10:41:21,625 INFO  [Log] TS_11: Click on property: Action click 
+2017-09-01 10:41:21,625 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-09-01 10:41:31,788 INFO  [Log] TS_13: click on rates: Action click 
+2017-09-01 10:41:31,789 INFO  [Log] TS_14; Waited 10000 Milli seconds for Element 
+2017-09-01 10:41:42,115 INFO  [Log] TS_15: click on grid view: Action click 
+2017-09-01 10:41:42,116 INFO  [Log] TS_16; Waited 10000 Milli seconds for Element 
+2017-09-01 10:41:52,301 INFO  [Log] optima_53TS_17XpathClick  org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.jvY4HdwtxO4Z, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=12084.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 85cae1a0-cc4b-4f65-a881-b6edef323174null:Exception is not handled 
+2017-09-01 10:41:52,956 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.jvY4HdwtxO4Z, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=12084.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 85cae1a0-cc4b-4f65-a881-b6edef323174 
+2017-09-01 10:41:52,956 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-01 10:41:52,956 FATAL [Log] optima_53TS_17XpathClick  org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\rust_mozprofile.jvY4HdwtxO4Z, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=12084.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 85cae1a0-cc4b-4f65-a881-b6edef323174null:Exception is not handled 
+2017-09-01 10:41:52,956 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-01 10:41:53,057 INFO  [Log] ####Closing Test Suite #### 
+2017-09-01 10:41:53,058 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-01 10:41:53,058 INFO  [Log] Creating Logs backup and storing for further reference 

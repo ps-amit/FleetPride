@@ -1,0 +1,82 @@
+2017-08-17 13:36:57,490 INFO  [Log] Test Scenario Configuration started 
+2017-08-17 13:36:57,523 INFO  [Log] Initialing HTML reporting 
+2017-08-17 13:36:57,726 INFO  [Log] Starting Test Suit Execution 
+2017-08-17 13:36:57,727 WARN  [Log] No Browser instance is active 
+2017-08-17 13:36:58,459 INFO  [Log] Object repository is created successfully 
+2017-08-17 13:36:58,576 INFO  [Log] Rg_TC_42.xlsx_Rg_TC_42.xlsx 
+2017-08-17 13:36:58,663 INFO  [Log] Rg_TC_43.xlsx_Rg_TC_43.xlsx 
+2017-08-17 13:36:58,722 INFO  [Log] Rg_TC_53.xlsx_Rg_TC_53.xlsx 
+2017-08-17 13:36:58,775 INFO  [Log] Rg_TC_55.xlsx_Rg_TC_55.xlsx 
+2017-08-17 13:36:58,825 INFO  [Log] Rg_TC_57.xlsx_Rg_TC_57.xlsx 
+2017-08-17 13:36:58,888 INFO  [Log] Rg_TC_59.xlsx_Rg_TC_59.xlsx 
+2017-08-17 13:36:58,936 INFO  [Log] Rg_TC_60.xlsx_Rg_TC_60.xlsx 
+2017-08-17 13:36:58,992 INFO  [Log] Rg_TC_62.xlsx_Rg_TC_62.xlsx 
+2017-08-17 13:36:59,040 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-17 13:36:59,094 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-17 13:36:59,138 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-17 13:36:59,203 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-17 13:36:59,453 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-17 13:36:59,499 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-17 13:36:59,554 INFO  [Log] Rg_TC_85.xlsx_Rg_TC_85.xlsx 
+2017-08-17 13:36:59,602 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-17 13:36:59,656 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-17 13:36:59,693 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-17 13:36:59,773 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-17 13:36:59,812 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-17 13:36:59,841 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-17 13:36:59,869 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-17 13:36:59,917 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-17 13:36:59,947 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-17 13:36:59,976 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-17 13:37:00,052 INFO  [Log] **************************************************************************************** 
+2017-08-17 13:37:00,052 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_176.xlsx; Description: Rg_TC_176.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-17 13:37:00,052 INFO  [Log] **************************************************************************************** 
+2017-08-17 13:37:07,519 INFO  [Log] #### Executing Test case: Rg_TC_176.xlsx; Description: Rg_TC_176.xlsx In firefox Browser for TestData:1 
+2017-08-17 13:37:15,232 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-17 13:37:15,493 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-17 13:37:15,594 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-17 13:37:15,670 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-17 13:37:15,786 INFO  [Log] TS_05; Waited 12000 Milli seconds for Element 
+2017-08-17 13:37:27,983 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-17 13:37:28,108 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-17 13:37:28,182 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-17 13:37:29,346 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-17 13:37:29,346 INFO  [Log] TS_10; Waited 12000 Milli seconds for Element 
+2017-08-17 13:37:41,610 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-17 13:37:41,611 INFO  [Log] TS_12; Waited 12000 Milli seconds for Element 
+2017-08-17 13:37:53,769 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-17 13:37:53,770 INFO  [Log] TS_14; Waited 12000 Milli seconds for Element 
+2017-08-17 13:38:06,012 INFO  [Log] TS_15: generalsetting: Action click 
+2017-08-17 13:38:06,013 INFO  [Log] TS_16; Waited 4000 Milli seconds for Element 
+2017-08-17 13:38:10,210 INFO  [Log] TS_17: click on Competitor: Action click 
+2017-08-17 13:38:10,211 INFO  [Log] TS_18; Waited 4000 Milli seconds for Element 
+2017-08-17 13:38:14,289 INFO  [Log] Clearlake Hotel; Value has been stored in index: 0 
+2017-08-17 13:38:14,290 INFO  [Log] TS_20; Waited 8000 Milli seconds for Element 
+2017-08-17 13:38:22,449 INFO  [Log] TS_21: submit captured value; Action: Submited stored value 
+2017-08-17 13:38:22,449 INFO  [Log] TS_22; Waited 8000 Milli seconds for Element 
+2017-08-17 13:38:55,945 INFO  [Log] TS_23; Passed; verify propert is not shown for this selected property; Element is not present/dispayed on the page 
+2017-08-17 13:38:55,945 INFO  [Log] TS_24; Waited 12000 Milli seconds for Element 
+2017-08-17 13:39:08,044 INFO  [Log] TS_25: click on delete: Action click 
+2017-08-17 13:39:08,045 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-17 13:39:12,180 INFO  [Log] TS_27: Delete: Action click 
+2017-08-17 13:39:12,181 INFO  [Log] TS_28; Waited 14000 Milli seconds for Element 
+2017-08-17 13:39:26,340 INFO  [Log] TS_29: submit captured value; Action: Submited stored value 
+2017-08-17 13:39:26,340 INFO  [Log] TS_30; Waited 8000 Milli seconds for Element 
+2017-08-17 13:39:59,551 INFO  [Log] TS_31; Failed; Sepcified Element is not present on the page; verify propert is not shown for this selected property 
+2017-08-17 13:40:00,051 INFO  [Log] TS_32; Waited 2000 Milli seconds for Element 
+2017-08-17 13:40:02,187 INFO  [Log] TS_34; Waited 3500 Milli seconds for Element 
+2017-08-17 13:40:05,727 ERROR [Log] Error#: optima_176TS_35XpathEditElementlocation  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-17 13:40:09,589 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-17 13:40:09,969 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-17 13:40:10,219 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-17 13:40:10,219 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 13:40:10,219 FATAL [Log] optima_176TS_35XpathEditElementlocation  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-17 13:40:10,219 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 13:40:10,335 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-17 13:40:10,360 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-17 13:40:10,392 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-17 13:40:10,448 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-17 13:40:10,473 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-17 13:40:10,499 INFO  [Log] ####Closing Test Suite #### 
+2017-08-17 13:40:10,500 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-17 13:40:10,500 INFO  [Log] Creating Logs backup and storing for further reference 

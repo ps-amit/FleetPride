@@ -1,0 +1,143 @@
+2017-09-02 14:33:02,884 INFO  [Log] Test Scenario Configuration started 
+2017-09-02 14:33:02,918 INFO  [Log] Initialing HTML reporting 
+2017-09-02 14:33:03,113 INFO  [Log] Starting Test Suit Execution 
+2017-09-02 14:33:03,113 WARN  [Log] No Browser instance is active 
+2017-09-02 14:33:03,735 INFO  [Log] Object repository is created successfully 
+2017-09-02 14:33:03,841 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-02 14:33:03,925 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:33:04,004 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-02 14:33:04,089 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:33:04,186 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-02 14:33:04,250 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:33:04,490 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-02 14:33:04,554 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:33:04,604 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-02 14:33:04,652 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:33:04,717 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-02 14:33:04,761 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Restriction filter on compset 
+2017-09-02 14:33:04,810 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-02 14:33:04,852 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-02 14:33:04,899 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-02 14:33:04,975 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-02 14:33:05,019 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-02 14:33:05,065 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-02 14:33:05,114 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-02 14:33:05,151 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-02 14:33:05,196 INFO  [Log] Rg_TC_100.xlsx_Rg_TC_100.xlsx 
+2017-09-02 14:33:05,234 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-09-02 14:33:05,336 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-09-02 14:33:05,380 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-02 14:33:05,420 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-09-02 14:33:05,459 INFO  [Log] Rg_TC_61.xlsx_Rg_TC_61.xlsx 
+2017-09-02 14:33:05,496 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-09-02 14:33:05,536 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-09-02 14:33:05,583 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-02 14:33:05,654 INFO  [Log] **************************************************************************************** 
+2017-09-02 14:33:05,654 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_95.xlsx; Description: To verify Compset Avg. Rate ( Filter) For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-02 14:33:05,654 INFO  [Log] **************************************************************************************** 
+2017-09-02 14:33:12,420 INFO  [Log] #### Executing Test case: Rg_TC_95.xlsx; Description: To verify Compset Avg. Rate ( Filter) In firefox Browser for TestData:1 
+2017-09-02 14:33:19,023 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-02 14:33:19,531 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-02 14:33:19,737 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-02 14:33:19,870 INFO  [Log] TS_04: Click on login button: Action click 
+2017-09-02 14:33:19,871 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-09-02 14:33:30,222 INFO  [Log] TS_06: click on user name : Action click 
+2017-09-02 14:33:30,494 INFO  [Log] TS_07: click on choose property: Action click 
+2017-09-02 14:33:30,577 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-02 14:33:31,908 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-02 14:33:31,908 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-09-02 14:33:42,179 INFO  [Log] TS_11: Click on property: Action click 
+2017-09-02 14:33:42,179 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-09-02 14:33:52,335 INFO  [Log] TS_13: click on rates: Action click 
+2017-09-02 14:33:52,335 INFO  [Log] TS_14; Waited 14000 Milli seconds for Element 
+2017-09-02 14:34:06,870 INFO  [Log] TS_15: click on grid view: Action click 
+2017-09-02 14:34:06,871 INFO  [Log] TS_16; Waited 10000 Milli seconds for Element 
+2017-09-02 14:34:17,118 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-09-02 14:34:17,118 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-09-02 14:34:19,795 INFO  [Log] TS_19: select start dateDate selected: 1 October 
+2017-09-02 14:34:19,796 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-02 14:34:22,148 INFO  [Log] TS_21: select end dateDate selected: 5 October 
+2017-09-02 14:34:22,148 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-02 14:34:24,921 INFO  [Log] TS_23: click on apply: Action click 
+2017-09-02 14:34:24,921 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-09-02 14:34:29,069 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-09-02 14:34:29,070 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-09-02 14:34:33,290 INFO  [Log] TS_27: QualificationAll; Action: Drop Down Select 
+2017-09-02 14:34:33,506 INFO  [Log] TS_28: RestrictionRestricted; Action: Drop Down Select 
+2017-09-02 14:34:33,969 INFO  [Log] TS_29: PromotionPromotional; Action: Drop Down Select 
+2017-09-02 14:34:34,365 INFO  [Log] TS_30: LOS1; Action: Drop Down Select 
+2017-09-02 14:34:34,534 INFO  [Log] TS_31: GuestCount2; Action: Drop Down Select 
+2017-09-02 14:34:34,958 INFO  [Log] TS_32: RoomTypeAll; Action: Drop Down Select 
+2017-09-02 14:34:34,958 INFO  [Log] TS_33; Waited 2000 Milli seconds for Element 
+2017-09-02 14:34:49,451 INFO  [Log] TS_34: Channel; Action:  filter values 
+2017-09-02 14:34:49,451 INFO  [Log] TS_35; Waited 2000 Milli seconds for Element 
+2017-09-02 14:34:56,873 INFO  [Log] TS_36: Inclusion; Action:  filter values 
+2017-09-02 14:34:56,873 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-02 14:34:59,266 INFO  [Log] TS_38: click on apply: Action click 
+2017-09-02 14:34:59,267 INFO  [Log] TS_39; Waited 4000 Milli seconds for Element 
+2017-09-02 14:35:03,357 INFO  [Log] TS_40: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-02 14:35:03,829 INFO  [Log] List of following Values has been storedTS_41: value for compset rate; Action: Capture and stored value, NA, NA, NA, NA, NA, 254, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA 
+2017-09-02 14:35:03,944 INFO  [Log] TS_42: click on settings: Action click 
+2017-09-02 14:35:03,944 INFO  [Log] TS_43; Waited 4000 Milli seconds for Element 
+2017-09-02 14:35:08,033 INFO  [Log] TS_44: click on competators: Action click 
+2017-09-02 14:35:08,034 INFO  [Log] TS_45; Waited 4000 Milli seconds for Element 
+2017-09-02 14:35:12,575 INFO  [Log] List of following Values has been storedTS_46: capture all percentage; Action: Capture and stored value, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5 
+2017-09-02 14:35:12,672 INFO  [Log] TS_47: click on home: Action click 
+2017-09-02 14:35:12,673 INFO  [Log] TS_48; Waited 10000 Milli seconds for Element 
+2017-09-02 14:35:22,804 INFO  [Log] TS_49: click on rates: Action click 
+2017-09-02 14:35:22,805 INFO  [Log] TS_50; Waited 14000 Milli seconds for Element 
+2017-09-02 14:35:37,362 INFO  [Log] TS_51: click on grid view: Action click 
+2017-09-02 14:35:37,362 INFO  [Log] TS_52; Waited 10000 Milli seconds for Element 
+2017-09-02 14:35:47,710 INFO  [Log] TS_53: clcik on rangefilter: Action click 
+2017-09-02 14:35:47,711 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-09-02 14:35:50,416 INFO  [Log] TS_55: select start dateDate selected: 1 October 
+2017-09-02 14:35:50,417 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-09-02 14:35:52,762 INFO  [Log] TS_57: select end dateDate selected: 5 October 
+2017-09-02 14:35:52,762 INFO  [Log] TS_58; Waited 2000 Milli seconds for Element 
+2017-09-02 14:35:56,471 INFO  [Log] TS_59: click on apply: Action click 
+2017-09-02 14:35:56,472 INFO  [Log] TS_60; Waited 4000 Milli seconds for Element 
+2017-09-02 14:36:00,604 INFO  [Log] TS_61: click on rate filter: Action click 
+2017-09-02 14:36:00,606 INFO  [Log] TS_62; Waited 4000 Milli seconds for Element 
+2017-09-02 14:36:04,758 INFO  [Log] TS_63: QualificationAll; Action: Drop Down Select 
+2017-09-02 14:36:04,959 INFO  [Log] TS_64: RestrictionRestricted; Action: Drop Down Select 
+2017-09-02 14:36:05,432 INFO  [Log] TS_65: PromotionPromotional; Action: Drop Down Select 
+2017-09-02 14:36:05,833 INFO  [Log] TS_66: LOS1; Action: Drop Down Select 
+2017-09-02 14:36:06,010 INFO  [Log] TS_67: GuestCount2; Action: Drop Down Select 
+2017-09-02 14:36:06,447 INFO  [Log] TS_68: RoomTypeAll; Action: Drop Down Select 
+2017-09-02 14:36:06,448 INFO  [Log] TS_69; Waited 2000 Milli seconds for Element 
+2017-09-02 14:36:20,569 INFO  [Log] TS_70: Channel; Action:  filter values 
+2017-09-02 14:36:20,569 INFO  [Log] TS_71; Waited 2000 Milli seconds for Element 
+2017-09-02 14:36:27,952 INFO  [Log] TS_72: Inclusion; Action:  filter values 
+2017-09-02 14:36:27,953 INFO  [Log] TS_73; Waited 2000 Milli seconds for Element 
+2017-09-02 14:36:30,266 INFO  [Log] TS_74: click on apply: Action click 
+2017-09-02 14:36:30,610 INFO  [Log] Failed: TS_75: CompsetAvgRaterate from page  176 and rate calculated are not same 254.0 
+2017-09-02 14:36:36,064 INFO  [Log] closing test case  
+2017-09-02 14:36:36,552 INFO  [Log] ### Test case: Rg_TC_95.xlsx; Description: To verify Compset Avg. Rate ( Filter); status Executed 
+2017-09-02 14:36:36,552 WARN  [Log] No Browser instance is active 
+2017-09-02 14:36:36,552 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:36:36,552 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:36:36,648 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-02 14:36:36,681 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-02 14:36:36,714 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-09-02 14:36:36,778 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-09-02 14:36:36,807 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-09-02 14:36:36,839 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:36:36,878 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-09-02 14:36:36,910 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-09-02 14:36:36,948 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:36:36,977 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-02 14:36:37,099 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-02 14:36:37,126 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:36:37,153 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-09-02 14:36:37,182 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-02 14:36:37,209 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-02 14:36:37,234 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-09-02 14:36:37,258 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-09-02 14:36:37,283 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-09-02 14:36:37,314 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-09-02 14:36:37,350 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-09-02 14:36:37,375 INFO  [Log] Rg_TC_53_allfilter.xlsx_All filter multiple dates 
+2017-09-02 14:36:37,400 INFO  [Log] Rg_TC_53_allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-02 14:36:37,424 INFO  [Log] ####Closing Test Suite #### 
+2017-09-02 14:36:37,424 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-02 14:36:37,424 INFO  [Log] Creating Logs backup and storing for further reference 

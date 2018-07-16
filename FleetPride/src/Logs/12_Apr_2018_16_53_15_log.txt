@@ -1,0 +1,118 @@
+2018-04-12 16:51:41,213 INFO  [Log] Test Scenario Configuration started 
+2018-04-12 16:51:41,249 INFO  [Log] Initialing HTML reporting 
+2018-04-12 16:51:41,601 INFO  [Log] Starting Test Suit Execution 
+2018-04-12 16:51:41,955 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 16:51:42,026 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 16:51:42,104 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 16:51:42,748 INFO  [Log] Object repository is created successfully 
+2018-04-12 16:51:42,843 INFO  [Log] PE-383 Price Mismatch_Blank 
+2018-04-12 16:51:42,968 INFO  [Log] PE-411 Free Parcel Shipping Text_Blank 
+2018-04-12 16:51:43,061 INFO  [Log] PE-482 Payment Credit Card_Blank 
+2018-04-12 16:51:43,139 INFO  [Log] **************************************************************************************** 
+2018-04-12 16:51:43,139 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-475 Incorrect Product Qty Order on Review Page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-12 16:51:43,139 INFO  [Log] **************************************************************************************** 
+2018-04-12 16:51:50,779 INFO  [Log] #### Executing Test case: PE-475 Incorrect Product Qty Order on Review Page; Description: Blank In Firefox Browser for TestData:1 
+2018-04-12 16:52:05,375 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-04-12 16:52:05,480 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-04-12 16:52:05,511 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-04-12 16:52:05,526 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-04-12 16:52:18,468 INFO  [Log] TS_05: Click on login button 
+2018-04-12 16:52:18,468 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-04-12 16:52:28,583 INFO  [Log] TS_07: Input first part number in the input box; Action: Submitted Value: Value: null 
+2018-04-12 16:52:28,583 INFO  [Log] TS_08; Waited 5000 Milli seconds for Element 
+2018-04-12 16:52:33,917 INFO  [Log] TS_11: Click on Add to cart button  
+2018-04-12 16:52:33,919 INFO  [Log] TS_12; Waited 13000 Milli seconds for Element 
+2018-04-12 16:52:46,970 INFO  [Log] TS_14: Capture the qty of the product on my cart page1; Value has been stored in index: 0 
+2018-04-12 16:52:46,972 INFO  [Log] TS_30; Waited 5000 Milli seconds for Element 
+2018-04-12 16:52:52,268 INFO  [Log] TS_31: Click on the Proceed to Order Review  button 
+2018-04-12 16:52:52,279 INFO  [Log] TS_32; Waited 15000 Milli seconds for Element 
+2018-04-12 16:53:07,326 INFO  [Log] TS_33: Capture the qty of the producton order review page1; Value has been stored in index: 1 
+2018-04-12 16:53:07,337 INFO  [Log] TS_34; Passed; null; Captured text1: 1; Captured text2: 1 
+2018-04-12 16:53:12,349 INFO  [Log] closing test case  
+2018-04-12 16:53:12,993 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 16:53:13,058 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 16:53:13,137 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 16:53:13,152 INFO  [Log] ### Test case: PE-475 Incorrect Product Qty Order on Review Page; Description: Blank; status Executed 
+2018-04-12 16:53:13,527 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-04-12 16:53:13,606 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-04-12 16:53:13,684 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-04-12 16:53:13,684 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 16:53:13,684 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 16:53:13,950 INFO  [Log] OrderID.xlsx_Blank 
+2018-04-12 16:53:14,004 INFO  [Log] Database-script.xlsx_Blank 
+2018-04-12 16:53:14,037 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-04-12 16:53:14,100 INFO  [Log] E2E_normal_shipping -CC_Blank 
+2018-04-12 16:53:14,131 INFO  [Log] Links_Home_Page.xlsx_Blank 
+2018-04-12 16:53:14,147 INFO  [Log] Sales_Force_Login.xlsx_Blank 
+2018-04-12 16:53:14,194 INFO  [Log] E2E_Core_charges-CC_Blank 
+2018-04-12 16:53:14,209 INFO  [Log] Jira_P1_Sales_Pack_qty_validation_Quick_Order_Home_Page.xlsx_Blank 
+2018-04-12 16:53:14,240 INFO  [Log] E2E_Multiple_DC_Products_Quick_Order_Blank 
+2018-04-12 16:53:14,272 INFO  [Log] E2E_Multiple_products_Quick_Order_Blank 
+2018-04-12 16:53:14,303 INFO  [Log] E2E_back_order -stored_CC_Blank 
+2018-04-12 16:53:14,334 INFO  [Log] E2E_back_order_invoice_Blank 
+2018-04-12 16:53:14,365 INFO  [Log] E2E_normal_shipping -stored_CC_Blank 
+2018-04-12 16:53:14,412 INFO  [Log] E2E_normal_shipping_invoice_Blank 
+2018-04-12 16:53:14,444 INFO  [Log] E2E_Will_Call - stored_CC_Blank 
+2018-04-12 16:53:14,490 INFO  [Log] E2E_Will_Call -Ship_Remainder - stored_CC_Blank 
+2018-04-12 16:53:14,506 INFO  [Log] E2E_Will_Call -Ship_Remainder_invoice_Blank 
+2018-04-12 16:53:14,537 INFO  [Log] E2E_Will_Call_invoice_Blank 
+2018-04-12 16:53:14,562 INFO  [Log] fetch_SP_qty_Blank 
+2018-04-12 16:53:14,593 INFO  [Log] Sales_Pack_E2E_normal_shipping -stored_CC_Blank 
+2018-04-12 16:53:14,624 INFO  [Log] Sales_Pack_E2E_normal_shipping -invoice_Blank 
+2018-04-12 16:53:14,640 INFO  [Log] PLP_Sales_Pack_E2E_normal_shipping -CC_Blank 
+2018-04-12 16:53:14,671 INFO  [Log] E2E_Will_Call -Ship_Remainder -CC_Blank 
+2018-04-12 16:53:14,687 INFO  [Log] E2E_Quick_Order_Home_Page_Blank 
+2018-04-12 16:53:14,718 INFO  [Log] E2E_Duplicate_Line_Item_Blank 
+2018-04-12 16:53:14,749 INFO  [Log] E2E_Quick_Order_Home_Page_Free_Shipping_Blank 
+2018-04-12 16:53:14,765 INFO  [Log] E2E_X_category_product_Blank 
+2018-04-12 16:53:14,796 INFO  [Log] E2E_CSV_Order_Upload_invoice_Blank 
+2018-04-12 16:53:14,828 INFO  [Log] Product_Restriction_mycart_page.xlsx_Blank 
+2018-04-12 16:53:14,859 INFO  [Log] FP_home_page_search_productName_Blank 
+2018-04-12 16:53:14,874 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2018-04-12 16:53:14,921 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2018-04-12 16:53:14,937 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2018-04-12 16:53:14,968 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2018-04-12 16:53:15,004 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2018-04-12 16:53:15,023 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2018-04-12 16:53:15,055 INFO  [Log] FP_Order_Upload_Blank 
+2018-04-12 16:53:15,070 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2018-04-12 16:53:15,086 INFO  [Log] FP_My_Account_TC_2_Blank 
+2018-04-12 16:53:15,102 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2018-04-12 16:53:15,133 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2018-04-12 16:53:15,148 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2018-04-12 16:53:15,164 INFO  [Log] FP_My_Cart_TC_38_Blank 
+2018-04-12 16:53:15,195 INFO  [Log] FP_My_Cart_TC_09_Blank 
+2018-04-12 16:53:15,227 INFO  [Log] FP_My_Cart_TC_44_Blank 
+2018-04-12 16:53:15,258 INFO  [Log] FP_My_Cart_TC_47_Blank 
+2018-04-12 16:53:15,289 INFO  [Log] FP_My_Cart_TC_46_Blank 
+2018-04-12 16:53:15,320 INFO  [Log] FP_Payment_TC_02_Blank 
+2018-04-12 16:53:15,336 INFO  [Log] FP_Payment_TC_15_Blank 
+2018-04-12 16:53:15,367 INFO  [Log] Sales_Force_Blank 
+2018-04-12 16:53:15,383 INFO  [Log] Search_01_Blank 
+2018-04-12 16:53:15,414 INFO  [Log] Search_02_Blank 
+2018-04-12 16:53:15,430 INFO  [Log] Search_SO_Blank 
+2018-04-12 16:53:15,461 INFO  [Log] Filter_SO_Blank 
+2018-04-12 16:53:15,477 INFO  [Log] MA_Admin_Blank 
+2018-04-12 16:53:15,492 INFO  [Log] QO_Home_Blank 
+2018-04-12 16:53:15,523 INFO  [Log] Wishlist_PDP_Blank 
+2018-04-12 16:53:15,539 INFO  [Log] Wishlist_PLP_Blank 
+2018-04-12 16:53:15,570 INFO  [Log] QO_ShopOnline_Blank 
+2018-04-12 16:53:15,585 INFO  [Log] Upload_Blank 
+2018-04-12 16:53:15,617 INFO  [Log] Invalid_Quantity_Blank 
+2018-04-12 16:53:15,632 INFO  [Log] Invalid_Product_Blank 
+2018-04-12 16:53:15,663 INFO  [Log] Edit_Will_Call_Blank 
+2018-04-12 16:53:15,679 INFO  [Log] File_Verification_Blank 
+2018-04-12 16:53:15,710 INFO  [Log] Order_List_Account_Blank 
+2018-04-12 16:53:15,726 INFO  [Log] Saved_CC_Blank 
+2018-04-12 16:53:15,742 INFO  [Log] Backorder_Blank 
+2018-04-12 16:53:15,757 INFO  [Log] Backorder_Will_Call_Blank 
+2018-04-12 16:53:15,773 INFO  [Log] Blank_File_Blank 
+2018-04-12 16:53:15,804 INFO  [Log] UO_Del_Mor_Blank 
+2018-04-12 16:53:15,820 INFO  [Log] Search_Orders_Blank 
+2018-04-12 16:53:15,851 INFO  [Log] Shipping_Address_Blank 
+2018-04-12 16:53:15,867 INFO  [Log] PDP_Details_Blank 
+2018-04-12 16:53:15,898 INFO  [Log] Sales_Pack_QO_Home_Blank 
+2018-04-12 16:53:15,913 INFO  [Log] Sales_Pack_PDP_Blank 
+2018-04-12 16:53:15,929 INFO  [Log] ####Closing Test Suite #### 
+2018-04-12 16:53:15,929 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-12 16:53:15,929 INFO  [Log] Creating Logs backup and storing for further reference 

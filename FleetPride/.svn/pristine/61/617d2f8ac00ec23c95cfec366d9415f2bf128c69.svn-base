@@ -1,0 +1,241 @@
+2017-09-03 20:12:32,896 INFO  [Log] Test Scenario Configuration started 
+2017-09-03 20:12:32,928 INFO  [Log] Initialing HTML reporting 
+2017-09-03 20:12:33,224 INFO  [Log] Starting Test Suit Execution 
+2017-09-03 20:12:33,224 WARN  [Log] No Browser instance is active 
+2017-09-03 20:12:34,047 INFO  [Log] Object repository is created successfully 
+2017-09-03 20:12:34,272 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-03 20:12:34,572 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-03 20:12:34,686 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-03 20:12:34,797 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-03 20:12:34,901 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-03 20:12:35,002 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-03 20:12:35,092 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-03 20:12:35,189 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-03 20:12:35,258 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-03 20:12:35,341 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-03 20:12:35,427 INFO  [Log] **************************************************************************************** 
+2017-09-03 20:12:35,427 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_60.xlsx; Description: To verify Length of Stay filter For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 20:12:35,427 INFO  [Log] **************************************************************************************** 
+2017-09-03 20:12:41,813 INFO  [Log] #### Executing Test case: Rg_TC_60.xlsx; Description: To verify Length of Stay filter In Chrome Browser for TestData:1 
+2017-09-03 20:12:50,204 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 20:12:50,604 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 20:12:50,747 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 20:12:50,836 INFO  [Log] TS_04: Click on login button 
+2017-09-03 20:12:50,837 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-09-03 20:13:00,953 INFO  [Log] TS_06: click on user name  
+2017-09-03 20:13:01,097 INFO  [Log] TS_07: click on choose property 
+2017-09-03 20:13:01,163 INFO  [Log] TS_08: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-03 20:13:07,540 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-09-03 20:13:07,542 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-09-03 20:13:17,781 INFO  [Log] TS_11: Click on property 
+2017-09-03 20:13:17,782 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-09-03 20:13:27,968 INFO  [Log] TS_13: click on rates 
+2017-09-03 20:13:27,968 INFO  [Log] TS_14; Waited 10000 Milli seconds for Element 
+2017-09-03 20:13:38,256 INFO  [Log] TS_15: click on grid view 
+2017-09-03 20:13:38,257 INFO  [Log] TS_16; Waited 10000 Milli seconds for Element 
+2017-09-03 20:13:48,584 INFO  [Log] TS_17: clcik on rangefilter 
+2017-09-03 20:13:48,587 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-09-03 20:13:51,370 INFO  [Log] TS_19: select start dateDate selected: 1 November 
+2017-09-03 20:13:51,371 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-09-03 20:13:53,791 INFO  [Log] TS_21: select end dateDate selected: 5 November 
+2017-09-03 20:13:53,793 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-09-03 20:13:56,210 INFO  [Log] TS_23: click on apply 
+2017-09-03 20:13:56,211 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-09-03 20:14:00,460 INFO  [Log] TS_25: clcik on rate filter 
+2017-09-03 20:14:00,461 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-09-03 20:14:04,835 INFO  [Log] TS_27: select LOS    2; Action: Drop Down Select 
+2017-09-03 20:14:04,835 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:07,180 INFO  [Log] TS_29: click on apply 
+2017-09-03 20:14:07,182 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-09-03 20:14:11,349 INFO  [Log] TS_31: capture date rangeDate selected: [Wed Nov 01 00:00:00 IST 2017, Sun Nov 05 00:00:00 IST 2017] 
+2017-09-03 20:14:11,434 INFO  [Log] TS_32: edit with channel 1New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-09-03 20:14:11,570 INFO  [Log] TS_33: value capture channelExpediaAPI; Value has been stored in index: 0 
+2017-09-03 20:14:11,570 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:13,685 INFO  [Log] TS_35: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-09-03 20:14:13,799 INFO  [Log] TS_36: click on channel 
+2017-09-03 20:14:13,800 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:16,135 INFO  [Log] TS_38: capture rate     NA; Value has been stored in index: 0 
+2017-09-03 20:14:16,230 INFO  [Log] TS_39User specified value has been replaced at index0New Value is: NA 
+2017-09-03 20:14:16,319 INFO  [Log] TS_40: move to top 
+2017-09-03 20:14:16,319 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:18,320 INFO  [Log] TS_42; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-09-03 20:14:18,895 INFO  [Log] TS_43: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-09-03 20:14:18,984 INFO  [Log] TS_44: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-03 20:14:19,064 INFO  [Log] TS_45: edit with channel 2New Element Location is : BookItStored in ObjRep using element name: channel2: Type: Xpath 
+2017-09-03 20:14:19,211 INFO  [Log] TS_46: value capture channelBookIt; Value has been stored in index: 1 
+2017-09-03 20:14:19,212 INFO  [Log] TS_47; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:21,330 INFO  [Log] TS_48: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-09-03 20:14:21,442 INFO  [Log] TS_49: click on channel 
+2017-09-03 20:14:21,443 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:23,773 INFO  [Log] TS_51: capture rate     NA; Value has been stored in index: 0 
+2017-09-03 20:14:23,866 INFO  [Log] TS_52User specified value has been replaced at index0New Value is: NA 
+2017-09-03 20:14:23,982 INFO  [Log] TS_53: move to top 
+2017-09-03 20:14:23,983 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:25,986 INFO  [Log] TS_55; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-09-03 20:14:26,443 INFO  [Log] TS_56: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-09-03 20:14:26,530 INFO  [Log] TS_57: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-03 20:14:26,595 INFO  [Log] TS_58: edit with channel 3New Element Location is : Booking.comStored in ObjRep using element name: channel3: Type: Xpath 
+2017-09-03 20:14:26,705 INFO  [Log] TS_59: value capture channelBooking.com; Value has been stored in index: 2 
+2017-09-03 20:14:26,705 INFO  [Log] TS_60; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:28,786 INFO  [Log] TS_61: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-09-03 20:14:28,887 INFO  [Log] TS_62: click on channel 
+2017-09-03 20:14:28,888 INFO  [Log] TS_63; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:31,270 INFO  [Log] TS_64: capture rate     NA; Value has been stored in index: 0 
+2017-09-03 20:14:31,348 INFO  [Log] TS_65User specified value has been replaced at index0New Value is: NA 
+2017-09-03 20:14:31,480 INFO  [Log] TS_66: move to top 
+2017-09-03 20:14:31,481 INFO  [Log] TS_67; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:33,482 INFO  [Log] TS_68; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-09-03 20:14:33,809 INFO  [Log] TS_69: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-09-03 20:14:33,940 INFO  [Log] TS_70: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-03 20:14:34,047 INFO  [Log] TS_71: edit with channel 4New Element Location is : BookFHRStored in ObjRep using element name: channel4: Type: Xpath 
+2017-09-03 20:14:34,225 INFO  [Log] TS_72: value capture channelBookFHR; Value has been stored in index: 3 
+2017-09-03 20:14:34,225 INFO  [Log] TS_73; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:36,336 INFO  [Log] TS_74: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-09-03 20:14:36,475 INFO  [Log] TS_75: click on channel 
+2017-09-03 20:14:36,475 INFO  [Log] TS_76; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:38,752 INFO  [Log] TS_77: capture rate     NA; Value has been stored in index: 0 
+2017-09-03 20:14:38,845 INFO  [Log] TS_78User specified value has been replaced at index0New Value is: NA 
+2017-09-03 20:14:38,966 INFO  [Log] TS_79: move to top 
+2017-09-03 20:14:38,966 INFO  [Log] TS_80; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:40,967 INFO  [Log] TS_81; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-09-03 20:14:41,252 INFO  [Log] TS_82: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-09-03 20:14:41,339 INFO  [Log] TS_83: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-03 20:14:41,451 INFO  [Log] TS_84: edit with channel 5New Element Location is : GDSStored in ObjRep using element name: channel5: Type: Xpath 
+2017-09-03 20:14:41,570 INFO  [Log] TS_85: value capture channelGDS; Value has been stored in index: 4 
+2017-09-03 20:14:41,570 INFO  [Log] TS_86; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:43,754 INFO  [Log] TS_87: edit elemntNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-09-03 20:14:43,936 INFO  [Log] TS_88: click on channel 
+2017-09-03 20:14:43,936 INFO  [Log] TS_89; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:46,108 INFO  [Log] TS_90: capture rate     NA; Value has been stored in index: 0 
+2017-09-03 20:14:46,198 INFO  [Log] TS_91User specified value has been replaced at index0New Value is: NA 
+2017-09-03 20:14:46,305 INFO  [Log] TS_92: move to top 
+2017-09-03 20:14:46,305 INFO  [Log] TS_93; Waited 2000 Milli seconds for Element 
+2017-09-03 20:14:48,305 INFO  [Log] TS_94; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-09-03 20:14:48,721 INFO  [Log] TS_95: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-09-03 20:14:48,802 INFO  [Log] TS_96: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-03 20:14:48,803 INFO  [Log] TS_97; Waited 8000 Milli seconds for Element 
+2017-09-03 20:14:57,125 INFO  [Log] TS_98: click on calander view 
+2017-09-03 20:14:57,125 INFO  [Log] TS_99; Waited 8000 Milli seconds for Element 
+2017-09-03 20:15:05,280 INFO  [Log] TS_100: edit date in calanderNew Element Location is : 1Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-09-03 20:15:05,479 INFO  [Log] TS_101: value capture date     NA; Value has been stored in index: 0 
+2017-09-03 20:15:05,592 INFO  [Log] TS_102User specified value has been replaced at index0New Value is: NA 
+2017-09-03 20:15:05,593 INFO  [Log] TS_103; Passed; valueCapturedToValuesCapture Rate captured values transfered to values captured 
+2017-09-03 20:15:05,882 INFO  [Log] TS_104: verify excel value against UI values(calander rate)since the value from UI is NA no value found in excel : skip case and move further 
+2017-09-03 20:15:05,951 INFO  [Log] TS_105: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-09-03 20:15:06,042 INFO  [Log] TS_106: value capture dateNA; Value has been stored in index: 0 
+2017-09-03 20:15:06,157 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-09-03 20:15:06,359 INFO  [Log] TS_108: click on date captured 
+2017-09-03 20:15:06,360 INFO  [Log] TS_109; Waited 2000 Milli seconds for Element 
+2017-09-03 20:15:33,816 INFO  [Log] TS_110: hover on last property:  Element is not present or it is a case of 'NA Rate' moving to next step 
+2017-09-03 20:15:59,191 INFO  [Log] TS_111: capture data: No value present   moving to next step 
+2017-09-03 20:15:59,375 INFO  [Log] TS_113: verify with the pace chart:  Element is not present moving to next step 
+2017-09-03 20:15:59,377 INFO  [Log] TS_114; Waited 2000 Milli seconds for Element 
+2017-09-03 20:16:01,856 INFO  [Log] TS_115: click on chart 
+2017-09-03 20:16:01,856 INFO  [Log] TS_116; Waited 8000 Milli seconds for Element 
+2017-09-03 20:16:35,381 INFO  [Log] TS_117: tooltip:  Element is not present or it is a case of 'NA Rate' moving to next step 
+2017-09-03 20:17:00,963 INFO  [Log] TS_118: capture rate: No value present   moving to next step 
+2017-09-03 20:17:01,288 INFO  [Log] TS_121: verify rate:  Element is not present moving to next step 
+2017-09-03 20:17:01,288 INFO  [Log] TS_122: verify rate :  Element is not present moving to next step 
+2017-09-03 20:17:06,290 INFO  [Log] closing test case  
+2017-09-03 20:17:06,642 INFO  [Log] ### Test case: Rg_TC_60.xlsx; Description: To verify Length of Stay filter; status Executed 
+2017-09-03 20:17:06,642 WARN  [Log] No Browser instance is active 
+2017-09-03 20:17:06,643 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 20:17:06,643 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 20:17:06,996 INFO  [Log] **************************************************************************************** 
+2017-09-03 20:17:06,996 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_60_compset.xlsx; Description: To verify Stay filter on compset For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-03 20:17:06,996 INFO  [Log] **************************************************************************************** 
+2017-09-03 20:17:12,548 INFO  [Log] #### Executing Test case: Rg_TC_60_compset.xlsx; Description: To verify Stay filter on compset In Chrome Browser for TestData:1 
+2017-09-03 20:17:21,787 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-03 20:17:22,158 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-03 20:17:22,293 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-03 20:17:22,373 INFO  [Log] TS_04: Click on login button 
+2017-09-03 20:17:22,374 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-09-03 20:17:52,444 INFO  [Log] optima-1000TS_06XpathClick  org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.05 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir11552_30284}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6850ad346621b73e3e068a0c82bdf3d1null:Exception is not handled 
+2017-09-03 20:18:12,963 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.03 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir11552_30284}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6850ad346621b73e3e068a0c82bdf3d1 
+2017-09-03 20:18:12,963 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 20:18:12,963 FATAL [Log] optima-1000TS_06XpathClick  org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.05 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\VINAYA~1.BAN\AppData\Local\Temp\scoped_dir11552_30284}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.113, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6850ad346621b73e3e068a0c82bdf3d1null:Exception is not handled 
+2017-09-03 20:18:12,963 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 20:18:13,254 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-03 20:18:13,310 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-03 20:18:13,355 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-03 20:18:13,401 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-03 20:18:13,448 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-03 20:18:13,493 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-03 20:18:13,536 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-03 20:18:13,578 INFO  [Log] Rg_TC_53_allfilter.xlsx_All filter multiple dates 
+2017-09-03 20:18:13,628 INFO  [Log] Rg_TC_53_allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-03 20:18:13,681 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-03 20:18:13,725 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-03 20:18:13,765 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-03 20:18:13,798 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-03 20:18:13,831 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-03 20:18:13,866 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-03 20:18:13,905 INFO  [Log] RG_TC_001_To verify 'Optima Login Problem? 
+2017-09-03 20:18:13,947 INFO  [Log] RG_TC_002_To verify 'Forgot Password' 
+2017-09-03 20:18:13,980 INFO  [Log] RG_TC_003_To verify login of existing user 
+2017-09-03 20:18:14,010 INFO  [Log] RG_TC_007_To verify "May Be Later" functionality 
+2017-09-03 20:18:14,048 INFO  [Log] RG_TC_008_To verify 'Cancel' Notification Funcitonality 
+2017-09-03 20:18:14,070 INFO  [Log] RG_TC_009_To verify 'Show me How'notification functionality and instructions 
+2017-09-03 20:18:14,099 INFO  [Log] RG_TC_065_To verify Events on all rates views 
+2017-09-03 20:18:14,132 INFO  [Log] RG_TC_111_To verify the download Excel (Parity) 
+2017-09-03 20:18:14,160 INFO  [Log] RG_TC_118_To verify the Trends Excel download  
+2017-09-03 20:18:14,191 INFO  [Log] RG_TC_140_To verify Rank Excel is Downloading  
+2017-09-03 20:18:14,222 INFO  [Log] RG_TC_163_To verify information on manage scheduled report page 
+2017-09-03 20:18:14,250 INFO  [Log] RG_TC_167_To Verify the general settings section 
+2017-09-03 20:18:14,285 INFO  [Log] RG_TC_168_Verify the Market section 
+2017-09-03 20:18:14,321 INFO  [Log] RG_TC_176_To verify the Parity grid view(OTA/TRIPADVISOR/TRIVAGO 
+2017-09-03 20:18:14,350 INFO  [Log] RG_TC_177_To verify user should be able to selected from basic and advance mapping options 
+2017-09-03 20:18:14,380 INFO  [Log] RG_TC_184_To verify user is able to search compititor 
+2017-09-03 20:18:14,407 INFO  [Log] RG_TC_185_To verify User is able to see all competitors on the screen with competitive pressure, threshold value 
+2017-09-03 20:18:14,429 INFO  [Log] RG_TC_186_To verify User should be able to delete any competitor from the bucket 
+2017-09-03 20:18:14,452 INFO  [Log] RG_TC_187_to verify User should be able to edit competitive pressure and threshold value for each competitor 
+2017-09-03 20:18:14,473 INFO  [Log] RG_TC_188_To verify User should be able to change the order of any competitor 
+2017-09-03 20:18:14,505 INFO  [Log] RG_TC_189_To verify User should be able to send a request to add competitor in the bucket which is not find in the search 
+2017-09-03 20:18:14,539 INFO  [Log] PGNG1030_TC_005_To verify that user is allowed to modify search keyword on every additional char typed after 2 char 
+2017-09-03 20:18:14,572 INFO  [Log] PGNG1030_TC_006_To verify the search logic when search keyword is more than one 
+2017-09-03 20:18:14,610 INFO  [Log] PGNG1030_TC_012_To verify the functionality of First property selection from the result set 
+2017-09-03 20:18:14,642 INFO  [Log] PGNG1030_TC_013_To verify the search functionality when user do not found any property in the search result 
+2017-09-03 20:18:14,668 INFO  [Log] PGNG1030_TC_015_To verify the functionality of "Can't find hotel" link 
+2017-09-03 20:18:14,697 INFO  [Log] PGNG1030_TC_017_To verify the validation if mandatory information is missing and click on "Send Request button " in "Can't find your Competitor " pop up 
+2017-09-03 20:18:14,725 INFO  [Log] PGNG1030_TC_019_To verify the functionality of Cancel button in "Can't find your Competitor " pop up 
+2017-09-03 20:18:14,760 INFO  [Log] PGNG1030_TC_022_To verify the email id and resolution time in Acknowledgement pop up 
+2017-09-03 20:18:14,784 INFO  [Log] PGNG1030_TC_038_To verify the Wightage for newly added competitor when property select from the search result 
+2017-09-03 20:18:14,811 INFO  [Log] PGNG1030_TC_039_To verify the Threshold Value for newly added competitor(Absolute) 
+2017-09-03 20:18:14,835 INFO  [Log] PGNG1030_TC_040_To verify the Threshold Value for newly added competitor(Percentage) 
+2017-09-03 20:18:14,858 INFO  [Log] PGNG1030_TC_045_To verify that on adding a newly competitor in the bucket should add in all relevant screens 
+2017-09-03 20:18:14,887 INFO  [Log] PGNG1030_TC_048_To verify Newly added property should available on the Rates Graphical View hover 
+2017-09-03 20:18:14,911 INFO  [Log] PGNG1030_TC_075_To verify competitor property in Channel Info under Tax page when property select from the search result in Competitor page 
+2017-09-03 20:18:14,934 INFO  [Log] PGNG1030_TC_078_To verify order of the properties in Properties list box in Tax Value popup 
+2017-09-03 20:18:14,956 INFO  [Log] PGNG1030_TC_079_To verify order of the properties in Channel Info section in Tax Value popup 
+2017-09-03 20:18:14,979 INFO  [Log] PGNG1030_TC_105_To verify that user is able to edit competitors in compset bucket 
+2017-09-03 20:18:14,998 INFO  [Log] PGNG1030_TC_106_To verify that updated value of "Weightage" and "Threshold" for a competitor should reflect in compset bucket when click on Save icon 
+2017-09-03 20:18:15,020 INFO  [Log] PGNG1030_TC_107_To verify that updated value of "Weightage" and "Threshold" for a competitor should NOTreflect in compset bucket if click on Cancel icon 
+2017-09-03 20:18:15,039 INFO  [Log] PGNG1030_TC_111_To verify Comepetitors on Rate >> Competitiveness Graph 
+2017-09-03 20:18:15,061 INFO  [Log] PGNG1030_TC_120_to verify order of the property in Download Report page if same property is available 
+2017-09-03 20:18:15,082 INFO  [Log] ####Closing Test Suite #### 
+2017-09-03 20:18:15,082 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-03 20:18:15,082 INFO  [Log] Creating Logs backup and storing for further reference 

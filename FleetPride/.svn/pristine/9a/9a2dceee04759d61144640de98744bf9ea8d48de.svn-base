@@ -1,0 +1,312 @@
+2017-07-17 17:51:20,348 INFO  [Log] Test Scenario Configuration started 
+2017-07-17 17:51:20,373 INFO  [Log] Initialing HTML reporting 
+2017-07-17 17:51:20,612 INFO  [Log] Starting Test Suit Execution 
+2017-07-17 17:51:20,613 WARN  [Log] Browser instance value is null 
+2017-07-17 17:51:21,204 INFO  [Log] Object repository is created successfully 
+2017-07-17 17:51:21,353 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:51:21,353 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_1; Description: AlertRateKart_1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:51:21,353 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:51:27,955 INFO  [Log] #### Executing Test case: AlertRateKart_1; Description: AlertRateKart_1 In firefox Browser for TestData:1 
+2017-07-17 17:51:34,554 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 17:51:39,112 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-17 17:51:39,394 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-17 17:51:39,616 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-17 17:51:39,616 INFO  [Log] TS_05; Waited 8000 Milli seconds for Element 
+2017-07-17 17:51:53,942 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-17 17:51:54,872 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-17 17:51:54,951 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-17 17:51:55,034 INFO  [Log] TS_09: verify price thrashold breach present; Passed; ; Element is present on the active page 
+2017-07-17 17:51:55,120 INFO  [Log] TS_10: verify competitors price change present; Passed; ; Element is present on the active page 
+2017-07-17 17:51:55,213 INFO  [Log] TS_11: verify price watch present; Passed; ; Element is present on the active page 
+2017-07-17 17:51:55,215 INFO  [Log] closing test case  
+2017-07-17 17:51:55,227 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:51:55,252 INFO  [Log] ### Test case: AlertRateKart_1; Description: AlertRateKart_1; status Executed 
+2017-07-17 17:51:56,586 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:51:56,694 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:51:56,853 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:51:56,853 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:51:56,853 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:51:57,350 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:51:57,350 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_07; Description: AlertRateKart_07 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:51:57,350 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:52:03,866 INFO  [Log] #### Executing Test case: AlertRateKart_07; Description: AlertRateKart_07 In firefox Browser for TestData:1 
+2017-07-17 17:52:14,265 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 17:52:17,910 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-17 17:52:18,158 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-17 17:52:18,457 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-17 17:52:18,458 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-17 17:52:25,052 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-17 17:52:25,897 INFO  [Log] TS_07: click on thrashold breach: Action click 
+2017-07-17 17:52:26,168 INFO  [Log] TS_08: click on treands: Action click 
+2017-07-17 17:52:26,645 INFO  [Log] TS_09: click on rates: Action click 
+2017-07-17 17:52:26,646 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-17 17:52:33,834 INFO  [Log] 1--------------------103 
+2017-07-17 17:52:33,834 INFO  [Log] 2--------------------105 
+2017-07-17 17:52:33,834 INFO  [Log] 3--------------------109 
+2017-07-17 17:52:33,834 INFO  [Log] 4--------------------109 
+2017-07-17 17:52:33,834 INFO  [Log] 5--------------------114 
+2017-07-17 17:52:33,834 INFO  [Log] 6--------------------105 
+2017-07-17 17:52:33,835 INFO  [Log] 7--------------------104 
+2017-07-17 17:52:33,835 INFO  [Log] 8--------------------108 
+2017-07-17 17:52:33,835 INFO  [Log] 9--------------------105 
+2017-07-17 17:52:33,835 INFO  [Log] 10--------------------105 
+2017-07-17 17:52:33,835 INFO  [Log] 11--------------------105 
+2017-07-17 17:52:33,835 INFO  [Log] 12--------------------103 
+2017-07-17 17:52:33,835 INFO  [Log] 13--------------------127 
+2017-07-17 17:52:33,835 INFO  [Log] 14--------------------107 
+2017-07-17 17:52:33,835 INFO  [Log] 15--------------------107 
+2017-07-17 17:52:33,835 INFO  [Log] 16--------------------103 
+2017-07-17 17:52:33,835 INFO  [Log] 17--------------------105 
+2017-07-17 17:52:33,835 INFO  [Log] 18--------------------108 
+2017-07-17 17:52:33,835 INFO  [Log] 19--------------------103 
+2017-07-17 17:52:33,835 INFO  [Log] 20--------------------104 
+2017-07-17 17:52:33,835 INFO  [Log] 21--------------------105 
+2017-07-17 17:52:33,835 INFO  [Log] 22--------------------103 
+2017-07-17 17:52:33,835 INFO  [Log] 23--------------------112 
+2017-07-17 17:52:33,835 INFO  [Log] 24--------------------103 
+2017-07-17 17:52:33,835 INFO  [Log] 25--------------------109 
+2017-07-17 17:52:33,835 INFO  [Log] 26--------------------103 
+2017-07-17 17:52:33,835 INFO  [Log] 27--------------------103 
+2017-07-17 17:52:33,835 INFO  [Log] 28--------------------107 
+2017-07-17 17:52:33,836 INFO  [Log] 29--------------------111 
+2017-07-17 17:52:33,836 INFO  [Log] 30--------------------113 
+2017-07-17 17:52:33,836 INFO  [Log] 31--------------------109 
+2017-07-17 17:52:33,836 INFO  [Log] TS_11: all rate store : Action rateAgainstDate 
+2017-07-17 17:52:33,836 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-07-17 17:52:43,973 INFO  [Log] 105
+0
+-3; Value has been stored in index: 0 
+2017-07-17 17:52:44,042 INFO  [Log] User specified value has been replaced at index0New Value is: 105 
+2017-07-17 17:52:44,223 INFO  [Log] TS_15: click on date: Action click 
+2017-07-17 17:52:47,954 INFO  [Log] TS_16: ToolTipNavigation: ToolTipNavigation 
+2017-07-17 17:53:13,465 ERROR [Log] Error#: optima-07TS_17XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-17 17:53:14,501 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:53:14,614 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:53:14,732 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:53:14,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:53:14,732 FATAL [Log] optima-07TS_17XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-17 17:53:14,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:53:14,869 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:53:14,869 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_12; Description: AlertRateKart_12 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:53:14,869 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:53:20,253 INFO  [Log] #### Executing Test case: AlertRateKart_12; Description: AlertRateKart_12 In firefox Browser for TestData:1 
+2017-07-17 17:53:26,348 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 17:53:28,312 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-17 17:53:28,515 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-17 17:53:28,699 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-17 17:53:28,699 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-17 17:53:35,076 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-17 17:53:35,957 INFO  [Log] TS_07; Passed; verify OTA Parity Violation is present; Value: parity; Present in Page values: Parity,  
+2017-07-17 17:53:36,055 INFO  [Log] TS_08: verify Meta-Search Parity Violation is present; Passed; ; Element is present on the active page 
+2017-07-17 17:53:36,145 INFO  [Log] TS_09: click on treands; Passed; ; Element is present on the active page 
+2017-07-17 17:53:36,261 INFO  [Log] TS_10: move to parity screen: Action click 
+2017-07-17 17:53:36,262 INFO  [Log] TS_11; Waited 4000 Milli seconds for Element 
+2017-07-17 17:53:41,816 INFO  [Log] TS_12: verify OTA Parity Violation chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:53:41,989 INFO  [Log] TS_13: verify Meta-Search Parity Violation chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:53:42,158 INFO  [Log] TS_14: verify violator(Due to rate) chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:53:42,299 INFO  [Log] TS_15: verify Violator (Due to Availability) chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:53:42,301 INFO  [Log] closing test case  
+2017-07-17 17:53:42,310 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:53:42,324 INFO  [Log] ### Test case: AlertRateKart_12; Description: AlertRateKart_12; status Executed 
+2017-07-17 17:53:43,212 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:53:43,338 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:53:43,535 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:53:43,535 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:53:43,535 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:53:43,666 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:53:43,666 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_13; Description: AlertRateKart_13 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:53:43,666 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:53:48,825 INFO  [Log] #### Executing Test case: AlertRateKart_13; Description: AlertRateKart_13 In firefox Browser for TestData:1 
+2017-07-17 17:53:54,333 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 17:53:55,968 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-17 17:53:56,325 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-17 17:53:56,652 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-17 17:53:56,652 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-17 17:54:02,404 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-17 17:54:03,346 INFO  [Log] TS_07; Passed; verify OTA Parity Violation is present; Value: parity; Present in Page values: Parity,  
+2017-07-17 17:54:03,431 INFO  [Log] TS_08: verify Meta-Search Parity Violation is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:03,501 INFO  [Log] TS_09: click on treands; Passed; ; Element is present on the active page 
+2017-07-17 17:54:03,617 INFO  [Log] TS_10: move to parity screen: Action click 
+2017-07-17 17:54:03,618 INFO  [Log] TS_11; Waited 4000 Milli seconds for Element 
+2017-07-17 17:54:09,316 INFO  [Log] TS_12: verify OTA Parity Violation chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:09,500 INFO  [Log] TS_13: verify Meta-Search Parity Violation chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:09,668 INFO  [Log] TS_14: verify violator(Due to rate) chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:09,819 INFO  [Log] TS_15: verify Violator (Due to Availability) chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:09,819 INFO  [Log] closing test case  
+2017-07-17 17:54:09,835 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:54:09,850 INFO  [Log] ### Test case: AlertRateKart_13; Description: AlertRateKart_13; status Executed 
+2017-07-17 17:54:10,895 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:54:11,058 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:54:11,171 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:54:11,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:54:11,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:54:11,252 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:54:11,252 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_14; Description: AlertRateKart_14 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:54:11,253 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:54:16,482 INFO  [Log] #### Executing Test case: AlertRateKart_14; Description: AlertRateKart_14 In firefox Browser for TestData:1 
+2017-07-17 17:54:21,418 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 17:54:24,388 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-17 17:54:24,599 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-17 17:54:24,801 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-17 17:54:24,802 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-17 17:54:31,068 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-17 17:54:31,907 INFO  [Log] TS_07; Passed; verify OTA Parity Violation is present; Value: parity; Present in Page values: Parity,  
+2017-07-17 17:54:31,982 INFO  [Log] TS_08: verify Meta-Search Parity Violation is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:32,060 INFO  [Log] TS_09: click on treands; Passed; ; Element is present on the active page 
+2017-07-17 17:54:32,178 INFO  [Log] TS_10: move to parity screen: Action click 
+2017-07-17 17:54:32,179 INFO  [Log] TS_11; Waited 4000 Milli seconds for Element 
+2017-07-17 17:54:37,893 INFO  [Log] TS_12: verify OTA Parity Violation chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:38,130 INFO  [Log] TS_13: verify Meta-Search Parity Violation chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:38,332 INFO  [Log] TS_14: verify violator(Due to rate) chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:38,550 INFO  [Log] TS_15: verify Violator (Due to Availability) chart is present; Passed; ; Element is present on the active page 
+2017-07-17 17:54:38,551 INFO  [Log] TS_16; Waited 1000 Milli seconds for Element 
+2017-07-17 17:54:39,709 INFO  [Log] TS_17: Mouse hover on Total check-in dates: ToolTipNavigation 
+2017-07-17 17:54:39,910 INFO  [Log] Total Check-in Dates : 31; Value has been stored in index: 0 
+2017-07-17 17:54:39,910 INFO  [Log] TS_19; Waited 1000 Milli seconds for Element 
+2017-07-17 17:54:41,089 INFO  [Log] TS_20: Mouse hover on  Rate disparity count : ToolTipNavigation 
+2017-07-17 17:54:41,192 INFO  [Log] Rate Disparity : 29; Value has been stored in index: 1 
+2017-07-17 17:54:41,193 INFO  [Log] TS_22; Waited 1000 Milli seconds for Element 
+2017-07-17 17:54:42,324 INFO  [Log] TS_23: Mouse hover on Availability disparit count: ToolTipNavigation 
+2017-07-17 17:54:42,444 INFO  [Log] Availability Disparity : 2; Value has been stored in index: 2 
+2017-07-17 17:54:42,598 INFO  [Log] TS_25; Passed; match values excel vs captured; values captured  match with values in excel  
+2017-07-17 17:54:42,598 INFO  [Log] closing test case  
+2017-07-17 17:54:42,615 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:54:42,629 INFO  [Log] ### Test case: AlertRateKart_14; Description: AlertRateKart_14; status Executed 
+2017-07-17 17:54:43,637 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:54:43,744 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:54:43,858 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:54:43,858 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:54:43,858 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:54:44,044 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:54:44,044 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: AlertRateKart_23; Description: AlertRateKart_23 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:54:44,045 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:54:49,268 INFO  [Log] #### Executing Test case: AlertRateKart_23; Description: AlertRateKart_23 In firefox Browser for TestData:1 
+2017-07-17 17:54:55,225 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-17 17:54:58,088 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-17 17:54:58,284 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-17 17:54:58,471 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-17 17:54:58,471 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-17 17:55:03,963 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-17 17:55:04,954 INFO  [Log] TS_07: click on thrashold breach: Action click 
+2017-07-17 17:55:05,175 INFO  [Log] TS_08: click on treands: Action click 
+2017-07-17 17:55:05,176 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-17 17:55:13,032 INFO  [Log] TS_13; Passed; verify points in the grid view of Trends screen; Text is found in 8   WebElements; Against user Defined Value: Airbnb Avg. Rate:My Supply:Compset Avg. Supply:Market Supply:Airbnb Supply:My Lowest Rate:Compset Avg. Rate:Market Avg. Rate 
+2017-07-17 17:55:13,032 INFO  [Log] TS_20; Waited 3000 Milli seconds for Element 
+2017-07-17 17:55:16,033 INFO  [Log] closing test case  
+2017-07-17 17:55:16,049 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:55:16,077 INFO  [Log] ### Test case: AlertRateKart_23; Description: AlertRateKart_23; status Executed 
+2017-07-17 17:55:17,043 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:55:17,186 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:55:17,298 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:55:17,298 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:55:17,298 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:55:17,372 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:55:17,372 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain123.xlsx; Description: RateGain123.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:55:17,372 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:55:23,431 INFO  [Log] #### Executing Test case: RateGain123.xlsx; Description: RateGain123.xlsx In firefox Browser for TestData:1 
+2017-07-17 17:55:31,326 INFO  [Log] RG_4-01: Open URL; Action: open URL 
+2017-07-17 17:55:31,343 INFO  [Log] RG_4-02; Waited 5000 Milli seconds for Element 
+2017-07-17 17:55:36,594 INFO  [Log] RG_4-03: Enter User ID: Action Submit If 
+2017-07-17 17:55:36,815 INFO  [Log] RG_4-04: Enter Password: Action Submit If 
+2017-07-17 17:55:36,880 INFO  [Log] RG_4-05: Click on Login: Action click 
+2017-07-17 17:55:36,881 INFO  [Log] RG_4-06; Waited 2000 Milli seconds for Element 
+2017-07-17 17:55:43,788 INFO  [Log] RG_4-07: EnterPriceClick: Action click 
+2017-07-17 17:55:43,788 INFO  [Log] RG_4-08; Waited 2000 Milli seconds for Element 
+2017-07-17 17:55:56,403 INFO  [Log] RG_4-09: ToolTipNavigation: ToolTipNavigation 
+2017-07-17 17:55:56,403 INFO  [Log] RG_4-10; Waited 2000 Milli seconds for Element 
+2017-07-17 17:55:58,540 INFO  [Log] Cleanliness: 8.23 | Individual Coverage: 15.03% | Cumulative Coverage: 15.03%; Value has been stored in index: 0 
+2017-07-17 17:55:58,540 INFO  [Log] RG_4-12; Waited 2000 Milli seconds for Element 
+2017-07-17 17:56:00,542 INFO  [Log] closing test case  
+2017-07-17 17:56:00,563 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:56:00,579 INFO  [Log] ### Test case: RateGain123.xlsx; Description: RateGain123.xlsx; status Executed 
+2017-07-17 17:56:02,090 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:56:02,199 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:56:02,305 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:56:02,305 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:56:02,305 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:56:02,368 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:56:02,368 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:56:02,368 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:56:07,713 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In firefox Browser for TestData:1 
+2017-07-17 17:56:15,549 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-07-17 17:56:15,561 INFO  [Log] RG-02; Waited 5000 Milli seconds for Element 
+2017-07-17 17:56:20,742 INFO  [Log] RG-03: Enter User ID; Action: Submited Value 
+2017-07-17 17:56:20,910 INFO  [Log] RG-04: Enter Password; Action: Submited Value 
+2017-07-17 17:56:20,986 INFO  [Log] RG-05: Click on Login: Action click 
+2017-07-17 17:56:20,986 INFO  [Log] RG-06; Waited 5000 Milli seconds for Element 
+2017-07-17 17:56:26,102 INFO  [Log] RG-07; Passed; Verify Button; Value: enterprise view; Present in Page values: ENTERPRISE VIEW,  
+2017-07-17 17:56:26,185 INFO  [Log] RG-08; Passed; Verify Button; Value: property view; Present in Page values: PROPERTY VIEW,  
+2017-07-17 17:56:26,276 INFO  [Log] RG-09: Clickon left header: Action click 
+2017-07-17 17:56:26,277 INFO  [Log] RG-10; Waited 5000 Milli seconds for Element 
+2017-07-17 17:56:31,430 INFO  [Log] RG-11: Clickon Logout: Action click 
+2017-07-17 17:56:31,431 INFO  [Log] RG-12; Waited 5000 Milli seconds for Element 
+2017-07-17 17:56:36,593 INFO  [Log] RG-13: Click logout: Action click 
+2017-07-17 17:56:36,686 INFO  [Log] Alert detected: {}Logging out from here will log you out from all the products. Still want to logout? 
+2017-07-17 17:56:36,687 INFO  [Log] closing test case  
+2017-07-17 17:56:36,696 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:56:36,704 INFO  [Log] ### Test case: RateGain-1; Description: RateGain -1; status Executed 
+2017-07-17 17:56:37,602 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:56:37,710 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:56:37,818 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:56:37,818 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:56:37,818 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:56:37,897 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:56:37,897 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-2; Description: RateGain -2 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:56:37,897 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:56:42,889 INFO  [Log] #### Executing Test case: RateGain-2; Description: RateGain -2 In firefox Browser for TestData:1 
+2017-07-17 17:56:50,763 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-07-17 17:56:50,788 INFO  [Log] RG-02; Waited 5000 Milli seconds for Element 
+2017-07-17 17:56:56,012 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-07-17 17:56:56,209 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-07-17 17:56:56,294 INFO  [Log] RG-05: Click on Login: Action click 
+2017-07-17 17:56:56,294 INFO  [Log] RG-06; Waited 5000 Milli seconds for Element 
+2017-07-17 17:57:01,469 INFO  [Log] RG-07: Click Button: Action click 
+2017-07-17 17:57:01,470 INFO  [Log] RG-08; Waited 5000 Milli seconds for Element 
+2017-07-17 17:57:18,348 INFO  [Log] RG-09; Passed; Verify Meter Footer; Value: social sites; Present in Page values: Social Sites,  
+2017-07-17 17:57:19,545 INFO  [Log] RG-10; Passed; Verify Meter Header; Value: guest satisfaction meter; Present in Page values: Guest Satisfaction Meter,  
+2017-07-17 17:57:19,725 INFO  [Log] RG-11; Passed; Verify Meter label 1; Value: 0; Present in Page values: 0,  
+2017-07-17 17:57:19,939 INFO  [Log] RG-12; Passed; Verify Meter label 2; Value: 3; Present in Page values: 3,  
+2017-07-17 17:57:20,080 INFO  [Log] RG-13; Passed; Verify Meter label 3; Value: 7; Present in Page values: 7,  
+2017-07-17 17:57:20,210 INFO  [Log] RG-14; Passed; Verify Meter label 4; Value: 10; Present in Page values: 10,  
+2017-07-17 17:57:20,339 INFO  [Log] RG-15; Passed; Verify Meter label 5; Value: 7.63; Present in Page values: 7.63,  
+2017-07-17 17:57:20,340 INFO  [Log] RG-16; Waited 5000 Milli seconds for Element 
+2017-07-17 17:57:25,340 INFO  [Log] closing test case  
+2017-07-17 17:57:25,357 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:57:25,373 INFO  [Log] ### Test case: RateGain-2; Description: RateGain -2; status Executed 
+2017-07-17 17:57:26,238 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:57:26,359 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:57:26,492 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:57:26,492 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:57:26,492 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:57:26,604 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:57:26,604 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-3; Description: RateGain -3 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-17 17:57:26,604 INFO  [Log] **************************************************************************************** 
+2017-07-17 17:57:31,743 INFO  [Log] #### Executing Test case: RateGain-3; Description: RateGain -3 In firefox Browser for TestData:1 
+2017-07-17 17:57:39,357 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-07-17 17:57:39,374 INFO  [Log] RG-02; Waited 5000 Milli seconds for Element 
+2017-07-17 17:57:44,577 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-07-17 17:57:44,750 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-07-17 17:57:44,827 INFO  [Log] RG-05: Click on Login: Action click 
+2017-07-17 17:57:44,827 INFO  [Log] RG-06; Waited 5000 Milli seconds for Element 
+2017-07-17 17:57:50,039 INFO  [Log] RG-07: Click Button: Action click 
+2017-07-17 17:57:50,039 INFO  [Log] RG-08; Waited 5000 Milli seconds for Element 
+2017-07-17 17:58:00,687 INFO  [Log] RG-09; Passed; Verify Meter Header; Value: key stats; Present in Page values: Key Stats,  
+2017-07-17 17:58:02,755 INFO  [Log] 2189; Value has been stored in index: 0 
+2017-07-17 17:58:03,069 INFO  [Log] RG-11; Passed; Verify Key Stats Item 2; Value: positive reviews; Present in Page values: Positive Reviews,  
+2017-07-17 17:58:03,189 INFO  [Log] RG-12; Passed; Verify Key Stats Item 3; Value: negative reviews; Present in Page values: Negative Reviews,  
+2017-07-17 17:58:03,319 INFO  [Log] RG-13; Passed; Verify Key Stats Item 4; Value: neutral reviews; Present in Page values: Neutral Reviews,  
+2017-07-17 17:58:03,320 INFO  [Log] RG-14; Waited 3000 Milli seconds for Element 
+2017-07-17 17:58:06,320 INFO  [Log] closing test case  
+2017-07-17 17:58:06,335 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-17 17:58:06,356 INFO  [Log] ### Test case: RateGain-3; Description: RateGain -3; status Executed 
+2017-07-17 17:58:07,258 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-17 17:58:07,367 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-17 17:58:07,501 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-17 17:58:07,501 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:58:07,501 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:58:07,559 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-17 17:58:07,591 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-17 17:58:07,613 INFO  [Log] PostRequest_PostRequest 
+2017-07-17 17:58:07,631 INFO  [Log] ####Closing Test Suite #### 
+2017-07-17 17:58:07,631 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-17 17:58:07,631 INFO  [Log] Creating Logs backup and storing for further reference 

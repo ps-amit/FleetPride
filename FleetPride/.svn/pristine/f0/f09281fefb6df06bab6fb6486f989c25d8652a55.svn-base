@@ -1,0 +1,171 @@
+2017-07-25 23:52:52,773 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 23:52:52,786 INFO  [Log] Initialing HTML reporting 
+2017-07-25 23:52:53,114 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 23:52:53,114 WARN  [Log] No Browser instance is active 
+2017-07-25 23:52:53,702 INFO  [Log] Object repository is created successfully 
+2017-07-25 23:52:53,815 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:52:53,815 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 23:52:53,815 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:53:02,490 INFO  [Log] #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx In firefox Browser for TestData:1 
+2017-07-25 23:53:31,059 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:53:31,351 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:53:31,614 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:53:31,767 INFO  [Log] TS_04: click on forget password: Action click 
+2017-07-25 23:53:31,848 INFO  [Log] TS_05: verify forget password screen appear; Passed; ; Element is present on the active page 
+2017-07-25 23:53:32,219 INFO  [Log] TS_06: enter eamil; Action: Submited Value 
+2017-07-25 23:53:32,331 INFO  [Log] TS_07: click on recovery email button: Action click 
+2017-07-25 23:53:32,332 INFO  [Log] TS_08; Waited 2000 Milli seconds for Element 
+2017-07-25 23:53:34,954 INFO  [Log] TS_09; Passed; verify reset email has been sent; Value: a password recovery email has been sent to your email id, please check!; Present in Page values: A password recovery email has been sent to your email id, please check!,  
+2017-07-25 23:53:34,955 INFO  [Log] closing test case  
+2017-07-25 23:53:35,184 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-25 23:53:35,207 INFO  [Log] ### Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx; status Executed 
+2017-07-25 23:53:35,207 WARN  [Log] No Browser instance is active 
+2017-07-25 23:53:35,207 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:53:41,983 INFO  [Log] #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx In chrome Browser for TestData:1 
+2017-07-25 23:54:06,202 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:54:41,507 ERROR [Log] Error#: optimaTS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-25 23:54:42,617 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 23:54:42,819 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 23:54:42,944 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 23:54:42,946 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:54:42,946 FATAL [Log] optimaTS_02XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-07-25 23:54:42,946 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:54:43,536 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:54:43,536 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 23:54:43,536 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:54:49,436 INFO  [Log] #### Executing Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx In firefox Browser for TestData:1 
+2017-07-25 23:55:08,147 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:55:10,534 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:55:10,807 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:55:10,909 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 23:55:10,909 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 23:55:20,985 INFO  [Log] TS_06: verify property name is in the header section; Passed; ; Element is present on the active page 
+2017-07-25 23:55:21,032 INFO  [Log] TS_07: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/rates; User Defined URL:http://rg.hospi.qa.rategain.com/optima 
+2017-07-25 23:55:21,147 INFO  [Log] TS_08: click on user name : Action click 
+2017-07-25 23:55:21,244 INFO  [Log] TS_09: click on choose property: Action click 
+2017-07-25 23:55:21,244 INFO  [Log] TS_10; Waited 5000 Milli seconds for Element 
+2017-07-25 23:55:26,367 INFO  [Log] TS_11: verify choose property dialog is appearing; Passed; ; Element is present on the active page 
+2017-07-25 23:55:43,705 INFO  [Log] TS_12; Passed; verifying multiple elements to verify that there are more then one property; Element count from page: 459; User Defined Value: 1 
+2017-07-25 23:55:43,706 INFO  [Log] closing test case  
+2017-07-25 23:55:43,968 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-25 23:55:43,986 INFO  [Log] ### Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx; status Executed 
+2017-07-25 23:55:43,986 WARN  [Log] No Browser instance is active 
+2017-07-25 23:55:43,986 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:55:49,639 INFO  [Log] #### Executing Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx In chrome Browser for TestData:1 
+2017-07-25 23:55:59,218 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:55:59,527 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:55:59,652 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:55:59,843 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 23:55:59,844 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 23:56:13,944 INFO  [Log] TS_06: verify property name is in the header section; Passed; ; Element is present on the active page 
+2017-07-25 23:56:13,993 INFO  [Log] TS_07: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/rates; User Defined URL:http://rg.hospi.qa.rategain.com/optima 
+2017-07-25 23:56:14,074 INFO  [Log] TS_08: click on user name : Action click 
+2017-07-25 23:56:14,166 INFO  [Log] TS_09: click on choose property: Action click 
+2017-07-25 23:56:14,167 INFO  [Log] TS_10; Waited 5000 Milli seconds for Element 
+2017-07-25 23:56:19,284 INFO  [Log] TS_11: verify choose property dialog is appearing; Passed; ; Element is present on the active page 
+2017-07-25 23:56:36,270 INFO  [Log] TS_12; Passed; verifying multiple elements to verify that there are more then one property; Element count from page: 459; User Defined Value: 1 
+2017-07-25 23:56:36,271 INFO  [Log] closing test case  
+2017-07-25 23:56:38,376 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-25 23:56:38,424 INFO  [Log] ### Test case: Rg_TC004.xlsx; Description: Rg_TC004.xlsx; status Executed 
+2017-07-25 23:56:38,425 WARN  [Log] No Browser instance is active 
+2017-07-25 23:56:38,425 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:56:38,425 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:56:38,578 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:56:38,579 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC006.xlsx; Description: Rg_TC006.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 23:56:38,579 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:56:45,038 INFO  [Log] #### Executing Test case: Rg_TC006.xlsx; Description: Rg_TC006.xlsx In firefox Browser for TestData:1 
+2017-07-25 23:56:52,649 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:56:52,918 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:56:52,991 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:56:53,048 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 23:56:53,049 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-25 23:56:58,050 ERROR [Log] Error#: optimaVerifyTextPresent:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.VerifyTextPresent() 
+2017-07-25 23:56:59,385 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 23:56:59,527 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 23:56:59,653 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 23:56:59,653 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:56:59,653 FATAL [Log] optimaVerifyTextPresent:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.VerifyTextPresent() 
+2017-07-25 23:56:59,653 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:56:59,749 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:56:59,749 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC008.xlsx; Description: Rg_TC008.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 23:56:59,749 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:57:05,565 INFO  [Log] #### Executing Test case: Rg_TC008.xlsx; Description: Rg_TC008.xlsx In firefox Browser for TestData:1 
+2017-07-25 23:57:12,842 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:57:13,155 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:57:13,334 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:57:13,425 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 23:57:13,426 INFO  [Log] TS_05; Waited 5000 Milli seconds for Element 
+2017-07-25 23:57:22,655 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-25 23:57:43,970 INFO  [Log] TS_07: verify shop date is present; Passed; ; Element is present on the active page 
+2017-07-25 23:57:44,018 INFO  [Log] TS_08: verify chick in date heading is present; Passed; ; Element is present on the active page 
+2017-07-25 23:57:44,062 INFO  [Log] TS_09: verify price thrashold breach element present; Passed; ; Element is present on the active page 
+2017-07-25 23:57:44,221 INFO  [Log] TS_10: click on price thrashold breach : Action click 
+2017-07-25 23:57:44,222 INFO  [Log] TS_11; Waited 2000 Milli seconds for Element 
+2017-07-25 23:57:46,266 INFO  [Log] TS_12: verify page Url; Passed; ; Value from page: http://rg.hospi.qa.rategain.com/optima/rates; User Defined URL:http://rg.hospi.qa.rategain.com/optima/rates 
+2017-07-25 23:57:46,341 INFO  [Log] TS_13; Passed; verify all channels are present; Value: all channels; Present in Page values: All Channels,  
+2017-07-25 23:57:46,342 ERROR [Log] Error#: optimaVerifyRates:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.VerifyRates() 
+2017-07-25 23:57:47,362 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 23:57:47,526 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 23:57:47,675 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 23:57:47,675 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:57:47,675 FATAL [Log] optimaVerifyRates:Invalid Action Kewyordjava.lang.NoSuchMethodException: Configuration.ActionKeyword.VerifyRates() 
+2017-07-25 23:57:47,676 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:57:47,930 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:57:47,930 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0010.xlsx; Description: Rg_TC0010.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 23:57:47,930 INFO  [Log] **************************************************************************************** 
+2017-07-25 23:57:54,228 INFO  [Log] #### Executing Test case: Rg_TC0010.xlsx; Description: Rg_TC0010.xlsx In firefox Browser for TestData:1 
+2017-07-25 23:58:01,983 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 23:58:02,217 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 23:58:02,383 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 23:58:02,458 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 23:58:02,459 INFO  [Log] TS_05; Waited 4000 Milli seconds for Element 
+2017-07-25 23:58:14,000 INFO  [Log] TS_06: click on inbox: Action click 
+2017-07-25 23:58:14,001 INFO  [Log] TS_07; Waited 4000 Milli seconds for Element 
+2017-07-25 23:58:23,207 INFO  [Log] Action Element is not present moving to next step 
+2017-07-25 23:58:23,207 INFO  [Log] TS_08: verify if see more button is present for Rates: Action Element is not present moving to next step 
+2017-07-25 23:58:28,385 INFO  [Log] Action Element is not present moving to next step 
+2017-07-25 23:58:28,385 INFO  [Log] TS_09: verify if see more button is present for Parity: Action Element is not present moving to next step 
+2017-07-25 23:58:33,672 INFO  [Log] Action Element is not present moving to next step 
+2017-07-25 23:58:33,672 INFO  [Log] TS_10: verify if see more button is present for Ranks: Action Element is not present moving to next step 
+2017-07-25 23:58:33,783 INFO  [Log] TS_11; Passed; verify if see more button is present for Trends; Value: see more; Present in Page values: See more,  
+2017-07-25 23:58:33,783 INFO  [Log] TS_10: verify if see more button is present for Ranks: Action Element is not present moving to next step 
+2017-07-25 23:58:38,931 INFO  [Log] Action Element is not present moving to next step 
+2017-07-25 23:58:38,931 INFO  [Log] TS_12: verify if see more button is present for InfoAlert: Action Element is not present moving to next step 
+2017-07-25 23:58:38,931 INFO  [Log] closing test case  
+2017-07-25 23:58:39,191 INFO  [Log] Closing instance of Browser: firefox 
+2017-07-25 23:58:39,209 INFO  [Log] ### Test case: Rg_TC0010.xlsx; Description: Rg_TC0010.xlsx; status Executed 
+2017-07-25 23:58:39,209 WARN  [Log] No Browser instance is active 
+2017-07-25 23:58:39,209 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:58:39,210 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:58:39,279 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 23:58:39,332 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 23:58:39,361 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 23:58:39,392 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 23:58:39,428 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 23:58:39,457 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 23:58:39,499 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 23:58:39,534 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 23:58:39,558 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 23:58:39,584 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 23:58:39,604 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 23:58:39,633 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 23:58:39,655 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 23:58:39,672 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 23:58:39,697 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 23:58:39,719 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 23:58:39,743 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 23:58:39,778 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 23:58:39,803 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-25 23:58:39,825 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-25 23:58:39,863 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-25 23:58:39,882 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-25 23:58:39,904 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-25 23:58:39,929 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-25 23:58:39,963 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-25 23:58:39,998 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-25 23:58:40,039 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-25 23:58:40,065 INFO  [Log] Rg_TC0070.xlsx_Rg_TC0070.xlsx 
+2017-07-25 23:58:40,091 INFO  [Log] Rg_TC0072.xlsx_Rg_TC0072.xlsx 
+2017-07-25 23:58:40,126 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 23:58:40,126 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 23:58:40,126 INFO  [Log] Creating Logs backup and storing for further reference 

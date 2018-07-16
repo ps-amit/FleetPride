@@ -1,0 +1,66 @@
+2018-05-28 15:38:31,309 INFO  [Log] Test Scenario Configuration started 
+2018-05-28 15:38:31,327 INFO  [Log] Initialing HTML reporting 
+2018-05-28 15:38:31,583 INFO  [Log] Starting Test Suit Execution 
+2018-05-28 15:38:32,132 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 15:38:32,252 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 15:38:32,331 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 15:38:32,947 INFO  [Log] Object repository is created successfully 
+2018-05-28 15:38:33,038 INFO  [Log] fetch_SP_qty_Blank 
+2018-05-28 15:38:33,133 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-28 15:38:33,216 INFO  [Log] fetch_X_Category_Product_Pre-requisite  
+2018-05-28 15:38:33,287 INFO  [Log] E2E_X_category_product_Blank 
+2018-05-28 15:38:33,345 INFO  [Log] Reorder_Blank 
+2018-05-28 15:38:33,410 INFO  [Log] Pre-requisite Delete Cart My Account_Pre-requisite 
+2018-05-28 15:38:33,472 INFO  [Log] Fetch DSP from Sales Force-qty<100_Pre-requisite 
+2018-05-28 15:38:33,526 INFO  [Log] **************************************************************************************** 
+2018-05-28 15:38:33,526 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-28 15:38:33,526 INFO  [Log] **************************************************************************************** 
+2018-05-28 15:38:39,717 INFO  [Log] #### Executing Test case: PE-319_Saved_Order_List_Back_Order_Qty; Description: Blank In Chrome Browser for TestData:1 
+2018-05-28 15:38:46,891 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-28 15:38:47,250 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-28 15:38:47,360 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh1234 
+2018-05-28 15:38:47,361 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-28 15:38:50,153 INFO  [Log] TS_05: Click on login button 
+2018-05-28 15:38:50,154 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-28 15:39:00,523 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: YP518L 
+2018-05-28 15:39:05,299 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-28 15:39:05,301 INFO  [Log] TS_09; Waited 10000 Milli seconds for Element 
+2018-05-28 15:39:25,326 INFO  [Log] TS_10: Click on the down arrow icon to select the already created order list 
+2018-05-28 15:39:25,504 INFO  [Log] TS_11: Select the first available order list from the drop down 
+2018-05-28 15:39:25,505 INFO  [Log] TS_12; Waited 2000 Milli seconds for Element 
+2018-05-28 15:39:31,880 INFO  [Log] TS_13: Navigate back to the home page 
+2018-05-28 15:39:31,883 INFO  [Log] TS_14; Waited 10000 Milli seconds for Element 
+2018-05-28 15:39:43,092 INFO  [Log] TS_15: Scroll to saved order list section: Action Scroll Down 
+2018-05-28 15:39:43,366 INFO  [Log] TS_16: Click on the drop down icon to select the order list 
+2018-05-28 15:39:43,550 INFO  [Log] TS_17: Select the first order list name from the drop down 
+2018-05-28 15:39:43,550 INFO  [Log] TS_18; Waited 10000 Milli seconds for Element 
+2018-05-28 15:39:53,729 INFO  [Log] TS_19: Clear the qty field; Action Clear 
+2018-05-28 15:39:53,891 INFO  [Log] TS_20: Input qty in the field; Action: Submitted Value: Value: null 
+2018-05-28 15:39:54,024 INFO  [Log] TS_21: Click on "Add To cart" button 
+2018-05-28 15:39:54,024 INFO  [Log] TS_22; Waited 10000 Milli seconds for Element 
+2018-05-28 15:40:04,184 INFO  [Log] TS_23; Passed; Verify the appearance of the 'Back Order' text in the pop up; Text is present for the given emement element :  
+2018-05-28 15:40:04,280 INFO  [Log] TS_24: Capture the back order textWe can ship 7 to you but 93 will be on backorder.; Value has been stored in index: 0 
+2018-05-28 15:40:04,310 INFO  [Log] User specified value has been replaced at index0New Value is: We can ship 7 
+2018-05-28 15:40:04,322 INFO  [Log] User specified value has been replaced at index0New Value is: 7 
+2018-05-28 15:40:04,507 INFO  [Log] TS_27: Click on the "Continue" button 
+2018-05-28 15:40:04,509 INFO  [Log] TS_28; Waited 10000 Milli seconds for Element 
+2018-05-28 15:40:15,673 INFO  [Log] TS_29: Scroll to the top of the page: Action Scroll Down 
+2018-05-28 15:40:15,812 INFO  [Log] TS_30: Capture the mini my cart link valueMy Cart: 7 item(s), $0.00; Value has been stored in index: 1 
+2018-05-28 15:40:15,837 INFO  [Log] User specified value has been replaced at index1New Value is: My Cart: 7 
+2018-05-28 15:40:15,857 INFO  [Log] User specified value has been replaced at index1New Value is: 7 
+2018-05-28 15:40:15,860 INFO  [Log] TS_33; Passed; null; Captured text1: 7; Captured text2: 7 
+2018-05-28 15:40:16,041 INFO  [Log] TS_34: Verify the price value not to be zeroMy Cart: 7 item(s), $0.00; Value has been stored in index: 2 
+2018-05-28 15:40:16,086 INFO  [Log] User specified value has been replaced at index2New Value is: My Cart: 7 item(s), $0.00 
+2018-05-28 15:40:16,114 INFO  [Log] User specified value has been replaced at index2New Value is:  $0.00 
+2018-05-28 15:40:16,115 INFO  [Log] TS_38; Waited 5000 Milli seconds for Element 
+2018-05-28 15:40:24,238 INFO  [Log] TS_37: Navigate to my cart page 
+2018-05-28 15:40:24,241 INFO  [Log] TS_38; Waited 15000 Milli seconds for Element 
+2018-05-28 15:40:54,423 INFO  [Log] PE-319TS_39XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-28 15:40:55,367 WARN  [Log]  Browser instance is active 
+2018-05-28 15:40:56,093 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 15:40:56,173 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 15:40:56,250 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 15:40:56,250 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 15:40:56,250 FATAL [Log] PE-319TS_39XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-28 15:40:56,250 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 15:40:56,318 INFO  [Log] Creating Logs backup and storing for further reference 

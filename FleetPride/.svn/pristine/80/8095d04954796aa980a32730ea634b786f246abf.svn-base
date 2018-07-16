@@ -1,0 +1,711 @@
+2017-08-13 17:28:06,635 INFO  [Log] Test Scenario Configuration started 
+2017-08-13 17:28:06,656 INFO  [Log] Initialing HTML reporting 
+2017-08-13 17:28:06,860 INFO  [Log] Starting Test Suit Execution 
+2017-08-13 17:28:06,861 WARN  [Log] No Browser instance is active 
+2017-08-13 17:28:07,402 INFO  [Log] Object repository is created successfully 
+2017-08-13 17:28:07,486 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-08-13 17:28:07,564 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-08-13 17:28:07,620 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-08-13 17:28:07,682 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-08-13 17:28:07,732 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-08-13 17:28:07,778 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-08-13 17:28:07,826 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-08-13 17:28:07,872 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-08-13 17:28:07,935 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-08-13 17:28:07,988 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-08-13 17:28:08,018 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-08-13 17:28:08,055 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-08-13 17:28:08,085 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-08-13 17:28:08,122 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-08-13 17:28:08,157 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-08-13 17:28:08,193 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-08-13 17:28:08,224 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-08-13 17:28:08,253 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-08-13 17:28:08,285 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-08-13 17:28:08,315 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-08-13 17:28:08,355 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-08-13 17:28:08,379 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-08-13 17:28:08,405 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-08-13 17:28:08,435 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-08-13 17:28:08,461 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-08-13 17:28:08,485 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-08-13 17:28:08,509 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-08-13 17:28:08,543 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-08-13 17:28:08,572 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-08-13 17:28:08,600 INFO  [Log] Rg_TC0065.xlsx_Rg_TC0065.xlsx 
+2017-08-13 17:28:08,628 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-08-13 17:28:08,661 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-08-13 17:28:08,688 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-08-13 17:28:08,713 INFO  [Log] Rg_TC0103.xlsx_Rg_TC0103.xlsx 
+2017-08-13 17:28:08,735 INFO  [Log] Rg_TC0104.xlsx_Rg_TC0104.xlsx 
+2017-08-13 17:28:08,800 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:28:08,801 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC01000.xlsx; Description: qualification For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:28:08,801 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:28:16,948 INFO  [Log] #### Executing Test case: Rg_TC01000.xlsx; Description: qualification In firefox Browser for TestData:1 
+2017-08-13 17:28:26,777 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:28:27,243 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:28:27,433 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:28:27,541 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:28:27,542 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:28:37,703 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:28:37,802 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:28:37,848 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:28:38,931 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:28:38,932 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:28:43,092 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:28:43,092 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:28:51,269 INFO  [Log] TS_47: click on rates: Action click 
+2017-08-13 17:28:51,269 INFO  [Log] TS_48; Waited 8000 Milli seconds for Element 
+2017-08-13 17:28:59,549 INFO  [Log] TS_49: click on grid view: Action click 
+2017-08-13 17:28:59,550 INFO  [Log] TS_50; Waited 8000 Milli seconds for Element 
+2017-08-13 17:29:07,807 INFO  [Log] TS_51: clcik on rangefilter: Action click 
+2017-08-13 17:29:07,807 INFO  [Log] TS_52; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:10,245 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:12,683 INFO  [Log] TS_56; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:15,453 INFO  [Log] TS_57: click on apply: Action click 
+2017-08-13 17:29:15,454 INFO  [Log] TS_58; Waited 4000 Milli seconds for Element 
+2017-08-13 17:29:19,626 INFO  [Log] TS_59: clcik on rate filter: Action click 
+2017-08-13 17:29:19,627 INFO  [Log] TS_60; Waited 4000 Milli seconds for Element 
+2017-08-13 17:29:24,534 INFO  [Log] TS_61: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:29:24,536 INFO  [Log] TS_62; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:26,791 INFO  [Log] TS_63: click on apply: Action click 
+2017-08-13 17:29:26,791 INFO  [Log] TS_64; Waited 4000 Milli seconds for Element 
+2017-08-13 17:29:31,074 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:29:31,134 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:29:31,134 INFO  [Log] TS_68; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:33,252 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:29:34,455 INFO  [Log] TS_70: click on channel: Action click 
+2017-08-13 17:29:34,456 INFO  [Log] TS_71; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:36,668 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:29:36,721 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:29:36,856 INFO  [Log] TS_74: move to top: Action click 
+2017-08-13 17:29:36,858 INFO  [Log] TS_75; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:46,601 INFO  [Log] TS_77: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:29:46,674 INFO  [Log] TS_78: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:29:46,767 INFO  [Log] New Element Location is : GDSStored in ObjRep using element name: channel2: Type: Xpath 
+2017-08-13 17:29:46,871 INFO  [Log] GDS; Value has been stored in index: 1 
+2017-08-13 17:29:46,872 INFO  [Log] TS_81; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:48,937 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:29:49,121 INFO  [Log] TS_83: click on channel: Action click 
+2017-08-13 17:29:49,122 INFO  [Log] TS_84; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:51,275 INFO  [Log] 319
+0; Value has been stored in index: 0 
+2017-08-13 17:29:51,423 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:29:51,492 INFO  [Log] TS_87: move to top: Action click 
+2017-08-13 17:29:51,492 INFO  [Log] TS_88; Waited 2000 Milli seconds for Element 
+2017-08-13 17:29:58,957 INFO  [Log] TS_90; Passed; verify excel value against UI valuesvalues from excel [319] and values from ui [319]are same 
+2017-08-13 17:29:59,003 INFO  [Log] TS_91: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:29:59,041 INFO  [Log] New Element Location is : TripadvisorStored in ObjRep using element name: channel5: Type: Xpath 
+2017-08-13 17:29:59,115 INFO  [Log] Tripadvisor; Value has been stored in index: 2 
+2017-08-13 17:29:59,116 INFO  [Log] TS_120; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:01,215 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:30:01,432 INFO  [Log] TS_122: click on channel: Action click 
+2017-08-13 17:30:01,433 INFO  [Log] TS_123; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:03,625 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:30:03,701 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:30:03,770 INFO  [Log] TS_126: move to top: Action click 
+2017-08-13 17:30:03,770 INFO  [Log] TS_127; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:11,483 INFO  [Log] TS_129: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:30:11,530 INFO  [Log] TS_130: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:30:11,566 INFO  [Log] New Element Location is : trivagoStored in ObjRep using element name: channel6: Type: Xpath 
+2017-08-13 17:30:11,622 INFO  [Log] trivago; Value has been stored in index: 3 
+2017-08-13 17:30:11,623 INFO  [Log] TS_133; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:13,717 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:30:13,871 INFO  [Log] TS_135: click on channel: Action click 
+2017-08-13 17:30:13,871 INFO  [Log] TS_136; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:15,971 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:30:16,003 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:30:16,068 INFO  [Log] TS_139: move to top: Action click 
+2017-08-13 17:30:16,068 INFO  [Log] TS_140; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:23,991 INFO  [Log] TS_142: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:30:24,025 INFO  [Log] TS_143: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:30:24,059 INFO  [Log] New Element Location is : Booking.comStored in ObjRep using element name: channel7: Type: Xpath 
+2017-08-13 17:30:24,110 INFO  [Log] Booking.com; Value has been stored in index: 4 
+2017-08-13 17:30:24,110 INFO  [Log] TS_133; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:26,198 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:30:26,386 INFO  [Log] TS_135: click on channel: Action click 
+2017-08-13 17:30:26,386 INFO  [Log] TS_136; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:28,505 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:30:28,544 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:30:28,622 INFO  [Log] TS_139: move to top: Action click 
+2017-08-13 17:30:28,622 INFO  [Log] TS_140; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:35,426 INFO  [Log] TS_142: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:30:35,466 INFO  [Log] TS_143: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:30:35,504 INFO  [Log] New Element Location is : BookItStored in ObjRep using element name: channel8: Type: Xpath 
+2017-08-13 17:30:35,561 INFO  [Log] BookIt; Value has been stored in index: 5 
+2017-08-13 17:30:35,561 INFO  [Log] TS_133; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:37,639 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:30:37,799 INFO  [Log] TS_135: click on channel: Action click 
+2017-08-13 17:30:37,800 INFO  [Log] TS_136; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:39,919 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:30:39,972 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:30:40,069 INFO  [Log] TS_139: move to top: Action click 
+2017-08-13 17:30:40,069 INFO  [Log] TS_140; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:45,431 INFO  [Log] TS_142: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:30:45,478 INFO  [Log] TS_143: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:30:45,526 INFO  [Log] New Element Location is : BookFHRStored in ObjRep using element name: channel9: Type: Xpath 
+2017-08-13 17:30:45,590 INFO  [Log] BookIt; Value has been stored in index: 6 
+2017-08-13 17:30:45,590 INFO  [Log] TS_133; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:47,694 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:30:47,945 INFO  [Log] TS_135: click on channel: Action click 
+2017-08-13 17:30:47,945 INFO  [Log] TS_136; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:50,130 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:30:50,198 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:30:50,306 INFO  [Log] TS_139: move to top: Action click 
+2017-08-13 17:30:50,306 INFO  [Log] TS_140; Waited 2000 Milli seconds for Element 
+2017-08-13 17:30:56,082 INFO  [Log] TS_142: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:30:56,121 INFO  [Log] TS_143: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:30:56,121 INFO  [Log] TS_144; Waited 8000 Milli seconds for Element 
+2017-08-13 17:31:04,304 INFO  [Log] TS_145: click on calander view: Action click 
+2017-08-13 17:31:04,304 INFO  [Log] TS_146; Waited 8000 Milli seconds for Element 
+2017-08-13 17:31:12,360 INFO  [Log] New Element Location is : 28Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-08-13 17:31:12,448 INFO  [Log] 319
+0
++319; Value has been stored in index: 0 
+2017-08-13 17:31:12,493 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:31:17,364 INFO  [Log] TS_151; Passed; verify excel value against UI values(calander rate)values from excel [319] and values from ui [319]are same 
+2017-08-13 17:31:17,404 INFO  [Log] TS_152: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:31:17,426 INFO  [Log] closing test case  
+2017-08-13 17:31:17,752 INFO  [Log] Closing instance of Browser: firefox 
+2017-08-13 17:31:17,762 INFO  [Log] ### Test case: Rg_TC01000.xlsx; Description: qualification; status Executed 
+2017-08-13 17:31:17,762 WARN  [Log] No Browser instance is active 
+2017-08-13 17:31:17,762 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:31:17,762 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:31:18,242 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:31:18,242 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC02000.xlsx; Description: restriction For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:31:18,242 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:31:26,381 INFO  [Log] #### Executing Test case: Rg_TC02000.xlsx; Description: restriction In firefox Browser for TestData:1 
+2017-08-13 17:31:35,885 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:31:36,146 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:31:36,375 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:31:36,492 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:31:36,492 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:31:46,758 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:31:46,843 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:31:46,933 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:31:48,089 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:31:48,089 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:31:52,293 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:31:52,293 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:32:00,440 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-13 17:32:00,441 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-13 17:32:08,881 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-13 17:32:08,881 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-08-13 17:32:17,175 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-13 17:32:17,175 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:19,597 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:21,997 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:24,777 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-13 17:32:24,777 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-13 17:32:29,041 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-13 17:32:29,041 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-13 17:32:33,244 INFO  [Log] TS_27: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:32:33,244 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:35,505 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-13 17:32:35,505 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-13 17:32:39,657 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:32:39,725 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:32:39,725 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:41,867 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:32:42,078 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-13 17:32:42,079 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:44,297 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:32:44,378 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:32:44,469 INFO  [Log] TS_40: move to top: Action click 
+2017-08-13 17:32:44,469 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:49,521 INFO  [Log] TS_43: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:32:49,573 INFO  [Log] TS_44: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:32:49,621 INFO  [Log] New Element Location is : GDSStored in ObjRep using element name: channel2: Type: Xpath 
+2017-08-13 17:32:49,685 INFO  [Log] GDS; Value has been stored in index: 1 
+2017-08-13 17:32:49,685 INFO  [Log] TS_47; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:51,782 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:32:52,162 INFO  [Log] TS_49: click on channel: Action click 
+2017-08-13 17:32:52,163 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:54,286 INFO  [Log] 319
+0; Value has been stored in index: 0 
+2017-08-13 17:32:54,327 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:32:54,405 INFO  [Log] TS_53: move to top: Action click 
+2017-08-13 17:32:54,406 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-13 17:32:58,743 INFO  [Log] TS_56; Passed; verify excel value against UI valuesvalues from excel [319] and values from ui [319]are same 
+2017-08-13 17:32:58,813 INFO  [Log] TS_57: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:32:58,858 INFO  [Log] New Element Location is : TripadvisorStored in ObjRep using element name: channel5: Type: Xpath 
+2017-08-13 17:32:58,944 INFO  [Log] Tripadvisor; Value has been stored in index: 2 
+2017-08-13 17:32:58,945 INFO  [Log] TS_60; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:01,029 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:33:01,139 INFO  [Log] TS_62: click on channel: Action click 
+2017-08-13 17:33:01,139 INFO  [Log] TS_63; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:03,260 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:33:03,306 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:33:03,377 INFO  [Log] TS_66: move to top: Action click 
+2017-08-13 17:33:03,378 INFO  [Log] TS_67; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:09,562 INFO  [Log] TS_69: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:33:09,621 INFO  [Log] TS_70: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:33:09,676 INFO  [Log] New Element Location is : trivagoStored in ObjRep using element name: channel6: Type: Xpath 
+2017-08-13 17:33:09,753 INFO  [Log] trivago; Value has been stored in index: 3 
+2017-08-13 17:33:09,753 INFO  [Log] TS_73; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:11,836 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:33:12,022 INFO  [Log] TS_75: click on channel: Action click 
+2017-08-13 17:33:12,023 INFO  [Log] TS_76; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:14,132 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:33:14,169 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:33:14,241 INFO  [Log] TS_79: move to top: Action click 
+2017-08-13 17:33:14,241 INFO  [Log] TS_80; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:18,977 INFO  [Log] TS_82: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:33:19,010 INFO  [Log] TS_83: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:33:19,059 INFO  [Log] New Element Location is : Booking.comStored in ObjRep using element name: channel7: Type: Xpath 
+2017-08-13 17:33:19,164 INFO  [Log] Booking.com; Value has been stored in index: 4 
+2017-08-13 17:33:19,165 INFO  [Log] TS_86; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:21,252 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:33:21,442 INFO  [Log] TS_88: click on channel: Action click 
+2017-08-13 17:33:21,443 INFO  [Log] TS_89; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:23,564 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:33:23,605 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:33:23,668 INFO  [Log] TS_92: move to top: Action click 
+2017-08-13 17:33:23,668 INFO  [Log] TS_93; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:28,328 INFO  [Log] TS_95: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:33:28,365 INFO  [Log] TS_96: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:33:28,399 INFO  [Log] New Element Location is : BookItStored in ObjRep using element name: channel8: Type: Xpath 
+2017-08-13 17:33:28,449 INFO  [Log] BookIt; Value has been stored in index: 5 
+2017-08-13 17:33:28,449 INFO  [Log] TS_99; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:30,516 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:33:30,664 INFO  [Log] TS_101: click on channel: Action click 
+2017-08-13 17:33:30,664 INFO  [Log] TS_102; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:32,792 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:33:32,839 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:33:32,905 INFO  [Log] TS_105: move to top: Action click 
+2017-08-13 17:33:32,905 INFO  [Log] TS_106; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:37,860 INFO  [Log] TS_108: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:33:37,893 INFO  [Log] TS_109: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:33:37,931 INFO  [Log] New Element Location is : BookFHRStored in ObjRep using element name: channel9: Type: Xpath 
+2017-08-13 17:33:37,990 INFO  [Log] BookIt; Value has been stored in index: 6 
+2017-08-13 17:33:37,990 INFO  [Log] TS_112; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:40,055 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:33:40,193 INFO  [Log] TS_114: click on channel: Action click 
+2017-08-13 17:33:40,194 INFO  [Log] TS_115; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:42,337 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:33:42,382 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:33:42,457 INFO  [Log] TS_118: move to top: Action click 
+2017-08-13 17:33:42,458 INFO  [Log] TS_119; Waited 2000 Milli seconds for Element 
+2017-08-13 17:33:47,547 INFO  [Log] TS_121: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:33:47,591 INFO  [Log] TS_122: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:33:47,591 INFO  [Log] TS_123; Waited 8000 Milli seconds for Element 
+2017-08-13 17:33:55,888 INFO  [Log] TS_124: click on calander view: Action click 
+2017-08-13 17:33:55,889 INFO  [Log] TS_125; Waited 8000 Milli seconds for Element 
+2017-08-13 17:34:03,999 INFO  [Log] New Element Location is : 28Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-08-13 17:34:04,104 INFO  [Log] 319
+0
++319; Value has been stored in index: 0 
+2017-08-13 17:34:04,143 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:34:06,952 INFO  [Log] TS_130; Passed; verify excel value against UI values(calander rate)values from excel [319] and values from ui [319]are same 
+2017-08-13 17:34:06,991 INFO  [Log] TS_131: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:34:06,991 INFO  [Log] closing test case  
+2017-08-13 17:34:07,254 INFO  [Log] Closing instance of Browser: firefox 
+2017-08-13 17:34:07,264 INFO  [Log] ### Test case: Rg_TC02000.xlsx; Description: restriction; status Executed 
+2017-08-13 17:34:07,264 WARN  [Log] No Browser instance is active 
+2017-08-13 17:34:07,264 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:34:07,264 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:34:07,444 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:34:07,444 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC03000.xlsx; Description: promotion For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:34:07,444 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:34:15,346 INFO  [Log] #### Executing Test case: Rg_TC03000.xlsx; Description: promotion In firefox Browser for TestData:1 
+2017-08-13 17:34:26,656 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:34:26,965 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:34:27,137 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:34:27,233 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:34:27,233 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:34:37,436 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:34:37,538 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:34:37,583 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:34:38,657 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:34:38,657 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:34:42,865 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:34:42,866 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:34:51,045 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-13 17:34:51,046 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-13 17:34:59,503 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-13 17:34:59,504 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-08-13 17:35:07,764 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-13 17:35:07,764 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:10,190 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:12,633 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:15,473 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-13 17:35:15,474 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-13 17:35:19,716 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-13 17:35:19,717 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-13 17:35:24,321 INFO  [Log] TS_27: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:35:24,322 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:26,655 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-13 17:35:26,655 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-13 17:35:30,855 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:35:30,915 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:35:30,915 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:33,009 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:35:33,242 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-13 17:35:33,242 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:35,417 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:35:35,501 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:35:35,619 INFO  [Log] TS_40: move to top: Action click 
+2017-08-13 17:35:35,619 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:40,606 INFO  [Log] TS_43: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:35:40,641 INFO  [Log] TS_44: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:35:40,673 INFO  [Log] New Element Location is : GDSStored in ObjRep using element name: channel2: Type: Xpath 
+2017-08-13 17:35:40,720 INFO  [Log] GDS; Value has been stored in index: 1 
+2017-08-13 17:35:40,721 INFO  [Log] TS_47; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:42,807 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:35:42,942 INFO  [Log] TS_49: click on channel: Action click 
+2017-08-13 17:35:42,943 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:45,062 INFO  [Log] 319
+0; Value has been stored in index: 0 
+2017-08-13 17:35:45,113 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:35:45,197 INFO  [Log] TS_53: move to top: Action click 
+2017-08-13 17:35:45,198 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:49,887 INFO  [Log] TS_56; Passed; verify excel value against UI valuesvalues from excel [319] and values from ui [319]are same 
+2017-08-13 17:35:49,925 INFO  [Log] TS_57: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:35:49,958 INFO  [Log] New Element Location is : TripadvisorStored in ObjRep using element name: channel5: Type: Xpath 
+2017-08-13 17:35:50,005 INFO  [Log] Tripadvisor; Value has been stored in index: 2 
+2017-08-13 17:35:50,005 INFO  [Log] TS_60; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:52,083 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:35:52,278 INFO  [Log] TS_62: click on channel: Action click 
+2017-08-13 17:35:52,278 INFO  [Log] TS_63; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:54,393 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:35:54,438 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:35:54,496 INFO  [Log] TS_66: move to top: Action click 
+2017-08-13 17:35:54,497 INFO  [Log] TS_67; Waited 2000 Milli seconds for Element 
+2017-08-13 17:35:59,296 INFO  [Log] TS_69: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:35:59,326 INFO  [Log] TS_70: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:35:59,356 INFO  [Log] New Element Location is : trivagoStored in ObjRep using element name: channel6: Type: Xpath 
+2017-08-13 17:35:59,402 INFO  [Log] trivago; Value has been stored in index: 3 
+2017-08-13 17:35:59,403 INFO  [Log] TS_73; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:01,448 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:36:01,602 INFO  [Log] TS_75: click on channel: Action click 
+2017-08-13 17:36:01,602 INFO  [Log] TS_76; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:03,679 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:36:03,715 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:36:03,778 INFO  [Log] TS_79: move to top: Action click 
+2017-08-13 17:36:03,778 INFO  [Log] TS_80; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:09,565 INFO  [Log] TS_82: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:36:09,605 INFO  [Log] TS_83: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:36:09,645 INFO  [Log] New Element Location is : Booking.comStored in ObjRep using element name: channel7: Type: Xpath 
+2017-08-13 17:36:09,698 INFO  [Log] Booking.com; Value has been stored in index: 4 
+2017-08-13 17:36:09,699 INFO  [Log] TS_86; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:11,779 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:36:11,968 INFO  [Log] TS_88: click on channel: Action click 
+2017-08-13 17:36:11,969 INFO  [Log] TS_89; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:14,079 INFO  [Log] 319
+0; Value has been stored in index: 0 
+2017-08-13 17:36:14,113 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:36:14,167 INFO  [Log] TS_92: move to top: Action click 
+2017-08-13 17:36:14,168 INFO  [Log] TS_93; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:19,308 INFO  [Log] TS_95; Passed; verify excel value against UI valuesvalues from excel [319] and values from ui [319]are same 
+2017-08-13 17:36:19,340 INFO  [Log] TS_96: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:36:19,371 INFO  [Log] New Element Location is : BookItStored in ObjRep using element name: channel8: Type: Xpath 
+2017-08-13 17:36:19,417 INFO  [Log] BookIt; Value has been stored in index: 5 
+2017-08-13 17:36:19,417 INFO  [Log] TS_99; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:21,484 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:36:21,628 INFO  [Log] TS_101: click on channel: Action click 
+2017-08-13 17:36:21,628 INFO  [Log] TS_102; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:23,695 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:36:23,731 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:36:23,782 INFO  [Log] TS_105: move to top: Action click 
+2017-08-13 17:36:23,782 INFO  [Log] TS_106; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:28,717 INFO  [Log] TS_108: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:36:28,748 INFO  [Log] TS_109: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:36:28,779 INFO  [Log] New Element Location is : BookFHRStored in ObjRep using element name: channel9: Type: Xpath 
+2017-08-13 17:36:28,825 INFO  [Log] BookFHR; Value has been stored in index: 6 
+2017-08-13 17:36:28,825 INFO  [Log] TS_112; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:30,908 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:36:31,032 INFO  [Log] TS_114: click on channel: Action click 
+2017-08-13 17:36:31,032 INFO  [Log] TS_115; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:33,189 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:36:33,270 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:36:33,404 INFO  [Log] TS_118: move to top: Action click 
+2017-08-13 17:36:33,404 INFO  [Log] TS_119; Waited 2000 Milli seconds for Element 
+2017-08-13 17:36:38,309 INFO  [Log] TS_121: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:36:38,341 INFO  [Log] TS_122: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:36:38,341 INFO  [Log] TS_123; Waited 8000 Milli seconds for Element 
+2017-08-13 17:36:46,509 INFO  [Log] TS_124: click on calander view: Action click 
+2017-08-13 17:36:46,509 INFO  [Log] TS_125; Waited 8000 Milli seconds for Element 
+2017-08-13 17:36:54,585 INFO  [Log] New Element Location is : 28Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-08-13 17:36:54,678 INFO  [Log] 319
+0
++3; Value has been stored in index: 0 
+2017-08-13 17:36:54,729 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:36:57,926 INFO  [Log] TS_130; Passed; verify excel value against UI values(calander rate)values from excel [319] and values from ui [319]are same 
+2017-08-13 17:36:57,957 INFO  [Log] TS_131: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:36:57,957 INFO  [Log] closing test case  
+2017-08-13 17:36:58,325 INFO  [Log] Closing instance of Browser: firefox 
+2017-08-13 17:36:58,385 INFO  [Log] ### Test case: Rg_TC03000.xlsx; Description: promotion; status Executed 
+2017-08-13 17:36:58,385 WARN  [Log] No Browser instance is active 
+2017-08-13 17:36:58,385 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:36:58,385 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:36:58,515 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:36:58,515 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC04000.xlsx; Description: LOS For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:36:58,515 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:37:05,510 INFO  [Log] #### Executing Test case: Rg_TC04000.xlsx; Description: LOS In firefox Browser for TestData:1 
+2017-08-13 17:37:15,240 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:37:15,520 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:37:15,692 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:37:15,781 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:37:15,781 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:37:26,032 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:37:26,140 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:37:26,179 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:37:27,244 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:37:27,244 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:37:31,534 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:37:31,534 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:37:39,739 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-13 17:37:39,740 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-13 17:37:48,012 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-13 17:37:48,012 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-08-13 17:37:56,264 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-13 17:37:56,264 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-13 17:37:58,648 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:01,023 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:03,771 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-13 17:38:03,772 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-13 17:38:07,929 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-13 17:38:07,929 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-13 17:38:12,383 INFO  [Log] TS_27: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:38:12,383 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:14,693 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-13 17:38:14,693 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-13 17:38:18,882 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:38:18,945 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:38:18,945 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:20,987 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:38:21,072 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-13 17:38:21,073 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:23,306 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:38:23,349 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:38:23,413 INFO  [Log] TS_40: move to top: Action click 
+2017-08-13 17:38:23,413 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:28,081 INFO  [Log] TS_43: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:38:28,113 INFO  [Log] TS_44: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:38:28,171 INFO  [Log] New Element Location is : GDSStored in ObjRep using element name: channel2: Type: Xpath 
+2017-08-13 17:38:28,223 INFO  [Log] GDS; Value has been stored in index: 1 
+2017-08-13 17:38:28,224 INFO  [Log] TS_47; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:30,285 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:38:30,478 INFO  [Log] TS_49: click on channel: Action click 
+2017-08-13 17:38:30,478 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:32,584 INFO  [Log] 319
+0; Value has been stored in index: 0 
+2017-08-13 17:38:32,616 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:38:32,676 INFO  [Log] TS_53: move to top: Action click 
+2017-08-13 17:38:32,676 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:37,786 INFO  [Log] TS_56; Passed; verify excel value against UI valuesvalues from excel [319] and values from ui [319]are same 
+2017-08-13 17:38:37,833 INFO  [Log] TS_57: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:38:37,878 INFO  [Log] New Element Location is : TripadvisorStored in ObjRep using element name: channel5: Type: Xpath 
+2017-08-13 17:38:37,935 INFO  [Log] Tripadvisor; Value has been stored in index: 2 
+2017-08-13 17:38:37,936 INFO  [Log] TS_60; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:40,000 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:38:40,206 INFO  [Log] TS_62: click on channel: Action click 
+2017-08-13 17:38:40,207 INFO  [Log] TS_63; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:42,362 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:38:42,415 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:38:42,532 INFO  [Log] TS_66: move to top: Action click 
+2017-08-13 17:38:42,533 INFO  [Log] TS_67; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:47,416 INFO  [Log] TS_69: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:38:47,447 INFO  [Log] TS_70: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:38:47,480 INFO  [Log] New Element Location is : trivagoStored in ObjRep using element name: channel6: Type: Xpath 
+2017-08-13 17:38:47,527 INFO  [Log] trivago; Value has been stored in index: 3 
+2017-08-13 17:38:47,528 INFO  [Log] TS_73; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:49,612 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:38:49,744 INFO  [Log] TS_75: click on channel: Action click 
+2017-08-13 17:38:49,745 INFO  [Log] TS_76; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:51,862 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:38:51,895 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:38:51,961 INFO  [Log] TS_79: move to top: Action click 
+2017-08-13 17:38:51,961 INFO  [Log] TS_80; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:56,667 INFO  [Log] TS_82: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:38:56,698 INFO  [Log] TS_83: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:38:56,729 INFO  [Log] New Element Location is : Booking.comStored in ObjRep using element name: channel7: Type: Xpath 
+2017-08-13 17:38:56,775 INFO  [Log] Booking.com; Value has been stored in index: 4 
+2017-08-13 17:38:56,776 INFO  [Log] TS_86; Waited 2000 Milli seconds for Element 
+2017-08-13 17:38:58,822 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:38:58,943 INFO  [Log] TS_88: click on channel: Action click 
+2017-08-13 17:38:58,944 INFO  [Log] TS_89; Waited 2000 Milli seconds for Element 
+2017-08-13 17:39:01,092 INFO  [Log] 319
+0; Value has been stored in index: 0 
+2017-08-13 17:39:01,131 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:39:01,185 INFO  [Log] TS_92: move to top: Action click 
+2017-08-13 17:39:01,186 INFO  [Log] TS_93; Waited 2000 Milli seconds for Element 
+2017-08-13 17:39:05,908 INFO  [Log] TS_95; Passed; verify excel value against UI valuesvalues from excel [319] and values from ui [319]are same 
+2017-08-13 17:39:05,940 INFO  [Log] TS_96: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:39:05,973 INFO  [Log] New Element Location is : BookItStored in ObjRep using element name: channel8: Type: Xpath 
+2017-08-13 17:39:06,020 INFO  [Log] BookIt; Value has been stored in index: 5 
+2017-08-13 17:39:06,020 INFO  [Log] TS_99; Waited 2000 Milli seconds for Element 
+2017-08-13 17:39:08,101 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:39:08,268 INFO  [Log] TS_101: click on channel: Action click 
+2017-08-13 17:39:08,269 INFO  [Log] TS_102; Waited 2000 Milli seconds for Element 
+2017-08-13 17:39:10,399 INFO  [Log] NP; Value has been stored in index: 0 
+2017-08-13 17:39:10,433 INFO  [Log] User specified value has been replaced at index0New Value is: NP 
+2017-08-13 17:39:10,486 INFO  [Log] TS_105: move to top: Action click 
+2017-08-13 17:39:10,487 INFO  [Log] TS_106; Waited 2000 Milli seconds for Element 
+2017-08-13 17:39:15,674 INFO  [Log] TS_108; Passed; verify excel value against UI valuesvalues from excel [NP] and values from ui [NP]are same 
+2017-08-13 17:39:15,712 INFO  [Log] TS_109: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:39:15,755 INFO  [Log] New Element Location is : BookFHRStored in ObjRep using element name: channel9: Type: Xpath 
+2017-08-13 17:39:15,817 INFO  [Log] BookFHR; Value has been stored in index: 6 
+2017-08-13 17:39:15,817 INFO  [Log] TS_112; Waited 2000 Milli seconds for Element 
+2017-08-13 17:39:17,898 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:39:18,145 INFO  [Log] TS_114: click on channel: Action click 
+2017-08-13 17:39:18,145 INFO  [Log] TS_115; Waited 2000 Milli seconds for Element 
+2017-08-13 17:39:20,246 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:39:20,293 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:39:20,371 INFO  [Log] TS_118: move to top: Action click 
+2017-08-13 17:39:20,371 INFO  [Log] TS_119; Waited 2000 Milli seconds for Element 
+2017-08-13 17:39:25,419 INFO  [Log] TS_121: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:39:25,459 INFO  [Log] TS_122: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:39:25,459 INFO  [Log] TS_123; Waited 8000 Milli seconds for Element 
+2017-08-13 17:39:33,678 INFO  [Log] TS_124: click on calander view: Action click 
+2017-08-13 17:39:33,679 INFO  [Log] TS_125; Waited 8000 Milli seconds for Element 
+2017-08-13 17:39:41,784 INFO  [Log] New Element Location is : 28Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-08-13 17:39:41,880 INFO  [Log] 319
+0
++15; Value has been stored in index: 0 
+2017-08-13 17:39:41,944 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:39:44,726 INFO  [Log] TS_130; Passed; verify excel value against UI values(calander rate)values from excel [319] and values from ui [319]are same 
+2017-08-13 17:39:44,760 INFO  [Log] TS_131: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:39:44,760 INFO  [Log] closing test case  
+2017-08-13 17:39:44,988 INFO  [Log] Closing instance of Browser: firefox 
+2017-08-13 17:39:44,998 INFO  [Log] ### Test case: Rg_TC04000.xlsx; Description: LOS; status Executed 
+2017-08-13 17:39:44,998 WARN  [Log] No Browser instance is active 
+2017-08-13 17:39:44,998 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:39:44,998 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:39:45,265 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:39:45,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC05000.xlsx; Description: guest count For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-13 17:39:45,265 INFO  [Log] **************************************************************************************** 
+2017-08-13 17:39:51,579 INFO  [Log] #### Executing Test case: Rg_TC05000.xlsx; Description: guest count In firefox Browser for TestData:1 
+2017-08-13 17:40:01,561 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-13 17:40:01,799 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-13 17:40:01,974 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-13 17:40:02,064 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-13 17:40:02,065 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-13 17:40:12,283 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-13 17:40:12,380 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-13 17:40:12,418 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-13 17:40:13,484 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-13 17:40:13,484 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-13 17:40:17,666 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-13 17:40:17,666 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-13 17:40:25,899 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-13 17:40:25,899 INFO  [Log] TS_14; Waited 8000 Milli seconds for Element 
+2017-08-13 17:40:34,207 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-13 17:40:34,208 INFO  [Log] TS_16; Waited 8000 Milli seconds for Element 
+2017-08-13 17:40:42,504 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-13 17:40:42,504 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-13 17:40:44,957 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-13 17:40:47,392 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-13 17:40:50,092 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-13 17:40:50,092 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-13 17:40:54,189 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-13 17:40:54,190 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-13 17:40:58,634 INFO  [Log] TS_27: select restriction level (unrestricted); Action: Drop Down Select 
+2017-08-13 17:40:58,635 INFO  [Log] TS_28; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:01,022 INFO  [Log] TS_29: click on apply: Action click 
+2017-08-13 17:41:01,022 INFO  [Log] TS_30; Waited 4000 Milli seconds for Element 
+2017-08-13 17:41:05,203 INFO  [Log] New Element Location is : ExpediaAPIStored in ObjRep using element name: channel1: Type: Xpath 
+2017-08-13 17:41:05,289 INFO  [Log] ExpediaAPI; Value has been stored in index: 0 
+2017-08-13 17:41:05,290 INFO  [Log] TS_34; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:07,359 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:41:07,500 INFO  [Log] TS_36: click on channel: Action click 
+2017-08-13 17:41:07,501 INFO  [Log] TS_37; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:09,664 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:41:09,712 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:41:09,797 INFO  [Log] TS_40: move to top: Action click 
+2017-08-13 17:41:09,797 INFO  [Log] TS_41; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:14,863 INFO  [Log] TS_43: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:41:14,935 INFO  [Log] TS_44: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:41:14,987 INFO  [Log] New Element Location is : GDSStored in ObjRep using element name: channel2: Type: Xpath 
+2017-08-13 17:41:15,094 INFO  [Log] GDS; Value has been stored in index: 1 
+2017-08-13 17:41:15,094 INFO  [Log] TS_47; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:17,205 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:41:17,439 INFO  [Log] TS_49: click on channel: Action click 
+2017-08-13 17:41:17,439 INFO  [Log] TS_50; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:19,599 INFO  [Log] 319
+0; Value has been stored in index: 0 
+2017-08-13 17:41:19,655 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:41:19,721 INFO  [Log] TS_53: move to top: Action click 
+2017-08-13 17:41:19,721 INFO  [Log] TS_54; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:24,726 INFO  [Log] TS_56; Passed; verify excel value against UI valuesvalues from excel [319] and values from ui [319]are same 
+2017-08-13 17:41:24,768 INFO  [Log] TS_57: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:41:24,809 INFO  [Log] New Element Location is : TripadvisorStored in ObjRep using element name: channel5: Type: Xpath 
+2017-08-13 17:41:24,864 INFO  [Log] Tripadvisor; Value has been stored in index: 2 
+2017-08-13 17:41:24,864 INFO  [Log] TS_60; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:26,947 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:41:27,168 INFO  [Log] TS_62: click on channel: Action click 
+2017-08-13 17:41:27,168 INFO  [Log] TS_63; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:29,331 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:41:29,395 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:41:29,505 INFO  [Log] TS_66: move to top: Action click 
+2017-08-13 17:41:29,506 INFO  [Log] TS_67; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:34,274 INFO  [Log] TS_69: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:41:34,307 INFO  [Log] TS_70: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:41:34,338 INFO  [Log] New Element Location is : trivagoStored in ObjRep using element name: channel6: Type: Xpath 
+2017-08-13 17:41:34,388 INFO  [Log] trivago; Value has been stored in index: 3 
+2017-08-13 17:41:34,388 INFO  [Log] TS_73; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:36,475 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:41:36,606 INFO  [Log] TS_75: click on channel: Action click 
+2017-08-13 17:41:36,606 INFO  [Log] TS_76; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:38,736 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:41:38,784 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:41:38,866 INFO  [Log] TS_79: move to top: Action click 
+2017-08-13 17:41:38,867 INFO  [Log] TS_80; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:43,531 INFO  [Log] TS_82: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:41:43,563 INFO  [Log] TS_83: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:41:43,602 INFO  [Log] New Element Location is : Booking.comStored in ObjRep using element name: channel7: Type: Xpath 
+2017-08-13 17:41:43,649 INFO  [Log] Booking.com; Value has been stored in index: 4 
+2017-08-13 17:41:43,649 INFO  [Log] TS_86; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:45,711 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:41:45,872 INFO  [Log] TS_88: click on channel: Action click 
+2017-08-13 17:41:45,872 INFO  [Log] TS_89; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:48,003 INFO  [Log] 319
+0; Value has been stored in index: 0 
+2017-08-13 17:41:48,036 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:41:48,095 INFO  [Log] TS_92: move to top: Action click 
+2017-08-13 17:41:48,095 INFO  [Log] TS_93; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:53,145 INFO  [Log] TS_95; Passed; verify excel value against UI valuesvalues from excel [319] and values from ui [319]are same 
+2017-08-13 17:41:53,177 INFO  [Log] TS_96: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:41:53,207 INFO  [Log] New Element Location is : BookItStored in ObjRep using element name: channel8: Type: Xpath 
+2017-08-13 17:41:53,255 INFO  [Log] BookIt; Value has been stored in index: 5 
+2017-08-13 17:41:53,255 INFO  [Log] TS_99; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:55,337 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:41:55,532 INFO  [Log] TS_101: click on channel: Action click 
+2017-08-13 17:41:55,533 INFO  [Log] TS_102; Waited 2000 Milli seconds for Element 
+2017-08-13 17:41:57,693 INFO  [Log] NP; Value has been stored in index: 0 
+2017-08-13 17:41:57,790 INFO  [Log] User specified value has been replaced at index0New Value is: NP 
+2017-08-13 17:41:57,918 INFO  [Log] TS_105: move to top: Action click 
+2017-08-13 17:41:57,919 INFO  [Log] TS_106; Waited 2000 Milli seconds for Element 
+2017-08-13 17:42:03,046 INFO  [Log] TS_108; Passed; verify excel value against UI valuesvalues from excel [NP] and values from ui [NP]are same 
+2017-08-13 17:42:03,078 INFO  [Log] TS_109: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:42:03,108 INFO  [Log] New Element Location is : BookFHRStored in ObjRep using element name: channel9: Type: Xpath 
+2017-08-13 17:42:03,154 INFO  [Log] BookFHR; Value has been stored in index: 6 
+2017-08-13 17:42:03,155 INFO  [Log] TS_112; Waited 2000 Milli seconds for Element 
+2017-08-13 17:42:05,241 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: channelrate: Type: Xpath 
+2017-08-13 17:42:05,423 INFO  [Log] TS_114: click on channel: Action click 
+2017-08-13 17:42:05,423 INFO  [Log] TS_115; Waited 2000 Milli seconds for Element 
+2017-08-13 17:42:07,523 INFO  [Log] NA; Value has been stored in index: 0 
+2017-08-13 17:42:07,557 INFO  [Log] User specified value has been replaced at index0New Value is: NA 
+2017-08-13 17:42:07,629 INFO  [Log] TS_118: move to top: Action click 
+2017-08-13 17:42:07,629 INFO  [Log] TS_119; Waited 2000 Milli seconds for Element 
+2017-08-13 17:42:12,452 INFO  [Log] TS_121: verify excel value against UI valuessince the value from UI is NA no value found in excel : skip case and move further 
+2017-08-13 17:42:12,484 INFO  [Log] TS_122: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:42:12,484 INFO  [Log] TS_123; Waited 8000 Milli seconds for Element 
+2017-08-13 17:42:20,753 INFO  [Log] TS_124: click on calander view: Action click 
+2017-08-13 17:42:20,754 INFO  [Log] TS_125; Waited 8000 Milli seconds for Element 
+2017-08-13 17:42:28,872 INFO  [Log] New Element Location is : 28Stored in ObjRep using element name: daterate: Type: Xpath 
+2017-08-13 17:42:28,964 INFO  [Log] 319
+0
++15; Value has been stored in index: 0 
+2017-08-13 17:42:29,002 INFO  [Log] User specified value has been replaced at index0New Value is: 319 
+2017-08-13 17:42:31,930 INFO  [Log] TS_130; Passed; verify excel value against UI values(calander rate)values from excel [319] and values from ui [319]are same 
+2017-08-13 17:42:31,963 INFO  [Log] TS_131: CleanRateExcelcaptured: Value Captured list is clean now 
+2017-08-13 17:42:31,963 INFO  [Log] closing test case  
+2017-08-13 17:42:32,218 INFO  [Log] Closing instance of Browser: firefox 
+2017-08-13 17:42:32,218 INFO  [Log] ### Test case: Rg_TC05000.xlsx; Description: guest count; status Executed 
+2017-08-13 17:42:32,218 WARN  [Log] No Browser instance is active 
+2017-08-13 17:42:32,218 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:42:32,218 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:42:32,288 INFO  [Log] ####Closing Test Suite #### 
+2017-08-13 17:42:32,288 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-13 17:42:32,288 INFO  [Log] Creating Logs backup and storing for further reference 

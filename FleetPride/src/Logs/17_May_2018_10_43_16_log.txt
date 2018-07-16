@@ -1,0 +1,48 @@
+2018-05-17 10:41:21,769 INFO  [Log] Test Scenario Configuration started 
+2018-05-17 10:41:21,787 INFO  [Log] Initialing HTML reporting 
+2018-05-17 10:41:22,055 INFO  [Log] Starting Test Suit Execution 
+2018-05-17 10:41:22,532 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-17 10:41:22,628 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-17 10:41:22,741 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-17 10:41:23,423 INFO  [Log] Object repository is created successfully 
+2018-05-17 10:41:23,494 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-17 10:41:23,575 INFO  [Log] PE-259_Navigation_Link_Not_Working.xlsx_Blank 
+2018-05-17 10:41:23,625 INFO  [Log] PE-702_Address_Verification_After_Pacing_First_Order.xlsx_Blank 
+2018-05-17 10:41:23,700 INFO  [Log] PE-179_New_Address_Creation_Edit_Fulfillment_Blank 
+2018-05-17 10:41:23,790 INFO  [Log] **************************************************************************************** 
+2018-05-17 10:41:23,794 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-623_Check_PO_Data_Field; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-17 10:41:23,794 INFO  [Log] **************************************************************************************** 
+2018-05-17 10:41:41,587 INFO  [Log] #### Executing Test case: PE-623_Check_PO_Data_Field; Description: Blank In Firefox Browser for TestData:1 
+2018-05-17 10:41:49,384 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-17 10:41:50,818 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-17 10:41:51,066 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-17 10:41:51,067 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-17 10:41:52,546 INFO  [Log] TS_05: Click on login button 
+2018-05-17 10:41:52,549 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-17 10:42:02,733 INFO  [Log] TS_07: Input part number in the search field from the main menu; Action: Submitted Value: Value: Y200 
+2018-05-17 10:42:02,871 INFO  [Log] TS_08: Click on the Search icon 
+2018-05-17 10:42:02,871 INFO  [Log] TS_09; Waited 20000 Milli seconds for Element 
+2018-05-17 10:42:23,082 INFO  [Log] TS_10: Click on Add to cart button  
+2018-05-17 10:42:23,082 INFO  [Log] TS_11; Waited 10000 Milli seconds for Element 
+2018-05-17 10:42:33,530 INFO  [Log] TS_12: Click on the mini my cart link 
+2018-05-17 10:42:33,534 INFO  [Log] TS_13; Waited 10000 Milli seconds for Element 
+2018-05-17 10:42:43,725 INFO  [Log] TS_14: Click on the Proceed to Order Review  button 
+2018-05-17 10:42:43,727 INFO  [Log] TS_15; Waited 10000 Milli seconds for Element 
+2018-05-17 10:43:03,533 INFO  [Log] TS_16: Click on the Proceed to Payment information  button 
+2018-05-17 10:43:03,534 INFO  [Log] TS_17; Waited 8000 Milli seconds for Element 
+2018-05-17 10:43:12,932 INFO  [Log] TS_18: Click on invoice Order tab 
+2018-05-17 10:43:13,093 INFO  [Log] TS_19: Click on the Check box 
+2018-05-17 10:43:13,173 INFO  [Log] TS_20: Click on the Submit order button for Invoice tab 
+2018-05-17 10:43:13,174 INFO  [Log] TS_21; Waited 2000 Milli seconds for Element 
+2018-05-17 10:43:15,364 INFO  [Log] PE-623TS_22XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-17 10:43:16,518 WARN  [Log]  Browser instance is active 
+2018-05-17 10:43:16,555 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160726073904, version=48.0, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, browserVersion=48.0, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=Windows_NT, device=desktop}]
+Session ID: 59f5c236-e18d-4432-9cbf-596df7fc94a7 
+2018-05-17 10:43:16,555 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-17 10:43:16,555 FATAL [Log] PE-623TS_22XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2018-05-17 10:43:16,555 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-17 10:43:16,717 INFO  [Log] Creating Logs backup and storing for further reference 

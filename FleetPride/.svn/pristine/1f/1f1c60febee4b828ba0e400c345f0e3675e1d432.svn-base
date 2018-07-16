@@ -1,0 +1,55 @@
+2017-11-01 23:19:04,662 INFO  [Log] Test Scenario Configuration started 
+2017-11-01 23:19:04,682 INFO  [Log] Initialing HTML reporting 
+2017-11-01 23:19:04,885 INFO  [Log] Starting Test Suit Execution 
+2017-11-01 23:19:05,054 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 23:19:05,089 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 23:19:05,121 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 23:19:05,537 INFO  [Log] Object repository is created successfully 
+2017-11-01 23:19:05,585 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-01 23:19:05,647 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-01 23:19:05,698 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-01 23:19:05,742 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-01 23:19:05,782 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-01 23:19:05,820 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-01 23:19:05,858 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-01 23:19:05,895 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-01 23:19:05,935 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-01 23:19:05,966 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-01 23:19:05,992 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-01 23:19:06,020 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-01 23:19:06,046 INFO  [Log] FP_contact_us_page_Blank 
+2017-11-01 23:19:06,072 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-01 23:19:06,098 INFO  [Log] Testing_Purpose_Blank 
+2017-11-01 23:19:06,145 INFO  [Log] **************************************************************************************** 
+2017-11-01 23:19:06,145 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_contact_us_page_after_login; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-01 23:19:06,145 INFO  [Log] **************************************************************************************** 
+2017-11-01 23:19:12,030 INFO  [Log] #### Executing Test case: FP_contact_us_page_after_login; Description: Blank In Chrome Browser for TestData:1 
+2017-11-01 23:19:55,957 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-01 23:20:36,374 INFO  [Log] TS_02: Click on the login link 
+2017-11-01 23:21:11,993 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-01 23:21:47,499 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-01 23:22:38,535 INFO  [Log] TS_05: Click on login button 
+2017-11-01 23:23:25,318 INFO  [Log] TS_06: Navigate to my Account page 
+2017-11-01 23:24:00,804 INFO  [Log] TS_07: Capture the Company Name Avionos - West; Value has been stored in index: 0 
+2017-11-01 23:24:36,194 INFO  [Log] TS_08: Capture the User Name User avionos; Value has been stored in index: 1 
+2017-11-01 23:25:11,643 INFO  [Log] TS_09: Capture the Email idhameed.bello@avionos.com; Value has been stored in index: 2 
+2017-11-01 23:25:57,611 INFO  [Log] TS_10: Navigate to Contact us page 
+2017-11-01 23:26:33,075 INFO  [Log] TS_11: Capture the data appearing in Company Name fieldAvionos - West; Value has been stored in index: 3 
+2017-11-01 23:27:08,484 INFO  [Log] TS_12: Capture the data appearing in User Name  fieldUser Avionos; Value has been stored in index: 4 
+2017-11-01 23:27:43,947 INFO  [Log] TS_13: Capture the data appearing in Email id fieldhameed.bello@avionos.com; Value has been stored in index: 5 
+2017-11-01 23:27:43,952 INFO  [Log] TS_14; Passed; Verify Company Name; Captured text1: avionos - west; Captured text2: avionos - west 
+2017-11-01 23:27:43,953 INFO  [Log] TS_15; Passed; Verify User name; Captured text1: user avionos; Captured text2: user avionos 
+2017-11-01 23:27:43,953 INFO  [Log] TS_16; Passed; Verify Email Id; Captured text1: hameed.bello@avionos.com; Captured text2: hameed.bello@avionos.com 
+2017-11-01 23:28:19,535 INFO  [Log] TS_17: Input text in the message field.; Action: Submited ValueValue: null 
+2017-11-01 23:28:55,020 INFO  [Log] TS_18: Click on "Submit" button. 
+2017-11-01 23:29:55,504 INFO  [Log] FP_contact_us_pageTS_19XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-01 23:29:56,453 WARN  [Log]  Browser instance is active 
+2017-11-01 23:29:58,962 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-01 23:29:58,992 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-01 23:29:59,023 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-01 23:29:59,024 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 23:29:59,024 FATAL [Log] FP_contact_us_pageTS_19XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-01 23:29:59,024 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 23:29:59,068 INFO  [Log] ####Closing Test Suite #### 
+2017-11-01 23:29:59,068 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-01 23:29:59,068 INFO  [Log] Creating Logs backup and storing for further reference 

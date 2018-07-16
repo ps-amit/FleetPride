@@ -1,0 +1,77 @@
+2017-08-11 12:56:50,602 INFO  [Log] Test Scenario Configuration started 
+2017-08-11 12:56:50,659 INFO  [Log] Initialing HTML reporting 
+2017-08-11 12:56:50,921 INFO  [Log] Starting Test Suit Execution 
+2017-08-11 12:56:50,921 WARN  [Log] No Browser instance is active 
+2017-08-11 12:56:51,700 INFO  [Log] Object repository is created successfully 
+2017-08-11 12:56:51,786 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-08-11 12:56:51,861 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-08-11 12:56:51,968 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-08-11 12:56:52,026 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-08-11 12:56:52,076 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-08-11 12:56:52,147 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-08-11 12:56:52,239 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-08-11 12:56:52,290 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-08-11 12:56:52,331 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-08-11 12:56:52,371 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-08-11 12:56:52,412 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-08-11 12:56:52,506 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-08-11 12:56:52,561 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-08-11 12:56:52,615 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-08-11 12:56:52,655 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-08-11 12:56:52,719 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-08-11 12:56:52,754 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-08-11 12:56:52,788 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-08-11 12:56:52,824 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-08-11 12:56:52,858 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-08-11 12:56:52,904 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-08-11 12:56:52,937 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-08-11 12:56:52,970 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-08-11 12:56:53,003 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-08-11 12:56:53,036 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-08-11 12:56:53,072 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-08-11 12:56:53,108 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-08-11 12:56:53,144 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-08-11 12:56:53,184 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-08-11 12:56:53,217 INFO  [Log] Rg_TC0065.xlsx_Rg_TC0065.xlsx 
+2017-08-11 12:56:53,363 INFO  [Log] **************************************************************************************** 
+2017-08-11 12:56:53,364 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-11 12:56:53,364 INFO  [Log] **************************************************************************************** 
+2017-08-11 12:57:01,449 INFO  [Log] #### Executing Test case: Rg_TC0066.xlsx; Description: Rg_TC0066.xlsx In firefox Browser for TestData:1 
+2017-08-11 12:57:21,321 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-11 12:57:21,850 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-11 12:57:22,148 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-11 12:57:22,255 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-11 12:57:22,256 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-11 12:57:32,438 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-11 12:57:32,554 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-11 12:57:32,614 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-11 12:57:33,751 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-11 12:57:33,751 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-08-11 12:57:37,905 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-11 12:57:37,906 INFO  [Log] TS_12; Waited 8000 Milli seconds for Element 
+2017-08-11 12:57:45,990 INFO  [Log] Milestone Hotel Kensington; Value has been stored in index: 0 
+2017-08-11 12:57:46,098 INFO  [Log] TS_14: click on rates: Action click 
+2017-08-11 12:57:46,099 INFO  [Log] TS_15; Waited 8000 Milli seconds for Element 
+2017-08-11 12:57:54,319 INFO  [Log] TS_16: GridView: Action click 
+2017-08-11 12:57:54,320 INFO  [Log] TS_17; Waited 8000 Milli seconds for Element 
+2017-08-11 12:58:02,388 INFO  [Log] New Element Location is : ExpediaStored in ObjRep using element name: channel: Type: Xpath 
+2017-08-11 12:58:02,388 INFO  [Log] TS_19; Waited 8000 Milli seconds for Element 
+2017-08-11 12:58:10,639 INFO  [Log] TS_20: click on channel: Action click 
+2017-08-11 12:58:10,640 INFO  [Log] TS_21; Waited 8000 Milli seconds for Element 
+2017-08-11 12:58:18,726 INFO  [Log] New Element Location is : ExpediaStored in ObjRep using element name: channelvalue: Type: Xpath 
+2017-08-11 12:58:19,556 INFO  [Log] List of following Values has been storedTS_23: capture all the values of brand ; Action: Capture and stored value, RF, NA, NP, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, RF 
+2017-08-11 12:58:20,548 ERROR [Log] Error#: optima-66TS_32BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-11 12:58:22,735 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-08-11 12:58:22,905 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-08-11 12:58:23,061 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-08-11 12:58:23,061 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 12:58:23,061 FATAL [Log] optima-66TS_32BlankVerifyRatesInExcel  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-08-11 12:58:23,061 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 12:58:23,674 INFO  [Log] Rg_TC0067.xlsx_Rg_TC0067.xlsx 
+2017-08-11 12:58:23,699 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-08-11 12:58:23,724 INFO  [Log] Rg_TC0103.xlsx_Rg_TC0103.xlsx 
+2017-08-11 12:58:23,748 INFO  [Log] Rg_TC0104.xlsx_Rg_TC0104.xlsx 
+2017-08-11 12:58:23,875 INFO  [Log] Rg_TC01000.xlsx_Rg_TC01001.xlsx 
+2017-08-11 12:58:23,903 INFO  [Log] ####Closing Test Suite #### 
+2017-08-11 12:58:23,903 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-11 12:58:23,903 INFO  [Log] Creating Logs backup and storing for further reference 

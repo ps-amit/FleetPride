@@ -1,0 +1,269 @@
+2017-09-14 15:07:49,723 INFO  [Log] Test Scenario Configuration started 
+2017-09-14 15:07:49,755 INFO  [Log] Initialing HTML reporting 
+2017-09-14 15:07:49,958 INFO  [Log] Starting Test Suit Execution 
+2017-09-14 15:07:50,146 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:07:50,177 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:07:50,208 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:07:50,677 INFO  [Log] Object repository is created successfully 
+2017-09-14 15:07:50,772 INFO  [Log] TC_101_To verify compset average value 
+2017-09-14 15:07:50,850 INFO  [Log] TC_93_Blank 
+2017-09-14 15:07:50,912 INFO  [Log] Rg_TC_42.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-09-14 15:07:50,959 INFO  [Log] Rg_TC_43.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-09-14 15:07:51,006 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter on subscriber 
+2017-09-14 15:07:51,068 INFO  [Log] Rg_TC_53_compset.xlsx_To verify Restriction filter on compset 
+2017-09-14 15:07:51,099 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter 
+2017-09-14 15:07:51,146 INFO  [Log] Rg_TC_55_compset.xlsx_To verify Qualification filter on compset 
+2017-09-14 15:07:51,208 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filte 
+2017-09-14 15:07:51,240 INFO  [Log] Rg_TC_57_compset.xlsx_To verify Promotion filter on compset 
+2017-09-14 15:07:51,271 INFO  [Log] Rg_TC_59.xlsx_To verify No of Guests filter 
+2017-09-14 15:07:51,318 INFO  [Log] Rg_TC_59_compset.xlsx_To verify Guests filter on compset 
+2017-09-14 15:07:51,349 INFO  [Log] Rg_TC_60.xlsx_To verify Length of Stay filter 
+2017-09-14 15:07:51,380 INFO  [Log] Rg_TC_60_compset.xlsx_To verify Stay filter on compset 
+2017-09-14 15:07:51,427 INFO  [Log] Rg_TC_61.xlsx_To verify room type 
+2017-09-14 15:07:51,458 INFO  [Log] Rg_TC_61_compset.xlsx_To verify room type on compset 
+2017-09-14 15:07:51,505 INFO  [Log] Rg_TC_62.xlsx_To verify Inclusion 
+2017-09-14 15:07:51,536 INFO  [Log] Rg_TC_62_compset.xlsx_To verify Inclusion on compset 
+2017-09-14 15:07:51,567 INFO  [Log] Rg_TC_100.xlsx_download report 
+2017-09-14 15:07:51,614 INFO  [Log] Rg_TC_101.xlsx_To Verify the data in Overview 
+2017-09-14 15:07:51,645 INFO  [Log] Rg_TC_102.xlsx_To Verify the data in Ratedetails 
+2017-09-14 15:07:51,676 INFO  [Log] Rg_TC_102_compset.xlsx_To Verify the data in Ratedetails compset 
+2017-09-14 15:07:51,692 INFO  [Log] Rg_TC_94.xlsx_To verify Compset Avg. Rate (Default Filter) 
+2017-09-14 15:07:51,723 INFO  [Log] Rg_TC_95.xlsx_To verify Compset Avg. Rate ( Filter) 
+2017-09-14 15:07:51,769 INFO  [Log] Rg_TC_96.xlsx_To verify Compset Avg. Supply (%) (Default Filter) 
+2017-09-14 15:07:51,785 INFO  [Log] Rg_TC_97.xlsx_To verify Compset Avg. Supply (%) ( Filter) 
+2017-09-14 15:07:51,816 INFO  [Log] Rg_TC_Allfilter.xlsx_All filter multiple dates 
+2017-09-14 15:07:51,863 INFO  [Log] Rg_TC_Allfilter_compset.xlsx_All filter multiple dates compset 
+2017-09-14 15:07:51,894 INFO  [Log] Rg_TC_67.xlsx_To verify  Compset Avg Supply on calander  (Default Filter) 
+2017-09-14 15:07:51,910 INFO  [Log] Rg_TC_68.xlsx_To verify  Compset Avg Supply on calander (All  Filter) 
+2017-09-14 15:07:51,941 INFO  [Log] Rg_TC_84.xlsx_To verify Lowest  Rates (Default filter) 
+2017-09-14 15:07:51,957 INFO  [Log] Rg_TC_85.xlsx_To verify Lowest Rates (Applying  all Filter) 
+2017-09-14 15:07:51,988 INFO  [Log] Rg_TC_86.xlsx_To verify Highest Rates  (Default filter) 
+2017-09-14 15:07:52,003 INFO  [Log] Rg_TC_87.xlsx_To verify Highest Rates (Applying  all Filter) 
+2017-09-14 15:07:52,035 INFO  [Log] Rg_TC_69.xlsx_To verify  Rate Difference from Compset Avg. Rate (Default Filter) 
+2017-09-14 15:07:52,066 INFO  [Log] Rg_TC_70.xlsx_To verify  Rate Difference from Compset Avg. Rate(Applying any Filter) 
+2017-09-14 15:07:52,097 INFO  [Log] Rg_TC_71.xlsx_To verify Price Change from last reporting period(Default Filter) 
+2017-09-14 15:07:52,113 INFO  [Log] Rg_TC_72.xlsx_To verify  Price Change from last reporting period (Applying any Filter) 
+2017-09-14 15:07:52,144 INFO  [Log] Rg_TC_73.xlsx_To verify Lowest/Highest rates vs. Compset in Green/Red cell color(Default Filter) 
+2017-09-14 15:07:52,175 INFO  [Log] Rg_TC_74.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-14 15:07:52,206 INFO  [Log] Rg_TC_75.xlsx_To verify Price Threshold Breach(Default Filter) 
+2017-09-14 15:07:52,237 INFO  [Log] Rg_TC_76.xlsx_To verify  Lowest/Highest rates vs. Compset in Green/Red cell color (Applying any Filter) 
+2017-09-14 15:07:52,269 INFO  [Log] Rg_TC_71_compset.xlsx_To verify Price Change from last reporting period(Default Filter) compset 
+2017-09-14 15:07:52,284 INFO  [Log] Rg_TC_72_compset.xlsx_To verify  Price Change from last reporting period (Applying any Filter) compset 
+2017-09-14 15:07:52,315 INFO  [Log] Rg_TC_88.xlsx_To verify  Higher/lowest Threshold Breach (Default Filter)  
+2017-09-14 15:07:52,331 INFO  [Log] Rg_TC_89.xlsx_To verify Higher/lowest  Threshold Breach (Applying  Filter) 
+2017-09-14 15:07:52,362 INFO  [Log] Rg_TC_66.xlsx_To verify Mark as Default Settings 
+2017-09-14 15:07:52,378 INFO  [Log] Rg_TC_81.xlsx_To verify  Pace
+graph legends 
+2017-09-14 15:07:52,393 INFO  [Log] Rg_TC_98.xlsx_To verify Graphical view 
+2017-09-14 15:07:52,409 INFO  [Log] Rg_TC_99.xlsx_To verify  Graphical view
+graph legends 
+2017-09-14 15:07:52,440 INFO  [Log] Rg_TC_77.xlsx_To verify  Competitiveness
+and Pace 
+2017-09-14 15:07:52,456 INFO  [Log] Rg_TC_78.xlsx_To verify  Competitiveness
+graph 
+2017-09-14 15:07:52,487 INFO  [Log] Rg_TC_79.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-14 15:07:52,503 INFO  [Log] Rg_TC_175.xlsx_To verify the room type filter 
+2017-09-14 15:07:52,534 INFO  [Log] Rg_TC_115.xlsx_To verify No of Guests filter 
+2017-09-14 15:07:52,549 INFO  [Log] Rg_TC_116.xlsx_To verify Length of Stay filter 
+2017-09-14 15:07:52,612 INFO  [Log] Rg_TC_117.xlsx_To verify My Supply (%) 
+2017-09-14 15:07:52,627 INFO  [Log] Rg_TC_118.xlsx_To verify the download Excel 
+2017-09-14 15:07:52,659 INFO  [Log] Rg_TC_119.xlsx_To Verify the Trends Excel data 
+2017-09-14 15:07:52,674 INFO  [Log] Rg_TC_105.xlsx_To verify  Competitiveness
+graph legends 
+2017-09-14 15:07:52,705 INFO  [Log] Rg_TC_106.xlsx_To verify the rates grid view 
+2017-09-14 15:07:52,721 INFO  [Log] Rg_TC_107.xlsx_To verify the room type filter 
+2017-09-14 15:07:52,742 INFO  [Log] Rg_TC_112.xlsx_To verify the Parity data in Excel 
+2017-09-14 15:07:52,761 INFO  [Log] RG_v_56.xlsx_has in Excel 
+2017-09-14 15:07:52,776 INFO  [Log] PGNG1030_TC_012.xlsx_Blank 
+2017-09-14 15:07:52,807 INFO  [Log] PGNG1030_TC_076.xlsx_Blank 
+2017-09-14 15:07:52,823 INFO  [Log] RG_TC_014.xlsx_Blank 
+2017-09-14 15:07:52,839 INFO  [Log] RG_TC_041.xlsx_Blank 
+2017-09-14 15:07:52,870 INFO  [Log] RG_TC_103.xlsx_Blank 
+2017-09-14 15:07:52,885 INFO  [Log] RG_TC_104.xlsx_Blank 
+2017-09-14 15:07:52,917 INFO  [Log] RG_TC_110.xlsx_Blank 
+2017-09-14 15:07:52,932 INFO  [Log] RG_TC_113.xlsx_Blank 
+2017-09-14 15:07:52,963 INFO  [Log] RG_TC_114_Blank 
+2017-09-14 15:07:52,979 INFO  [Log] RG_TC_166_Blank 
+2017-09-14 15:07:53,010 INFO  [Log] RG_TC_176_Blank 
+2017-09-14 15:07:53,026 INFO  [Log] PGNG1030_TC_051.xlsx_Blank 
+2017-09-14 15:07:53,057 INFO  [Log] PGNG1030_TC_062.xlsx_Blank 
+2017-09-14 15:07:53,073 INFO  [Log] Rg_TC_174_Blank 
+2017-09-14 15:07:53,088 INFO  [Log] PGNG1030_TC_053_Blank 
+2017-09-14 15:07:53,119 INFO  [Log] **************************************************************************************** 
+2017-09-14 15:07:53,119 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG1030_TC_054; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-14 15:07:53,119 INFO  [Log] **************************************************************************************** 
+2017-09-14 15:08:02,632 INFO  [Log] #### Executing Test case: PGNG1030_TC_054; Description: Blank In IE Browser for TestData:1 
+2017-09-14 15:08:20,742 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 15:08:22,443 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 15:08:23,958 INFO  [Log] TS_04: Click on login button 
+2017-09-14 15:08:35,226 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-14 15:08:36,943 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-14 15:08:39,020 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 15:08:41,725 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 15:08:43,618 INFO  [Log] TS_09: Click on property 
+2017-09-14 15:08:48,122 INFO  [Log] TS_10: Click on settings 
+2017-09-14 15:08:52,381 INFO  [Log] TS_11: Click on Competitor 
+2017-09-14 15:08:55,438 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 15:08:57,079 INFO  [Log] TS_13: Capture the First ResultCopthorne Tara Hotel London Kensington; Value has been stored in index: 0 
+2017-09-14 15:08:57,127 INFO  [Log] TS_15; Waited 15000 Milli seconds for Element 
+2017-09-14 15:09:13,864 INFO  [Log] TS_16; Passed; Verify Compititor is added successfully; Captured text: copthorne tara hotel london kensington; Value form page: Copthorne Tara Hotel London Kensington,  
+2017-09-14 15:09:15,474 INFO  [Log] TS_17: Click on Optima Logo 
+2017-09-14 15:09:15,474 INFO  [Log] TS_18; Waited 5000 Milli seconds for Element 
+2017-09-14 15:09:22,099 INFO  [Log] TS_19: Click on Rank 
+2017-09-14 15:09:26,658 INFO  [Log] TS_20: Click on Grid/Tabular view 
+2017-09-14 15:09:29,512 INFO  [Log] TS_21: Edit Xpath for Checking the Added CompetitorNew Element Location is : Copthorne Tara Hotel London KensingtonStored in ObjRep using element name: comp: Type: Xpath 
+2017-09-14 15:09:31,050 INFO  [Log] TS_22: Verify Competititor is added on the Rank Grid/Tabular View forn first Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:09:32,689 INFO  [Log] TS_23: Click on Next to Select second Channel 
+2017-09-14 15:09:35,614 INFO  [Log] TS_24: Verify Competititor is added on the Rank Grid/Tabular View forn Second Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:09:37,253 INFO  [Log] TS_25: Click on Next to Select Third Channel 
+2017-09-14 15:09:40,169 INFO  [Log] TS_26: Verify Competititor is added on the Rank Grid/Tabular View forn Third Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:09:41,777 INFO  [Log] TS_27: Click on Next to Select Fourth Channel 
+2017-09-14 15:09:44,689 INFO  [Log] TS_28: Verify Competititor is added on the Rank Grid/Tabular View forn Fourth Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:09:46,285 INFO  [Log] TS_29: Click on Next to Select Fifth Channel 
+2017-09-14 15:09:49,147 INFO  [Log] TS_30: Verify Competititor is added on the Rank Grid/Tabular View forn Fifth Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:09:50,713 INFO  [Log] TS_31: Click on settings 
+2017-09-14 15:09:53,690 INFO  [Log] TS_32: Click on Competitor 
+2017-09-14 15:09:56,686 INFO  [Log] TS_33: Delete the Added Record 
+2017-09-14 15:09:58,734 INFO  [Log] TS_34: click on delete button to delete the record 
+2017-09-14 15:09:58,734 INFO  [Log] TS_35; Waited 5000 Milli seconds for Element 
+2017-09-14 15:10:05,408 INFO  [Log] TS_36: Click on Optima Logo 
+2017-09-14 15:10:05,408 INFO  [Log] TS_37; Waited 5000 Milli seconds for Element 
+2017-09-14 15:10:12,043 INFO  [Log] TS_38: Click on Rank 
+2017-09-14 15:10:16,418 INFO  [Log] TS_39: Click on Grid/Tabular view 
+2017-09-14 15:10:44,866 INFO  [Log] TS_40; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn first Channel; Element is not present/dispayed on the page 
+2017-09-14 15:10:46,477 INFO  [Log] TS_41: Click on Next to Select second Channel 
+2017-09-14 15:11:14,937 INFO  [Log] TS_42; Passed; Verify Competititor is Deleted or not  on the Rank Grid/Tabular View forn Second Channel; Element is not present/dispayed on the page 
+2017-09-14 15:11:16,598 INFO  [Log] TS_43: Click on Next to Select Third Channel 
+2017-09-14 15:11:45,068 INFO  [Log] TS_44; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn Third Channel; Element is not present/dispayed on the page 
+2017-09-14 15:11:46,788 INFO  [Log] TS_45: Click on Next to Select Fourth Channel 
+2017-09-14 15:12:15,256 INFO  [Log] TS_46; Passed; Verify Competititor is deleted or not present on the Rank Grid/Tabular View forn Fourth Channel; Element is not present/dispayed on the page 
+2017-09-14 15:12:16,915 INFO  [Log] TS_47: Click on Next to Select Fifth Channel 
+2017-09-14 15:12:45,243 INFO  [Log] TS_48; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn Fifth Channel; Element is not present/dispayed on the page 
+2017-09-14 15:12:50,245 INFO  [Log] closing test case  
+2017-09-14 15:12:50,528 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:12:50,575 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:12:50,622 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:12:50,638 INFO  [Log] ### Test case: PGNG1030_TC_054; Description: Blank; status Executed 
+2017-09-14 15:12:50,840 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:12:50,872 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:12:50,903 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:12:50,903 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:12:56,115 INFO  [Log] #### Executing Test case: PGNG1030_TC_054; Description: Blank In Chrome Browser for TestData:1 
+2017-09-14 15:13:13,507 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-14 15:13:14,366 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 15:13:14,498 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 15:13:14,583 INFO  [Log] TS_04: Click on login button 
+2017-09-14 15:13:27,993 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-14 15:13:28,121 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-14 15:13:28,185 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 15:13:29,325 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 15:13:29,463 INFO  [Log] TS_09: Click on property 
+2017-09-14 15:13:32,622 INFO  [Log] TS_10: Click on settings 
+2017-09-14 15:13:34,883 INFO  [Log] TS_11: Click on Competitor 
+2017-09-14 15:13:36,114 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 15:13:37,253 INFO  [Log] TS_13: Capture the First ResultCopthorne Tara Hotel London Kensington; Value has been stored in index: 0 
+2017-09-14 15:13:37,294 INFO  [Log] TS_15; Waited 15000 Milli seconds for Element 
+2017-09-14 15:13:52,444 INFO  [Log] TS_16; Passed; Verify Compititor is added successfully; Captured text: copthorne tara hotel london kensington; Value form page: Copthorne Tara Hotel London Kensington,  
+2017-09-14 15:13:52,529 INFO  [Log] TS_17: Click on Optima Logo 
+2017-09-14 15:13:52,529 INFO  [Log] TS_18; Waited 5000 Milli seconds for Element 
+2017-09-14 15:13:57,687 INFO  [Log] TS_19: Click on Rank 
+2017-09-14 15:14:00,885 INFO  [Log] TS_20: Click on Grid/Tabular view 
+2017-09-14 15:14:01,985 INFO  [Log] TS_21: Edit Xpath for Checking the Added CompetitorNew Element Location is : Copthorne Tara Hotel London KensingtonStored in ObjRep using element name: comp: Type: Xpath 
+2017-09-14 15:14:02,056 INFO  [Log] TS_22: Verify Competititor is added on the Rank Grid/Tabular View forn first Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:14:02,141 INFO  [Log] TS_23: Click on Next to Select second Channel 
+2017-09-14 15:14:03,269 INFO  [Log] TS_24: Verify Competititor is added on the Rank Grid/Tabular View forn Second Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:14:03,370 INFO  [Log] TS_25: Click on Next to Select Third Channel 
+2017-09-14 15:14:04,472 INFO  [Log] TS_26: Verify Competititor is added on the Rank Grid/Tabular View forn Third Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:14:04,541 INFO  [Log] TS_27: Click on Next to Select Fourth Channel 
+2017-09-14 15:14:05,660 INFO  [Log] TS_28: Verify Competititor is added on the Rank Grid/Tabular View forn Fourth Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:14:05,758 INFO  [Log] TS_29: Click on Next to Select Fifth Channel 
+2017-09-14 15:14:06,882 INFO  [Log] TS_30: Verify Competititor is added on the Rank Grid/Tabular View forn Fifth Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:14:06,948 INFO  [Log] TS_31: Click on settings 
+2017-09-14 15:14:08,073 INFO  [Log] TS_32: Click on Competitor 
+2017-09-14 15:14:09,195 INFO  [Log] TS_33: Delete the Added Record 
+2017-09-14 15:14:09,297 INFO  [Log] TS_34: click on delete button to delete the record 
+2017-09-14 15:14:09,297 INFO  [Log] TS_35; Waited 5000 Milli seconds for Element 
+2017-09-14 15:14:14,410 INFO  [Log] TS_36: Click on Optima Logo 
+2017-09-14 15:14:14,410 INFO  [Log] TS_37; Waited 5000 Milli seconds for Element 
+2017-09-14 15:14:19,556 INFO  [Log] TS_38: Click on Rank 
+2017-09-14 15:14:22,738 INFO  [Log] TS_39: Click on Grid/Tabular view 
+2017-09-14 15:14:49,103 INFO  [Log] TS_40; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn first Channel; Element is not present/dispayed on the page 
+2017-09-14 15:14:49,207 INFO  [Log] TS_41: Click on Next to Select second Channel 
+2017-09-14 15:15:15,578 INFO  [Log] TS_42; Passed; Verify Competititor is Deleted or not  on the Rank Grid/Tabular View forn Second Channel; Element is not present/dispayed on the page 
+2017-09-14 15:15:15,698 INFO  [Log] TS_43: Click on Next to Select Third Channel 
+2017-09-14 15:15:42,059 INFO  [Log] TS_44; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn Third Channel; Element is not present/dispayed on the page 
+2017-09-14 15:15:42,246 INFO  [Log] TS_45: Click on Next to Select Fourth Channel 
+2017-09-14 15:16:08,629 INFO  [Log] TS_46; Passed; Verify Competititor is deleted or not present on the Rank Grid/Tabular View forn Fourth Channel; Element is not present/dispayed on the page 
+2017-09-14 15:16:08,746 INFO  [Log] TS_47: Click on Next to Select Fifth Channel 
+2017-09-14 15:16:35,087 INFO  [Log] TS_48; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn Fifth Channel; Element is not present/dispayed on the page 
+2017-09-14 15:16:40,089 INFO  [Log] closing test case  
+2017-09-14 15:16:42,652 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:16:42,684 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:16:42,715 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:16:42,731 INFO  [Log] ### Test case: PGNG1030_TC_054; Description: Blank; status Executed 
+2017-09-14 15:16:42,902 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:16:42,934 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:16:42,965 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:16:42,965 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:16:47,744 INFO  [Log] #### Executing Test case: PGNG1030_TC_054; Description: Blank In Firefox Browser for TestData:1 
+2017-09-14 15:17:20,078 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-14 15:17:21,391 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-14 15:17:21,470 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-14 15:17:21,533 INFO  [Log] TS_04: Click on login button 
+2017-09-14 15:17:26,982 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-14 15:17:27,077 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-14 15:17:27,155 INFO  [Log] TS_07: edit xpathNew Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-09-14 15:17:33,425 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-14 15:17:33,567 INFO  [Log] TS_09: Click on property 
+2017-09-14 15:17:36,726 INFO  [Log] TS_10: Click on settings 
+2017-09-14 15:17:38,850 INFO  [Log] TS_11: Click on Competitor 
+2017-09-14 15:17:40,241 INFO  [Log] TS_12: Click on Search Competitor; Action: Submited ValueValue: london 
+2017-09-14 15:17:41,475 INFO  [Log] TS_13: Capture the First ResultCopthorne Tara Hotel London Kensington; Value has been stored in index: 0 
+2017-09-14 15:17:41,523 INFO  [Log] TS_15; Waited 15000 Milli seconds for Element 
+2017-09-14 15:17:56,618 INFO  [Log] TS_16; Passed; Verify Compititor is added successfully; Captured text: copthorne tara hotel london kensington; Value form page: Copthorne Tara Hotel London Kensington,  
+2017-09-14 15:17:56,697 INFO  [Log] TS_17: Click on Optima Logo 
+2017-09-14 15:17:56,713 INFO  [Log] TS_18; Waited 5000 Milli seconds for Element 
+2017-09-14 15:18:01,854 INFO  [Log] TS_19: Click on Rank 
+2017-09-14 15:18:05,020 INFO  [Log] TS_20: Click on Grid/Tabular view 
+2017-09-14 15:18:06,134 INFO  [Log] TS_21: Edit Xpath for Checking the Added CompetitorNew Element Location is : Copthorne Tara Hotel London KensingtonStored in ObjRep using element name: comp: Type: Xpath 
+2017-09-14 15:18:06,182 INFO  [Log] TS_22: Verify Competititor is added on the Rank Grid/Tabular View forn first Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:18:06,244 INFO  [Log] TS_23: Click on Next to Select second Channel 
+2017-09-14 15:18:07,337 INFO  [Log] TS_24: Verify Competititor is added on the Rank Grid/Tabular View forn Second Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:18:07,401 INFO  [Log] TS_25: Click on Next to Select Third Channel 
+2017-09-14 15:18:08,496 INFO  [Log] TS_26: Verify Competititor is added on the Rank Grid/Tabular View forn Third Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:18:08,559 INFO  [Log] TS_27: Click on Next to Select Fourth Channel 
+2017-09-14 15:18:09,638 INFO  [Log] TS_28: Verify Competititor is added on the Rank Grid/Tabular View forn Fourth Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:18:09,686 INFO  [Log] TS_29: Click on Next to Select Fifth Channel 
+2017-09-14 15:18:10,783 INFO  [Log] TS_30: Verify Competititor is added on the Rank Grid/Tabular View forn Fifth Channel; Passed; ; Element is present on the active page 
+2017-09-14 15:18:10,847 INFO  [Log] TS_31: Click on settings 
+2017-09-14 15:18:11,943 INFO  [Log] TS_32: Click on Competitor 
+2017-09-14 15:18:13,164 INFO  [Log] TS_33: Delete the Added Record 
+2017-09-14 15:18:13,275 INFO  [Log] TS_34: click on delete button to delete the record 
+2017-09-14 15:18:13,275 INFO  [Log] TS_35; Waited 5000 Milli seconds for Element 
+2017-09-14 15:18:18,383 INFO  [Log] TS_36: Click on Optima Logo 
+2017-09-14 15:18:18,383 INFO  [Log] TS_37; Waited 5000 Milli seconds for Element 
+2017-09-14 15:18:23,508 INFO  [Log] TS_38: Click on Rank 
+2017-09-14 15:18:26,637 INFO  [Log] TS_39: Click on Grid/Tabular view 
+2017-09-14 15:18:53,084 INFO  [Log] TS_40; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn first Channel; Element is not present/dispayed on the page 
+2017-09-14 15:18:53,210 INFO  [Log] TS_41: Click on Next to Select second Channel 
+2017-09-14 15:19:19,605 INFO  [Log] TS_42; Passed; Verify Competititor is Deleted or not  on the Rank Grid/Tabular View forn Second Channel; Element is not present/dispayed on the page 
+2017-09-14 15:19:19,715 INFO  [Log] TS_43: Click on Next to Select Third Channel 
+2017-09-14 15:19:45,849 INFO  [Log] TS_44; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn Third Channel; Element is not present/dispayed on the page 
+2017-09-14 15:19:45,943 INFO  [Log] TS_45: Click on Next to Select Fourth Channel 
+2017-09-14 15:20:12,389 INFO  [Log] TS_46; Passed; Verify Competititor is deleted or not present on the Rank Grid/Tabular View forn Fourth Channel; Element is not present/dispayed on the page 
+2017-09-14 15:20:12,484 INFO  [Log] TS_47: Click on Next to Select Fifth Channel 
+2017-09-14 15:20:39,028 INFO  [Log] TS_48; Passed; Verify Competititor is Deleted or not present on the Rank Grid/Tabular View forn Fifth Channel; Element is not present/dispayed on the page 
+2017-09-14 15:20:44,040 INFO  [Log] closing test case  
+2017-09-14 15:20:44,341 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:20:44,387 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:20:44,419 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:20:44,419 INFO  [Log] ### Test case: PGNG1030_TC_054; Description: Blank; status Executed 
+2017-09-14 15:20:44,590 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-14 15:20:44,621 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-14 15:20:44,668 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-14 15:20:44,668 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:20:44,668 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:20:44,933 INFO  [Log] ####Closing Test Suite #### 
+2017-09-14 15:20:44,933 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-14 15:20:44,933 INFO  [Log] Creating Logs backup and storing for further reference 

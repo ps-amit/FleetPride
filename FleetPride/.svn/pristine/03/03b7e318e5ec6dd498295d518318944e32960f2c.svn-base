@@ -1,0 +1,318 @@
+2017-11-02 18:11:54,923 INFO  [Log] Test Scenario Configuration started 
+2017-11-02 18:11:54,950 INFO  [Log] Initialing HTML reporting 
+2017-11-02 18:11:55,125 INFO  [Log] Starting Test Suit Execution 
+2017-11-02 18:11:55,324 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:11:55,355 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:11:55,388 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:11:55,814 INFO  [Log] Object repository is created successfully 
+2017-11-02 18:11:55,876 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-02 18:11:55,929 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-02 18:11:55,977 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-02 18:11:56,021 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-02 18:11:56,061 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-02 18:11:56,097 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-02 18:11:56,132 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-02 18:11:56,171 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-02 18:11:56,213 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-02 18:11:56,244 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-02 18:11:56,274 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-02 18:11:56,302 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-02 18:11:56,328 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-02 18:11:56,365 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-02 18:11:56,393 INFO  [Log] Testing_Purpose_Blank 
+2017-11-02 18:11:56,442 INFO  [Log] **************************************************************************************** 
+2017-11-02 18:11:56,442 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_contact_us_page_after_login; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-02 18:11:56,442 INFO  [Log] **************************************************************************************** 
+2017-11-02 18:12:02,275 INFO  [Log] #### Executing Test case: FP_contact_us_page_after_login; Description: Blank In Chrome Browser for TestData:1 
+2017-11-02 18:12:11,658 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 18:12:49,832 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 18:13:25,390 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 18:14:00,917 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 18:14:41,701 INFO  [Log] TS_05: Click on login button 
+2017-11-02 18:15:21,357 INFO  [Log] TS_06: Navigate to my Account page 
+2017-11-02 18:15:56,875 INFO  [Log] TS_07: Capture the Company Name Avionos - West; Value has been stored in index: 0 
+2017-11-02 18:16:32,320 INFO  [Log] TS_08: Capture the User Name User avionos; Value has been stored in index: 1 
+2017-11-02 18:17:07,728 INFO  [Log] TS_09: Capture the Email idhameed.bello@avionos.com; Value has been stored in index: 2 
+2017-11-02 18:17:51,525 INFO  [Log] TS_10: Navigate to Contact us page 
+2017-11-02 18:18:26,935 INFO  [Log] TS_11: Capture the data appearing in Company Name fieldAvionos - West; Value has been stored in index: 3 
+2017-11-02 18:19:02,768 INFO  [Log] TS_12: Capture the data appearing in User Name  fieldUser Avionos; Value has been stored in index: 4 
+2017-11-02 18:19:38,169 INFO  [Log] TS_13: Capture the data appearing in Email id fieldhameed.bello@avionos.com; Value has been stored in index: 5 
+2017-11-02 18:19:38,170 INFO  [Log] TS_14; Passed; Verify Company Name; Captured text1: avionos - west; Captured text2: avionos - west 
+2017-11-02 18:19:38,170 INFO  [Log] TS_15; Passed; Verify User name; Captured text1: user avionos; Captured text2: user avionos 
+2017-11-02 18:19:38,170 INFO  [Log] TS_16; Passed; Verify Email Id; Captured text1: hameed.bello@avionos.com; Captured text2: hameed.bello@avionos.com 
+2017-11-02 18:20:13,723 INFO  [Log] TS_17: Input phone no.; Action: Submited ValueValue: null 
+2017-11-02 18:20:49,252 INFO  [Log] TS_18: Input text in the message field.; Action: Submited ValueValue: null 
+2017-11-02 18:21:24,678 INFO  [Log] TS_19: Click on "Submit" button. 
+2017-11-02 18:22:00,085 INFO  [Log] TS_20; Passed; Verify the success message after clicking on the "Submit" button.; Value: thank you for contacting us!; Present in Page values: Thank you for Contacting Us!,  
+2017-11-02 18:22:05,088 INFO  [Log] closing test case  
+2017-11-02 18:22:07,688 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:22:07,720 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:22:07,751 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:22:07,764 INFO  [Log] ### Test case: FP_contact_us_page_after_login; Description: Blank; status Executed 
+2017-11-02 18:22:07,928 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:22:07,960 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:22:07,993 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:22:07,993 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 18:22:12,627 INFO  [Log] #### Executing Test case: FP_contact_us_page_after_login; Description: Blank In Firefox Browser for TestData:1 
+2017-11-02 18:22:26,056 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 18:23:01,554 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 18:23:36,874 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 18:24:12,167 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 18:24:47,872 INFO  [Log] TS_05: Click on login button 
+2017-11-02 18:25:23,304 INFO  [Log] TS_06: Navigate to my Account page 
+2017-11-02 18:25:58,916 INFO  [Log] TS_07: Capture the Company Name Avionos - West; Value has been stored in index: 0 
+2017-11-02 18:26:34,239 INFO  [Log] TS_08: Capture the User Name User avionos; Value has been stored in index: 1 
+2017-11-02 18:27:09,547 INFO  [Log] TS_09: Capture the Email idhameed.bello@avionos.com; Value has been stored in index: 2 
+2017-11-02 18:27:44,853 INFO  [Log] TS_10: Navigate to Contact us page 
+2017-11-02 18:28:20,326 INFO  [Log] TS_11: Capture the data appearing in Company Name fieldAvionos - West; Value has been stored in index: 3 
+2017-11-02 18:28:55,966 INFO  [Log] TS_12: Capture the data appearing in User Name  fieldUser Avionos; Value has been stored in index: 4 
+2017-11-02 18:29:31,413 INFO  [Log] TS_13: Capture the data appearing in Email id fieldhameed.bello@avionos.com; Value has been stored in index: 5 
+2017-11-02 18:29:31,413 INFO  [Log] TS_14; Passed; Verify Company Name; Captured text1: avionos - west; Captured text2: avionos - west 
+2017-11-02 18:29:31,413 INFO  [Log] TS_15; Passed; Verify User name; Captured text1: user avionos; Captured text2: user avionos 
+2017-11-02 18:29:31,413 INFO  [Log] TS_16; Passed; Verify Email Id; Captured text1: hameed.bello@avionos.com; Captured text2: hameed.bello@avionos.com 
+2017-11-02 18:30:06,751 INFO  [Log] TS_17: Input phone no.; Action: Submited ValueValue: null 
+2017-11-02 18:30:42,235 INFO  [Log] TS_18: Input text in the message field.; Action: Submited ValueValue: null 
+2017-11-02 18:31:17,799 INFO  [Log] TS_19: Click on "Submit" button. 
+2017-11-02 18:31:53,183 INFO  [Log] TS_20; Passed; Verify the success message after clicking on the "Submit" button.; Value: thank you for contacting us!; Present in Page values: Thank you for Contacting Us!,  
+2017-11-02 18:31:58,184 INFO  [Log] closing test case  
+2017-11-02 18:31:58,505 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:31:58,535 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:31:58,565 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:31:58,575 INFO  [Log] ### Test case: FP_contact_us_page_after_login; Description: Blank; status Executed 
+2017-11-02 18:31:58,825 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:31:58,855 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:31:58,895 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:31:58,895 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 18:32:09,802 INFO  [Log] #### Executing Test case: FP_contact_us_page_after_login; Description: Blank In IE Browser for TestData:1 
+2017-11-02 18:33:03,661 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 18:33:44,032 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 18:34:24,301 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 18:35:04,347 INFO  [Log] TS_05: Click on login button 
+2017-11-02 18:35:44,888 INFO  [Log] TS_06: Navigate to my Account page 
+2017-11-02 18:36:25,115 INFO  [Log] TS_07: Capture the Company Name Avionos - West; Value has been stored in index: 0 
+2017-11-02 18:37:05,052 INFO  [Log] TS_08: Capture the User Name User avionos; Value has been stored in index: 1 
+2017-11-02 18:37:45,130 INFO  [Log] TS_09: Capture the Email idhameed.bello@avionos.com; Value has been stored in index: 2 
+2017-11-02 18:38:25,183 INFO  [Log] TS_10: Navigate to Contact us page 
+2017-11-02 18:39:05,197 INFO  [Log] TS_11: Capture the data appearing in Company Name fieldAvionos - West; Value has been stored in index: 3 
+2017-11-02 18:39:45,122 INFO  [Log] TS_12: Capture the data appearing in User Name  fieldUser Avionos; Value has been stored in index: 4 
+2017-11-02 18:40:25,182 INFO  [Log] TS_13: Capture the data appearing in Email id fieldhameed.bello@avionos.com; Value has been stored in index: 5 
+2017-11-02 18:40:25,182 INFO  [Log] TS_14; Passed; Verify Company Name; Captured text1: avionos - west; Captured text2: avionos - west 
+2017-11-02 18:40:25,182 INFO  [Log] TS_15; Passed; Verify User name; Captured text1: user avionos; Captured text2: user avionos 
+2017-11-02 18:40:25,182 INFO  [Log] TS_16; Passed; Verify Email Id; Captured text1: hameed.bello@avionos.com; Captured text2: hameed.bello@avionos.com 
+2017-11-02 18:41:05,492 INFO  [Log] TS_17: Input phone no.; Action: Submited ValueValue: null 
+2017-11-02 18:41:45,826 INFO  [Log] TS_18: Input text in the message field.; Action: Submited ValueValue: null 
+2017-11-02 18:42:25,874 INFO  [Log] TS_19: Click on "Submit" button. 
+2017-11-02 18:43:05,928 INFO  [Log] TS_20; Passed; Verify the success message after clicking on the "Submit" button.; Value: thank you for contacting us!; Present in Page values: Thank you for Contacting Us!,  
+2017-11-02 18:43:10,931 INFO  [Log] closing test case  
+2017-11-02 18:43:11,222 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:43:11,252 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:43:11,282 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:43:11,302 INFO  [Log] ### Test case: FP_contact_us_page_after_login; Description: Blank; status Executed 
+2017-11-02 18:43:11,462 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:43:11,492 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:43:11,522 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:43:11,522 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 18:43:11,522 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 18:43:11,742 INFO  [Log] **************************************************************************************** 
+2017-11-02 18:43:11,742 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Account_TC_2; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-02 18:43:11,742 INFO  [Log] **************************************************************************************** 
+2017-11-02 18:43:16,837 INFO  [Log] #### Executing Test case: FP_My_Account_TC_2; Description: Blank In Chrome Browser for TestData:1 
+2017-11-02 18:43:25,596 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 18:44:03,702 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 18:44:39,501 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 18:45:15,389 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 18:45:56,300 INFO  [Log] TS_05: Click on login button 
+2017-11-02 18:46:36,237 INFO  [Log] TS_06: Click on the My Account link 
+2017-11-02 18:47:12,234 INFO  [Log] TS_07; Passed; Verify the text 'Account Information' on the section; Value: account information; Present in Page values: Account Information,  
+2017-11-02 18:47:48,102 INFO  [Log] TS_08; Passed; Verify the text 'Contact Information' on the section; Value: contact information; Present in Page values: Contact Information,  
+2017-11-02 18:48:23,907 INFO  [Log] TS_09; Passed; Verify the text 'User Information' on the section; Value: user information; Present in Page values: User Information,  
+2017-11-02 18:48:59,600 INFO  [Log] TS_10: Click on "Edit" profile button. 
+2017-11-02 18:49:35,476 INFO  [Log] TS_11: Clear the 'First Name *' field; Action Clear 
+2017-11-02 18:50:10,992 INFO  [Log] TS_12: Clear the 'Last Name *' field; Action Clear 
+2017-11-02 18:50:46,482 INFO  [Log] TS_13: Clear the 'Phone' field; Action Clear 
+2017-11-02 18:51:21,979 INFO  [Log] TS_14: Clear the 'Username' field; Action Clear 
+2017-11-02 18:51:57,441 INFO  [Log] TS_15: Clear the 'Email' field; Action Clear 
+2017-11-02 18:52:32,929 INFO  [Log] TS_16: Input 'First Name *' field; Action: Submited ValueValue: null 
+2017-11-02 18:53:08,461 INFO  [Log] TS_17: Input 'Last Name *' field; Action: Submited ValueValue: null 
+2017-11-02 18:53:43,899 INFO  [Log] TS_18: Input 'Phone' field; Action: Submited ValueValue: null 
+2017-11-02 18:54:19,472 INFO  [Log] TS_19: Input 'Username' field; Action: Submited ValueValue: null 
+2017-11-02 18:54:55,080 INFO  [Log] TS_20: Input 'Email' field; Action: Submited ValueValue: null 
+2017-11-02 18:55:30,515 INFO  [Log] TS_21: Click on "Save" button. 
+2017-11-02 18:56:10,485 INFO  [Log] TS_22; Passed; Verify the Username data after saving; Value: user@avionos.com; Present in Page values: user@avionos.com,  
+2017-11-02 18:56:46,220 INFO  [Log] TS_23; Passed; Verify the Phone data after saving; Value: 5.3425435e7; Present in Page values: 5.3425435E7,  
+2017-11-02 18:57:21,817 INFO  [Log] TS_24; Passed; Verify the Email data after saving; Value: hameed.bello@avionos.com; Present in Page values: hameed.bello@avionos.com,  
+2017-11-02 18:57:26,825 INFO  [Log] closing test case  
+2017-11-02 18:57:29,414 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:57:29,445 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:57:29,475 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:57:29,485 INFO  [Log] ### Test case: FP_My_Account_TC_2; Description: Blank; status Executed 
+2017-11-02 18:57:29,793 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 18:57:29,823 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 18:57:29,863 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 18:57:29,863 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 18:57:34,535 INFO  [Log] #### Executing Test case: FP_My_Account_TC_2; Description: Blank In Firefox Browser for TestData:1 
+2017-11-02 18:57:46,887 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 18:58:22,618 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 18:58:58,103 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 18:59:33,826 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 19:00:09,512 INFO  [Log] TS_05: Click on login button 
+2017-11-02 19:00:44,778 INFO  [Log] TS_06: Click on the My Account link 
+2017-11-02 19:01:20,531 INFO  [Log] TS_07; Passed; Verify the text 'Account Information' on the section; Value: account information; Present in Page values: Account Information,  
+2017-11-02 19:01:55,974 INFO  [Log] TS_08; Passed; Verify the text 'Contact Information' on the section; Value: contact information; Present in Page values: Contact Information,  
+2017-11-02 19:02:31,211 INFO  [Log] TS_09; Passed; Verify the text 'User Information' on the section; Value: user information; Present in Page values: User Information,  
+2017-11-02 19:03:06,519 INFO  [Log] TS_10: Click on "Edit" profile button. 
+2017-11-02 19:03:41,754 INFO  [Log] TS_11: Clear the 'First Name *' field; Action Clear 
+2017-11-02 19:04:16,978 INFO  [Log] TS_12: Clear the 'Last Name *' field; Action Clear 
+2017-11-02 19:04:52,212 INFO  [Log] TS_13: Clear the 'Phone' field; Action Clear 
+2017-11-02 19:05:27,618 INFO  [Log] TS_14: Clear the 'Username' field; Action Clear 
+2017-11-02 19:06:03,184 INFO  [Log] TS_15: Clear the 'Email' field; Action Clear 
+2017-11-02 19:06:38,792 INFO  [Log] TS_16: Input 'First Name *' field; Action: Submited ValueValue: null 
+2017-11-02 19:07:14,309 INFO  [Log] TS_17: Input 'Last Name *' field; Action: Submited ValueValue: null 
+2017-11-02 19:07:49,953 INFO  [Log] TS_18: Input 'Phone' field; Action: Submited ValueValue: null 
+2017-11-02 19:08:25,273 INFO  [Log] TS_19: Input 'Username' field; Action: Submited ValueValue: null 
+2017-11-02 19:09:00,600 INFO  [Log] TS_20: Input 'Email' field; Action: Submited ValueValue: null 
+2017-11-02 19:09:35,971 INFO  [Log] TS_21: Click on "Save" button. 
+2017-11-02 19:10:11,443 INFO  [Log] TS_22; Passed; Verify the Username data after saving; Value: user@avionos.com; Present in Page values: user@avionos.com,  
+2017-11-02 19:10:46,924 INFO  [Log] TS_23; Passed; Verify the Phone data after saving; Value: 5.3425435e7; Present in Page values: 5.3425435E7,  
+2017-11-02 19:11:22,413 INFO  [Log] TS_24; Passed; Verify the Email data after saving; Value: hameed.bello@avionos.com; Present in Page values: hameed.bello@avionos.com,  
+2017-11-02 19:11:27,420 INFO  [Log] closing test case  
+2017-11-02 19:11:27,737 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 19:11:27,767 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 19:11:27,797 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 19:11:27,807 INFO  [Log] ### Test case: FP_My_Account_TC_2; Description: Blank; status Executed 
+2017-11-02 19:11:27,968 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 19:11:28,009 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 19:11:28,039 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 19:11:28,039 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 19:11:36,955 INFO  [Log] #### Executing Test case: FP_My_Account_TC_2; Description: Blank In IE Browser for TestData:1 
+2017-11-02 19:12:27,469 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 19:13:07,649 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 19:13:47,731 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 19:14:27,582 INFO  [Log] TS_05: Click on login button 
+2017-11-02 19:15:07,880 INFO  [Log] TS_06: Click on the My Account link 
+2017-11-02 19:15:47,980 INFO  [Log] TS_07; Passed; Verify the text 'Account Information' on the section; Value: account information; Present in Page values: Account Information,  
+2017-11-02 19:16:27,835 INFO  [Log] TS_08; Passed; Verify the text 'Contact Information' on the section; Value: contact information; Present in Page values: Contact Information,  
+2017-11-02 19:17:07,643 INFO  [Log] TS_09; Passed; Verify the text 'User Information' on the section; Value: user information; Present in Page values: User Information,  
+2017-11-02 19:17:47,600 INFO  [Log] TS_10: Click on "Edit" profile button. 
+2017-11-02 19:18:27,686 INFO  [Log] TS_11: Clear the 'First Name *' field; Action Clear 
+2017-11-02 19:19:07,870 INFO  [Log] TS_12: Clear the 'Last Name *' field; Action Clear 
+2017-11-02 19:19:48,036 INFO  [Log] TS_13: Clear the 'Phone' field; Action Clear 
+2017-11-02 19:20:28,176 INFO  [Log] TS_14: Clear the 'Username' field; Action Clear 
+2017-11-02 19:21:08,325 INFO  [Log] TS_15: Clear the 'Email' field; Action Clear 
+2017-11-02 19:21:48,606 INFO  [Log] TS_16: Input 'First Name *' field; Action: Submited ValueValue: null 
+2017-11-02 19:22:28,817 INFO  [Log] TS_17: Input 'Last Name *' field; Action: Submited ValueValue: null 
+2017-11-02 19:23:09,107 INFO  [Log] TS_18: Input 'Phone' field; Action: Submited ValueValue: null 
+2017-11-02 19:23:49,381 INFO  [Log] TS_19: Input 'Username' field; Action: Submited ValueValue: null 
+2017-11-02 19:24:29,774 INFO  [Log] TS_20: Input 'Email' field; Action: Submited ValueValue: null 
+2017-11-02 19:25:09,895 INFO  [Log] TS_21: Click on "Save" button. 
+2017-11-02 19:25:50,196 INFO  [Log] TS_22; Passed; Verify the Username data after saving; Value: user@avionos.com; Present in Page values: user@avionos.com,  
+2017-11-02 19:26:30,365 INFO  [Log] TS_23; Passed; Verify the Phone data after saving; Value: 5.3425435e7; Present in Page values: 5.3425435E7,  
+2017-11-02 19:27:10,410 INFO  [Log] TS_24; Passed; Verify the Email data after saving; Value: hameed.bello@avionos.com; Present in Page values: hameed.bello@avionos.com,  
+2017-11-02 19:27:15,417 INFO  [Log] closing test case  
+2017-11-02 19:27:15,688 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 19:27:15,728 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 19:27:15,758 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 19:27:15,768 INFO  [Log] ### Test case: FP_My_Account_TC_2; Description: Blank; status Executed 
+2017-11-02 19:27:15,928 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 19:27:15,958 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 19:27:15,988 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 19:27:15,998 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 19:27:15,998 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 19:27:16,055 INFO  [Log] **************************************************************************************** 
+2017-11-02 19:27:16,055 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_01; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-02 19:27:16,055 INFO  [Log] **************************************************************************************** 
+2017-11-02 19:27:21,134 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_01; Description: Blank In Chrome Browser for TestData:1 
+2017-11-02 19:27:31,850 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 19:28:10,489 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 19:28:46,266 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 19:29:22,225 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 19:30:05,513 INFO  [Log] TS_05: Click on login button 
+2017-11-02 19:30:40,970 INFO  [Log] TS_06: Capture value at my cart link intiallyMy Cart: 1 item(s), $0.00; Value has been stored in index: 0 
+2017-11-02 19:31:16,441 INFO  [Log] User specified value has been replaced at index0New Value is: My Cart: 1 
+2017-11-02 19:31:51,866 INFO  [Log] User specified value has been replaced at index0New Value is: 1 
+2017-11-02 19:32:27,290 INFO  [Log] TS_09: Capture value at my cart linkMy Cart: 1 item(s), $0.00; Value has been stored in index: 1 
+2017-11-02 19:33:02,686 INFO  [Log] User specified value has been replaced at index1New Value is:  $0.00 
+2017-11-02 19:33:38,087 INFO  [Log] TS_11: Capture the product part number90350; Value has been stored in index: 2 
+2017-11-02 19:34:13,528 INFO  [Log] TS_12: Capture the product price$50.00; Value has been stored in index: 3 
+2017-11-02 19:34:58,593 INFO  [Log] TS_13: Click on the product link 
+2017-11-02 19:35:34,017 INFO  [Log] TS_14: Capture the product initial quantity1; Value has been stored in index: 4 
+2017-11-02 19:36:09,417 INFO  [Log] TS_15: Click on the '+' icon to change product quantity 
+2017-11-02 19:36:44,829 INFO  [Log] TS_16: Capture the quantity after clicking on '+' icon2; Value has been stored in index: 5 
+2017-11-02 19:36:44,829 INFO  [Log] Fail; TS_17: Compare both the quantity(quantity should not match)Compare both the quantity(quantity should not match); Captured text1: 1; Captured text2: 2 
+2017-11-02 19:37:21,052 INFO  [Log] TS_18: Click on "Add to cart" button. 
+2017-11-02 19:37:56,465 INFO  [Log] TS_19: Capture value at my cart linkMy Cart: 3 item(s), $100.00; Value has been stored in index: 6 
+2017-11-02 19:38:31,945 INFO  [Log] User specified value has been replaced at index6New Value is: My Cart: 3 
+2017-11-02 19:39:07,451 INFO  [Log] User specified value has been replaced at index6New Value is: 3 
+2017-11-02 19:39:42,989 INFO  [Log] TS_22: Capture value at my cart linkMy Cart: 3 item(s), $100.00; Value has been stored in index: 7 
+2017-11-02 19:40:18,477 INFO  [Log] User specified value has been replaced at index7New Value is:  $100.00 
+2017-11-02 19:40:18,477 INFO  [Log] Fail; TS_24: Compare the product quantity before and after adding to cartCompare the product quantity before and after adding to cart; Captured text1: 1; Captured text2: 3 
+2017-11-02 19:40:18,983 INFO  [Log] Fail; TS_25: Compare the product price before and after adding to cartCompare the product price before and after adding to cart; Captured text1:  $0.00; Captured text2:  $100.00 
+2017-11-02 19:40:24,346 INFO  [Log] closing test case  
+2017-11-02 19:40:26,658 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 19:40:26,689 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 19:40:26,729 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 19:40:26,739 INFO  [Log] ### Test case: FP_My_Cart_TC_01; Description: Blank; status Executed 
+2017-11-02 19:40:26,899 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 19:40:26,940 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 19:40:26,970 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 19:40:26,970 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 19:40:31,622 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_01; Description: Blank In Firefox Browser for TestData:1 
+2017-11-02 19:40:41,504 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-11-02 19:41:16,903 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 19:41:52,533 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 19:42:27,887 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 19:43:03,266 INFO  [Log] TS_05: Click on login button 
+2017-11-02 19:43:38,582 INFO  [Log] TS_06: Capture value at my cart link intiallyMy Cart: 3 item(s), $100.00; Value has been stored in index: 0 
+2017-11-02 19:44:13,813 INFO  [Log] User specified value has been replaced at index0New Value is: My Cart: 3 
+2017-11-02 19:44:49,277 INFO  [Log] User specified value has been replaced at index0New Value is: 3 
+2017-11-02 19:45:24,552 INFO  [Log] TS_09: Capture value at my cart linkMy Cart: 3 item(s), $100.00; Value has been stored in index: 1 
+2017-11-02 19:46:00,243 INFO  [Log] User specified value has been replaced at index1New Value is:  $100.00 
+2017-11-02 19:46:35,802 INFO  [Log] TS_11: Capture the product part number90350; Value has been stored in index: 2 
+2017-11-02 19:47:11,525 INFO  [Log] TS_12: Capture the product price$50.00; Value has been stored in index: 3 
+2017-11-02 19:47:47,045 INFO  [Log] TS_13: Click on the product link 
+2017-11-02 19:48:22,264 INFO  [Log] TS_14: Capture the product initial quantity1; Value has been stored in index: 4 
+2017-11-02 19:48:57,552 INFO  [Log] TS_15: Click on the '+' icon to change product quantity 
+2017-11-02 19:49:33,024 INFO  [Log] TS_16: Capture the quantity after clicking on '+' icon2; Value has been stored in index: 5 
+2017-11-02 19:49:33,024 INFO  [Log] Fail; TS_17: Compare both the quantity(quantity should not match)Compare both the quantity(quantity should not match); Captured text1: 1; Captured text2: 2 
+2017-11-02 19:50:08,658 INFO  [Log] TS_18: Click on "Add to cart" button. 
+2017-11-02 19:50:44,271 INFO  [Log] TS_19: Capture value at my cart linkMy Cart: 5 item(s), $200.00; Value has been stored in index: 6 
+2017-11-02 19:51:19,881 INFO  [Log] User specified value has been replaced at index6New Value is: My Cart: 5 
+2017-11-02 19:51:55,135 INFO  [Log] User specified value has been replaced at index6New Value is: 5 
+2017-11-02 19:52:30,831 INFO  [Log] TS_22: Capture value at my cart linkMy Cart: 5 item(s), $200.00; Value has been stored in index: 7 
+2017-11-02 19:53:06,198 INFO  [Log] User specified value has been replaced at index7New Value is:  $200.00 
+2017-11-02 19:53:06,198 INFO  [Log] Fail; TS_24: Compare the product quantity before and after adding to cartCompare the product quantity before and after adding to cart; Captured text1: 3; Captured text2: 5 
+2017-11-02 19:53:06,329 INFO  [Log] Fail; TS_25: Compare the product price before and after adding to cartCompare the product price before and after adding to cart; Captured text1:  $100.00; Captured text2:  $200.00 
+2017-11-02 19:53:11,454 INFO  [Log] closing test case  
+2017-11-02 19:53:11,755 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 19:53:11,785 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 19:53:11,815 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 19:53:11,825 INFO  [Log] ### Test case: FP_My_Cart_TC_01; Description: Blank; status Executed 
+2017-11-02 19:53:11,997 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 19:53:12,037 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 19:53:12,067 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 19:53:12,067 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 19:53:20,683 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_01; Description: Blank In IE Browser for TestData:1 
+2017-11-02 19:54:09,782 INFO  [Log] TS_02: Click on the login link 
+2017-11-02 19:54:50,183 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-11-02 19:55:30,414 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-11-02 19:56:10,334 INFO  [Log] TS_05: Click on login button 
+2017-11-02 19:56:50,520 INFO  [Log] TS_06: Capture value at my cart link intiallyMy Cart: 5 item(s), $200.00; Value has been stored in index: 0 
+2017-11-02 19:57:30,672 INFO  [Log] User specified value has been replaced at index0New Value is: My Cart: 5 
+2017-11-02 19:58:10,933 INFO  [Log] User specified value has been replaced at index0New Value is: 5 
+2017-11-02 19:58:50,669 INFO  [Log] TS_09: Capture value at my cart linkMy Cart: 5 item(s), $200.00; Value has been stored in index: 1 
+2017-11-02 19:59:30,280 INFO  [Log] User specified value has been replaced at index1New Value is:  $200.00 
+2017-11-02 20:00:10,618 INFO  [Log] TS_11: Capture the product part number90350; Value has been stored in index: 2 
+2017-11-02 20:00:50,280 INFO  [Log] TS_12: Capture the product price$50.00; Value has been stored in index: 3 
+2017-11-02 20:01:31,003 INFO  [Log] TS_13: Click on the product link 
+2017-11-02 20:02:12,664 INFO  [Log] TS_14: Capture the product initial quantity1; Value has been stored in index: 4 
+2017-11-02 20:03:18,720 INFO  [Log] FP_My_Cart_TC_01TS_15XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-02 20:03:19,041 WARN  [Log]  Browser instance is active 
+2017-11-02 20:03:19,328 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-02 20:03:19,358 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-02 20:03:19,388 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-02 20:03:19,388 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 20:03:19,388 FATAL [Log] FP_My_Cart_TC_01TS_15XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-11-02 20:03:19,388 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 20:03:19,428 INFO  [Log] ####Closing Test Suite #### 
+2017-11-02 20:03:19,428 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-02 20:03:19,428 INFO  [Log] Creating Logs backup and storing for further reference 

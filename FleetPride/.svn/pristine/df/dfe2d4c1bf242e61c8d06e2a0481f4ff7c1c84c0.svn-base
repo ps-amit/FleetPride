@@ -1,0 +1,98 @@
+2017-08-27 23:10:11,144 INFO  [Log] Test Scenario Configuration started 
+2017-08-27 23:10:11,169 INFO  [Log] Initialing HTML reporting 
+2017-08-27 23:10:11,340 INFO  [Log] Starting Test Suit Execution 
+2017-08-27 23:10:11,340 WARN  [Log] No Browser instance is active 
+2017-08-27 23:10:11,906 INFO  [Log] Object repository is created successfully 
+2017-08-27 23:10:11,981 INFO  [Log] Rg_TC_42.xlsx_Rg_TC_42.xlsx 
+2017-08-27 23:10:12,045 INFO  [Log] Rg_TC_43.xlsx_Rg_TC_43.xlsx 
+2017-08-27 23:10:12,109 INFO  [Log] Rg_TC_53.xlsx_To verify Restriction filter  
+2017-08-27 23:10:12,176 INFO  [Log] Rg_TC_55.xlsx_To verify Qualification filter  
+2017-08-27 23:10:12,244 INFO  [Log] Rg_TC_57.xlsx_To verify Promotion filter 
+2017-08-27 23:10:12,293 INFO  [Log] Rg_TC_59.xlsx_Rg_TC_59.xlsx 
+2017-08-27 23:10:12,334 INFO  [Log] Rg_TC_60.xlsx_Rg_TC_60.xlsx 
+2017-08-27 23:10:12,381 INFO  [Log] Rg_TC_62.xlsx_Rg_TC_62.xlsx 
+2017-08-27 23:10:12,423 INFO  [Log] Rg_TC_63.xlsx_Rg_TC_63.xlsx 
+2017-08-27 23:10:12,466 INFO  [Log] Rg_TC_64.xlsx_Rg_TC_64.xlsx 
+2017-08-27 23:10:12,507 INFO  [Log] Rg_TC_66.xlsx_Rg_TC_66.xlsx 
+2017-08-27 23:10:12,549 INFO  [Log] Rg_TC_75.xlsx_Rg_TC_75.xlsx 
+2017-08-27 23:10:12,582 INFO  [Log] Rg_TC_76.xlsx_Rg_TC_76.xlsx 
+2017-08-27 23:10:12,613 INFO  [Log] Rg_TC_84.xlsx_Rg_TC_84.xlsx 
+2017-08-27 23:10:12,670 INFO  [Log] **************************************************************************************** 
+2017-08-27 23:10:12,670 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC_85.xlsx; Description: Rg_TC_85.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-27 23:10:12,670 INFO  [Log] **************************************************************************************** 
+2017-08-27 23:10:20,665 INFO  [Log] #### Executing Test case: Rg_TC_85.xlsx; Description: Rg_TC_85.xlsx In Chrome Browser for TestData:1 
+2017-08-27 23:10:37,704 INFO  [Log] TS_01: open url; Action: open URL 
+2017-08-27 23:10:38,156 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-08-27 23:10:38,300 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-08-27 23:10:38,386 INFO  [Log] TS_04: Click on login button: Action click 
+2017-08-27 23:10:38,387 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-08-27 23:10:51,620 INFO  [Log] TS_06: click on user name : Action click 
+2017-08-27 23:10:51,747 INFO  [Log] TS_07: click on choose property: Action click 
+2017-08-27 23:10:51,830 INFO  [Log] New Element Location is : Milestone Hotel KensingtonStored in ObjRep using element name: property: Type: Xpath 
+2017-08-27 23:10:52,933 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-08-27 23:10:52,934 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2017-08-27 23:11:03,055 INFO  [Log] TS_11: Click on property: Action click 
+2017-08-27 23:11:03,056 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2017-08-27 23:11:13,196 INFO  [Log] TS_13: click on rates: Action click 
+2017-08-27 23:11:13,197 INFO  [Log] TS_14; Waited 14000 Milli seconds for Element 
+2017-08-27 23:11:27,406 INFO  [Log] TS_15: click on grid view: Action click 
+2017-08-27 23:11:27,412 INFO  [Log] TS_16; Waited 10000 Milli seconds for Element 
+2017-08-27 23:11:37,589 INFO  [Log] TS_17: clcik on rangefilter: Action click 
+2017-08-27 23:11:37,590 INFO  [Log] TS_18; Waited 2000 Milli seconds for Element 
+2017-08-27 23:11:39,858 INFO  [Log] TS_20; Waited 2000 Milli seconds for Element 
+2017-08-27 23:11:42,082 INFO  [Log] TS_22; Waited 2000 Milli seconds for Element 
+2017-08-27 23:11:44,445 INFO  [Log] TS_23: click on apply: Action click 
+2017-08-27 23:11:44,445 INFO  [Log] TS_24; Waited 4000 Milli seconds for Element 
+2017-08-27 23:11:48,573 INFO  [Log] TS_25: clcik on rate filter: Action click 
+2017-08-27 23:11:48,573 INFO  [Log] TS_26; Waited 4000 Milli seconds for Element 
+2017-08-27 23:11:52,864 INFO  [Log] TS_27: filter; Action: Drop Down Select 
+2017-08-27 23:11:53,073 INFO  [Log] TS_28: filter; Action: Drop Down Select 
+2017-08-27 23:11:53,271 INFO  [Log] TS_29: filter; Action: Drop Down Select 
+2017-08-27 23:11:53,460 INFO  [Log] TS_30: filter; Action: Drop Down Select 
+2017-08-27 23:11:53,640 INFO  [Log] TS_31: filter; Action: Drop Down Select 
+2017-08-27 23:11:53,640 INFO  [Log] TS_32; Waited 2000 Milli seconds for Element 
+2017-08-27 23:11:55,818 INFO  [Log] TS_33: click on apply: Action click 
+2017-08-27 23:11:55,819 INFO  [Log] TS_34; Waited 4000 Milli seconds for Element 
+2017-08-27 23:12:00,398 INFO  [Log] List of following Values has been storedTS_35: capture all rates; Action: Capture and stored value, 510, NA, NA, NA, NA, NA, NA, NA, NA, 660, NA, 296, NA, NA, NA, NA, NA, NA, NA 
+2017-08-27 23:12:00,428 INFO  [Log] TS_36; Passed; verify the lowest  valuelowest  value defined by user is same with list 296  296 
+2017-08-27 23:12:05,431 INFO  [Log] closing test case  
+2017-08-27 23:12:05,783 INFO  [Log] Closing instance of Browser: Chrome 
+2017-08-27 23:12:05,821 INFO  [Log] ### Test case: Rg_TC_85.xlsx; Description: Rg_TC_85.xlsx; status Executed 
+2017-08-27 23:12:05,821 WARN  [Log] No Browser instance is active 
+2017-08-27 23:12:05,821 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-27 23:12:05,823 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-27 23:12:06,231 INFO  [Log] Rg_TC_86.xlsx_Rg_TC_86.xlsx 
+2017-08-27 23:12:06,268 INFO  [Log] Rg_TC_87.xlsx_Rg_TC_87.xlsx 
+2017-08-27 23:12:06,292 INFO  [Log] Rg_TC_94.xlsx_Rg_TC_94.xlsx 
+2017-08-27 23:12:06,321 INFO  [Log] Rg_TC_95.xlsx_Rg_TC_95.xlsx 
+2017-08-27 23:12:06,347 INFO  [Log] Rg_TC_96.xlsx_Rg_TC_96.xlsx 
+2017-08-27 23:12:06,372 INFO  [Log] Rg_TC_97.xlsx_Rg_TC_97.xlsx 
+2017-08-27 23:12:06,397 INFO  [Log] Rg_TC_101.xlsx_Rg_TC_101.xlsx 
+2017-08-27 23:12:06,418 INFO  [Log] Rg_TC_102.xlsx_Rg_TC_102.xlsx 
+2017-08-27 23:12:06,443 INFO  [Log] Rg_TC_174.xlsx_Rg_TC_174.xlsx 
+2017-08-27 23:12:06,463 INFO  [Log] Rg_TC_175.xlsx_Rg_TC_175.xlsx 
+2017-08-27 23:12:06,483 INFO  [Log] Rg_TC_176.xlsx_Rg_TC_176.xlsx 
+2017-08-27 23:12:06,513 INFO  [Log] Rg_TC_guest.xlsx_Rg_TC_guest.xlsx 
+2017-08-27 23:12:06,538 INFO  [Log] Rg_TC_los_com.xlsx_Rg_TC_los_com.xlsx 
+2017-08-27 23:12:06,564 INFO  [Log] Rg_TC_pro_com.xlsx_Rg_TC_pro_com.xlsx 
+2017-08-27 23:12:06,589 INFO  [Log] Rg_TC_qual_com.xlsx_Rg_TC_qual_com.xlsx 
+2017-08-27 23:12:06,611 INFO  [Log] Rg_TC_res_com.xlsx_Rg_TC_res_com.xlsx 
+2017-08-27 23:12:06,630 INFO  [Log] RG_TC_65.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-27 23:12:06,653 INFO  [Log] RG_TC_103.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-OFF) 
+2017-08-27 23:12:06,677 INFO  [Log] RG_TC_104.xlsx_To verify Date Range, LOS, Guest Filter are set in accordance with latest report under parity when default filters (Preferred View Period-ON) 
+2017-08-27 23:12:06,700 INFO  [Log] RG_TC_111.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-27 23:12:06,718 INFO  [Log] RG_TC_112.xlsx_To verify the Parity data in Excel 
+2017-08-27 23:12:06,740 INFO  [Log] RG_TC_113.xlsx_To verify default filters (Preferred View Period-Off) 
+2017-08-27 23:12:06,761 INFO  [Log] RG_TC_114.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-27 23:12:06,785 INFO  [Log] RG_TC_118.xlsx_To verify the download Excel 
+2017-08-27 23:12:06,811 INFO  [Log] RG_TC_119.xlsx_To Verify the Trends Excel data 
+2017-08-27 23:12:06,838 INFO  [Log] RG_TC_166.xlsx_To verify default filters (Preferred View Period-ON) 
+2017-08-27 23:12:06,857 INFO  [Log] RG_TC_43.xlsx_To Verify the general settings section 
+2017-08-27 23:12:06,879 INFO  [Log] RG_TC_167.xlsx_To Verify the general settings section 
+2017-08-27 23:12:06,901 INFO  [Log] RG_TC_168.xlsx_To Verify the general settings section 
+2017-08-27 23:12:06,923 INFO  [Log] Rg_TC_105_parity_Rg_TC_105_parity 
+2017-08-27 23:12:06,942 INFO  [Log] Rg_TC_67_compsetAvgSupply_filter_Rg_TC_67_compsetAvgSupply_filter 
+2017-08-27 23:12:06,965 INFO  [Log] Rg_TC_107_parity_Rg_TC_107_parity 
+2017-08-27 23:12:06,988 INFO  [Log] ####Closing Test Suite #### 
+2017-08-27 23:12:06,988 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-08-27 23:12:06,988 INFO  [Log] Creating Logs backup and storing for further reference 

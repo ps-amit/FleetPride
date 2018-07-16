@@ -1,0 +1,49 @@
+2018-05-08 15:33:56,603 INFO  [Log] Test Scenario Configuration started 
+2018-05-08 15:33:56,621 INFO  [Log] Initialing HTML reporting 
+2018-05-08 15:33:56,900 INFO  [Log] Starting Test Suit Execution 
+2018-05-08 15:33:57,418 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-08 15:33:57,493 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-08 15:33:57,570 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-08 15:33:58,183 INFO  [Log] Object repository is created successfully 
+2018-05-08 15:33:58,254 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-08 15:33:58,332 INFO  [Log] **************************************************************************************** 
+2018-05-08 15:33:58,332 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PE-259_Navigation_Link_Not_Working.xlsx; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-08 15:33:58,332 INFO  [Log] **************************************************************************************** 
+2018-05-08 15:34:05,192 INFO  [Log] #### Executing Test case: PE-259_Navigation_Link_Not_Working.xlsx; Description: Blank In Chrome Browser for TestData:1 
+2018-05-08 15:34:10,560 INFO  [Log] TS_01: Open url; Action: open URL 
+2018-05-08 15:34:10,847 INFO  [Log] TS_02: Enter username; Action: Submitted Value: Value: amit.singh@puresoftware.com 
+2018-05-08 15:34:10,973 INFO  [Log] TS_03: Enter Password; Action: Submitted Value: Value: amitsingh123 
+2018-05-08 15:34:10,974 INFO  [Log] TS_04; Waited 1000 Milli seconds for Element 
+2018-05-08 15:34:13,592 INFO  [Log] TS_05: Click on login button 
+2018-05-08 15:34:13,593 INFO  [Log] TS_06; Waited 10000 Milli seconds for Element 
+2018-05-08 15:34:24,788 INFO  [Log] TS_07: Scroll to element: Action Scroll Down 
+2018-05-08 15:34:24,791 INFO  [Log] TS_08; Waited 10000 Milli seconds for Element 
+2018-05-08 15:34:38,525 INFO  [Log] TS_09: Click on the Cooling System link 
+2018-05-08 15:34:38,531 INFO  [Log] TS_10; Waited 10000 Milli seconds for Element 
+2018-05-08 15:34:51,464 INFO  [Log] TS_11: Click on the Belt and Tensioners link 
+2018-05-08 15:34:51,467 INFO  [Log] TS_12; Waited 10000 Milli seconds for Element 
+2018-05-08 15:35:12,074 INFO  [Log] PE-259TS_13XpathClick  org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=64.0.3282.140)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.47 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir2316_26425}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.140, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8bab8d0d2a6368c6614124de8f4fc866null:Exception is not handled 
+2018-05-08 15:35:22,753 WARN  [Log]  Browser instance is active 
+2018-05-08 15:35:25,705 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-08 15:35:25,791 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-08 15:35:25,870 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-08 15:35:25,870 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-08 15:35:25,870 FATAL [Log] PE-259TS_13XpathClick  org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=64.0.3282.140)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.47 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir2316_26425}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.140, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8bab8d0d2a6368c6614124de8f4fc866null:Exception is not handled 
+2018-05-08 15:35:25,870 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-08 15:35:25,938 INFO  [Log] Creating Logs backup and storing for further reference 

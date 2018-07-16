@@ -1,0 +1,29 @@
+2018-05-28 13:04:31,863 INFO  [Log] Test Scenario Configuration started 
+2018-05-28 13:04:31,890 INFO  [Log] Initialing HTML reporting 
+2018-05-28 13:04:32,168 INFO  [Log] Starting Test Suit Execution 
+2018-05-28 13:04:32,700 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 13:04:32,785 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 13:04:32,875 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 13:04:33,638 INFO  [Log] Object repository is created successfully 
+2018-05-28 13:04:33,731 INFO  [Log] fetch_SP_qty_Blank 
+2018-05-28 13:04:33,833 INFO  [Log] Fetch DSP from Sales Force_Blank 
+2018-05-28 13:04:33,897 INFO  [Log] fetch_X_Category_Product_Pre-requisite  
+2018-05-28 13:04:33,951 INFO  [Log] E2E_X_category_product_Blank 
+2018-05-28 13:04:34,015 INFO  [Log] Reorder_Blank 
+2018-05-28 13:04:34,056 INFO  [Log] **************************************************************************************** 
+2018-05-28 13:04:34,056 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Fetch DSP from Sales Force-qty<100; Description: Pre-requisite For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-28 13:04:34,056 INFO  [Log] **************************************************************************************** 
+2018-05-28 13:04:36,090 INFO  [Log] #### Executing Test case: Fetch DSP from Sales Force-qty<100; Description: Pre-requisite In No Browser Browser for TestData:1 
+2018-05-28 13:04:41,234 INFO  [Log] TS_01: fetch value form SF;Column Name is not provided, Please provide column name in ActionSupportValue 
+2018-05-28 13:04:46,258 INFO  [Log] closing test case  
+2018-05-28 13:04:47,560 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 13:04:47,801 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 13:04:47,995 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 13:04:48,077 INFO  [Log] ### Test case: Fetch DSP from Sales Force-qty<100; Description: Pre-requisite; status Executed 
+2018-05-28 13:04:48,573 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2018-05-28 13:04:48,656 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2018-05-28 13:04:48,747 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2018-05-28 13:04:48,748 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 13:04:48,748 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-28 13:04:49,086 FATAL [Log] Test script Location/sheet name is not provided for PE-319_Saved_Order_List_Back_Order_Qty 
+2018-05-28 13:04:49,133 INFO  [Log] Creating Logs backup and storing for further reference 

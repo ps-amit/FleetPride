@@ -1,0 +1,81 @@
+2017-07-25 22:44:06,579 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 22:44:06,595 INFO  [Log] Initialing HTML reporting 
+2017-07-25 22:44:06,911 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 22:44:06,911 WARN  [Log] Browser instance value is null 
+2017-07-25 22:44:07,488 INFO  [Log] Object repository is created successfully 
+2017-07-25 22:44:07,589 INFO  [Log] **************************************************************************************** 
+2017-07-25 22:44:07,589 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 22:44:07,589 INFO  [Log] **************************************************************************************** 
+2017-07-25 22:44:13,795 ERROR [Log] Error#: Rg_TC002.xlsx; Error in communicating with Browserorg.openqa.selenium.WebDriverException: Failed to find width field
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160922113459, version=49.0.1, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, processId=8868.0, browserVersion=49.0.1, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=windows_nt, device=desktop}]
+Session ID: ae78a390-765d-4fd0-b5ab-233279b14519 
+2017-07-25 22:44:13,795 INFO  [Log] #### Executing Test case: Rg_TC002.xlsx; Description: Rg_TC002.xlsx In firefox Browser for TestData:1 
+2017-07-25 22:44:30,586 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 22:44:31,010 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 22:44:31,236 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 22:44:31,438 INFO  [Log] TS_04: click on forget password: Action click 
+2017-07-25 22:44:31,639 INFO  [Log] TS_05: verify forget password screen appear; Passed; ; Element is present on the active page 
+2017-07-25 22:44:31,880 INFO  [Log] TS_06: enter eamil; Action: Submited Value 
+2017-07-25 22:44:32,082 INFO  [Log] TS_07: click on recovery email button: Action click 
+2017-07-25 22:44:32,082 INFO  [Log] TS_08; Waited 2000 Milli seconds for Element 
+2017-07-25 22:44:34,289 INFO  [Log] TS_09; Passed; verify reset email has been sent; Value: a password recovery email has been sent to your email id, please check!; Present in Page values: A password recovery email has been sent to your email id, please check!,  
+2017-07-25 22:44:34,290 INFO  [Log] closing test case  
+2017-07-25 22:44:34,308 ERROR [Log] Error#: Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160922113459, version=49.0.1, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, processId=8868.0, browserVersion=49.0.1, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=windows_nt, device=desktop}]
+Session ID: ae78a390-765d-4fd0-b5ab-233279b14519 
+2017-07-25 22:44:54,944 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160922113459, version=49.0.1, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, processId=8868.0, browserVersion=49.0.1, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=windows_nt, device=desktop}]
+Session ID: ae78a390-765d-4fd0-b5ab-233279b14519 
+2017-07-25 22:44:54,944 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 22:44:54,945 FATAL [Log] Blank; Browser Window is Closedorg.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'VINAYAK-LP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160922113459, version=49.0.1, platform=XP, proxy=Proxy(), command_id=1.0, specificationLevel=0.0, acceptSslCerts=false, processId=8868.0, browserVersion=49.0.1, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, javascriptEnabled=true, platformName=windows_nt, device=desktop}]
+Session ID: ae78a390-765d-4fd0-b5ab-233279b14519 
+2017-07-25 22:44:54,945 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 22:44:55,369 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 22:44:55,417 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 22:44:55,467 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 22:44:55,512 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 22:44:55,560 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 22:44:55,600 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 22:44:55,643 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 22:44:55,692 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 22:44:55,726 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 22:44:55,761 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 22:44:55,792 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 22:44:55,821 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 22:44:55,850 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 22:44:55,889 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 22:44:55,916 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 22:44:55,945 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 22:44:55,973 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 22:44:56,000 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 22:44:56,032 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 22:44:56,056 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 22:44:56,083 INFO  [Log] Rg_TC0048.xlsx_Rg_TC0048.xlsx 
+2017-07-25 22:44:56,116 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 22:44:56,142 INFO  [Log] Rg_TC0052.xlsx_Rg_TC0052.xlsx 
+2017-07-25 22:44:56,162 INFO  [Log] Rg_TC0054.xlsx_Rg_TC0054.xlsx 
+2017-07-25 22:44:56,188 INFO  [Log] Rg_TC0056.xlsx_Rg_TC0056.xlsx 
+2017-07-25 22:44:56,210 INFO  [Log] Rg_TC0058.xlsx_Rg_TC0058.xlsx 
+2017-07-25 22:44:56,245 INFO  [Log] Rg_TC0060.xlsx_Rg_TC0060.xlsx 
+2017-07-25 22:44:56,272 INFO  [Log] Rg_TC0062.xlsx_Rg_TC0062.xlsx 
+2017-07-25 22:44:56,301 INFO  [Log] Rg_TC0064.xlsx_Rg_TC0064.xlsx 
+2017-07-25 22:44:56,335 INFO  [Log] Rg_TC0066.xlsx_Rg_TC0066.xlsx 
+2017-07-25 22:44:56,364 INFO  [Log] Rg_TC0068.xlsx_Rg_TC0068.xlsx 
+2017-07-25 22:44:56,388 INFO  [Log] Rg_TC0070.xlsx_Rg_TC0070.xlsx 
+2017-07-25 22:44:56,410 INFO  [Log] Rg_TC0072.xlsx_Rg_TC0072.xlsx 
+2017-07-25 22:44:56,435 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 22:44:56,435 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 22:44:56,436 INFO  [Log] Creating Logs backup and storing for further reference 

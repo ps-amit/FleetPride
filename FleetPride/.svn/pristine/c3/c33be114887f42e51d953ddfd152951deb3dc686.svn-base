@@ -1,0 +1,42 @@
+2017-11-04 12:18:34,571 INFO  [Log] Test Scenario Configuration started 
+2017-11-04 12:18:34,593 INFO  [Log] Initialing HTML reporting 
+2017-11-04 12:18:34,806 INFO  [Log] Starting Test Suit Execution 
+2017-11-04 12:18:35,052 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-04 12:18:35,102 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-04 12:18:35,147 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-04 12:18:35,679 INFO  [Log] Object repository is created successfully 
+2017-11-04 12:18:35,793 INFO  [Log] FP_home_page_search_productName_Blank 
+2017-11-04 12:18:35,899 INFO  [Log] FP_home_page_search_productPartNumber_Blank 
+2017-11-04 12:18:35,944 INFO  [Log] FP_home_page_search_invalid_data_Blank 
+2017-11-04 12:18:35,989 INFO  [Log] FP_home_page_search_below_2_characters_Blank 
+2017-11-04 12:18:36,065 INFO  [Log] FP_pdc_search_productPartNumber_Blank 
+2017-11-04 12:18:36,112 INFO  [Log] FP_pdc_search_productName_Blank 
+2017-11-04 12:18:36,150 INFO  [Log] FP_pdc_search_invalid_data_Blank 
+2017-11-04 12:18:36,191 INFO  [Log] FP_pdc_search_below_2_characters_Blank 
+2017-11-04 12:18:36,227 INFO  [Log] FP_pdc_quick_order_Blank 
+2017-11-04 12:18:36,259 INFO  [Log] FP_pdp_Add_To_Cart_TC_06_Blank 
+2017-11-04 12:18:36,294 INFO  [Log] FP_pdp_FP_brand_code_TC_11_Blank 
+2017-11-04 12:18:36,323 INFO  [Log] FP_pdp_Add_To_Cart_TC_19_Blank 
+2017-11-04 12:18:36,350 INFO  [Log] FP_contact_us_page_before_login_Blank 
+2017-11-04 12:18:36,376 INFO  [Log] FP_Order_Upload_Blank 
+2017-11-04 12:18:36,420 INFO  [Log] Testing_Purpose_Blank 
+2017-11-04 12:18:36,445 INFO  [Log] FP_contact_us_page_after_login_Blank 
+2017-11-04 12:18:36,470 INFO  [Log] FP_My_Account_TC_2_Blank 
+2017-11-04 12:18:36,494 INFO  [Log] FP_My_Cart_TC_01_Blank 
+2017-11-04 12:18:36,518 INFO  [Log] FP_My_Cart_TC_07_Blank 
+2017-11-04 12:18:36,541 INFO  [Log] FP_My_Cart_TC_37_Blank 
+2017-11-04 12:18:36,582 INFO  [Log] **************************************************************************************** 
+2017-11-04 12:18:36,582 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_My_Cart_TC_38; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-11-04 12:18:36,582 INFO  [Log] **************************************************************************************** 
+2017-11-04 12:18:36,738 ERROR [Log] Error#: FP_My_Cart_TC_38; Error in communicating with Browserjava.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-11-04 12:18:36,738 INFO  [Log] #### Executing Test case: FP_My_Cart_TC_38; Description: Blank In Opera Browser for TestData:1 
+2017-11-04 12:18:46,763 INFO  [Log] FP_My_Cart_TC_38TS_02ObjectRepClick  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-11-04 12:18:47,735 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-11-04 12:18:47,791 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-11-04 12:18:47,834 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-11-04 12:18:47,835 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-04 12:18:47,835 FATAL [Log] FP_My_Cart_TC_38TS_02ObjectRepClick  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-11-04 12:18:47,835 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-04 12:18:47,978 INFO  [Log] ####Closing Test Suite #### 
+2017-11-04 12:18:47,978 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-11-04 12:18:47,978 INFO  [Log] Creating Logs backup and storing for further reference 

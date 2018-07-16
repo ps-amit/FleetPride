@@ -1,0 +1,36 @@
+2017-10-27 13:26:11,230 INFO  [Log] Test Scenario Configuration started 
+2017-10-27 13:26:11,250 INFO  [Log] Initialing HTML reporting 
+2017-10-27 13:26:11,410 INFO  [Log] Starting Test Suit Execution 
+2017-10-27 13:26:11,580 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 13:26:11,620 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 13:26:11,650 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 13:26:12,080 INFO  [Log] Object repository is created successfully 
+2017-10-27 13:26:12,131 INFO  [Log] product_search_script_Blank 
+2017-10-27 13:26:12,191 INFO  [Log] quick_order_Blank 
+2017-10-27 13:26:12,221 INFO  [Log] cart_Blank 
+2017-10-27 13:26:12,281 INFO  [Log] FP_home_page_search_v_productPartNumber_Blank 
+2017-10-27 13:26:12,326 INFO  [Log] **************************************************************************************** 
+2017-10-27 13:26:12,326 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_home_page_search_v_productName; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-27 13:26:12,326 INFO  [Log] **************************************************************************************** 
+2017-10-27 13:26:18,093 INFO  [Log] #### Executing Test case: FP_home_page_search_v_productName; Description: Blank In Chrome Browser for TestData:1 
+2017-10-27 13:26:42,187 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-27 13:27:24,236 INFO  [Log] TS_02: Click on the login link 
+2017-10-27 13:27:59,808 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-27 13:28:35,411 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-27 13:29:19,838 INFO  [Log] TS_05: Click on login button 
+2017-10-27 13:29:55,545 INFO  [Log] TS_06: Enter product name in the search box to be search; Action: Submited ValueValue: Hood Latch Assembly Gates-90350 
+2017-10-27 13:30:38,556 INFO  [Log] TS_07: Click on the product search box on home page 
+2017-10-27 13:31:14,358 INFO  [Log] Failed: TS_08: Verify the correctness of the product on the search result page; Value: hood latch assembly gates-90350; is Not Present in Page values: GAT-90350,  
+2017-10-27 13:31:19,919 INFO  [Log] closing test case  
+2017-10-27 13:31:22,215 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 13:31:22,246 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 13:31:22,286 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 13:31:22,296 INFO  [Log] ### Test case: FP_home_page_search_v_productName; Description: Blank; status Executed 
+2017-10-27 13:31:22,516 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-27 13:31:22,546 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-27 13:31:22,576 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-27 13:31:22,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 13:31:22,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 13:31:22,644 INFO  [Log] ####Closing Test Suite #### 
+2017-10-27 13:31:22,644 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-27 13:31:22,644 INFO  [Log] Creating Logs backup and storing for further reference 

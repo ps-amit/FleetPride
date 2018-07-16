@@ -1,0 +1,68 @@
+2017-09-22 15:36:24,097 INFO  [Log] Test Scenario Configuration started 
+2017-09-22 15:36:24,112 INFO  [Log] Initialing HTML reporting 
+2017-09-22 15:36:24,344 INFO  [Log] Starting Test Suit Execution 
+2017-09-22 15:36:24,539 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 15:36:24,570 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 15:36:24,605 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 15:36:25,051 INFO  [Log] Object repository is created successfully 
+2017-09-22 15:36:25,126 INFO  [Log] PGNG1030_TC_101_To verify compset average value 
+2017-09-22 15:36:25,174 INFO  [Log] PGNG1030_TC_093_Blank 
+2017-09-22 15:36:25,217 INFO  [Log] RG_TC_012_Blank 
+2017-09-22 15:36:25,256 INFO  [Log] RG_TC_016_Blank 
+2017-09-22 15:36:25,292 INFO  [Log] PGNG_1801_TC_001_Blank 
+2017-09-22 15:36:25,313 INFO  [Log] PGNG_1801_TC_002_Blank 
+2017-09-22 15:36:25,344 INFO  [Log] PGNG_1801_TC_028_Blank 
+2017-09-22 15:36:25,416 INFO  [Log] **************************************************************************************** 
+2017-09-22 15:36:25,416 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PGNG_1801_TC_003; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-22 15:36:25,417 INFO  [Log] **************************************************************************************** 
+2017-09-22 15:36:31,292 INFO  [Log] #### Executing Test case: PGNG_1801_TC_003; Description: Blank In Chrome Browser for TestData:1 
+2017-09-22 15:36:44,872 INFO  [Log] TS_01: open url; Action: open URL 
+2017-09-22 15:36:45,186 INFO  [Log] TS_02: Enter user name; Action: Submited ValueValue: Yogesh.kumar@rategain.com 
+2017-09-22 15:36:45,316 INFO  [Log] TS_03: Enter password; Action: Submited ValueValue: pgh1234 
+2017-09-22 15:36:45,417 INFO  [Log] TS_04: Click on login button 
+2017-09-22 15:36:57,311 INFO  [Log] TS_05: Click on UserName Icon 
+2017-09-22 15:36:57,468 INFO  [Log] TS_06: Click on Choose Property 
+2017-09-22 15:36:57,549 INFO  [Log] New Element Location is : DoubleTree by Hilton Hotel London - Marble ArchStored in ObjRep using element name: property: Type: Xpath 
+2017-09-22 15:36:58,759 INFO  [Log] TS_08: scroll to new element: Action Scroll Down 
+2017-09-22 15:36:58,918 INFO  [Log] TS_09: Click on property 
+2017-09-22 15:37:02,126 INFO  [Log] TS_10: Click on Settings 
+2017-09-22 15:37:04,368 INFO  [Log] TS_11: Click on Mapping 
+2017-09-22 15:37:10,687 INFO  [Log] TS_12: Click on basic mapping tab: Action click If 
+2017-09-22 15:37:19,022 INFO  [Log] TS_13: Click on the Yes buton from the pop up: Action Element is not present moving to next step 
+2017-09-22 15:37:19,023 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-09-22 15:37:21,183 INFO  [Log] TS_15: Click on the Room Type button 
+2017-09-22 15:37:21,183 INFO  [Log] TS_16; Waited 2000 Milli seconds for Element 
+2017-09-22 15:37:23,345 INFO  [Log] TS_17; Passed; Verify the text 'Add New Room Type' appearing in the pop up; Value: add new room type; Present in Page values: Add New Room Type,  
+2017-09-22 15:37:23,444 INFO  [Log] TS_18: Click on Name input box under Add new room type pop up 
+2017-09-22 15:37:23,676 INFO  [Log] TS_19: Input the Room type name; Action: Submited ValueValue: Sharing 
+2017-09-22 15:37:23,773 INFO  [Log] TS_20: Click on the Add button from the pop up 
+2017-09-22 15:37:24,923 INFO  [Log] TS_21; Passed; Verify the presence of Room type which is added; Value: sharing; Present in Page values: Sharing,  
+2017-09-22 15:37:24,995 INFO  [Log] TS_22: Click on the Room Type button again 
+2017-09-22 15:37:25,010 INFO  [Log] TS_23; Waited 2000 Milli seconds for Element 
+2017-09-22 15:37:27,142 INFO  [Log] TS_24: Click on Name input box under Add new room type pop up 
+2017-09-22 15:37:27,360 INFO  [Log] TS_25: Input the Room type name; Action: Submited ValueValue: Sharing 
+2017-09-22 15:37:27,437 INFO  [Log] TS_26: Click on the Add button from the pop up 
+2017-09-22 15:37:27,448 INFO  [Log] TS_27; Passed; Verify the alert message if room type already exist; Value: Room Type already exists!; Present in Alert message values: Room Type already exists! 
+2017-09-22 15:37:27,462 INFO  [Log] Alert is not detected on the page 
+2017-09-22 15:37:27,462 INFO  [Log] TS_29; Waited 4000 Milli seconds for Element 
+2017-09-22 15:37:31,613 INFO  [Log] TS_30: Click on the 'Cancel' button to close the pop up 
+2017-09-22 15:37:31,613 INFO  [Log] TS_31; Waited 2000 Milli seconds for Element 
+2017-09-22 15:37:33,774 INFO  [Log] TS_32; Passed; Verify Pop is Visible on the Page or not; Element is not present/dispayed on the page 
+2017-09-22 15:37:33,853 INFO  [Log] TS_33: Click on the action icon to delete the added room type 
+2017-09-22 15:37:33,984 INFO  [Log] TS_34: Click delete to delete the added room type 
+2017-09-22 15:37:34,087 INFO  [Log] TS_35: Click on Yes button to delete the room type which is added 
+2017-09-22 15:37:34,172 INFO  [Log] New Element Location is : SharingStored in ObjRep using element name: delete: Type: Xpath 
+2017-09-22 15:37:34,293 INFO  [Log] Fail; TS_37: Verify the added room type is deleted; Element is present/displayed on the page 
+2017-09-22 15:37:39,897 INFO  [Log] closing test case  
+2017-09-22 15:37:42,469 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 15:37:42,503 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 15:37:42,534 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 15:37:42,549 INFO  [Log] ### Test case: PGNG_1801_TC_003; Description: Blank; status Executed 
+2017-09-22 15:37:42,690 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-09-22 15:37:42,721 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-09-22 15:37:42,752 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-09-22 15:37:42,752 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 15:37:42,752 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 15:37:42,830 INFO  [Log] ####Closing Test Suite #### 
+2017-09-22 15:37:42,830 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-22 15:37:42,830 INFO  [Log] Creating Logs backup and storing for further reference 

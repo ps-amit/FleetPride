@@ -1,0 +1,72 @@
+2017-07-25 15:51:18,744 INFO  [Log] Test Scenario Configuration started 
+2017-07-25 15:51:18,806 INFO  [Log] Initialing HTML reporting 
+2017-07-25 15:51:18,993 INFO  [Log] Starting Test Suit Execution 
+2017-07-25 15:51:18,993 WARN  [Log] Browser instance value is null 
+2017-07-25 15:51:19,653 INFO  [Log] Object repository is created successfully 
+2017-07-25 15:51:19,742 INFO  [Log] Rg_TC002.xlsx_Rg_TC002.xlsx 
+2017-07-25 15:51:19,804 INFO  [Log] Rg_TC004.xlsx_Rg_TC004.xlsx 
+2017-07-25 15:51:19,860 INFO  [Log] Rg_TC006.xlsx_Rg_TC006.xlsx 
+2017-07-25 15:51:19,914 INFO  [Log] Rg_TC008.xlsx_Rg_TC008.xlsx 
+2017-07-25 15:51:19,969 INFO  [Log] Rg_TC0010.xlsx_Rg_TC0010.xlsx 
+2017-07-25 15:51:20,015 INFO  [Log] Rg_TC0012.xlsx_Rg_TC0012.xlsx 
+2017-07-25 15:51:20,058 INFO  [Log] Rg_TC0014.xlsx_Rg_TC0014.xlsx 
+2017-07-25 15:51:20,115 INFO  [Log] Rg_TC0016.xlsx_Rg_TC0016.xlsx 
+2017-07-25 15:51:20,162 INFO  [Log] Rg_TC0018.xlsx_Rg_TC0018.xlsx 
+2017-07-25 15:51:20,216 INFO  [Log] Rg_TC0024.xlsx_Rg_TC0024.xlsx 
+2017-07-25 15:51:20,261 INFO  [Log] Rg_TC0026.xlsx_Rg_TC0026.xlsx 
+2017-07-25 15:51:20,305 INFO  [Log] Rg_TC0028.xlsx_Rg_TC0028.xlsx 
+2017-07-25 15:51:20,345 INFO  [Log] Rg_TC0030.xlsx_Rg_TC0030.xlsx 
+2017-07-25 15:51:20,381 INFO  [Log] Rg_TC0032.xlsx_Rg_TC0032.xlsx 
+2017-07-25 15:51:20,415 INFO  [Log] Rg_TC0034.xlsx_Rg_TC0034.xlsx 
+2017-07-25 15:51:20,460 INFO  [Log] Rg_TC0036.xlsx_Rg_TC0036.xlsx 
+2017-07-25 15:51:20,493 INFO  [Log] Rg_TC0038.xlsx_Rg_TC0038.xlsx 
+2017-07-25 15:51:20,525 INFO  [Log] Rg_TC0040.xlsx_Rg_TC0040.xlsx 
+2017-07-25 15:51:20,559 INFO  [Log] Rg_TC0042.xlsx_Rg_TC0042.xlsx 
+2017-07-25 15:51:20,592 INFO  [Log] Rg_TC0044.xlsx_Rg_TC0044.xlsx 
+2017-07-25 15:51:20,625 INFO  [Log] Rg_TC0046.xlsx_Rg_TC0046.xlsx 
+2017-07-25 15:51:20,674 INFO  [Log] **************************************************************************************** 
+2017-07-25 15:51:20,674 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-07-25 15:51:20,674 INFO  [Log] **************************************************************************************** 
+2017-07-25 15:51:27,041 INFO  [Log] #### Executing Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx In chrome Browser for TestData:1 
+2017-07-25 15:51:38,544 INFO  [Log] TS_01: open url; Action: open URL 
+2017-07-25 15:51:39,380 INFO  [Log] TS_02: Enter user name; Action: Submited Value 
+2017-07-25 15:51:39,524 INFO  [Log] TS_03: Enter password; Action: Submited Value 
+2017-07-25 15:51:39,636 INFO  [Log] TS_04: Click on login button: Action click 
+2017-07-25 15:51:39,637 INFO  [Log] TS_05; Waited 10000 Milli seconds for Element 
+2017-07-25 15:51:53,659 INFO  [Log] TS_06: click on user name : Action click 
+2017-07-25 15:51:53,753 INFO  [Log] TS_07: click on choose property: Action click 
+2017-07-25 15:51:55,009 INFO  [Log] TS_09: scroll to new element: Action Scroll Down 
+2017-07-25 15:51:55,010 INFO  [Log] TS_10; Waited 4000 Milli seconds for Element 
+2017-07-25 15:51:59,168 INFO  [Log] TS_11: Click on property: Action click 
+2017-07-25 15:51:59,170 INFO  [Log] TS_12; Waited 4000 Milli seconds for Element 
+2017-07-25 15:52:03,301 INFO  [Log] TS_13: click on rates: Action click 
+2017-07-25 15:52:03,302 INFO  [Log] TS_14; Waited 2000 Milli seconds for Element 
+2017-07-25 15:52:05,453 INFO  [Log] TS_15: click on date rate : Action click 
+2017-07-25 15:52:05,941 INFO  [Log] Failed: TS_16: verify by default competation is inactive; Value: blank; is Not Present in Page values: ,  
+2017-07-25 15:52:06,856 INFO  [Log] TS_17: click on competation: Action click 
+2017-07-25 15:52:06,974 INFO  [Log] TS_18; Passed; verify competition is active; Value: active; Present in Page values: active,  
+2017-07-25 15:52:08,170 INFO  [Log] TS_19: verify competition graph is present; Passed; ; Element is present on the active page 
+2017-07-25 15:52:08,826 INFO  [Log] TS_20: hover on bar chart: ToolTipNavigation 
+2017-07-25 15:52:09,490 INFO  [Log] Compset Avg. Supply : 100; Value has been stored in index: 0 
+2017-07-25 15:52:09,550 INFO  [Log] User specified value has been replaced at index0New Value is: 100 
+2017-07-25 15:52:09,675 INFO  [Log] Compset Avg. OTA Rank : NA; Value has been stored in index: 1 
+2017-07-25 15:52:09,758 INFO  [Log] User specified value has been replaced at index1New Value is: NA 
+2017-07-25 15:52:20,979 INFO  [Log] TS_25; Passed; verify captured value is a number or NA; verification value is either  number,NA 
+2017-07-25 15:52:51,740 INFO  [Log] TS_26; Passed; verify captured value is a number or NA; verification value is either  number,NA 
+2017-07-25 15:52:51,741 INFO  [Log] closing test case  
+2017-07-25 15:52:52,159 INFO  [Log] Closing instance of Browser: chrome 
+2017-07-25 15:52:52,189 INFO  [Log] ### Test case: Rg_TC0048.xlsx; Description: Rg_TC0048.xlsx; status Executed 
+2017-07-25 15:52:53,418 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-07-25 15:52:53,523 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-07-25 15:52:53,667 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-07-25 15:52:53,667 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:52:53,667 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:52:53,786 INFO  [Log] Rg_TC0050.xlsx_Rg_TC0050.xlsx 
+2017-07-25 15:52:53,821 INFO  [Log] RateGain-2_RateGain -2 
+2017-07-25 15:52:53,848 INFO  [Log] RateGain-3_RateGain -3 
+2017-07-25 15:52:53,880 INFO  [Log] RateGain-4_RateGain -4 
+2017-07-25 15:52:53,899 INFO  [Log] Api Mumbai_Api Mumbai 
+2017-07-25 15:52:53,921 INFO  [Log] PostRequest_PostRequest 
+2017-07-25 15:52:53,948 INFO  [Log] ####Closing Test Suite #### 
+2017-07-25 15:52:53,948 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-07-25 15:52:53,948 INFO  [Log] Creating Logs backup and storing for further reference 

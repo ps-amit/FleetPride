@@ -1,0 +1,793 @@
+2017-10-31 15:58:55,904 INFO  [Log] Test Scenario Configuration started 
+2017-10-31 15:58:55,914 INFO  [Log] Initialing HTML reporting 
+2017-10-31 15:58:56,094 INFO  [Log] Starting Test Suit Execution 
+2017-10-31 15:58:56,297 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 15:58:56,337 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 15:58:56,367 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 15:58:56,787 INFO  [Log] Object repository is created successfully 
+2017-10-31 15:58:56,878 INFO  [Log] **************************************************************************************** 
+2017-10-31 15:58:56,878 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_home_page_search_productName; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 15:58:56,878 INFO  [Log] **************************************************************************************** 
+2017-10-31 15:59:02,665 INFO  [Log] #### Executing Test case: FP_home_page_search_productName; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 15:59:26,809 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:00:04,903 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:00:40,423 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:01:16,063 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:01:57,562 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:02:33,202 INFO  [Log] TS_06: Enter product name in the search box to be search; Action: Submited ValueValue: Hood Latch Assembly Gates-90350 
+2017-10-31 16:03:12,863 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:03:48,624 INFO  [Log] TS_08; Passed; Verify the correctness of the product on the search result page; Value: hood latch assembly gates-90350; Present in Page values: Hood Latch Assembly Gates-90350,  
+2017-10-31 16:03:53,643 INFO  [Log] closing test case  
+2017-10-31 16:03:56,200 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:03:56,231 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:03:56,261 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:03:56,281 INFO  [Log] ### Test case: FP_home_page_search_productName; Description: Blank; status Executed 
+2017-10-31 16:03:56,461 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:03:56,491 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:03:56,521 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:03:56,521 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:04:01,202 INFO  [Log] #### Executing Test case: FP_home_page_search_productName; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 16:04:23,826 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:04:59,269 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:05:34,671 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:06:09,975 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:06:45,400 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:07:20,955 INFO  [Log] TS_06: Enter product name in the search box to be search; Action: Submited ValueValue: Hood Latch Assembly Gates-90350 
+2017-10-31 16:07:56,614 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:08:32,362 INFO  [Log] TS_08; Passed; Verify the correctness of the product on the search result page; Value: hood latch assembly gates-90350; Present in Page values: Hood Latch Assembly Gates-90350,  
+2017-10-31 16:08:37,363 INFO  [Log] closing test case  
+2017-10-31 16:08:37,689 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:08:37,719 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:08:37,749 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:08:37,769 INFO  [Log] ### Test case: FP_home_page_search_productName; Description: Blank; status Executed 
+2017-10-31 16:08:37,939 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:08:37,969 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:08:37,999 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:08:37,999 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:08:49,187 INFO  [Log] #### Executing Test case: FP_home_page_search_productName; Description: Blank In IE Browser for TestData:1 
+2017-10-31 16:09:37,576 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:10:17,774 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:10:57,880 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:11:37,654 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:12:18,571 INFO  [Log] TS_06: Enter product name in the search box to be search; Action: Submited ValueValue: Hood Latch Assembly Gates-90350 
+2017-10-31 16:12:58,765 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:13:38,818 INFO  [Log] TS_08; Passed; Verify the correctness of the product on the search result page; Value: hood latch assembly gates-90350; Present in Page values: Hood Latch Assembly Gates-90350,  
+2017-10-31 16:13:43,821 INFO  [Log] closing test case  
+2017-10-31 16:13:44,092 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:13:44,118 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:13:44,181 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:13:44,204 INFO  [Log] ### Test case: FP_home_page_search_productName; Description: Blank; status Executed 
+2017-10-31 16:13:44,413 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:13:44,443 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:13:44,473 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:13:44,473 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:13:44,473 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:13:44,739 INFO  [Log] **************************************************************************************** 
+2017-10-31 16:13:44,739 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_home_page_search_productPartNumber; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 16:13:44,739 INFO  [Log] **************************************************************************************** 
+2017-10-31 16:13:49,872 INFO  [Log] #### Executing Test case: FP_home_page_search_productPartNumber; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 16:13:58,720 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:14:37,055 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:15:12,913 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:15:48,437 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:16:29,158 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:17:04,779 INFO  [Log] TS_06: Enter product part number in the search box to be search; Action: Submited ValueValue: TMK-907257 
+2017-10-31 16:17:44,132 INFO  [Log] TS_07: Click on the product search box on home page 
+2017-10-31 16:18:45,037 INFO  [Log] FP_home_page_search_productPartNumber_TC_01TS_08XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 16:18:45,490 WARN  [Log]  Browser instance is active 
+2017-10-31 16:18:48,042 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:18:48,073 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:18:48,103 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:18:48,103 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:18:48,103 FATAL [Log] FP_home_page_search_productPartNumber_TC_01TS_08XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 16:18:52,766 INFO  [Log] #### Executing Test case: FP_home_page_search_productPartNumber; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 16:19:05,471 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:19:40,873 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:20:16,269 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:20:51,747 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:21:27,114 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:22:02,411 INFO  [Log] TS_06: Enter product part number in the search box to be search; Action: Submited ValueValue: TMK-907257 
+2017-10-31 16:22:38,085 INFO  [Log] TS_07: Click on the product search box on home page 
+2017-10-31 16:23:38,817 INFO  [Log] FP_home_page_search_productPartNumber_TC_01TS_08XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 16:23:38,978 WARN  [Log]  Browser instance is active 
+2017-10-31 16:23:39,308 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:23:39,338 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:23:39,368 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:23:39,368 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:23:39,368 FATAL [Log] FP_home_page_search_productPartNumber_TC_01TS_08XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 16:23:48,548 INFO  [Log] #### Executing Test case: FP_home_page_search_productPartNumber; Description: Blank In IE Browser for TestData:1 
+2017-10-31 16:24:46,875 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:25:27,237 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:26:07,173 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:26:47,167 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:27:27,671 INFO  [Log] TS_06: Enter product part number in the search box to be search; Action: Submited ValueValue: TMK-907257 
+2017-10-31 16:28:07,678 INFO  [Log] TS_07: Click on the product search box on home page 
+2017-10-31 16:29:13,509 INFO  [Log] FP_home_page_search_productPartNumber_TC_01TS_08XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 16:29:13,750 WARN  [Log]  Browser instance is active 
+2017-10-31 16:29:14,020 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:29:14,060 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:29:14,090 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:29:14,090 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:29:14,090 FATAL [Log] FP_home_page_search_productPartNumber_TC_01TS_08XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 16:29:14,090 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:29:14,180 INFO  [Log] **************************************************************************************** 
+2017-10-31 16:29:14,180 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_home_page_search_invalid_data; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 16:29:14,180 INFO  [Log] **************************************************************************************** 
+2017-10-31 16:29:19,296 INFO  [Log] #### Executing Test case: FP_home_page_search_invalid_data; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 16:29:34,919 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:30:13,362 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:30:49,253 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:31:24,781 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:32:07,113 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:32:42,597 INFO  [Log] TS_06: Enter incorrect data in the search box to be searched; Action: Submited ValueValue: 34fgxgf 
+2017-10-31 16:33:21,817 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:33:57,249 INFO  [Log] TS_08; Passed; Verify error message appears on the page with invalid data being searched; Value: no results found; Present in Page values: No results found,  
+2017-10-31 16:34:02,250 INFO  [Log] closing test case  
+2017-10-31 16:34:04,790 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:34:04,821 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:34:04,871 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:34:04,881 INFO  [Log] ### Test case: FP_home_page_search_invalid_data; Description: Blank; status Executed 
+2017-10-31 16:34:05,031 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:34:05,061 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:34:05,091 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:34:05,091 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:34:09,749 INFO  [Log] #### Executing Test case: FP_home_page_search_invalid_data; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 16:34:21,999 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:34:57,322 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:35:32,750 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:36:08,184 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:36:43,517 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:37:19,215 INFO  [Log] TS_06: Enter incorrect data in the search box to be searched; Action: Submited ValueValue: 34fgxgf 
+2017-10-31 16:37:54,728 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:38:29,946 INFO  [Log] TS_08; Passed; Verify error message appears on the page with invalid data being searched; Value: no results found; Present in Page values: No results found,  
+2017-10-31 16:38:34,955 INFO  [Log] closing test case  
+2017-10-31 16:38:35,266 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:38:35,296 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:38:35,326 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:38:35,336 INFO  [Log] ### Test case: FP_home_page_search_invalid_data; Description: Blank; status Executed 
+2017-10-31 16:38:35,526 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:38:35,566 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:38:35,596 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:38:35,596 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:38:44,126 INFO  [Log] #### Executing Test case: FP_home_page_search_invalid_data; Description: Blank In IE Browser for TestData:1 
+2017-10-31 16:40:01,606 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:40:41,894 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:41:21,918 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:42:01,627 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:42:41,954 INFO  [Log] TS_06: Enter incorrect data in the search box to be searched; Action: Submited ValueValue: 34fgxgf 
+2017-10-31 16:43:21,944 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:44:02,190 INFO  [Log] TS_08; Passed; Verify error message appears on the page with invalid data being searched; Value: no results found; Present in Page values: No results found,  
+2017-10-31 16:44:07,192 INFO  [Log] closing test case  
+2017-10-31 16:44:07,513 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:44:07,553 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:44:07,583 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:44:07,603 INFO  [Log] ### Test case: FP_home_page_search_invalid_data; Description: Blank; status Executed 
+2017-10-31 16:44:07,783 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:44:07,813 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:44:07,843 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:44:07,843 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:44:07,843 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:44:07,893 INFO  [Log] **************************************************************************************** 
+2017-10-31 16:44:07,893 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_home_page_search_below_2_characters; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 16:44:07,893 INFO  [Log] **************************************************************************************** 
+2017-10-31 16:44:13,028 INFO  [Log] #### Executing Test case: FP_home_page_search_below_2_characters; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 16:44:22,911 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:45:02,360 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:45:38,221 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:46:14,088 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:46:56,255 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:47:32,116 INFO  [Log] TS_06: Input data with less than 2 characters in the search box field; Action: Submited ValueValue: a 
+2017-10-31 16:48:07,672 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:48:43,109 INFO  [Log] TS_08; Passed; Verify the validation error message that appears below the search box.; Value: product search, at least 2 characters are required; Present in Page values: Product search, at least 2 characters are required,  
+2017-10-31 16:48:48,117 INFO  [Log] closing test case  
+2017-10-31 16:48:50,660 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:48:50,691 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:48:50,721 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:48:50,731 INFO  [Log] ### Test case: FP_home_page_search_below_2_characters; Description: Blank; status Executed 
+2017-10-31 16:48:50,891 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:48:50,931 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:48:50,961 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:48:50,961 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:48:55,643 INFO  [Log] #### Executing Test case: FP_home_page_search_below_2_characters; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 16:49:08,473 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:49:44,093 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:50:19,548 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:50:54,967 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:51:30,270 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:52:05,607 INFO  [Log] TS_06: Input data with less than 2 characters in the search box field; Action: Submited ValueValue: a 
+2017-10-31 16:52:41,158 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:53:16,663 INFO  [Log] TS_08; Passed; Verify the validation error message that appears below the search box.; Value: product search, at least 2 characters are required; Present in Page values: Product search, at least 2 characters are required,  
+2017-10-31 16:53:21,664 INFO  [Log] closing test case  
+2017-10-31 16:53:21,975 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:53:22,005 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:53:22,045 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:53:22,055 INFO  [Log] ### Test case: FP_home_page_search_below_2_characters; Description: Blank; status Executed 
+2017-10-31 16:53:22,295 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:53:22,325 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:53:22,355 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:53:22,355 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:53:32,149 INFO  [Log] #### Executing Test case: FP_home_page_search_below_2_characters; Description: Blank In IE Browser for TestData:1 
+2017-10-31 16:54:29,896 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 16:55:10,253 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 16:55:50,256 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 16:56:30,092 INFO  [Log] TS_05: Click on login button 
+2017-10-31 16:57:10,291 INFO  [Log] TS_06: Input data with less than 2 characters in the search box field; Action: Submited ValueValue: a 
+2017-10-31 16:57:50,415 INFO  [Log] TS_07: Click on the product search box icon on home page 
+2017-10-31 16:58:30,358 INFO  [Log] TS_08; Passed; Verify the validation error message that appears below the search box.; Value: product search, at least 2 characters are required; Present in Page values: Product search, at least 2 characters are required,  
+2017-10-31 16:58:35,378 INFO  [Log] closing test case  
+2017-10-31 16:58:35,678 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:58:35,718 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:58:35,758 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:58:35,768 INFO  [Log] ### Test case: FP_home_page_search_below_2_characters; Description: Blank; status Executed 
+2017-10-31 16:58:35,951 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 16:58:35,981 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 16:58:36,011 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 16:58:36,011 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:58:36,011 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 16:58:36,071 INFO  [Log] **************************************************************************************** 
+2017-10-31 16:58:36,071 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdc_search_productPartNumber; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 16:58:36,071 INFO  [Log] **************************************************************************************** 
+2017-10-31 16:58:41,164 INFO  [Log] #### Executing Test case: FP_pdc_search_productPartNumber; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 16:58:53,203 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 16:59:31,521 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:00:07,503 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:00:42,949 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:01:23,927 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:02:03,788 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:02:39,802 INFO  [Log] TS_07: Enter product part number in the search box to be search; Action: Submited ValueValue: TMK-907257 
+2017-10-31 17:03:28,752 INFO  [Log] TS_08: Click on the product search box on pdp page 
+2017-10-31 17:04:29,170 INFO  [Log] FP_pdp_search_productPartNumber_TC_09TS_09XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:04:29,856 WARN  [Log]  Browser instance is active 
+2017-10-31 17:04:32,238 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:04:32,269 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:04:32,309 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:04:32,309 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:04:32,309 FATAL [Log] FP_pdp_search_productPartNumber_TC_09TS_09XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:04:36,984 INFO  [Log] #### Executing Test case: FP_pdc_search_productPartNumber; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 17:04:53,223 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 17:05:28,947 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:06:04,561 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:06:40,088 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:07:15,708 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:07:51,120 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:08:51,686 INFO  [Log] FP_pdp_search_productPartNumber_TC_09TS_07XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:08:51,797 WARN  [Log]  Browser instance is active 
+2017-10-31 17:08:52,167 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:08:52,207 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:08:52,247 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:08:52,247 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:08:52,247 FATAL [Log] FP_pdp_search_productPartNumber_TC_09TS_07XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:09:01,149 INFO  [Log] #### Executing Test case: FP_pdc_search_productPartNumber; Description: Blank In IE Browser for TestData:1 
+2017-10-31 17:09:45,565 INFO  [Log] FP_pdp_search_productPartNumber_TC_09TS_01ObjectRepOpenGivenURL  org.openqa.selenium.TimeoutException: Timed out waiting for page to load. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.08 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:12898/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 69789174-5255-403f-8df6-ec9d2c5c7804null:Exception is not handled 
+2017-10-31 17:09:45,678 WARN  [Log]  Browser instance is active 
+2017-10-31 17:09:45,956 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:09:45,991 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:09:46,021 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:09:46,021 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:09:46,021 FATAL [Log] FP_pdp_search_productPartNumber_TC_09TS_01ObjectRepOpenGivenURL  org.openqa.selenium.TimeoutException: Timed out waiting for page to load. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.08 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0.0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000.0, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0.0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:12898/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=accept}]
+Session ID: 69789174-5255-403f-8df6-ec9d2c5c7804null:Exception is not handled 
+2017-10-31 17:09:46,021 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:09:46,071 INFO  [Log] **************************************************************************************** 
+2017-10-31 17:09:46,071 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdc_search_productName; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 17:09:46,071 INFO  [Log] **************************************************************************************** 
+2017-10-31 17:09:51,186 INFO  [Log] #### Executing Test case: FP_pdc_search_productName; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 17:10:02,063 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 17:10:40,196 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:11:16,094 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:11:51,939 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:12:38,530 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:13:20,638 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:13:56,384 INFO  [Log] TS_07: Enter product name in the search box to be search; Action: Submited ValueValue: Hood Latch Assembly Gates-90350 
+2017-10-31 17:14:34,845 INFO  [Log] TS_08: Click on the product search box icon on pdp page 
+2017-10-31 17:15:35,746 INFO  [Log] FP_pdp_search_productName_TC_07TS_09XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:15:36,421 WARN  [Log]  Browser instance is active 
+2017-10-31 17:15:38,991 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:15:39,022 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:15:39,052 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:15:39,052 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:15:39,052 FATAL [Log] FP_pdp_search_productName_TC_07TS_09XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:15:43,721 INFO  [Log] #### Executing Test case: FP_pdc_search_productName; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 17:16:03,859 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 17:16:39,486 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:17:15,060 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:17:50,669 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:18:26,163 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:19:01,882 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:19:37,255 INFO  [Log] TS_07: Enter product name in the search box to be search; Action: Submited ValueValue: Hood Latch Assembly Gates-90350 
+2017-10-31 17:20:12,523 INFO  [Log] TS_08: Click on the product search box icon on pdp page 
+2017-10-31 17:21:13,362 INFO  [Log] FP_pdp_search_productName_TC_07TS_09XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:21:13,493 WARN  [Log]  Browser instance is active 
+2017-10-31 17:21:13,863 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:21:13,893 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:21:13,923 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:21:13,923 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:21:13,923 FATAL [Log] FP_pdp_search_productName_TC_07TS_09XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:21:22,421 INFO  [Log] #### Executing Test case: FP_pdc_search_productName; Description: Blank In IE Browser for TestData:1 
+2017-10-31 17:22:19,609 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:22:59,765 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:23:39,530 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:24:19,250 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:24:59,055 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:25:39,285 INFO  [Log] TS_07: Enter product name in the search box to be search; Action: Submited ValueValue: Hood Latch Assembly Gates-90350 
+2017-10-31 17:26:19,461 INFO  [Log] TS_08: Click on the product search box icon on pdp page 
+2017-10-31 17:27:25,270 INFO  [Log] FP_pdp_search_productName_TC_07TS_09XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:27:25,481 WARN  [Log]  Browser instance is active 
+2017-10-31 17:27:25,955 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:27:25,985 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:27:26,025 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:27:26,025 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:27:26,025 FATAL [Log] FP_pdp_search_productName_TC_07TS_09XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:27:26,025 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:27:26,075 INFO  [Log] **************************************************************************************** 
+2017-10-31 17:27:26,075 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdc_search_invalid_data; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 17:27:26,075 INFO  [Log] **************************************************************************************** 
+2017-10-31 17:27:31,216 INFO  [Log] #### Executing Test case: FP_pdc_search_invalid_data; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 17:27:47,102 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 17:28:31,073 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:29:06,813 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:29:42,699 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:30:36,953 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:31:16,477 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:31:51,894 INFO  [Log] TS_06: Enter incorrect data in the search box to be searched; Action: Submited ValueValue: 34fgxgf 
+2017-10-31 17:32:30,688 INFO  [Log] TS_07: Click on the product search box icon on pdp page 
+2017-10-31 17:33:06,129 INFO  [Log] TS_08; Passed; Verify error message appears on the page with invalid data being searched; Value: no results found; Present in Page values: No results found,  
+2017-10-31 17:33:11,129 INFO  [Log] closing test case  
+2017-10-31 17:33:13,728 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:33:13,759 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:33:13,789 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:33:13,799 INFO  [Log] ### Test case: FP_pdc_search_invalid_data; Description: Blank; status Executed 
+2017-10-31 17:33:13,959 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:33:13,989 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:33:14,019 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:33:14,019 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:33:18,732 INFO  [Log] #### Executing Test case: FP_pdc_search_invalid_data; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 17:33:28,965 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 17:34:04,314 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:34:39,799 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:35:15,559 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:35:51,098 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:36:26,495 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:37:01,885 INFO  [Log] TS_06: Enter incorrect data in the search box to be searched; Action: Submited ValueValue: 34fgxgf 
+2017-10-31 17:37:37,405 INFO  [Log] TS_07: Click on the product search box icon on pdp page 
+2017-10-31 17:38:12,657 INFO  [Log] TS_08; Passed; Verify error message appears on the page with invalid data being searched; Value: no results found; Present in Page values: No results found,  
+2017-10-31 17:38:17,657 INFO  [Log] closing test case  
+2017-10-31 17:38:17,992 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:38:18,022 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:38:18,052 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:38:18,062 INFO  [Log] ### Test case: FP_pdc_search_invalid_data; Description: Blank; status Executed 
+2017-10-31 17:38:18,252 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:38:18,282 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:38:18,312 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:38:18,312 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:38:26,865 INFO  [Log] #### Executing Test case: FP_pdc_search_invalid_data; Description: Blank In IE Browser for TestData:1 
+2017-10-31 17:39:31,319 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:40:11,671 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:40:51,661 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:41:31,672 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:42:11,968 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:42:52,370 INFO  [Log] TS_06: Enter incorrect data in the search box to be searched; Action: Submited ValueValue: 34fgxgf 
+2017-10-31 17:43:32,723 INFO  [Log] TS_07: Click on the product search box icon on pdp page 
+2017-10-31 17:44:12,982 INFO  [Log] TS_08; Passed; Verify error message appears on the page with invalid data being searched; Value: no results found; Present in Page values: No results found,  
+2017-10-31 17:44:17,983 INFO  [Log] closing test case  
+2017-10-31 17:44:18,318 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:44:18,358 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:44:18,388 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:44:18,398 INFO  [Log] ### Test case: FP_pdc_search_invalid_data; Description: Blank; status Executed 
+2017-10-31 17:44:18,549 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:44:18,589 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:44:18,619 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:44:18,619 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:44:18,619 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:44:18,649 FATAL [Log] Not able to open File: D:\Automation_Framework_Puresoftware_New\src\DataEngine\FP_pdc_search_below_2_characters_TC_20.xlsx: java.io.FileNotFoundException: D:\Automation_Framework_Puresoftware_New\src\DataEngine\FP_pdc_search_below_2_characters_TC_20.xlsx (The system cannot find the file specified) 
+2017-10-31 17:44:18,649 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2017-10-31 17:44:18,649 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation_Framework_Puresoftware_New\src\DataEngine\FP_pdc_search_below_2_characters_TC_20.xlsx 
+2017-10-31 17:44:18,693 INFO  [Log] **************************************************************************************** 
+2017-10-31 17:44:18,693 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdc_quick_order; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 17:44:18,693 INFO  [Log] **************************************************************************************** 
+2017-10-31 17:44:23,797 INFO  [Log] #### Executing Test case: FP_pdc_quick_order; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 17:44:33,466 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 17:45:11,385 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:45:47,129 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:46:22,942 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:47:07,160 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:47:46,020 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:48:21,501 INFO  [Log] TS_08: Capture the product quantity 1; Value has been stored in index: 0 
+2017-10-31 17:48:56,921 INFO  [Log] TS_09: Click on add to cart button 
+2017-10-31 17:49:32,235 INFO  [Log] FP_pdp_quick_order_TCTS_10BlankEditValueCaptured  java.lang.StringIndexOutOfBoundsException: String index out of range: 10null:Exception is not handled 
+2017-10-31 17:49:32,941 WARN  [Log]  Browser instance is active 
+2017-10-31 17:49:33,291 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:49:33,331 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:49:33,370 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:49:33,370 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:49:33,370 FATAL [Log] FP_pdp_quick_order_TCTS_10BlankEditValueCaptured  java.lang.StringIndexOutOfBoundsException: String index out of range: 10null:Exception is not handled 
+2017-10-31 17:49:38,006 INFO  [Log] #### Executing Test case: FP_pdc_quick_order; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 17:49:50,949 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 17:50:26,643 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:51:02,273 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:51:37,789 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:52:13,279 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:52:48,541 INFO  [Log] TS_06: Click on the truck parts link from the main menu 
+2017-10-31 17:53:24,272 INFO  [Log] TS_08: Capture the product quantity 1; Value has been stored in index: 0 
+2017-10-31 17:53:59,857 INFO  [Log] TS_09: Click on add to cart button 
+2017-10-31 17:54:35,414 INFO  [Log] FP_pdp_quick_order_TCTS_10BlankEditValueCaptured  java.lang.StringIndexOutOfBoundsException: String index out of range: 10null:Exception is not handled 
+2017-10-31 17:54:35,510 WARN  [Log]  Browser instance is active 
+2017-10-31 17:54:35,824 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:54:35,864 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:54:35,894 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:54:35,894 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:54:35,894 FATAL [Log] FP_pdp_quick_order_TCTS_10BlankEditValueCaptured  java.lang.StringIndexOutOfBoundsException: String index out of range: 10null:Exception is not handled 
+2017-10-31 17:54:44,488 INFO  [Log] #### Executing Test case: FP_pdc_quick_order; Description: Blank In IE Browser for TestData:1 
+2017-10-31 17:55:49,413 INFO  [Log] FP_pdp_quick_order_TCTS_02ObjectRepClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:55:49,524 WARN  [Log]  Browser instance is active 
+2017-10-31 17:55:49,754 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 17:55:49,794 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 17:55:49,824 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 17:55:49,824 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:55:49,824 FATAL [Log] FP_pdp_quick_order_TCTS_02ObjectRepClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 17:55:49,824 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 17:55:49,874 INFO  [Log] **************************************************************************************** 
+2017-10-31 17:55:49,874 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdp_Add_To_Cart_TC_06; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 17:55:49,874 INFO  [Log] **************************************************************************************** 
+2017-10-31 17:55:54,944 INFO  [Log] #### Executing Test case: FP_pdp_Add_To_Cart_TC_06; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 17:56:11,879 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 17:56:50,288 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 17:57:26,143 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 17:58:01,911 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 17:58:44,771 INFO  [Log] TS_05: Click on login button 
+2017-10-31 17:59:29,705 INFO  [Log] TS_06: Click on the product name link that appears on the home page. 
+2017-10-31 18:00:05,151 INFO  [Log] TS_07: Capture the product part number on PDP page.GAT-90350; Value has been stored in index: 0 
+2017-10-31 18:00:40,485 INFO  [Log] TS_08: Click on the "Add to cart" button. 
+2017-10-31 18:01:34,120 INFO  [Log] TS_09: Click on the My cart link that appears at the top. 
+2017-10-31 18:02:35,215 INFO  [Log] FP_pdp_Add_To_Cart_TC_06TS_09XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:02:35,919 WARN  [Log]  Browser instance is active 
+2017-10-31 18:02:36,350 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:02:36,431 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:02:36,471 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:02:36,471 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:02:36,471 FATAL [Log] FP_pdp_Add_To_Cart_TC_06TS_09XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:02:41,096 INFO  [Log] #### Executing Test case: FP_pdp_Add_To_Cart_TC_06; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 18:03:04,753 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 18:03:40,622 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 18:04:16,131 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 18:04:51,641 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 18:05:27,101 INFO  [Log] TS_05: Click on login button 
+2017-10-31 18:06:02,759 INFO  [Log] TS_06: Click on the product name link that appears on the home page. 
+2017-10-31 18:06:38,350 INFO  [Log] TS_07: Capture the product part number on PDP page.GAT-90350; Value has been stored in index: 0 
+2017-10-31 18:07:13,630 INFO  [Log] TS_08: Click on the "Add to cart" button. 
+2017-10-31 18:07:49,030 INFO  [Log] TS_09: Click on the My cart link that appears at the top. 
+2017-10-31 18:08:49,761 INFO  [Log] FP_pdp_Add_To_Cart_TC_06TS_09XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:08:49,872 WARN  [Log]  Browser instance is active 
+2017-10-31 18:08:50,182 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:08:50,212 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:08:50,252 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:08:50,252 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:08:50,252 FATAL [Log] FP_pdp_Add_To_Cart_TC_06TS_09XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:08:58,850 INFO  [Log] #### Executing Test case: FP_pdp_Add_To_Cart_TC_06; Description: Blank In IE Browser for TestData:1 
+2017-10-31 18:09:58,361 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 18:10:38,654 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 18:11:18,720 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 18:11:58,738 INFO  [Log] TS_05: Click on login button 
+2017-10-31 18:12:39,064 INFO  [Log] TS_06: Click on the product name link that appears on the home page. 
+2017-10-31 18:13:19,325 INFO  [Log] TS_07: Capture the product part number on PDP page.GAT-90350; Value has been stored in index: 0 
+2017-10-31 18:14:24,957 INFO  [Log] FP_pdp_Add_To_Cart_TC_06TS_08XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:14:25,188 WARN  [Log]  Browser instance is active 
+2017-10-31 18:14:25,468 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:14:25,498 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:14:25,538 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:14:25,538 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:14:25,538 FATAL [Log] FP_pdp_Add_To_Cart_TC_06TS_08XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:14:25,538 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:14:25,638 INFO  [Log] **************************************************************************************** 
+2017-10-31 18:14:25,638 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdp_FP_brand_code_TC_11; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 18:14:25,638 INFO  [Log] **************************************************************************************** 
+2017-10-31 18:14:30,761 INFO  [Log] #### Executing Test case: FP_pdp_FP_brand_code_TC_11; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 18:15:49,191 INFO  [Log] FP_pdp_FP_brand_code_TC_11TS_02ObjectRepClick  org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir6920_169}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 63f330093007a0c9792e4da2cb546ebenull:Exception is not handled 
+2017-10-31 18:15:49,522 WARN  [Log]  Browser instance is active 
+2017-10-31 18:15:49,522 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir6920_169}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 63f330093007a0c9792e4da2cb546ebe 
+2017-10-31 18:15:49,522 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:15:49,522 FATAL [Log] FP_pdp_FP_brand_code_TC_11TS_02ObjectRepClick  org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'AMIT-SINGH-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\AMIT~1.SIN\AppData\Local\Temp\scoped_dir6920_169}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 63f330093007a0c9792e4da2cb546ebenull:Exception is not handled 
+2017-10-31 18:15:54,155 INFO  [Log] #### Executing Test case: FP_pdp_FP_brand_code_TC_11; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 18:16:27,943 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 18:17:03,409 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 18:17:38,784 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 18:18:14,179 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 18:18:49,592 INFO  [Log] TS_05: Click on login button 
+2017-10-31 18:19:24,855 INFO  [Log] TS_06: Click on the product name link that appears on the home page. 
+2017-10-31 18:20:00,227 INFO  [Log] Failed: TS_07: Verify brand name appears before the product part number on PDP page.; Value: timken; is Not Present in Page values: Gates,  
+2017-10-31 18:20:05,333 INFO  [Log] closing test case  
+2017-10-31 18:20:05,634 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:20:05,663 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:20:05,693 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:20:05,703 INFO  [Log] ### Test case: FP_pdp_FP_brand_code_TC_11; Description: Blank; status Executed 
+2017-10-31 18:20:05,867 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:20:05,897 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:20:05,937 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:20:05,937 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:20:14,434 INFO  [Log] #### Executing Test case: FP_pdp_FP_brand_code_TC_11; Description: Blank In IE Browser for TestData:1 
+2017-10-31 18:21:02,771 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 18:21:43,166 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 18:22:23,336 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 18:23:03,394 INFO  [Log] TS_05: Click on login button 
+2017-10-31 18:24:08,529 INFO  [Log] FP_pdp_FP_brand_code_TC_11TS_06XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:24:23,174 WARN  [Log]  Browser instance is active 
+2017-10-31 18:24:23,475 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:24:23,515 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:24:23,555 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:24:23,555 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:24:23,555 FATAL [Log] FP_pdp_FP_brand_code_TC_11TS_06XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:24:23,555 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:24:23,585 INFO  [Log] **************************************************************************************** 
+2017-10-31 18:24:23,585 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_pdp_Add_To_Cart_TC_19; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 18:24:23,585 INFO  [Log] **************************************************************************************** 
+2017-10-31 18:24:28,799 INFO  [Log] #### Executing Test case: FP_pdp_Add_To_Cart_TC_19; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 18:24:52,863 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 18:25:31,092 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 18:26:07,126 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 18:26:43,025 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 18:27:28,470 INFO  [Log] TS_05: Click on login button 
+2017-10-31 18:28:18,518 INFO  [Log] TS_06: Click on the product name link that appears on the home page. 
+2017-10-31 18:28:54,154 INFO  [Log] TS_07: Capture the product part number on PDP page.GAT-90350; Value has been stored in index: 0 
+2017-10-31 18:29:29,581 INFO  [Log] TS_08: Capture the price of the product.$50.00; Value has been stored in index: 1 
+2017-10-31 18:30:05,003 INFO  [Log] TS_09: Capture product quantity1; Value has been stored in index: 2 
+2017-10-31 18:30:40,494 INFO  [Log] TS_10: Click on the "Add to cart" button. 
+2017-10-31 18:31:15,958 INFO  [Log] TS_11: Capture the data at my cart link from the topMy Cart: 3791 item(s), $158.00; Value has been stored in index: 3 
+2017-10-31 18:31:51,287 INFO  [Log] User specified value has been replaced at index3New Value is: My Cart: 3 
+2017-10-31 18:32:26,618 INFO  [Log] User specified value has been replaced at index3New Value is: 3 
+2017-10-31 18:32:26,628 INFO  [Log] Fail; TS_14: Verify the quantity of the product from the my cart section.Verify the quantity of the product from the my cart section.; Captured text1: 1; Captured text2: 3 
+2017-10-31 18:33:02,955 INFO  [Log] TS_15: Capture the product priceMy Cart: 3791 item(s), $158.00; Value has been stored in index: 4 
+2017-10-31 18:33:38,313 INFO  [Log] User specified value has been replaced at index4New Value is: ), $158.00 
+2017-10-31 18:33:38,313 INFO  [Log] Fail; TS_17: Verify the price of the product from the my cart section.Verify the price of the product from the my cart section.; Captured text1: $50.00; Captured text2: ), $158.00 
+2017-10-31 18:33:43,704 INFO  [Log] closing test case  
+2017-10-31 18:33:46,518 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:33:46,589 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:33:46,659 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:33:46,669 INFO  [Log] ### Test case: FP_pdp_Add_To_Cart_TC_19; Description: Blank; status Executed 
+2017-10-31 18:33:46,929 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:33:46,959 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:33:46,999 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:33:46,999 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:33:51,741 INFO  [Log] #### Executing Test case: FP_pdp_Add_To_Cart_TC_19; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 18:34:18,746 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 18:34:54,401 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 18:35:30,214 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 18:36:05,708 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 18:36:41,089 INFO  [Log] TS_05: Click on login button 
+2017-10-31 18:37:16,517 INFO  [Log] TS_06: Click on the product name link that appears on the home page. 
+2017-10-31 18:37:52,238 INFO  [Log] TS_07: Capture the product part number on PDP page.GAT-90350; Value has been stored in index: 0 
+2017-10-31 18:38:27,762 INFO  [Log] TS_08: Capture the price of the product.$50.00; Value has been stored in index: 1 
+2017-10-31 18:39:03,378 INFO  [Log] TS_09: Capture product quantity1; Value has been stored in index: 2 
+2017-10-31 18:39:38,866 INFO  [Log] TS_10: Click on the "Add to cart" button. 
+2017-10-31 18:40:14,450 INFO  [Log] TS_11: Capture the data at my cart link from the topMy Cart: 3793 item(s), $208.00; Value has been stored in index: 3 
+2017-10-31 18:40:49,876 INFO  [Log] User specified value has been replaced at index3New Value is: My Cart: 3 
+2017-10-31 18:41:25,292 INFO  [Log] User specified value has been replaced at index3New Value is: 3 
+2017-10-31 18:41:25,292 INFO  [Log] Fail; TS_14: Verify the quantity of the product from the my cart section.Verify the quantity of the product from the my cart section.; Captured text1: 1; Captured text2: 3 
+2017-10-31 18:42:00,958 INFO  [Log] TS_15: Capture the product priceMy Cart: 3793 item(s), $208.00; Value has been stored in index: 4 
+2017-10-31 18:42:36,489 INFO  [Log] User specified value has been replaced at index4New Value is: ), $208.00 
+2017-10-31 18:42:36,489 INFO  [Log] Fail; TS_17: Verify the price of the product from the my cart section.Verify the price of the product from the my cart section.; Captured text1: $50.00; Captured text2: ), $208.00 
+2017-10-31 18:42:41,630 INFO  [Log] closing test case  
+2017-10-31 18:42:42,012 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:42:42,052 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:42:42,082 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:42:42,092 INFO  [Log] ### Test case: FP_pdp_Add_To_Cart_TC_19; Description: Blank; status Executed 
+2017-10-31 18:42:42,272 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:42:42,312 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:42:42,352 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:42:42,352 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:42:51,330 INFO  [Log] #### Executing Test case: FP_pdp_Add_To_Cart_TC_19; Description: Blank In IE Browser for TestData:1 
+2017-10-31 18:43:56,540 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 18:44:37,414 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 18:45:17,852 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 18:45:57,941 INFO  [Log] TS_05: Click on login button 
+2017-10-31 18:46:38,190 INFO  [Log] TS_06: Click on the product name link that appears on the home page. 
+2017-10-31 18:47:19,354 INFO  [Log] TS_07: Capture the product part number on PDP page.GAT-90350; Value has been stored in index: 0 
+2017-10-31 18:48:25,205 INFO  [Log] FP_pdp_Add_To_Cart_TC_19TS_08XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:48:25,486 WARN  [Log]  Browser instance is active 
+2017-10-31 18:48:25,776 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:48:25,806 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:48:25,838 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:48:25,838 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:48:25,838 FATAL [Log] FP_pdp_Add_To_Cart_TC_19TS_08XpathValueCapture: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-10-31 18:48:25,838 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:48:25,898 INFO  [Log] **************************************************************************************** 
+2017-10-31 18:48:25,898 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_contact_us_page; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 18:48:25,898 INFO  [Log] **************************************************************************************** 
+2017-10-31 18:48:31,069 INFO  [Log] #### Executing Test case: FP_contact_us_page; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 18:48:47,464 INFO  [Log] TC_1: Open Contact Us page URL; Action: open URL 
+2017-10-31 18:49:23,376 INFO  [Log] TC_2; Passed; Verify text 'Company Name'; Value: company name:; Present in Page values: Company name:,  
+2017-10-31 18:49:59,147 INFO  [Log] TC_3; Passed; Verify text 'Your Name:'; Value: your name:; Present in Page values: Your Name:,  
+2017-10-31 18:50:34,773 INFO  [Log] TC_4; Passed; Verify text 'Email:'; Value: email:; Present in Page values: Email:,  
+2017-10-31 18:51:10,414 INFO  [Log] TC_5; Passed; Verify text 'Phone:'; Value: phone:; Present in Page values: Phone:,  
+2017-10-31 18:51:46,066 INFO  [Log] TC_6; Passed; Verify text 'Choose Contact Reason:'; Value: choose contact reason:; Present in Page values: Choose Contact Reason:,  
+2017-10-31 18:52:22,382 INFO  [Log] Failed: TC_7: Verify text 'Message:'; Value: message: ; is Not Present in Page values: Message:,  
+2017-10-31 18:52:58,381 INFO  [Log] TC_8: Choose contact us region dropdown 
+2017-10-31 18:53:33,934 INFO  [Log] TC_9: Selecting the request a catalog option from the dropdown. 
+2017-10-31 18:54:10,038 INFO  [Log] Failed: TC_10: Verifying the first fields added after choosing the option.; Value: address 1:; is Not Present in Page values: ,  
+2017-10-31 18:54:46,506 INFO  [Log] Failed: TC_11: Verifying the second field.; Value: address 2:; is Not Present in Page values: ,  
+2017-10-31 18:55:22,772 INFO  [Log] TC_12; Passed; Verifying the third field.; Value: state:; Present in Page values: State:,  
+2017-10-31 18:55:58,446 INFO  [Log] TC_13; Passed; Verifying the fourth field.; Value: zipcode:; Present in Page values: ZipCode:,  
+2017-10-31 18:56:34,077 INFO  [Log] TC_14; Passed; Verifying the fifth field.; Value: country:; Present in Page values: Country:,  
+2017-10-31 18:56:39,080 INFO  [Log] closing test case  
+2017-10-31 18:56:39,424 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:56:39,464 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:56:39,504 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:56:39,504 INFO  [Log] ### Test case: FP_contact_us_page; Description: Blank; status Executed 
+2017-10-31 18:56:39,684 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 18:56:39,724 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 18:56:39,754 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 18:56:39,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 18:56:44,513 INFO  [Log] #### Executing Test case: FP_contact_us_page; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 18:56:56,768 INFO  [Log] TC_1: Open Contact Us page URL; Action: open URL 
+2017-10-31 18:57:32,459 INFO  [Log] TC_2; Passed; Verify text 'Company Name'; Value: company name:; Present in Page values: Company name:,  
+2017-10-31 18:58:07,884 INFO  [Log] TC_3; Passed; Verify text 'Your Name:'; Value: your name:; Present in Page values: Your Name:,  
+2017-10-31 18:58:43,316 INFO  [Log] TC_4; Passed; Verify text 'Email:'; Value: email:; Present in Page values: Email:,  
+2017-10-31 18:59:18,646 INFO  [Log] TC_5; Passed; Verify text 'Phone:'; Value: phone:; Present in Page values: Phone:,  
+2017-10-31 18:59:53,916 INFO  [Log] TC_6; Passed; Verify text 'Choose Contact Reason:'; Value: choose contact reason:; Present in Page values: Choose Contact Reason:,  
+2017-10-31 19:00:29,288 INFO  [Log] Failed: TC_7: Verify text 'Message:'; Value: message: ; is Not Present in Page values: Message:,  
+2017-10-31 19:01:04,733 INFO  [Log] TC_8: Choose contact us region dropdown 
+2017-10-31 19:01:40,011 INFO  [Log] TC_9: Selecting the request a catalog option from the dropdown. 
+2017-10-31 19:02:15,548 INFO  [Log] Failed: TC_10: Verifying the first fields added after choosing the option.; Value: address 1:; is Not Present in Page values: ,  
+2017-10-31 19:02:51,080 INFO  [Log] Failed: TC_11: Verifying the second field.; Value: address 2:; is Not Present in Page values: ,  
+2017-10-31 19:03:26,761 INFO  [Log] Failed: TC_12: Verifying the third field.; Value: state:; is Not Present in Page values: ,  
+2017-10-31 19:04:02,360 INFO  [Log] Failed: TC_13: Verifying the fourth field.; Value: zipcode:; is Not Present in Page values: ,  
+2017-10-31 19:04:37,798 INFO  [Log] Failed: TC_14: Verifying the fifth field.; Value: country:; is Not Present in Page values: ,  
+2017-10-31 19:04:42,899 INFO  [Log] closing test case  
+2017-10-31 19:04:43,237 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:04:43,267 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:04:43,307 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:04:43,307 INFO  [Log] ### Test case: FP_contact_us_page; Description: Blank; status Executed 
+2017-10-31 19:04:43,487 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:04:43,527 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:04:43,557 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:04:43,557 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 19:04:52,689 INFO  [Log] #### Executing Test case: FP_contact_us_page; Description: Blank In IE Browser for TestData:1 
+2017-10-31 19:05:41,032 INFO  [Log] TC_2; Passed; Verify text 'Company Name'; Value: company name:; Present in Page values: Company name:,  
+2017-10-31 19:06:21,486 INFO  [Log] TC_3; Passed; Verify text 'Your Name:'; Value: your name:; Present in Page values: Your Name:,  
+2017-10-31 19:07:01,907 INFO  [Log] TC_4; Passed; Verify text 'Email:'; Value: email:; Present in Page values: Email:,  
+2017-10-31 19:07:42,305 INFO  [Log] TC_5; Passed; Verify text 'Phone:'; Value: phone:; Present in Page values: Phone:,  
+2017-10-31 19:08:22,806 INFO  [Log] TC_6; Passed; Verify text 'Choose Contact Reason:'; Value: choose contact reason:; Present in Page values: Choose Contact Reason:,  
+2017-10-31 19:09:03,446 INFO  [Log] Failed: TC_7: Verify text 'Message:'; Value: message: ; is Not Present in Page values: Message:,  
+2017-10-31 19:09:44,110 INFO  [Log] TC_8: Choose contact us region dropdown 
+2017-10-31 19:10:24,478 INFO  [Log] TC_9: Selecting the request a catalog option from the dropdown. 
+2017-10-31 19:11:05,218 INFO  [Log] Failed: TC_10: Verifying the first fields added after choosing the option.; Value: address 1:; is Not Present in Page values: ,  
+2017-10-31 19:11:45,954 INFO  [Log] Failed: TC_11: Verifying the second field.; Value: address 2:; is Not Present in Page values: ,  
+2017-10-31 19:12:26,027 INFO  [Log] Failed: TC_12: Verifying the third field.; Value: state:; is Not Present in Page values: ,  
+2017-10-31 19:13:05,997 INFO  [Log] Failed: TC_13: Verifying the fourth field.; Value: zipcode:; is Not Present in Page values: ,  
+2017-10-31 19:13:46,158 INFO  [Log] Failed: TC_14: Verifying the fifth field.; Value: country:; is Not Present in Page values: ,  
+2017-10-31 19:13:51,254 INFO  [Log] closing test case  
+2017-10-31 19:13:51,583 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:13:51,625 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:13:51,665 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:13:51,675 INFO  [Log] ### Test case: FP_contact_us_page; Description: Blank; status Executed 
+2017-10-31 19:13:51,845 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:13:51,885 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:13:51,915 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:13:51,915 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 19:13:51,915 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 19:13:51,955 INFO  [Log] **************************************************************************************** 
+2017-10-31 19:13:51,955 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: FP_Order_Upload; Description: Blank For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-31 19:13:51,955 INFO  [Log] **************************************************************************************** 
+2017-10-31 19:13:57,084 INFO  [Log] #### Executing Test case: FP_Order_Upload; Description: Blank In Chrome Browser for TestData:1 
+2017-10-31 19:14:11,245 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 19:14:49,606 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 19:15:25,750 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 19:16:01,721 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 19:16:46,682 INFO  [Log] TS_05: Click on login button 
+2017-10-31 19:17:26,028 INFO  [Log] TC_1: Click Order Upload link 
+2017-10-31 19:17:26,030 INFO  [Log] TC_2; Waited 1000 Milli seconds for Element 
+2017-10-31 19:18:03,129 INFO  [Log] TC_3; Passed; Verifying whether the button is present on the page.; Value: blank order template; Present in Page values: Blank Order Template,  
+2017-10-31 19:18:38,926 INFO  [Log] TC_4: Clickng on blank order template to see whether the blank csv file is getting downloaded. 
+2017-10-31 19:18:38,926 INFO  [Log] TC_5; Waited 1000 Milli seconds for Element 
+2017-10-31 19:19:15,855 INFO  [Log] TC_6; Passed; Verifying whether the top 100 button is present on the page.; Value: top 100 parts template; Present in Page values: Top 100 Parts Template,  
+2017-10-31 19:19:51,406 INFO  [Log] TC_7: Clicking on the Top 100 button. 
+2017-10-31 19:19:51,406 INFO  [Log] TC_8; Waited 1000 Milli seconds for Element 
+2017-10-31 19:20:28,305 INFO  [Log] TC_9; Passed; Verifying whether the Upload order button is present on the page.; Value: upload order; Present in Page values: Upload Order,  
+2017-10-31 19:21:04,306 INFO  [Log] TC_10: Click on "Top 100 Parts Template" button 
+2017-10-31 19:21:04,306 INFO  [Log] TC_11; Waited 5000 Milli seconds for Element 
+2017-10-31 19:21:09,309 INFO  [Log] TC_11; Waited 5000 Milli seconds for Element 
+2017-10-31 19:21:45,218 INFO  [Log] TC_13: Click on "Blank Order Template" button 
+2017-10-31 19:21:45,218 INFO  [Log] TC_14; Waited 5000 Milli seconds for Element 
+2017-10-31 19:21:50,226 INFO  [Log] TC_15; Passed;  file   downloaded C:\Users\amit.singh\Downloads\template (1).csv 
+2017-10-31 19:21:55,212 INFO  [Log] closing test case  
+2017-10-31 19:21:57,818 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:21:57,869 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:21:57,912 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:21:57,917 INFO  [Log] ### Test case: FP_Order_Upload; Description: Blank; status Executed 
+2017-10-31 19:21:58,139 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:21:58,177 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:21:58,214 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:21:58,214 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 19:22:02,974 INFO  [Log] #### Executing Test case: FP_Order_Upload; Description: Blank In Firefox Browser for TestData:1 
+2017-10-31 19:22:14,643 INFO  [Log] TS_01: Open url; Action: open URL 
+2017-10-31 19:22:50,317 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 19:23:26,066 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 19:24:01,719 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 19:24:37,319 INFO  [Log] TS_05: Click on login button 
+2017-10-31 19:25:12,790 INFO  [Log] TC_1: Click Order Upload link 
+2017-10-31 19:25:12,790 INFO  [Log] TC_2; Waited 1000 Milli seconds for Element 
+2017-10-31 19:25:49,136 INFO  [Log] TC_3; Passed; Verifying whether the button is present on the page.; Value: blank order template; Present in Page values: Blank Order Template,  
+2017-10-31 19:26:24,640 INFO  [Log] TC_4: Clickng on blank order template to see whether the blank csv file is getting downloaded. 
+2017-10-31 19:26:24,641 INFO  [Log] TC_5; Waited 1000 Milli seconds for Element 
+2017-10-31 19:27:01,051 INFO  [Log] TC_6; Passed; Verifying whether the top 100 button is present on the page.; Value: top 100 parts template; Present in Page values: Top 100 Parts Template,  
+2017-10-31 19:27:36,592 INFO  [Log] TC_7: Clicking on the Top 100 button. 
+2017-10-31 19:27:36,592 INFO  [Log] TC_8; Waited 1000 Milli seconds for Element 
+2017-10-31 19:28:12,890 INFO  [Log] TC_9; Passed; Verifying whether the Upload order button is present on the page.; Value: upload order; Present in Page values: Upload Order,  
+2017-10-31 19:28:48,131 INFO  [Log] TC_10: Click on "Top 100 Parts Template" button 
+2017-10-31 19:28:48,131 INFO  [Log] TC_11; Waited 5000 Milli seconds for Element 
+2017-10-31 19:28:53,132 INFO  [Log] TC_11; Waited 5000 Milli seconds for Element 
+2017-10-31 19:29:28,543 INFO  [Log] TC_13: Click on "Blank Order Template" button 
+2017-10-31 19:29:28,543 INFO  [Log] TC_14; Waited 5000 Milli seconds for Element 
+2017-10-31 19:29:33,544 INFO  [Log] TC_15; Passed;  file   downloaded C:\Users\amit.singh\Downloads\template (1).csv 
+2017-10-31 19:29:38,550 INFO  [Log] closing test case  
+2017-10-31 19:29:38,981 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:29:39,011 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:29:39,041 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:29:39,051 INFO  [Log] ### Test case: FP_Order_Upload; Description: Blank; status Executed 
+2017-10-31 19:29:39,231 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:29:39,271 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:29:39,301 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:29:39,301 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 19:29:49,063 INFO  [Log] #### Executing Test case: FP_Order_Upload; Description: Blank In IE Browser for TestData:1 
+2017-10-31 19:30:43,685 INFO  [Log] TS_02: Click on the login link 
+2017-10-31 19:31:24,241 INFO  [Log] TS_03: Enter username; Action: Submited ValueValue: User@avionos.com 
+2017-10-31 19:32:04,705 INFO  [Log] TS_04: Enter Password; Action: Submited ValueValue: Testing12 
+2017-10-31 19:32:44,809 INFO  [Log] TS_05: Click on login button 
+2017-10-31 19:33:24,918 INFO  [Log] TC_1: Click Order Upload link 
+2017-10-31 19:33:24,918 INFO  [Log] TC_2; Waited 1000 Milli seconds for Element 
+2017-10-31 19:34:06,705 INFO  [Log] TC_3; Passed; Verifying whether the button is present on the page.; Value: blank order template; Present in Page values: Blank Order Template,  
+2017-10-31 19:34:47,441 INFO  [Log] TC_4: Clickng on blank order template to see whether the blank csv file is getting downloaded. 
+2017-10-31 19:34:47,441 INFO  [Log] TC_5; Waited 1000 Milli seconds for Element 
+2017-10-31 19:35:29,191 INFO  [Log] TC_6; Passed; Verifying whether the top 100 button is present on the page.; Value: top 100 parts template; Present in Page values: Top 100 Parts Template,  
+2017-10-31 19:36:09,430 INFO  [Log] TC_7: Clicking on the Top 100 button. 
+2017-10-31 19:36:09,430 INFO  [Log] TC_8; Waited 1000 Milli seconds for Element 
+2017-10-31 19:36:50,889 INFO  [Log] TC_9; Passed; Verifying whether the Upload order button is present on the page.; Value: upload order; Present in Page values: Upload Order,  
+2017-10-31 19:37:31,242 INFO  [Log] TC_10: Click on "Top 100 Parts Template" button 
+2017-10-31 19:37:31,242 INFO  [Log] TC_11; Waited 5000 Milli seconds for Element 
+2017-10-31 19:37:36,248 INFO  [Log] TC_11; Waited 5000 Milli seconds for Element 
+2017-10-31 19:38:16,644 INFO  [Log] TC_13: Click on "Blank Order Template" button 
+2017-10-31 19:38:16,644 INFO  [Log] TC_14; Waited 5000 Milli seconds for Element 
+2017-10-31 19:38:21,648 INFO  [Log] TC_15; Passed;  file   downloaded C:\Users\amit.singh\Downloads\template (1).csv 
+2017-10-31 19:38:26,651 INFO  [Log] closing test case  
+2017-10-31 19:38:26,982 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:38:27,022 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:38:27,062 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:38:27,062 INFO  [Log] ### Test case: FP_Order_Upload; Description: Blank; status Executed 
+2017-10-31 19:38:27,252 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-10-31 19:38:27,282 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-10-31 19:38:27,322 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-10-31 19:38:27,322 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 19:38:27,322 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 19:38:27,352 INFO  [Log] ####Closing Test Suite #### 
+2017-10-31 19:38:27,352 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-31 19:38:27,352 INFO  [Log] Creating Logs backup and storing for further reference 
